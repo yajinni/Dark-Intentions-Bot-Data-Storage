@@ -1,0 +1,189 @@
+# Bootibrew - Mistweaver - 2026-04-22 18:24 - US/Area 52
+# SimC Addon 12.0.5-01
+# WoW 12.0.5.67088, TOC 120005
+# Requires SimulationCraft 1000-01 or newer
+
+monk="Bootibrew"
+level=90
+race=vulpera
+region=us
+server=area_52
+role=attack
+professions=leatherworking=38/skinning=100
+spec=mistweaver
+# loot_spec=mistweaver
+
+talents=C4QAi6cZM+HWADeySjzG9Lwx8DAAAAAAAAMWmZZML2mxMjNjtltZMzmZ22WmZswMaGzAGMYMLzMzMMbYGmlZCAAAAgAsYbmlZbmBEAAAYGwYgFZMDA
+
+# Saved Loadout: Mythic Imperator
+# talents=C4QAi6cZM+HWADeySjzG9Lwx8DAAAAAAAghx2MwmFzYmZZGbYmZYmlttZGLMDzYGwgBjZZmZmhZbwgFDAAAAAAYxyMLz2MDAAMgBYGwYYsgxMA
+# Saved Loadout: Mythic Chim
+# talents=C4QAi6cZM+HWADeySjzG9Lwx8DAAAAAAAghx2MwmFzYmZZGbYmZYmlttZGLMDzYGwgBjZZmZmhZbwgFDAAAAAAYxyMLz2MDAAMgBYGwYYsgxMA
+# Saved Loadout: M+
+# talents=C4QAi6cZM+HWADeySjzG9Lwx8DAAAAAAAAMWmZZYxmxMjNstsNjZYmttlZGLMDzYGwgBjZZmZmhZDzwsMDAAAAAAYx2MLz2MDAAAMAzAGDsgxMA
+# Saved Loadout: Dragon Raid
+# talents=C4QAi6cZM+HWADeySjzG9Lwx8DAAAAAAAghx2MwmFzYmZbGbYmZYmltlZGLMDzYGwgBjZZmZmhZbwgFDAAAAAAYxyMLz2MDAAMgBYGwYYsgxMA
+# Saved Loadout: No Apex
+# talents=C4QAi6cZM+HWADeySjzG9Lwx8DAAAAAAAAMWmZZML2mxMjNjtltZMzmZ22WmZswMMjZADGMmlZmZGmNMDzyMAAAAAAgFbzsMbzMAAAAgZAjBWwYGA
+# Saved Loadout: Mythic Vor
+# talents=C4QAi6cZM+HWADeySjzG9Lwx8DAAAAAAAghx2MwmFzYmZZGbYmZYmlttZGLMDzYGwgBjZZmZmhZbwgFDAAAAAAYxyMLz2MDAAMgBYGwYYsgxMA
+# Saved Loadout: Raid
+# talents=C4QAi6cZM+HWADeySjzG9Lwx8DAAAAAAAghx2MwmFzYmZbGbYmZYmltlZGLMDzYGwgBjZZmZmhZbwgFDAAAAAAYxyMLz2MDAAMgBYGwYYsgxMA
+
+# Fearsome Visage of Ra-den's Chosen (289)
+head=,id=250015,enchant_id=7961,bonus_id=6652/12667/13440/13338/13575/12806
+# Barbed Ymirheim Choker (276)
+neck=,id=50228,gem_id=240983,bonus_id=13440/6652/13668/12699/12798
+# Aurastones of Ra-den's Chosen (289)
+shoulder=,id=250013,enchant_id=8031,bonus_id=13340/13440/6652/13574/12806
+# Windwrap of Ra-den's Chosen (276)
+back=,id=250010,bonus_id=6652/13440/12798
+# Battle Garb of Ra-den's Chosen (276)
+chest=,id=250018,bonus_id=6652/13440/13336/13575/12798
+# Bilgewater Cartel Tabard (1)
+tabard=,id=64884
+# Void-Skinned Bracers (276)
+wrist=,id=249327,gem_id=240890,bonus_id=6652/13534/13577/13334/12798
+# Thunderfists of Ra-den's Chosen (272)
+hands=,id=250016,bonus_id=13337/12801/13440/6652/13574
+# Scorn-Scarred Shul'ka's Belt (289)
+waist=,id=249374,bonus_id=6652/12667/13577/13335/12806
+# Legwraps of Lingering Legacies (276)
+legs=,id=251087,enchant_id=7937,bonus_id=13440/42/13577/12699/12798
+# Silvermoon Agent's Sneakers (285)
+feet=,id=244569,enchant_id=7993,bonus_id=12214/12497/12066/8960/12384/8790/13622,crafted_stats=36/40,crafting_quality=5
+# Masterwork Sin'dorei Band (285)
+finger1=,id=240949,enchant_id=8025,gem_id=240890,bonus_id=12214/12497/12066/12715/8790/13622,crafted_stats=32/36,crafting_quality=5
+# Occlusion of Void (276)
+finger2=,id=251217,enchant_id=8025,gem_id=240890,bonus_id=13440/6652/13668/12699/12798
+# Litany of Lightblind Wrath (276)
+trinket1=,id=249808,bonus_id=40/13334/12798
+# Gaze of the Alnseer (276)
+trinket2=,id=249343,bonus_id=6652/13334/12798
+# Aln'hara Cane (285)
+main_hand=,id=245770,enchant_id=8039,bonus_id=12214/12497/12066/13640/8960/8790/13622,crafted_stats=32/49,crafting_quality=5
+
+### Gear from Bags
+#
+# Crown of the Fractured Tyrant (250)
+# head=,id=249316,bonus_id=6652/12667/13577/13333/12786/11215
+#
+# Osseoclad Saberteeth (250)
+# head=,id=249640,bonus_id=12786/43/12667/13577
+#
+# Barbed Ymirheim Choker (266)
+# neck=,id=50228,bonus_id=12795/13440/6652/13668/12699
+#
+# Blooming Barklight Spaulders (253)
+# shoulder=,id=249333,bonus_id=6652/13577/13333/12787
+#
+# Defiant Defender's Drape (276)
+# back=,id=260312,bonus_id=13440/6652/13577/12699/12798
+#
+# Imperator's Banner (246)
+# back=,id=249335,bonus_id=6652/13577/13333/12785/11215
+#
+# Cloak of the Fallen Cardinal (259)
+# back=,id=49823,bonus_id=12793/13440/6652/13577/12699
+#
+# Reshii Wraps (170)
+# back=,id=235499,enchant_id=7409,gem_id=238045,bonus_id=12401/9893/12258
+#
+# Wretched Scholar's Gilded Robe (253)
+# chest=,id=250456,bonus_id=6652/13577/13333/12787
+#
+# Battle Garb of Ra-den's Chosen (263)
+# chest=,id=250018,enchant_id=7986,bonus_id=6652/13336/13575/12790
+#
+# Strikeguards of Ra-den's Chosen (276)
+# wrist=,id=250011,bonus_id=6652/13534/12798/13440/3161
+#
+# Ezzorak's Gloombind (266)
+# waist=,id=249331,bonus_id=6652/12667/13577/13334/12795
+#
+# Ezzorak's Gloombind (253)
+# waist=,id=249331,bonus_id=6652/12667/13577/13333/12787/11215
+#
+# Swiftsweepers of Ra-den's Chosen (276)
+# legs=,id=250014,enchant_id=7935,bonus_id=6652/12798/13440/13339/13575/3161
+#
+# Swiftsweepers of Ra-den's Chosen (279)
+# legs=,id=250014,enchant_id=7937,bonus_id=13339/13440/6652/13575/12803
+#
+# Shaggy Wyrmleather Leggings (266)
+# legs=,id=49817,bonus_id=12795/13440/6652/13577/12699
+#
+# Nightblade's Pantaloons (269)
+# legs=,id=249312,bonus_id=6652/13577/13334/12796
+#
+# Osseoclad Bonecrushers (237)
+# feet=,id=249638,bonus_id=12778/6652/11215/13577
+#
+# Storm Crashers of Ra-den's Chosen (276)
+# feet=,id=250017,bonus_id=6652/13440/12798
+#
+# Blooming Leafcoil (250)
+# finger1=,id=249623,enchant_id=8024,gem_id=240889,bonus_id=12786/6652/13668
+#
+# Miniature Roulette Wheel (102)
+# finger1=,id=228843,bonus_id=6652/10395/10392/10355/11987/12166/1504/10255,crafted_stats=32/49
+#
+# Cyrce's Circlet (103)
+# finger1=,id=228411,enchant_id=7340,gem_id=228638/228644/228643,bonus_id=12028/1511
+#
+# Gleaming Copper Band (246)
+# finger1=,id=240947,enchant_id=8025,gem_id=240889,bonus_id=12249/12248/4785/12497/8790/13620,crafted_stats=40/36,crafting_quality=5
+#
+# Volatile Void Suffuser (263)
+# trinket1=,id=249341,bonus_id=6652/13333/12790
+#
+# Forgotten Farstrider's Insignia (253)
+# trinket1=,id=250462,bonus_id=6652/13333/12787,crafted_stats=32
+#
+# Heart of Wind (276)
+# trinket1=,id=250256,bonus_id=13440/42/12699/12798
+#
+# Consecrated Chalice (259)
+# trinket1=,id=251789,bonus_id=12793/6652
+#
+# Holy Retributor's Order (220)
+# trinket1=,id=251791,bonus_id=6652/12769/11311
+#
+# Crucible of Erratic Energies (263)
+# trinket1=,id=264507,bonus_id=12790
+#
+# Alnscorned Spire (263)
+# main_hand=,id=249278,bonus_id=6652/13334/12794
+#
+# Blooming Seedpod (250)
+# main_hand=,id=249665,bonus_id=12786/6652
+#
+# Obsidian Goaltending Spire (276)
+# main_hand=,id=193723,bonus_id=13440/6652/12701/12798
+#
+# Lumenbloom Scepter (233)
+# main_hand=,id=257014,bonus_id=12777/6652
+#
+# Tormentor's Bladed Fists (263)
+# main_hand=,id=249298,bonus_id=6652/13334/12794
+#
+# Arcanic of the High Sage (266)
+# main_hand=,id=258050,bonus_id=12795/13440/6652/12701
+#
+# Rukhran's Solar Reliquary (266)
+# off_hand=,id=258472,bonus_id=12795/13440/6652/12699
+#
+# Grimoire of the Eternal Light (285)
+# off_hand=,id=249276,bonus_id=6652/13335/12805
+
+### Additional Character Info
+#
+# catalyst_currencies=3269:8/3378:5/2813:8/3116:8
+#
+# upgrade_currencies=c:3347:18/c:3383:276/c:3341:20/c:3343:310/c:2122:5/c:3345:140/i:232875:1
+#
+# slot_high_watermarks=0:289:289/1:276:276/2:289:289/3:276:276/4:289:289/5:279:279/6:285:285/7:276:276/8:272:272/9:276:276/10:276:276/11:276:276/12:285:285/13:266:266/14:263:263/15:145:165/16:285:285
+#
+# upgrade_achievements=19326/19397/19577/19578/19579/40107/40115/40942/40943/40944/40945/41886/41887/41888/42767/42768/61809
+
+# Checksum: d6a91023
