@@ -1,0 +1,4086 @@
+﻿[
+  {
+    "name": "Invisibility",
+    "id": 66,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Frostbolt",
+    "id": 116,
+    "gcd": 1.5,
+    "castTime": 1.75
+  },
+  {
+    "name": "Cone of Cold",
+    "id": 120,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Frost Nova",
+    "id": 122,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Fireball",
+    "id": 133,
+    "gcd": 1.5,
+    "castTime": 1.75
+  },
+  {
+    "name": "Remove Curse",
+    "id": 475,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Explosion",
+    "id": 1449,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Intellect",
+    "id": 1459,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Blink",
+    "id": 1953,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Flamestrike",
+    "id": 2120,
+    "gcd": 1.5,
+    "castTime": 3.5
+  },
+  {
+    "name": "Counterspell",
+    "id": 2139,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Scorch",
+    "id": 2948,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Shoot",
+    "id": 5019,
+    "gcd": 1.5,
+    "castTime": 0.5
+  },
+  {
+    "name": "Arcane Missiles",
+    "id": 5143,
+    "gcd": 1.5,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 2.5
+  },
+  {
+    "name": "Arcane Missiles",
+    "id": 7268,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pyroblast",
+    "id": 11366,
+    "gcd": 1.5,
+    "castTime": 4
+  },
+  {
+    "name": "Ice Barrier",
+    "id": 11426,
+    "gcd": 0.75,
+    "castTime": 0
+  },
+  {
+    "name": "Evocation",
+    "id": 12051,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Blizzard",
+    "id": 12486,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ignite",
+    "id": 12654,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mastery: Ignite",
+    "id": 12846,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spellsteal",
+    "id": 30449,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Blast",
+    "id": 30451,
+    "gcd": 1.5,
+    "castTime": 2.25
+  },
+  {
+    "name": "Ice Lance",
+    "id": 30455,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Dragon's Breath",
+    "id": 31661,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Water Elemental",
+    "id": 31687,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Waterbolt",
+    "id": 31707,
+    "gcd": 1,
+    "castTime": 2.5
+  },
+  {
+    "name": "Invisibility",
+    "id": 32612,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Freeze",
+    "id": 33395,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Charge",
+    "id": 36032,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hypothermia",
+    "id": 41425,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Barrage",
+    "id": 44425,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Pyroblast Clearcasting Driver",
+    "id": 44448,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Living Bomb",
+    "id": 44457,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Living Bomb",
+    "id": 44461,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fingers of Frost",
+    "id": 44544,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flurry",
+    "id": 44614,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Ice Block",
+    "id": 45438,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Heating Up",
+    "id": 48107,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hot Streak!",
+    "id": 48108,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Splitting Ice",
+    "id": 56377,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glyph of Crittermorph",
+    "id": 56382,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Momentum",
+    "id": 56384,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crittermorph",
+    "id": 56599,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Frostbolt",
+    "id": 59638,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Mastery: Icicles",
+    "id": 76613,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Clearcasting",
+    "id": 79684,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Time Warp",
+    "id": 80353,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Temporal Displacement",
+    "id": 80354,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ring of Frost",
+    "id": 82691,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frozen Orb",
+    "id": 84714,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Frozen Orb",
+    "id": 84721,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cauterize",
+    "id": 86949,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cauterize",
+    "id": 87023,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cauterized",
+    "id": 87024,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Invisibility Speed",
+    "id": 87833,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fireball",
+    "id": 88082,
+    "gcd": 1.5,
+    "castTime": 2.5
+  },
+  {
+    "name": "Arcane Blast",
+    "id": 88084,
+    "gcd": 1.5,
+    "castTime": 2.5
+  },
+  {
+    "name": "Wizardry (desc=Passive)",
+    "id": 89744,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blazing Speed",
+    "id": 108843,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fire Blast",
+    "id": 108853,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Alter Time",
+    "id": 108978,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Alter Time",
+    "id": 110909,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Greater Invisibility",
+    "id": 110959,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Greater Invisibility",
+    "id": 110960,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fingers of Frost",
+    "id": 112965,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ring of Frost",
+    "id": 113724,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Greater Invisibility",
+    "id": 113862,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nether Tempest",
+    "id": 114923,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Nether Tempest",
+    "id": 114954,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Critical Mass",
+    "id": 117216,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blink",
+    "id": 119415,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mana Attunement (desc=Passive)",
+    "id": 121039,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Greater Invisibility",
+    "id": 122293,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fingers of Frost",
+    "id": 126084,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Conjure Familiar (desc=Glyph)",
+    "id": 126578,
+    "gcd": 1.5,
+    "castTime": 3
+  },
+  {
+    "name": "Alter Time",
+    "id": 127140,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Illusion",
+    "id": 131784,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Water Jet",
+    "id": 135029,
+    "gcd": 0,
+    "castTime": 1,
+    "isChanneled": true,
+    "channelTime": 4
+  },
+  {
+    "name": "Ring of Frost",
+    "id": 136511,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage",
+    "id": 137018,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fire Mage",
+    "id": 137019,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frost Mage",
+    "id": 137020,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Mage",
+    "id": 137021,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ring of Frost",
+    "id": 140376,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Ring of Frost",
+    "id": 140384,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glyph of Evaporation (desc=Frost)",
+    "id": 146662,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glyph of the Unbound Elemental (desc=Frost)",
+    "id": 146976,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unbound Elemental",
+    "id": 147970,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Evaporation",
+    "id": 147971,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Icicle",
+    "id": 148022,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meteor",
+    "id": 153561,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Meteor",
+    "id": 153564,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Comet Storm",
+    "id": 153595,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Comet Storm",
+    "id": 153596,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Orb",
+    "id": 153626,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Orb",
+    "id": 153640,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meteor Burn",
+    "id": 155158,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pyrotechnics",
+    "id": 157642,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pyrotechnics",
+    "id": 157644,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unstable Magic",
+    "id": 157976,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unstable Magic",
+    "id": 157977,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unstable Magic",
+    "id": 157978,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unstable Magic",
+    "id": 157979,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Supernova",
+    "id": 157980,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Blast Wave",
+    "id": 157981,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Ice Nova",
+    "id": 157997,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Refreshment",
+    "id": 167152,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meteor Burn",
+    "id": 175396,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meteor",
+    "id": 177345,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Combustion",
+    "id": 190319,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Conjure Refreshment",
+    "id": 190336,
+    "gcd": 1.5,
+    "castTime": 3
+  },
+  {
+    "name": "Blizzard",
+    "id": 190356,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Blizzard",
+    "id": 190357,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Charge",
+    "id": 190427,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Brain Freeze",
+    "id": 190446,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Brain Freeze",
+    "id": 190447,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mastery: Savant",
+    "id": 190740,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hot Streak",
+    "id": 195283,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Charge",
+    "id": 195302,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Netherwind Armor (desc=PvP Talent)",
+    "id": 198062,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Kleptomania (desc=PvP Talent)",
+    "id": 198100,
+    "gcd": 1.5,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 4
+  },
+  {
+    "name": "Ice Form (desc=PvP Talent)",
+    "id": 198144,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crushing Jets (desc=PvP Talent)",
+    "id": 198146,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glacial Spike",
+    "id": 199786,
+    "gcd": 1.5,
+    "castTime": 1.75
+  },
+  {
+    "name": "Glacial Spike!",
+    "id": 199844,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flame Accelerant",
+    "id": 203275,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flame Accelerant",
+    "id": 203277,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flame Accelerant",
+    "id": 203278,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ray of Frost",
+    "id": 205021,
+    "gcd": 1.5,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 4
+  },
+  {
+    "name": "Arcane Familiar",
+    "id": 205022,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lonely Winter",
+    "id": 205024,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Presence of Mind",
+    "id": 205025,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Firestarter",
+    "id": 205026,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Resonance",
+    "id": 205028,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flame On",
+    "id": 205029,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frozen Touch",
+    "id": 205030,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ice Ward",
+    "id": 205036,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flame Patch",
+    "id": 205037,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flame Patch",
+    "id": 205470,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flame Patch",
+    "id": 205472,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Icicles",
+    "id": 205473,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chilled",
+    "id": 205708,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ray of Frost",
+    "id": 208141,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Linguist",
+    "id": 210086,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Familiar",
+    "id": 210126,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Touch of the Magi",
+    "id": 210725,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crashing Storm",
+    "id": 210797,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Touch of the Magi",
+    "id": 210824,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Touch of the Magi",
+    "id": 210833,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vengeance Demon Hunter",
+    "id": 212613,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shimmer",
+    "id": 212653,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dalaran Brilliance",
+    "id": 212660,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glacial Spike",
+    "id": 214325,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ebonbolt (desc=Artifact)",
+    "id": 214634,
+    "gcd": 1.5,
+    "castTime": 3
+  },
+  {
+    "name": "Living Bomb",
+    "id": 217694,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Assault",
+    "id": 225119,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flurry",
+    "id": 228354,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Winter's Chill",
+    "id": 228358,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flurry",
+    "id": 228596,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostbolt",
+    "id": 228597,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ice Lance",
+    "id": 228598,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Ebonbolt (desc=Artifact)",
+    "id": 228599,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glacial Spike",
+    "id": 228600,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Comet Storm",
+    "id": 228601,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcing Cleave",
+    "id": 231564,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fire Blast (desc=Rank 2)",
+    "id": 231568,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cold Snap",
+    "id": 235219,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frost Nova",
+    "id": 235235,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glacial Insulation",
+    "id": 235297,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blazing Barrier",
+    "id": 235313,
+    "gcd": 0.75,
+    "castTime": 0
+  },
+  {
+    "name": "Blazing Barrier",
+    "id": 235314,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Prismatic Barrier",
+    "id": 235450,
+    "gcd": 0.75,
+    "castTime": 0
+  },
+  {
+    "name": "Alexstrasza's Fury",
+    "id": 235870,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pyrotex Ignition Cloth",
+    "id": 235940,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Slipstream",
+    "id": 236457,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Amplification",
+    "id": 236628,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Time and Space",
+    "id": 240689,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Living Bomb",
+    "id": 244813,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ebonbolt",
+    "id": 257538,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Clearcasting",
+    "id": 263725,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rule of Threes",
+    "id": 264354,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rule of Threes",
+    "id": 264774,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blast Wave",
+    "id": 268467,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blast Wave",
+    "id": 268473,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blast Wave",
+    "id": 268474,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blast Wave",
+    "id": 268475,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pyroclasm",
+    "id": 269650,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pyroclasm",
+    "id": 269651,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ray of Frost",
+    "id": 269748,
+    "gcd": 0,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 4
+  },
+  {
+    "name": "Freezing Rain",
+    "id": 270233,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Clearcasting (desc=PvP Talent)",
+    "id": 276743,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Clearcasting",
+    "id": 277726,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reverberate",
+    "id": 281482,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frozen Orb",
+    "id": 289308,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dalaran Brilliance",
+    "id": 292848,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dalaran Brilliance",
+    "id": 292849,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Radiant Spark (desc=Kyrian)",
+    "id": 307443,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Radiant Spark Vulnerability",
+    "id": 307454,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shifting Power (desc=Night Fae)",
+    "id": 314791,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Mirrors of Torment (desc=Venthyr)",
+    "id": 314793,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Tormenting Backlash",
+    "id": 317589,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fire Blast",
+    "id": 319836,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Agonizing Backlash",
+    "id": 320035,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ring of Frost",
+    "id": 321329,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Enlightened",
+    "id": 321387,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Enlightened",
+    "id": 321388,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Enlightened",
+    "id": 321390,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Clearcasting",
+    "id": 321420,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Touch of the Magi",
+    "id": 321507,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mana Adept",
+    "id": 321526,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Barrage",
+    "id": 321529,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mastery: Icicles (desc=Rank 2)",
+    "id": 321684,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Blazing Barrier",
+    "id": 321708,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pyroblast (desc=Rank 2)",
+    "id": 321711,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pyroblast",
+    "id": 321712,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Prismatic Barrier",
+    "id": 321745,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Deathborne (desc=Necrolord)",
+    "id": 324220,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Shifting Power (desc=Night Fae)",
+    "id": 325130,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Temporal Warp",
+    "id": 327355,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Alexstrasza's Fury",
+    "id": 334277,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nether Precision",
+    "id": 336886,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nether Precision",
+    "id": 336889,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Siphoned Malice",
+    "id": 337087,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Siphoned Malice",
+    "id": 337090,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flame Accretion",
+    "id": 337224,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Incantation of Swiftness",
+    "id": 337275,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Incantation of Swiftness",
+    "id": 337278,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Echo",
+    "id": 342231,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Echo",
+    "id": 342232,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Alter Time",
+    "id": 342245,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Alter Time",
+    "id": 342246,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Alter Time",
+    "id": 342247,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Master of Time",
+    "id": 342249,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "From the Ashes",
+    "id": 342344,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Teleport",
+    "id": 343127,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Portal",
+    "id": 343140,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Frost Nova",
+    "id": 343183,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mote of Flame",
+    "id": 343230,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mirrors of Torment",
+    "id": 345417,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mirrors of Torment",
+    "id": 345977,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meteor",
+    "id": 351140,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ice Wall (desc=PvP Talent)",
+    "id": 352278,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Timebreaker's Paradox",
+    "id": 356346,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Surge",
+    "id": 365265,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Surge",
+    "id": 365350,
+    "gcd": 1.5,
+    "castTime": 2.5
+  },
+  {
+    "name": "Arcane Surge",
+    "id": 365362,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Time Spiral",
+    "id": 375240,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wintertide",
+    "id": 378406,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fractured Frost",
+    "id": 378448,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Piercing Cold",
+    "id": 378919,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glacial Assault",
+    "id": 378947,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glacial Assault",
+    "id": 379024,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glacial Assault",
+    "id": 379029,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Splintering Cold",
+    "id": 379049,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flash Freeze",
+    "id": 379993,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flash Freeze",
+    "id": 379994,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hailstones",
+    "id": 381244,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cold Front",
+    "id": 382110,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cold Front",
+    "id": 382113,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cold Front",
+    "id": 382114,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flow of Time",
+    "id": 382268,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tempest Barrier",
+    "id": 382289,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tempest Barrier",
+    "id": 382290,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cryo-Freeze",
+    "id": 382292,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Incantation of Swiftness",
+    "id": 382293,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Incantation of Swiftness",
+    "id": 382294,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Quick Witted",
+    "id": 382297,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Winter's Protection",
+    "id": 382424,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tome of Antonidas",
+    "id": 382490,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tome of Rhonin",
+    "id": 382493,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Warding",
+    "id": 383092,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mass Polymorph",
+    "id": 383121,
+    "gcd": 1.5,
+    "castTime": 1.7
+  },
+  {
+    "name": "Feel the Burn",
+    "id": 383391,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feel the Burn",
+    "id": 383395,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fiery Rush",
+    "id": 383634,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fiery Rush",
+    "id": 383637,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Controlled Destruction",
+    "id": 383669,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Impetus",
+    "id": 383676,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Impetus",
+    "id": 383677,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nether Precision",
+    "id": 383782,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nether Precision",
+    "id": 383783,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fevered Incantation",
+    "id": 383810,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fevered Incantation",
+    "id": 383811,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hyperthermia",
+    "id": 383860,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hyperthermia",
+    "id": 383874,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sun King's Blessing",
+    "id": 383882,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fury of the Sun King",
+    "id": 383883,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sun King's Blessing",
+    "id": 383886,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Slow Burn",
+    "id": 383967,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Tempo",
+    "id": 383980,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Tempo",
+    "id": 383997,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Firefall",
+    "id": 384033,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Firefall",
+    "id": 384035,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Firefall",
+    "id": 384038,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Illuminated Thoughts",
+    "id": 384060,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Master of Flame",
+    "id": 384174,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Salvo",
+    "id": 384452,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Harmony",
+    "id": 384455,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Prodigious Savant",
+    "id": 384612,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Charged Orb",
+    "id": 384651,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Orb Barrage",
+    "id": 384858,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Orb Barrage",
+    "id": 384859,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Orb Barrage",
+    "id": 384860,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Everlasting Frost",
+    "id": 385167,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Temporal Warp",
+    "id": 386540,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Freezing Cold",
+    "id": 386763,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Freezing Cold",
+    "id": 386770,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Energized Barriers",
+    "id": 386827,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Energized Barriers",
+    "id": 386828,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fervent Flickering",
+    "id": 387044,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Time Manipulation",
+    "id": 387807,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blast Wave",
+    "id": 389631,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reflection",
+    "id": 389713,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reflection",
+    "id": 389714,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Overflowing Energy",
+    "id": 390218,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demon Hunter Havoc Class Set 4pc",
+    "id": 393629,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Impetus",
+    "id": 393939,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Overflowing Energy",
+    "id": 394195,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Freezing Cold",
+    "id": 394255,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Seething Chaos",
+    "id": 394934,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Arcane 10.1 Class Set 2pc",
+    "id": 405532,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Arcane 10.1 Class Set 4pc",
+    "id": 405533,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Fire 10.1 Class Set 2pc",
+    "id": 405534,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Fire 10.1 Class Set 4pc",
+    "id": 405535,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Frost 10.1 Class Set 2pc",
+    "id": 405536,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Frost 10.1 Class Set 4pc",
+    "id": 405538,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Charring Embers",
+    "id": 408665,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Calefaction",
+    "id": 408673,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Calefaction",
+    "id": 408674,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shattered Ice",
+    "id": 408763,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Overload",
+    "id": 409022,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flame's Fury",
+    "id": 409964,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Concentrated Power",
+    "id": 414379,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Explosion",
+    "id": 414381,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Displacement",
+    "id": 414462,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ice Cold",
+    "id": 414658,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ice Cold",
+    "id": 414659,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mass Invisibility",
+    "id": 414664,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Mass Invisibility (desc=PvP Talent)",
+    "id": 415945,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fuel the Fire",
+    "id": 416094,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Intensifying Flame",
+    "id": 416714,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blast Zone",
+    "id": 416719,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Inflame",
+    "id": 417467,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Winter's Blessing",
+    "id": 417489,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Numbing Blast",
+    "id": 417490,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Coldest Snap",
+    "id": 417493,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Splintering Ray",
+    "id": 418733,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Splintering Ray",
+    "id": 418735,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Intensifying Flame",
+    "id": 419800,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meteor",
+    "id": 420218,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meteor Burn",
+    "id": 420220,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Arcane 10.2 Class Set 2pc",
+    "id": 422880,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Arcane 10.2 Class Set 4pc",
+    "id": 422881,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Fire 10.2 Class Set 2pc",
+    "id": 422882,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Fire 10.2 Class Set 4pc",
+    "id": 422883,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Frost 10.2 Class Set 2pc",
+    "id": 422884,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Frost 10.2 Class Set 4pc",
+    "id": 422885,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glacial Blast",
+    "id": 424120,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Searing Rage",
+    "id": 424285,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Fire 10.2 Class Set 4pc",
+    "id": 424289,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Forethought",
+    "id": 424293,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Artillery",
+    "id": 424331,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Battery",
+    "id": 424334,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostfire Bolt",
+    "id": 431044,
+    "gcd": 1.5,
+    "castTime": 1.75
+  },
+  {
+    "name": "Imbued Warding",
+    "id": 431066,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elemental Affinity",
+    "id": 431067,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Isothermic Core",
+    "id": 431095,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flame and Frost",
+    "id": 431112,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thermal Conditioning",
+    "id": 431117,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meltdown",
+    "id": 431131,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostfire Infusion",
+    "id": 431166,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostfire Infusion",
+    "id": 431171,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostfire Empowerment",
+    "id": 431176,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostfire Empowerment",
+    "id": 431177,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flash Freezeburn",
+    "id": 431178,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostfire Empowerment",
+    "id": 431186,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Severe Temperatures",
+    "id": 431189,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Severe Temperatures",
+    "id": 431190,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meteor",
+    "id": 438607,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meteor",
+    "id": 438608,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Comet Storm",
+    "id": 438609,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Living Bomb",
+    "id": 438671,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Living Bomb",
+    "id": 438672,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Living Bomb",
+    "id": 438673,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Living Bomb",
+    "id": 438674,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frost Splinter",
+    "id": 443722,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Splintering Sorcery",
+    "id": 443739,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Splinter",
+    "id": 443763,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Splinterstorm",
+    "id": 443783,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Splintering Orbs",
+    "id": 444256,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Controlled Instincts",
+    "id": 444483,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Controlled Instincts",
+    "id": 444487,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shifting Shards",
+    "id": 444675,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Force of Will",
+    "id": 444719,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Controlled Instincts",
+    "id": 444720,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Slippery Slinging",
+    "id": 444752,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Slippery Slinging",
+    "id": 444754,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Look Again",
+    "id": 444756,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Phantasmal Image",
+    "id": 444784,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reactive Barrier",
+    "id": 444827,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Volatile Magic",
+    "id": 444966,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Volatile Magic",
+    "id": 444967,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Archmage's Wrath",
+    "id": 444968,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spellfrost Teachings",
+    "id": 444986,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spellfire Spheres",
+    "id": 448601,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spellfire Sphere",
+    "id": 448604,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Invocation: Arcane Phoenix",
+    "id": 448658,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Phoenix",
+    "id": 448659,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mana Cascade",
+    "id": 449293,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mana Cascade",
+    "id": 449314,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mana Cascade",
+    "id": 449322,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Merely a Setback",
+    "id": 449330,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Merely a Setback",
+    "id": 449336,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sunfury Execution",
+    "id": 449349,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Codex of the Sunstriders",
+    "id": 449382,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glorious Incandescence",
+    "id": 449394,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spellfire Spheres",
+    "id": 449400,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Savor the Moment",
+    "id": 449412,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meteorite",
+    "id": 449559,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meteorite",
+    "id": 449560,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meteorite Burn",
+    "id": 449561,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meteorite",
+    "id": 449562,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meteorite Burn",
+    "id": 449566,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meteorite",
+    "id": 449569,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rondurmancy",
+    "id": 449596,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Memory of Al'ar",
+    "id": 449619,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lessons in Debilitation",
+    "id": 449627,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Greater Pyroblast",
+    "id": 450421,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pyroblast",
+    "id": 450461,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flamestrike",
+    "id": 450462,
+    "gcd": 1.5,
+    "castTime": 3.5
+  },
+  {
+    "name": "Arcane Barrage",
+    "id": 450499,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Scald",
+    "id": 450746,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fire's Ire",
+    "id": 450831,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Burden of Power",
+    "id": 451035,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Soul",
+    "id": 451038,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Burden of Power",
+    "id": 451049,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glorious Incandescence",
+    "id": 451073,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glorious Incandescence",
+    "id": 451223,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pyromaniac",
+    "id": 451466,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spontaneous Combustion",
+    "id": 451875,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Eureka",
+    "id": 452198,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Energized Familiar",
+    "id": 452997,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Charring Embers",
+    "id": 453122,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Living Bomb",
+    "id": 453251,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Controlled Destruction",
+    "id": 453268,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flame Accelerant",
+    "id": 453282,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flame Accelerant",
+    "id": 453283,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Surge",
+    "id": 453326,
+    "gcd": 0,
+    "castTime": 2.5
+  },
+  {
+    "name": "Fire's Ire",
+    "id": 453385,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Soul",
+    "id": 453413,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Debilitation",
+    "id": 453599,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Aether Attunement",
+    "id": 453601,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Frost 11.0 Class Set 2pc",
+    "id": 453719,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Frost 11.0 Class Set 4pc",
+    "id": 453720,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Fire 11.0 Class Set 4pc",
+    "id": 453721,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Fire 11.0 Class Set 2pc",
+    "id": 453722,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Arcane 11.0 Class Set 2pc",
+    "id": 453723,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Arcane 11.0 Class Set 4pc",
+    "id": 453724,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Energized Familiar",
+    "id": 454020,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Controlled Instincts",
+    "id": 454214,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Permafrost Lances",
+    "id": 455122,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blessing of the Phoenix",
+    "id": 455134,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blessing of the Phoenix",
+    "id": 455137,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Barrier Diffusion",
+    "id": 455428,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Intuition",
+    "id": 455681,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Intuition",
+    "id": 455683,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meteorite",
+    "id": 456137,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meteorite",
+    "id": 456139,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mana Bomb",
+    "id": 457521,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heat Shimmer",
+    "id": 457735,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Molten Fury",
+    "id": 457803,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spellfrost Teachings",
+    "id": 458411,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Inspired Intellect",
+    "id": 458437,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Molten Fury",
+    "id": 458910,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heat Shimmer",
+    "id": 458964,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pyroblast",
+    "id": 460475,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flamestrike",
+    "id": 460476,
+    "gcd": 0,
+    "castTime": 3.5
+  },
+  {
+    "name": "Spellfrost Teachings",
+    "id": 460568,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Permafrost Lances",
+    "id": 460590,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frigid Pulse",
+    "id": 460623,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "High Voltage",
+    "id": 461248,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Charged Missiles",
+    "id": 461251,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Focusing Crystal",
+    "id": 461257,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Consortium's Bauble",
+    "id": 461260,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Brainstorm",
+    "id": 461261,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nether Flux",
+    "id": 461264,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Explosion",
+    "id": 461508,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "High Voltage",
+    "id": 461524,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Brainstorm",
+    "id": 461531,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Mage",
+    "id": 462083,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage",
+    "id": 462084,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fire Mage",
+    "id": 462085,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frost Mage",
+    "id": 462086,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Controlled Instincts",
+    "id": 463192,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Echo",
+    "id": 464515,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Living Bomb",
+    "id": 464884,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostfire Bolt",
+    "id": 468655,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Signature Spell",
+    "id": 470021,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Recall (desc=Bronze)",
+    "id": 471078,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spellfrost Teachings",
+    "id": 471742,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Fire 11.1 Class Set 2pc",
+    "id": 1215132,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Frost 11.1 Class Set 2pc",
+    "id": 1215133,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Arcane 11.1 Class Set 2pc",
+    "id": 1215136,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Arcane 11.1 Class Set 4pc",
+    "id": 1215624,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Frost 11.1 Class Set 4pc",
+    "id": 1215629,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Fire 11.1 Class Set 4pc",
+    "id": 1215632,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Clarity",
+    "id": 1216178,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostbolt Volley",
+    "id": 1216910,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Extended Bankroll",
+    "id": 1216914,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Freezing Winds",
+    "id": 1216953,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Recently Damaged By Blizzard",
+    "id": 1216988,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Enlightened",
+    "id": 1217242,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Master of Flame",
+    "id": 1217750,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rollin' Hot",
+    "id": 1219035,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Phoenix Reborn",
+    "id": 1219304,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Phoenix Reborn",
+    "id": 1219305,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Born of Flame",
+    "id": 1219307,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Alter Time",
+    "id": 1219545,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Freezing",
+    "id": 1221389,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glacial Spike!",
+    "id": 1222865,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Soul",
+    "id": 1223522,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Intuition",
+    "id": 1223797,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Intuition",
+    "id": 1223798,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Intuition",
+    "id": 1223799,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Rebound",
+    "id": 1223801,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Invisibility",
+    "id": 1228321,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Single-Button Assistant",
+    "id": 1229376,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Nether Flux",
+    "id": 1233443,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nether Flux",
+    "id": 1233452,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ignite",
+    "id": 1236160,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glacial Spike",
+    "id": 1236209,
+    "gcd": 1.5,
+    "castTime": 2.75
+  },
+  {
+    "name": "Glacial Spike",
+    "id": 1236211,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Pulse",
+    "id": 1241462,
+    "gcd": 1.5,
+    "castTime": 1.75
+  },
+  {
+    "name": "Hyperthermia",
+    "id": 1242220,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Salvo",
+    "id": 1242974,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Aether Attunement",
+    "id": 1243307,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Orb Mastery",
+    "id": 1243435,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Pulse",
+    "id": 1243460,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Aegwynn's Technique",
+    "id": 1243507,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Overflowing Insight",
+    "id": 1243542,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Expanded Mind",
+    "id": 1243557,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Draught of Power",
+    "id": 1243926,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Singularity",
+    "id": 1244001,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Conjuration",
+    "id": 1244025,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spatial Manipulation",
+    "id": 1244031,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Ice Barrier",
+    "id": 1244069,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Time Walk",
+    "id": 1244087,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Temporal Realignment",
+    "id": 1244090,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Temporal Realignment",
+    "id": 1244092,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Temporal Realignment",
+    "id": 1244093,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Charm of Aegwynn",
+    "id": 1244105,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Charm of Medivh",
+    "id": 1244107,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glacial Bulwark",
+    "id": 1244110,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Overpowered Missiles",
+    "id": 1244329,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Blink",
+    "id": 1244340,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Merely a Setback",
+    "id": 1246023,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Explosive Potential",
+    "id": 1246030,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Explosive Potential",
+    "id": 1246032,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mastery: Freeze and Shatter",
+    "id": 1246752,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shatter",
+    "id": 1246769,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Shatter",
+    "id": 1246811,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Icicles",
+    "id": 1246832,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shatter",
+    "id": 1246949,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Deep Shatter",
+    "id": 1247025,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frigid Focus",
+    "id": 1247055,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cone of Frost",
+    "id": 1247090,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crystalline Refraction",
+    "id": 1247544,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Freezing Winds",
+    "id": 1247554,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thermal Void",
+    "id": 1247729,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thermal Void",
+    "id": 1247730,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hailstones",
+    "id": 1247742,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rimecaster",
+    "id": 1247743,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glacial Attunement",
+    "id": 1247759,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Flurry",
+    "id": 1247769,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Winter's End",
+    "id": 1247775,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Comet Storm",
+    "id": 1247777,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Comet Storm!",
+    "id": 1247778,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glaciate",
+    "id": 1247798,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heart of Ice",
+    "id": 1247799,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Splinterstorm",
+    "id": 1247908,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heat Sink",
+    "id": 1248002,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dualcasting Adept",
+    "id": 1248014,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blast Radius",
+    "id": 1248016,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostbite",
+    "id": 1248825,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blizzard",
+    "id": 1248829,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Frost Conditioning",
+    "id": 1250315,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Voidfall",
+    "id": 1253304,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Path to Oblivion",
+    "id": 1253399,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Swift Erasure",
+    "id": 1253668,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cinderstorm",
+    "id": 1254024,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Kindling",
+    "id": 1254194,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Scorch",
+    "id": 1254311,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Burn It All",
+    "id": 1254512,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ignition",
+    "id": 1254756,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wildfire",
+    "id": 1254828,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flamestrike",
+    "id": 1254851,
+    "gcd": 1.5,
+    "castTime": 3.5
+  },
+  {
+    "name": "Deep Impact",
+    "id": 1254857,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cinderstorm",
+    "id": 1254865,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Time Twist",
+    "id": 1255166,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Phase Shift",
+    "id": 1256245,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Voidfall",
+    "id": 1256301,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Voidfall Meteor",
+    "id": 1256303,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Voidfall Meteor",
+    "id": 1256304,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Voidfall Meteor",
+    "id": 1256305,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Voidfall Meteor",
+    "id": 1256306,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dark Matter",
+    "id": 1256307,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Voidfall",
+    "id": 1256322,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "World Killer",
+    "id": 1256616,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "World Killer",
+    "id": 1256617,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "World Killer",
+    "id": 1256618,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "World Killer",
+    "id": 1256619,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Mage",
+    "id": 1256909,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fire Mage",
+    "id": 1256911,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frost Mage",
+    "id": 1256913,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fired Up",
+    "id": 1257343,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fired Up",
+    "id": 1257348,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fired Up",
+    "id": 1257349,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fired Up",
+    "id": 1257350,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Touch of the Archmage",
+    "id": 1257942,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Touch of the Archmage",
+    "id": 1257947,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Touch of the Archmage",
+    "id": 1257950,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Touch of the Archmage",
+    "id": 1258036,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Touch of the Archmage",
+    "id": 1258134,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ashes of Inspiration",
+    "id": 1260272,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lesser Time Warp",
+    "id": 1260277,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spellfire Salvo",
+    "id": 1260616,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pyrocosm",
+    "id": 1260673,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Infused Splinters",
+    "id": 1261080,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Polished Focus",
+    "id": 1261082,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Attuned Familiar",
+    "id": 1261106,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hand of Frost",
+    "id": 1262769,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Duality",
+    "id": 1262843,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Molten Chill",
+    "id": 1262844,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elemental Conduit",
+    "id": 1262845,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glacial Spike",
+    "id": 1262860,
+    "gcd": 0,
+    "castTime": 2.75
+  },
+  {
+    "name": "Glacial Spike",
+    "id": 1262862,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pyroblast",
+    "id": 1262863,
+    "gcd": 0,
+    "castTime": 4
+  },
+  {
+    "name": "Ignite",
+    "id": 1262887,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hand of Frost",
+    "id": 1262935,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hand of Frost",
+    "id": 1262981,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hand of Frost",
+    "id": 1263249,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hand of Frost",
+    "id": 1263263,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meteor Shower",
+    "id": 1264126,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meteor Shower",
+    "id": 1264128,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meteor Shower",
+    "id": 1264129,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meteor Shower",
+    "id": 1264130,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Arcane 12.0 Class Set 2pc",
+    "id": 1264832,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Arcane 12.0 Class Set 4pc",
+    "id": 1264833,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Fire 12.0 Class Set 2pc",
+    "id": 1264834,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Fire 12.0 Class Set 4pc",
+    "id": 1264835,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Frost 12.0 Class Set 2pc",
+    "id": 1264836,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Frost 12.0 Class Set 4pc",
+    "id": 1264837,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Permafrost Bauble",
+    "id": 1265517,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blazing Barrier",
+    "id": 1265927,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "World Killer",
+    "id": 1266123,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Voidfall Meteor",
+    "id": 1266127,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "First In, Last Out",
+    "id": 1266619,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Spellsteal",
+    "id": 1270827,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spellsteal",
+    "id": 1270828,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reflection",
+    "id": 1270829,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mana Confluence",
+    "id": 1270845,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Remove Curse",
+    "id": 1270847,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Counterspell",
+    "id": 1270865,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Captured Thoughts",
+    "id": 1270872,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Conflagration",
+    "id": 1271171,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Conflagration",
+    "id": 1271173,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Burnout",
+    "id": 1271177,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Burnout",
+    "id": 1271335,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Intellect Highlight",
+    "id": 1271907,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Overpowered Missiles",
+    "id": 1277009,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flash Freezeburn",
+    "id": 1278079,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Augury Abounds",
+    "id": 1280165,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Winter's End",
+    "id": 1280757,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glacial Chill",
+    "id": 1280779,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glacial Shatter",
+    "id": 1280780,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "White Out",
+    "id": 1281638,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage - Midnight PrePatch - 11.2 Class Set 2pc",
+    "id": 1283634,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage - Midnight PrePatch - 11.2 Class Set 4pc",
+    "id": 1283635,
+    "gcd": 0,
+    "castTime": 0
+  }
+]
