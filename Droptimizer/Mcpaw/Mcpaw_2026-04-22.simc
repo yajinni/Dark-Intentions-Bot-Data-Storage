@@ -1,0 +1,271 @@
+# Mcpaw - Feral - 2026-04-22 19:46 - US/Stormrage
+# SimC Addon 12.0.5-01
+# WoW 12.0.5.67088, TOC 120005
+# Requires SimulationCraft 1000-01 or newer
+
+druid="Mcpaw"
+level=90
+race=night_elf
+region=us
+server=stormrage
+role=attack
+professions=alchemy=46/engineering=1
+spec=feral
+# loot_spec=guardian
+
+talents=CcGA8cL7tpvige+kkmGM9zUPWDAAAAAAMzGzMzMmZ2M2mZbmZm5BmZAAAAYJY2MwMjaGziZmZmlZmhBAAAAAwADAAAgmZZ2mZmBEYBmZGgFGMAAAmZDD
+
+# Saved Loadout: m+
+# talents=CcGA8cL7tpvige+kkmGM9zUPWDAAAAAAmZ2MzMzMGzmx2YbmZm5BmZAAAAYBMLGDzMYGzCzMzsMmBAAAAAAGYAAAAwY2mZmBAsAmZAWYwAAAwsBA
+# Saved Loadout: m+ short convoke
+# talents=CcGA8cL7tpvige+kkmGM9zUPWDAAAAAAMzGzMzMmZ2M2mZbmZm5BmZAAAAYBMbGYmBzYWMzMzsMzMMAAAAAAGYAAAAYmlZbmZGAwCMzMALMYAAAMzGG
+# Saved Loadout: pvp feral
+# talents=CcGA8cL7tpvige+kkmGM9zUPWDAAAAAAzAMMzMzsBwMzMPwMDAAAALgBwMDmxsAzMGzAAAAAAAAAAAAMzysMGDAYBAAADAAAAA
+# Saved Loadout: pvp feral solo
+# talents=CcGA8cL7tpvige+kkmGM9zUPWDAAAAAAjZWYmZmZGz2CLzsMjZMzMAAAAsAmFDMzMMjZzMzMz2YmxAAAAAAAMAAAAAAz2MbmtZW2AzMALMYAAMzAgB
+# Saved Loadout: raid long convoke
+# talents=CcGA8cL7tpvige+kkmGM9zUPWDAAAAAAjZwMzMzMmtl5BWGbzYm5BmZAAAAYBMMMmZwMmFmZmxYmBAAAAAADMAAAAAAz2MLmtZW2AzMALmZYAAMzAgB
+# Saved Loadout: raid short convoke
+# talents=CcGA8cL7tpvige+kkmGM9zUPWDAAAAAgZMDGzMjxsZegtZ2mZmZegZGAAAA2AzGjxMDmxswMzMGzMDAAAAAAgBAAAAAYWmZxsMzyGYmBYxMYAAMzAgB
+
+# Spellsnap Shadowmask (276)
+head=,id=251109,enchant_id=7991,bonus_id=13440/6652/12667/13577/12699/12798
+# Barbed Ymirheim Choker (276)
+neck=,id=50228,gem_id=240893,bonus_id=13440/6652/13668/12699/12798
+# Seedpods of the Luminous Bloom (276)
+shoulder=,id=250022,enchant_id=7972,bonus_id=6652/13440/13340/13574/12798
+# Potion-Stained Cloak (276)
+back=,id=193712,bonus_id=13440/6652/13577/12699/12798
+# Trunk of the Luminous Bloom (289)
+chest=,id=250027,enchant_id=7985,bonus_id=13336/13440/6652/13575/12806
+# Rajani Tabard (15)
+tabard=,id=174647
+# Silvermoon Agent's Deflectors (285)
+wrist=,id=244576,bonus_id=12214/12497/12066/8960/12384/8792/13622/12667,crafted_stats=40/36,crafting_quality=5
+# Arbortenders of the Luminous Bloom (276)
+hands=,id=250025,bonus_id=6652/13440/13337/13574/12798
+# Silvermoon Agent's Utility Belt (285)
+waist=,id=244573,bonus_id=12214/12497/12066/8792/13622/12667,crafted_stats=49/40,crafting_quality=5
+# Phloemwraps of the Luminous Bloom (289)
+legs=,id=250023,enchant_id=8159,bonus_id=41/13440/13339/13575/12806
+# Rootslippers of the Luminous Bloom (276)
+feet=,id=250026,bonus_id=6652/12798/13440/3161
+# Occlusion of Void (276)
+finger1=,id=251217,enchant_id=7969,gem_id=240899,bonus_id=13440/6652/13668/12699/12798
+# Omission of Light (276)
+finger2=,id=251093,enchant_id=8024,gem_id=240982,bonus_id=13440/6652/13668/12699/12798
+# Radiant Plume (276)
+trinket1=,id=249806,bonus_id=42/13334/12798
+# Algeth'ar Puzzle Box (289)
+trinket2=,id=193701,bonus_id=13440/41/12699/12806
+# Blood Knight's Impetus (285)
+main_hand=,id=237847,enchant_id=7983,bonus_id=12214/12497/12066/12693/8960/8792/13622,crafted_stats=49/40,crafting_quality=5
+
+### Gear from Bags
+#
+# Spellsnap Shadowmask (266)
+# head=,id=251109,bonus_id=12795/13440/6652/12667/13577/12699
+#
+# Verdant Tracker's Guise (237)
+# head=,id=256996,bonus_id=12778/6652/12667/13577
+#
+# Galactic Gladiator's Leather Helm (246)
+# head=,id=255421,bonus_id=12785/13448/13577/13554/13452/12667
+#
+# Osseoclad Saberteeth (250)
+# head=,id=249640,bonus_id=12786/6652/12667/13577
+#
+# Pendant of Aching Grief (276)
+# neck=,id=251096,gem_id=240893,bonus_id=13440/6652/13668/12699/12798
+#
+# Arboreal Vine Collar (259)
+# neck=,id=249627,bonus_id=12793/6652/13668
+#
+# Thalassian Competitor's Amulet (242)
+# neck=,id=240952,gem_id=241144,bonus_id=12245/13760/12496/13571/13448/8794,crafted_stats=49/32,crafting_quality=4
+#
+# Farstrider's Pendant (237)
+# neck=,id=256969,bonus_id=12778/6652/13668
+#
+# Fallen Grunt's Mantle (266)
+# shoulder=,id=251092,bonus_id=12795/13440/6652/13577/12699
+#
+# Fallen Grunt's Mantle (266)
+# shoulder=,id=251092,bonus_id=12795/13440/6652/13577/12699
+#
+# Shroud of the Soulhunter (266)
+# back=,id=251161,bonus_id=12795/13440/6652/13577/12699
+#
+# Potion-Stained Cloak (263)
+# back=,id=193712,bonus_id=13440/41/13577/12699/12790
+#
+# Rampant Bramblecloak (259)
+# back=,id=249628,bonus_id=12793/6652/13577
+#
+# Trunk of the Luminous Bloom (276)
+# chest=,id=250027,enchant_id=7984,bonus_id=6652/13440/13336/13575/12798
+#
+# Void-Skinned Bracers (250)
+# wrist=,id=249327,bonus_id=6652/12667/13577/13333/12786/11215
+#
+# Osseoclad Ivory Wrist (250)
+# wrist=,id=249644,bonus_id=12786/6652/12667/13577
+#
+# Galactic Aspirant's Leather Armguards (217)
+# wrist=,id=255325,bonus_id=13629/13447/13554
+#
+# Osseoclad Ivory Wrist (263)
+# wrist=,id=249644,bonus_id=6652/12667/13577/12794
+#
+# Tarnished Dawnlit Spellbinder's Mitts (192)
+# hands=,id=258914,bonus_id=13729/13578,drop_level=90
+#
+# Arbortenders of the Luminous Bloom (250)
+# hands=,id=250025,bonus_id=13332/13337/6652/13574/12782
+#
+# Vaelgor's Fearsome Grasp (266)
+# hands=,id=249321,bonus_id=6652/13577/13334/12795
+#
+# Ruby Contestant's Gloves (266)
+# hands=,id=193721,bonus_id=12795/13440/6652/13577/12699
+#
+# Gloves of Viscous Goo (266)
+# hands=,id=251113,bonus_id=12795/13440/6652/13577/12699
+#
+# Scorn-Scarred Shul'ka's Belt (263)
+# waist=,id=249374,bonus_id=6652/12667/13577/13334/12794
+#
+# Galactic Gladiator's Leather Strap (246)
+# waist=,id=255429,bonus_id=12785/13448/13577/13554/13452/12667
+#
+# Eclipse Espadrilles (266)
+# feet=,id=251210,bonus_id=12795/13440/6652/13577/12699
+#
+# Void-Claimed Shinkickers (276)
+# feet=,id=249334,enchant_id=8018,bonus_id=41/13577/13334/12798
+#
+# Osseoclad Bonecrushers (227)
+# feet=,id=249638,bonus_id=12771/6652/13578
+#
+# Eredath Seal of Nobility (276)
+# finger1=,id=151308,enchant_id=8024,gem_id=240893,bonus_id=13440/6652/13668/12699/12798
+#
+# Platinum Star Band (276)
+# finger1=,id=193708,enchant_id=7968,gem_id=240899,bonus_id=13440/6652/13668/12699/12798
+#
+# Thalassian Competitor's Signet (242)
+# finger1=,id=240951,enchant_id=8027,gem_id=240918,bonus_id=12245/13760/12496/13571/13448/13453/8960/8794,crafted_stats=36/49,crafting_quality=4
+#
+# Thalassian Competitor's Signet (242)
+# finger1=,id=240951,enchant_id=8027,gem_id=240918,bonus_id=12245/13760/12496/13571/13448/13453/8960/8794,crafted_stats=40/32,crafting_quality=4
+#
+# Band of the Triumvirate (289)
+# finger1=,id=151311,enchant_id=8025,gem_id=240862,bonus_id=13440/41/13668/12699/12806
+#
+# Spiritseal Ring (250)
+# finger1=,id=249622,bonus_id=12786/6652/13668
+#
+# Sealed Chaos Urn (250)
+# trinket1=,id=251787,bonus_id=12786/6652
+#
+# Desecrated Chalice (237)
+# trinket1=,id=251790,bonus_id=12778/6652/11215
+#
+# Desecrated Chalice (237)
+# trinket1=,id=251790,bonus_id=12778/6652/11215
+#
+# Galactic Gladiator's Insignia of Alacrity (246)
+# trinket1=,id=255614,bonus_id=12785/13448/13452
+#
+# Galactic Gladiator's Medallion (246)
+# trinket1=,id=255616,bonus_id=12785/13448/13452
+#
+# Ultradon Cuirass (237)
+# trinket1=,id=264694,bonus_id=6652/40/12774
+#
+# Glorious Crusader's Keepsake (250)
+# trinket1=,id=251792,bonus_id=12786/6652
+#
+# Nevermelting Ice Crystal (276)
+# trinket1=,id=50259,bonus_id=13440/6652/12699/12798
+#
+# Primal Philosopher's Stone (165)
+# trinket1=,id=241291,bonus_id=12249/12248/4785/12493,crafting_quality=1
+#
+# The Eternal Egg (256)
+# trinket1=,id=249807,bonus_id=6652/13333/12788/11215
+#
+# Crucible of Erratic Energies (263)
+# trinket1=,id=264507,bonus_id=12790
+#
+# Drum of Renewed Bonds (266)
+# trinket1=,id=248583,bonus_id=6652/12795/13184
+#
+# Withered Saptor's Paw (266)
+# trinket1=,id=251782,bonus_id=6652/12795
+#
+# Ever-Collapsing Void Fissure (250)
+# trinket1=,id=251786,bonus_id=12786/6652
+#
+# Eye of the Drowning Void (266)
+# trinket1=,id=250257,bonus_id=12795/13440/6652/12699
+#
+# Sylvan Wakrapuku (250)
+# trinket1=,id=251784,bonus_id=12786/42/6652
+#
+# Jelly Replicator (266)
+# trinket1=,id=250242,bonus_id=12795/13440/6652/12699
+#
+# Tanglevine Spellfocus (233)
+# main_hand=,id=257007,bonus_id=12777/6652
+#
+# Tarnished Dawnlit Carver (198)
+# main_hand=,id=258945,bonus_id=13730/6652,drop_level=90
+#
+# Resinous Blossomblade (259)
+# main_hand=,id=249610,bonus_id=12793/6652
+#
+# Blooming Seedpod (250)
+# main_hand=,id=249665,bonus_id=12786/6652
+#
+# Obsidian Goaltending Spire (266)
+# main_hand=,id=193723,bonus_id=12795/13440/6652/12701
+#
+# Barbed Rootwand (246)
+# main_hand=,id=249667,bonus_id=12785/43/11215
+#
+# Spire of the Furious Construct (266)
+# main_hand=,id=258047,bonus_id=12795/13440/6652/12701
+#
+# Weight of Command (276)
+# main_hand=,id=249293,bonus_id=6652/13334/12798
+#
+# Galactic Gladiator's Battlestaff (246)
+# main_hand=,id=255637,enchant_id=8011,bonus_id=12785/13448/13452
+#
+# Belo'melorn, the Shattered Talon (276)
+# main_hand=,id=249283,bonus_id=6652/13334/12798
+#
+# Inescapable Reach (263)
+# main_hand=,id=249302,bonus_id=6652/13334/12794
+#
+# Elderbloom Lantern (250)
+# off_hand=,id=249672,bonus_id=12786/6652
+#
+# Elderbloom Lantern (250)
+# off_hand=,id=249672,bonus_id=6652/11215/12782
+#
+# Sigil of the Restless Heart (276)
+# off_hand=,id=251094,bonus_id=13440/6652/12699/12798
+
+### Additional Character Info
+#
+# catalyst_currencies=3269:8/3378:7/2813:8/3116:8
+#
+# upgrade_currencies=c:3347:18/c:3383:710/c:1813:7/c:3341:1100/c:3343:355/c:1792:10526/c:1931:4441/c:2122:3/c:3345:120/i:228338:1/i:230906:2/i:228339:1/i:224072:2/i:204276:2/i:232875:1/i:230936:2/i:211296:3
+#
+# slot_high_watermarks=0:276:276/1:276:276/2:276:276/3:289:289/4:285:285/5:289:289/6:276:276/7:285:285/8:276:276/9:276:276/10:276:276/11:276:276/12:285:285/13:276:276/14:0:272/15:0:250/16:276:285
+#
+# upgrade_achievements=19326/19397/19398/19577/19578/19579/40107/40115/40118/40939/40942/40943/40944/40945/41886/41887/41888/41892/42767/42768/42769/61809
+
+# Checksum: 8153ca68
