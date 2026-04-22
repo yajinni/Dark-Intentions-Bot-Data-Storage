@@ -1,0 +1,5242 @@
+﻿[
+  {
+    "name": "Path of Frost",
+    "id": 3714,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Bite (desc=Basic Attack)",
+    "id": 17253,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Shell Shield (desc=Special Ability)",
+    "id": 26064,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Army of the Dead",
+    "id": 42650,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Army of the Dead",
+    "id": 42651,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death and Decay",
+    "id": 43265,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Death Strike",
+    "id": 45470,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chains of Ice",
+    "id": 45524,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Raise Dead",
+    "id": 46584,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Raise Dead",
+    "id": 46585,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Claw",
+    "id": 47468,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Gnaw",
+    "id": 47481,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Leap",
+    "id": 47482,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Huddle",
+    "id": 47484,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Mind Freeze",
+    "id": 47528,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Coil",
+    "id": 47541,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Empower Rune Weapon",
+    "id": 47568,
+    "gcd": 0.75,
+    "castTime": 0
+  },
+  {
+    "name": "Death Coil",
+    "id": 47632,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Coil",
+    "id": 47633,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Veteran of the Third War",
+    "id": 48263,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death's Advance",
+    "id": 48265,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Anti-Magic Shell",
+    "id": 48707,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Pact",
+    "id": 48743,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Icebound Fortitude",
+    "id": 48792,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Obliterate",
+    "id": 49020,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Dancing Rune Weapon",
+    "id": 49028,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Lichborne",
+    "id": 49039,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Anti-Magic Shell",
+    "id": 49088,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frost Strike",
+    "id": 49143,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Howling Blast",
+    "id": 49184,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Gargoyle",
+    "id": 49206,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sudden Doom",
+    "id": 49530,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Grip",
+    "id": 49575,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Grip",
+    "id": 49576,
+    "gcd": 0.5,
+    "castTime": 0
+  },
+  {
+    "name": "Death Strike",
+    "id": 49998,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Lichborne",
+    "id": 50397,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Razorice",
+    "id": 50401,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Boil",
+    "id": 50842,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Death Gate",
+    "id": 50977,
+    "gcd": 1.5,
+    "castTime": 4
+  },
+  {
+    "name": "Anti-Magic Zone",
+    "id": 51052,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Killing Machine",
+    "id": 51124,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Killing Machine",
+    "id": 51128,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pillar of Frost",
+    "id": 51271,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Runic Corruption",
+    "id": 51460,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Runic Corruption",
+    "id": 51462,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Razorice",
+    "id": 51714,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gargoyle Strike",
+    "id": 51963,
+    "gcd": 0,
+    "castTime": 2.5
+  },
+  {
+    "name": "On a Pale Horse",
+    "id": 51986,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death and Decay",
+    "id": 52212,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rune of Razorice",
+    "id": 53343,
+    "gcd": 0,
+    "castTime": 5
+  },
+  {
+    "name": "Rune of the Fallen Crusader",
+    "id": 53344,
+    "gcd": 0,
+    "castTime": 5
+  },
+  {
+    "name": "Unholy Strength",
+    "id": 53365,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Plague",
+    "id": 55078,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Scourge Strike",
+    "id": 55090,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Frost Fever",
+    "id": 55095,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vampiric Blood",
+    "id": 55233,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dark Command",
+    "id": 56222,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Horn of Winter",
+    "id": 57330,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glyph of the Geist (desc=Unholy)",
+    "id": 58640,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glyph of Foul Menagerie",
+    "id": 58642,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Geist",
+    "id": 58707,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Foul Menagerie",
+    "id": 58723,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Rime",
+    "id": 59052,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rime",
+    "id": 59057,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Gargoyle",
+    "id": 61777,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Raise Ally",
+    "id": 61999,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Avoidance (desc=Passive)",
+    "id": 62137,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stoneskin Gargoyle",
+    "id": 62157,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rune of the Stoneskin Gargoyle",
+    "id": 62158,
+    "gcd": 0,
+    "castTime": 5
+  },
+  {
+    "name": "Basic Attack Focus Cost Modifier",
+    "id": 62762,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dark Transformation",
+    "id": 63560,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Strike Off-Hand",
+    "id": 66188,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frost Strike Off-Hand",
+    "id": 66196,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Obliterate Off-Hand",
+    "id": 66198,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mastery: Master of Beasts",
+    "id": 76657,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mastery: Blood Shield",
+    "id": 77513,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mastery: Frozen Heart",
+    "id": 77514,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mastery: Dreadblade",
+    "id": 77515,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Shield",
+    "id": 77535,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Outbreak",
+    "id": 77575,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Crimson Scourge",
+    "id": 81136,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crimson Scourge",
+    "id": 81141,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Runic Empowerment",
+    "id": 81229,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dancing Rune Weapon",
+    "id": 81256,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Burst",
+    "id": 81280,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Might of the Frozen Wastes",
+    "id": 81333,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sudden Doom",
+    "id": 81340,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Festering Strike",
+    "id": 85948,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Plate Specialization (desc=Passive)",
+    "id": 86113,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Plate Specialization (desc=Passive)",
+    "id": 86536,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Plate Specialization (desc=Passive)",
+    "id": 86537,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Claw",
+    "id": 91776,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sweeping Claws",
+    "id": 91778,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Monstrous Blow",
+    "id": 91797,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gnaw",
+    "id": 91800,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shambling Rush",
+    "id": 91802,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shambling Rush",
+    "id": 91807,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Leap",
+    "id": 91809,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Putrid Bulwark",
+    "id": 91837,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Huddle",
+    "id": 91838,
+    "gcd": 1,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 10
+  },
+  {
+    "name": "Void-Touched",
+    "id": 97821,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dark Succor",
+    "id": 101568,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gorefiend's Grasp",
+    "id": 108199,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Control Undead",
+    "id": 111673,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Purgatory",
+    "id": 114556,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shroud of Purgatory",
+    "id": 116888,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Perdition",
+    "id": 123981,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Purgatory",
+    "id": 123982,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death's Advance",
+    "id": 124285,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Corpse Exploder",
+    "id": 127344,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight",
+    "id": 137005,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frost Death Knight",
+    "id": 137006,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unholy Death Knight",
+    "id": 137007,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Death Knight",
+    "id": 137008,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Anti-Magic Zone",
+    "id": 145629,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glyph of the Skeleton (desc=Unholy)",
+    "id": 146652,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Skeleton",
+    "id": 147963,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Breath of Sindragosa",
+    "id": 152279,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Defile",
+    "id": 152280,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Breath of Sindragosa",
+    "id": 155166,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Breath of Sindragosa",
+    "id": 155168,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Defile",
+    "id": 156000,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Defile",
+    "id": 156004,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Riposte",
+    "id": 161797,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Defile",
+    "id": 166182,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fallen Crusader",
+    "id": 166441,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Defile",
+    "id": 169018,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dark Succor",
+    "id": 178819,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Recently Used Death Strike",
+    "id": 180612,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death and Decay",
+    "id": 188290,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Aspect of the Beast",
+    "id": 191384,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bestial Cunning",
+    "id": 191397,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bestial Ferocity",
+    "id": 191413,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bestial Tenacity",
+    "id": 191414,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Virulent Plague",
+    "id": 191587,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Virulent Eruption",
+    "id": 191685,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Runic Empowerment",
+    "id": 193486,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Festering Wound",
+    "id": 194311,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rapid Decomposition",
+    "id": 194662,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bonestorm",
+    "id": 194844,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Icy Talons",
+    "id": 194878,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Icy Talons",
+    "id": 194879,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gathering Storm",
+    "id": 194912,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glacial Advance",
+    "id": 194913,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "All Will Serve",
+    "id": 194916,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bone Shield",
+    "id": 195181,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Marrowrend",
+    "id": 195182,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Death's Caress",
+    "id": 195292,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Frost Fever",
+    "id": 195617,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frost Fever",
+    "id": 195621,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bloodworms",
+    "id": 195679,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Festering Wound",
+    "id": 195757,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glacial Advance",
+    "id": 195975,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bloodworm",
+    "id": 196361,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bonestorm",
+    "id": 196528,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bonestorm",
+    "id": 196545,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Remorseless Winter",
+    "id": 196770,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Remorseless Winter",
+    "id": 196771,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Outbreak",
+    "id": 196780,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Outbreak",
+    "id": 196782,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Raise Skulker",
+    "id": 196910,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Festering Wound",
+    "id": 197147,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bloodworm",
+    "id": 197509,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bloodworms",
+    "id": 197531,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bloodworms",
+    "id": 198494,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Claw",
+    "id": 199373,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Deathstone (desc=PvP Talent)",
+    "id": 200957,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Deathstone (desc=PvP Talent)",
+    "id": 201248,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chill Streak (desc=PvP Talent)",
+    "id": 204160,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Chill Streak (desc=PvP Talent)",
+    "id": 204165,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chill Streak (desc=PvP Talent)",
+    "id": 204167,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chilled (desc=PvP Talent)",
+    "id": 204206,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Red Thirst",
+    "id": 205723,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Anti-Magic Barrier",
+    "id": 205727,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heart Strike",
+    "id": 206930,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Tremble Before Me",
+    "id": 206961,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Will of the Necropolis",
+    "id": 206967,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tightening Grasp",
+    "id": 206970,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Foul Bulwark",
+    "id": 206974,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shattering Blade",
+    "id": 207057,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Murderous Efficiency",
+    "id": 207061,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Murderous Efficiency",
+    "id": 207062,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Runic Attenuation",
+    "id": 207104,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hungering Rune Weapon",
+    "id": 207127,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Avalanche",
+    "id": 207142,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Avalanche",
+    "id": 207150,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blinding Sleet",
+    "id": 207167,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Volatile Shielding",
+    "id": 207188,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Permafrost",
+    "id": 207200,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frost Shield",
+    "id": 207203,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostscythe",
+    "id": 207230,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Obliteration",
+    "id": 207256,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ebon Fever",
+    "id": 207269,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Infected Claws",
+    "id": 207272,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Clawing Shadows",
+    "id": 207311,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Sludge Belcher",
+    "id": 207313,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Epidemic",
+    "id": 207317,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Dark Arbiter",
+    "id": 207349,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heartbreaker",
+    "id": 210738,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Remorseless Winter (desc=Talent)",
+    "id": 211793,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gathering Storm",
+    "id": 211805,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dark Empowerment",
+    "id": 211947,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sludge Belcher",
+    "id": 212027,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dark Arbiter",
+    "id": 212412,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Skulker Shot",
+    "id": 212423,
+    "gcd": 1,
+    "castTime": 2.5
+  },
+  {
+    "name": "Wraith Walk",
+    "id": 212552,
+    "gcd": 1.5,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 4
+  },
+  {
+    "name": "Wraith Walk",
+    "id": 212654,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Epidemic",
+    "id": 212739,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Epidemic",
+    "id": 215969,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Defile",
+    "id": 218100,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "March of the Damned Immunity",
+    "id": 219780,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ossuary",
+    "id": 219786,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ossuary",
+    "id": 219788,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Strike",
+    "id": 220890,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Runic Attenuation",
+    "id": 221322,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heartbreaker",
+    "id": 221536,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Asphyxiate",
+    "id": 221562,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Obliterate",
+    "id": 222024,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frost Strike",
+    "id": 222026,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wraith Walk",
+    "id": 223804,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Necrotic Strike (desc=PvP Talent)",
+    "id": 223829,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Necrotic Wound",
+    "id": 223929,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heart Strike",
+    "id": 228645,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Glacial Advance",
+    "id": 232752,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Army of the Dead",
+    "id": 233112,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Necrotic Wound",
+    "id": 233409,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Howling Blast",
+    "id": 237680,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Grip",
+    "id": 243487,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Inexorable Assault",
+    "id": 253593,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Inexorable Assault",
+    "id": 253594,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Inexorable Assault",
+    "id": 253595,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Inexorable Assault",
+    "id": 253597,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rapid Decomposition",
+    "id": 255203,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hemostasis",
+    "id": 273946,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hemostasis",
+    "id": 273947,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Grip of the Dead",
+    "id": 273952,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Voracious",
+    "id": 273953,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Grip of the Dead",
+    "id": 273977,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Grip of the Dead",
+    "id": 273980,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Grip of the Dead",
+    "id": 273984,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Voracious",
+    "id": 274009,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Consumption",
+    "id": 274893,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lesser Ghoul",
+    "id": 275430,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Apocalypse",
+    "id": 275699,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Echoing Howl",
+    "id": 275918,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Harbinger of Doom",
+    "id": 276023,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death's Reach",
+    "id": 276079,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Army of the Damned",
+    "id": 276837,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Val'kyr (desc=Unholy)",
+    "id": 278107,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostwyrm's Fury",
+    "id": 279302,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Frostwyrm's Fury",
+    "id": 279303,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Army of the Dead (desc=PvP Talent)",
+    "id": 280447,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pillar of Frost",
+    "id": 281214,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Obliteration",
+    "id": 281238,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Obliteration",
+    "id": 281327,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Razorice",
+    "id": 281425,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostwhelp's Indignation",
+    "id": 287321,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostwhelp's Indignation",
+    "id": 287338,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Magus of the Dead",
+    "id": 288544,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadow Bolt",
+    "id": 288546,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Frostbolt",
+    "id": 288548,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Raise Abomination",
+    "id": 288853,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Magus of the Dead",
+    "id": 290187,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Breath of Sindragosa",
+    "id": 303753,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chill Streak",
+    "id": 305392,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Swarming Mist (desc=Venthyr)",
+    "id": 311648,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Swarming Mist",
+    "id": 311730,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shackle the Unworthy (desc=Kyrian)",
+    "id": 312202,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Swarming Mist",
+    "id": 312546,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death's Due (desc=Night Fae)",
+    "id": 315442,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Abomination Limb (desc=Necrolord)",
+    "id": 315443,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Rune Strike",
+    "id": 316239,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Heart Strike (desc=Rank 2)",
+    "id": 316575,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Veteran of the Third War (desc=Rank 2)",
+    "id": 316714,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Marrowrend (desc=Rank 2)",
+    "id": 316746,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Runic Overflow",
+    "id": 316803,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cleaving Strikes",
+    "id": 316916,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Vampiric Blood",
+    "id": 317133,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostreaper",
+    "id": 317214,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Relish in Blood",
+    "id": 317610,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Relish in Blood",
+    "id": 317614,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Army of the Damned",
+    "id": 317776,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadow Bolt",
+    "id": 317791,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Frostbolt",
+    "id": 317792,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Blinding Sleet",
+    "id": 317898,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Abomination Limb (desc=Necrolord)",
+    "id": 323710,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Abomination Limb (desc=Necrolord)",
+    "id": 323798,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Abomination Limb (desc=Necrolord)",
+    "id": 323950,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death's Due (desc=Night Fae)",
+    "id": 324128,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Death's Due",
+    "id": 324164,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death's Due",
+    "id": 324165,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Obliterate",
+    "id": 325461,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frost Strike",
+    "id": 325464,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dark Transformation (desc=Rank 2)",
+    "id": 325554,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rune of Sanguination",
+    "id": 326801,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rune of Sanguination",
+    "id": 326805,
+    "gcd": 0,
+    "castTime": 5
+  },
+  {
+    "name": "Rune of Sanguination",
+    "id": 326808,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Satiated",
+    "id": 326809,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rune of Spellwarding",
+    "id": 326855,
+    "gcd": 0,
+    "castTime": 5
+  },
+  {
+    "name": "Rune of Spellwarding",
+    "id": 326864,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rune of Spellwarding",
+    "id": 326867,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lethargy",
+    "id": 326868,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rune of Hysteria",
+    "id": 326913,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rune of Hysteria",
+    "id": 326918,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rune of Unending Thirst",
+    "id": 326977,
+    "gcd": 0,
+    "castTime": 5
+  },
+  {
+    "name": "Unending Thirst",
+    "id": 326982,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rune of Unending Thirst",
+    "id": 326984,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rune of the Apocalypse",
+    "id": 327082,
+    "gcd": 0,
+    "castTime": 5
+  },
+  {
+    "name": "Rune of the Apocalypse",
+    "id": 327087,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Famine",
+    "id": 327092,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pestilence",
+    "id": 327093,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death",
+    "id": 327095,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "War",
+    "id": 327096,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Essence of Ardenweald (desc=Night Fae)",
+    "id": 331117,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Anti-Magic Zone (desc=Torghast)",
+    "id": 332831,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rune of Hysteria",
+    "id": 333113,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rune of Sanguination",
+    "id": 333114,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rune of Spellwarding",
+    "id": 333115,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Abomination Limb",
+    "id": 335486,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Will of the Berserker",
+    "id": 335594,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fleeting Wind",
+    "id": 338089,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fleeting Wind",
+    "id": 338093,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death's Due",
+    "id": 341340,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Reaper",
+    "id": 343294,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Reaper",
+    "id": 343295,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rot and Wither (desc=PvP Talent)",
+    "id": 343713,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Apocalypse",
+    "id": 343758,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dark Transformation",
+    "id": 344955,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Abomination's Frenzy",
+    "id": 353546,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death's Echo",
+    "id": 356367,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Anti-Magic Zone (desc=PvP Talent)",
+    "id": 357030,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Proliferating Chill",
+    "id": 373930,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Deep Frost",
+    "id": 373931,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Deep Frost",
+    "id": 373934,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Scent",
+    "id": 374030,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Suppression",
+    "id": 374049,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unholy Bond",
+    "id": 374261,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unholy Momentum",
+    "id": 374265,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unholy Ground",
+    "id": 374271,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Death Strike",
+    "id": 374277,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Assimilation",
+    "id": 374383,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Assimilation",
+    "id": 374407,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Brittle",
+    "id": 374504,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Brittle",
+    "id": 374557,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rune Mastery",
+    "id": 374574,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rune Mastery",
+    "id": 374585,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Draw",
+    "id": 374598,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Draw",
+    "id": 374606,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Draw",
+    "id": 374609,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Bone Shield",
+    "id": 374715,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Heart Strike",
+    "id": 374717,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Fortification",
+    "id": 374721,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Perseverance of the Ebon Blade",
+    "id": 374747,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Perseverance of the Ebon Blade",
+    "id": 374748,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tightening Grasp",
+    "id": 374776,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Time Spiral",
+    "id": 375226,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Runic Command",
+    "id": 376251,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Everfrost",
+    "id": 376938,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Everfrost",
+    "id": 376974,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Absolute Zero",
+    "id": 377048,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Biting Cold",
+    "id": 377056,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frigid Executioner",
+    "id": 377073,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frigid Executioner",
+    "id": 377074,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rage of the Frozen Champion",
+    "id": 377076,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rage of the Frozen Champion",
+    "id": 377077,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bonegrinder",
+    "id": 377098,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bonegrinder",
+    "id": 377101,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bonegrinder",
+    "id": 377103,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Enduring Strength",
+    "id": 377190,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Enduring Strength",
+    "id": 377192,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Enduring Strength",
+    "id": 377195,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frozen Dominion",
+    "id": 377226,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostwhelp's Aid",
+    "id": 377243,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostwhelp's Aid",
+    "id": 377245,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frozen Dominion",
+    "id": 377253,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unholy Aura",
+    "id": 377440,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unholy Aura",
+    "id": 377445,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reaping",
+    "id": 377514,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Putrid Echoes",
+    "id": 377580,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ghoulish Frenzy",
+    "id": 377587,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ghoulish Frenzy",
+    "id": 377588,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ghoulish Frenzy",
+    "id": 377589,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ancient Power",
+    "id": 377590,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ancient Power",
+    "id": 377591,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Morbidity",
+    "id": 377592,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Leeching Strike",
+    "id": 377629,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Leeching Strike",
+    "id": 377633,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Insatiable Blade",
+    "id": 377637,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shattering Bone",
+    "id": 377640,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shattering Bone",
+    "id": 377642,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heartrend",
+    "id": 377655,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heartrend",
+    "id": 377656,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Everlasting Bond",
+    "id": 377668,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dancing Rune Weapon",
+    "id": 377671,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Beast Master",
+    "id": 378007,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Training Expert",
+    "id": 378209,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Coldthirst",
+    "id": 378848,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Coldthirst",
+    "id": 378849,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ferocity",
+    "id": 378916,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Graveyard",
+    "id": 383269,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Abomination Limb",
+    "id": 383312,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Graveyard",
+    "id": 383313,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Abomination Limb",
+    "id": 383315,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Clenching Grasp",
+    "id": 389679,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Clenching Grasp",
+    "id": 389681,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unholy Endurance",
+    "id": 389682,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Plague Mastery",
+    "id": 390166,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Magus of the Dead",
+    "id": 390196,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Putrefy",
+    "id": 390220,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Commander of the Dead",
+    "id": 390259,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Commander of the Dead",
+    "id": 390260,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Commander of the Dead",
+    "id": 390264,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Eternal Agony",
+    "id": 390268,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Coil of Devastation",
+    "id": 390270,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Coil of Devastation",
+    "id": 390271,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Superstrain",
+    "id": 390283,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Feast",
+    "id": 391386,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Feast",
+    "id": 391389,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Iron Heart",
+    "id": 391395,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bloodshot",
+    "id": 391398,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sanguine Ground",
+    "id": 391458,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sanguine Ground",
+    "id": 391459,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Coagulopathy",
+    "id": 391477,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Coagulopathy",
+    "id": 391481,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Umbilicus Eternus",
+    "id": 391517,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Umbilicus Eternus",
+    "id": 391519,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "March of Darkness",
+    "id": 391546,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "March of Darkness",
+    "id": 391547,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Insidious Chill",
+    "id": 391566,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Insidious Chill",
+    "id": 391568,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gloom Ward",
+    "id": 391571,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Enfeeble",
+    "id": 392487,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Enfeeble",
+    "id": 392490,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Enfeeble",
+    "id": 392566,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Icebreaker",
+    "id": 392950,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empower Rune Weapon",
+    "id": 392962,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empower Rune Weapon",
+    "id": 392963,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Blood Class Set 2pc",
+    "id": 393621,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Blood Class Set 4pc",
+    "id": 393622,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Frost Class Set 4pc",
+    "id": 393624,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Unholy Class Set 2pc",
+    "id": 393626,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Unholy Class Set 4pc",
+    "id": 393627,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vigorous Lifeblood",
+    "id": 394559,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vigorous Lifeblood",
+    "id": 394570,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Burgeoning Lifeblood",
+    "id": 394571,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vile Infusion",
+    "id": 394863,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Unholy Class Set 4pc",
+    "id": 394896,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ghoulish Infusion",
+    "id": 394899,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Blood 10.1 Class Set 2pc",
+    "id": 405499,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Blood 10.1 Class Set 4pc",
+    "id": 405500,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Frost 10.1 Class Set 2pc",
+    "id": 405501,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Frost 10.1 Class Set 4pc",
+    "id": 405502,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Unholy 10.1 Class Set 2pc",
+    "id": 405503,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Unholy 10.1 Class Set 4pc",
+    "id": 405504,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wrath of the Frostwyrm",
+    "id": 408368,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Master of Death",
+    "id": 408375,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostwyrm's Fury",
+    "id": 410790,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lingering Chill",
+    "id": 410879,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Army of the Dead",
+    "id": 418189,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Blood 10.2 Class Set 2pc",
+    "id": 422850,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Blood 10.2 Class Set 4pc",
+    "id": 422851,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Frost 10.2 Class Set 2pc",
+    "id": 422852,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Frost 10.2 Class Set 4pc",
+    "id": 422853,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Unholy 10.2 Class Set 2pc",
+    "id": 422854,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Unholy 10.2 Class Set 4pc",
+    "id": 422855,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Frost 10.2 Class Set 4pc",
+    "id": 424350,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ashen Decay",
+    "id": 425719,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ashen Decay",
+    "id": 425721,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Abomination Limb",
+    "id": 431048,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vampiric Strike",
+    "id": 433895,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Vampiric Strike",
+    "id": 433899,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vampiric Strike",
+    "id": 433901,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Newly Turned",
+    "id": 433934,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Newly Turned",
+    "id": 433981,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vampiric Speed",
+    "id": 434028,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vampiric Speed",
+    "id": 434029,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood-Soaked Ground",
+    "id": 434033,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood-Soaked Ground",
+    "id": 434034,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frenzied Bloodthirst",
+    "id": 434075,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vampiric Aura",
+    "id": 434100,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vampiric Aura",
+    "id": 434105,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vampiric Aura",
+    "id": 434107,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bloody Fortitude",
+    "id": 434136,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Infliction of Sorrow",
+    "id": 434143,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Infliction of Sorrow",
+    "id": 434144,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Incite Terror",
+    "id": 434151,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Visceral Strength",
+    "id": 434157,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Visceral Strength",
+    "id": 434159,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Beast",
+    "id": 434237,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "The Blood is Life",
+    "id": 434246,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "The Blood is Life",
+    "id": 434260,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pact of the San'layn",
+    "id": 434261,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sanguine Scent",
+    "id": 434263,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "The Blood is Life",
+    "id": 434273,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Newly Turned",
+    "id": 434493,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Corrupted Blood",
+    "id": 434574,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vampiric Strike",
+    "id": 434674,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wave of Souls",
+    "id": 434711,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reaper's Mark",
+    "id": 434765,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Grim Reaper",
+    "id": 434905,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Smothering Offense",
+    "id": 435005,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Icy Death Torrent",
+    "id": 435010,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wave of Souls",
+    "id": 435802,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reaper's Mark",
+    "id": 436304,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dark Talons",
+    "id": 436687,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death's Messenger",
+    "id": 437122,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Rupture",
+    "id": 437161,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Rupture",
+    "id": 439143,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Icy Death Torrent",
+    "id": 439539,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reaper's Mark",
+    "id": 439594,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reaper's Mark",
+    "id": 439843,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Wave of Souls",
+    "id": 439851,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Expelling Shield",
+    "id": 439948,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reaper of Souls",
+    "id": 440002,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Fever",
+    "id": 440005,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bind in Darkness",
+    "id": 440031,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Runic Overflow",
+    "id": 440097,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rune Carved Plates",
+    "id": 440282,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rune Carved Plates",
+    "id": 440289,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rune Carved Plates",
+    "id": 440290,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death's Messenger",
+    "id": 440422,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death's Messenger",
+    "id": 440447,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death's Terror",
+    "id": 440466,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death's Terror",
+    "id": 440469,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pact of the Deathbringer",
+    "id": 440476,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Expelling Shield",
+    "id": 440739,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Fever",
+    "id": 440769,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Rupture",
+    "id": 440772,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "A Feast of Souls",
+    "id": 440861,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Exterminate",
+    "id": 441378,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Exterminate",
+    "id": 441416,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Exterminate",
+    "id": 441424,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Exterminate",
+    "id": 441426,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death's Messenger",
+    "id": 441511,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wither Away",
+    "id": 441894,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wave of Souls",
+    "id": 442664,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wave of Souls",
+    "id": 443404,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bind in Darkness",
+    "id": 443532,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Swift and Painful",
+    "id": 443560,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Painful Death",
+    "id": 443564,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dark Talons",
+    "id": 443586,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dark Talons",
+    "id": 443595,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Grim Reaper",
+    "id": 443761,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rider's Champion",
+    "id": 444005,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "On a Paler Horse",
+    "id": 444008,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Charge",
+    "id": 444010,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Whitemane's Famine",
+    "id": 444033,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hungering Thirst",
+    "id": 444037,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Apocalypse Now",
+    "id": 444040,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mograine's Might",
+    "id": 444047,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nazgrim's Conquest",
+    "id": 444052,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fury of the Horsemen",
+    "id": 444069,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "A Feast of Souls",
+    "id": 444072,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Horsemen's Aid",
+    "id": 444074,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pact of the Apocalypse",
+    "id": 444083,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Trollbane's Icy Fury",
+    "id": 444097,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mawsworn Menace",
+    "id": 444099,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Apocalypse Now",
+    "id": 444244,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Mograine",
+    "id": 444248,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Whitemane",
+    "id": 444251,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Nazgrim",
+    "id": 444252,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Trollbane",
+    "id": 444254,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Charge",
+    "id": 444347,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death and Decay",
+    "id": 444474,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Mograine's Might",
+    "id": 444505,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Undeath",
+    "id": 444633,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Undeath",
+    "id": 444634,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pact of the Apocalypse",
+    "id": 444726,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Anti-Magic Shell",
+    "id": 444740,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Anti-Magic Shell",
+    "id": 444741,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Apocalyptic Conquest",
+    "id": 444763,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chains of Ice",
+    "id": 444826,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chains of Ice",
+    "id": 444828,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Trollbane's Icy Fury",
+    "id": 444834,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "A Feast of Souls",
+    "id": 444842,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "On a Paler Horse",
+    "id": 445163,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heart Strike",
+    "id": 445504,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Obliterate",
+    "id": 445507,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Scourge Strike",
+    "id": 445508,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Scourge Strike",
+    "id": 445509,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Coil",
+    "id": 445513,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vampiric Strike",
+    "id": 445669,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Exterminate",
+    "id": 447954,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Reaper",
+    "id": 448229,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Anti-Magic Shell",
+    "id": 451777,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Whitemane's Horse",
+    "id": 452817,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mograine's Horse",
+    "id": 452820,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nazgrim's Horse",
+    "id": 452822,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Trollbane's Horse",
+    "id": 452823,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Blood 11.0 Class Set 2pc",
+    "id": 453629,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Blood 11.0 Class Set 4pc",
+    "id": 453630,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Frost 11.0 Class Set 4pc",
+    "id": 453631,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Unholy 11.0 Class Set 4pc",
+    "id": 453632,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Unholy 11.0 Class Set 2pc",
+    "id": 453633,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Frost 11.0 Class Set 2pc",
+    "id": 453634,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pact of the Apocalypse",
+    "id": 453773,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Whitemane",
+    "id": 454389,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Trollbane",
+    "id": 454390,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Nazgrim",
+    "id": 454392,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Mograine",
+    "id": 454393,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ice Prison",
+    "id": 454786,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ice Prison",
+    "id": 454787,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Runic Protection",
+    "id": 454788,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Subduing Grasp",
+    "id": 454822,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Subduing Grasp",
+    "id": 454824,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Osmosis",
+    "id": 454835,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Null Magic",
+    "id": 454842,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vestigial Shell",
+    "id": 454851,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lesser Anti-Magic Shell",
+    "id": 454863,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Draw",
+    "id": 454871,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Suppression",
+    "id": 454886,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "On a Paler Horse",
+    "id": 455044,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Menacing Magus",
+    "id": 455135,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Doomed Bidding",
+    "id": 455386,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Foul Infections",
+    "id": 455396,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Festering Scythe",
+    "id": 455397,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Decomposition",
+    "id": 455398,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wave of Souls",
+    "id": 455804,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wave of Souls",
+    "id": 455857,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostbane",
+    "id": 455993,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shattered Frost",
+    "id": 455996,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arctic Assault",
+    "id": 456230,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cryogenic Chamber",
+    "id": 456237,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hyperpyrexia",
+    "id": 456238,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "The Long Winter",
+    "id": 456240,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cryogenic Chamber",
+    "id": 456370,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cryogenic Chamber",
+    "id": 456371,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unholy Commander",
+    "id": 456698,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Icy Vigor",
+    "id": 457189,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unbreakable",
+    "id": 457468,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unbroken",
+    "id": 457473,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Piledriver",
+    "id": 457506,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unyielding Will",
+    "id": 457574,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unyielding Will",
+    "id": 457575,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Festering Scythe",
+    "id": 458123,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Festering Scythe",
+    "id": 458128,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Hyperpyrexia",
+    "id": 458169,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Decomposition",
+    "id": 458233,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Decomposition",
+    "id": 458264,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Incite Terror",
+    "id": 458478,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bone Collector",
+    "id": 458572,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Carnage",
+    "id": 458752,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bloodied Blade",
+    "id": 458753,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Festering Scythe",
+    "id": 459238,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Hati",
+    "id": 459739,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Infliction of Sorrow",
+    "id": 460049,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bloodied Blade",
+    "id": 460499,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bloodied Blade",
+    "id": 460500,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heart Strike",
+    "id": 460501,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Visceral Strength",
+    "id": 461130,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sudden Doom",
+    "id": 461135,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Charge",
+    "id": 461461,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Death Knight",
+    "id": 462061,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight",
+    "id": 462062,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frost Death Knight",
+    "id": 462063,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unholy Death Knight",
+    "id": 462064,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Coagulating Blood",
+    "id": 463730,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death and Decay",
+    "id": 466066,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Swift and Painful",
+    "id": 469169,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reaper of Souls",
+    "id": 469172,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reaper's Onslaught",
+    "id": 469870,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Unholy 11.1 Class Set 2pc",
+    "id": 1215726,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Frost 11.1 Class Set 2pc",
+    "id": 1215727,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Unholy 11.1 Class Set 4pc",
+    "id": 1215728,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Frost 11.1 Class Set 4pc",
+    "id": 1215729,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Blood 11.1 Class Set 2pc",
+    "id": 1215992,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Blood 11.1 Class Set 4pc",
+    "id": 1215993,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Winning Streak!",
+    "id": 1216813,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Winning Streak!",
+    "id": 1216859,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Winning Streak!",
+    "id": 1217897,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Luck of the Draw!",
+    "id": 1218601,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Luck of the Draw!",
+    "id": 1219012,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadow and Flame",
+    "id": 1221634,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Shadow and Flame",
+    "id": 1221647,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Shadow and Flame",
+    "id": 1221695,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadow and Flame",
+    "id": 1221698,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadow and Flame",
+    "id": 1221747,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Shadow and Flame",
+    "id": 1221831,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Shadow and Flame",
+    "id": 1222390,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Murderous Frenzy",
+    "id": 1222698,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Frost 11.1 Class Set 4pc",
+    "id": 1222722,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Breath of Sindragosa",
+    "id": 1226969,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostbane",
+    "id": 1228433,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Frostbane",
+    "id": 1228436,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostbane",
+    "id": 1228440,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostbane",
+    "id": 1228443,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostbane",
+    "id": 1229279,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostbane",
+    "id": 1229310,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Single-Button Assistant",
+    "id": 1229376,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Horn of Winter",
+    "id": 1229709,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Killing Streak",
+    "id": 1230153,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Howling Blades",
+    "id": 1230223,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Horn of Winter",
+    "id": 1230243,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Icy Onslaught",
+    "id": 1230272,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Icy Onslaught",
+    "id": 1230273,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Northwinds",
+    "id": 1230284,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostreaper",
+    "id": 1230301,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostreaper",
+    "id": 1230306,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Killing Streak",
+    "id": 1230916,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostscythe",
+    "id": 1230930,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostscythe",
+    "id": 1230933,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empower Rune Weapon",
+    "id": 1230959,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empower Rune Weapon",
+    "id": 1231100,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Breath of Sindragosa",
+    "id": 1231316,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Desecrate",
+    "id": 1232346,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Remorseless Winter",
+    "id": 1233152,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostreaper",
+    "id": 1233351,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Price of Progress (desc=PvP Talent)",
+    "id": 1233429,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dark Transformation",
+    "id": 1233448,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Grip",
+    "id": 1233502,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostreaper",
+    "id": 1233609,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostreaper",
+    "id": 1233619,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostreaper",
+    "id": 1233621,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Breath of Sindragosa",
+    "id": 1234304,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Visceral Strength",
+    "id": 1234532,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Desecrate",
+    "id": 1234559,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Desecrate",
+    "id": 1234689,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Desecrate",
+    "id": 1234698,
+    "gcd": 1.25,
+    "castTime": 0
+  },
+  {
+    "name": "Festering Scythe",
+    "id": 1235165,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reaping",
+    "id": 1235261,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dark Transformation",
+    "id": 1235391,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight San'layn 11.2 Class Set 2pc",
+    "id": 1236259,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight San'layn 11.2 Class Set 4pc",
+    "id": 1236260,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Rush",
+    "id": 1236822,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dancing Rune Weapon",
+    "id": 1237032,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dancing Rune Weapon",
+    "id": 1237128,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Epidemic",
+    "id": 1237172,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostscythe",
+    "id": 1237388,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Visceral Strength",
+    "id": 1237848,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rune Carved Weapon",
+    "id": 1238281,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rune Carved Weapon",
+    "id": 1238673,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostbound Will",
+    "id": 1238680,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Grave Mastery",
+    "id": 1238900,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Grave Mastery",
+    "id": 1238902,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blighted Arrow",
+    "id": 1239356,
+    "gcd": 0,
+    "castTime": 3
+  },
+  {
+    "name": "Blighted Arrow",
+    "id": 1239384,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blighted Arrow",
+    "id": 1239385,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blighted Arrow",
+    "id": 1239422,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blighted Arrow",
+    "id": 1239424,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Festering Strike",
+    "id": 1240994,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dread Plague",
+    "id": 1240996,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Festering Scythe",
+    "id": 1241077,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Virulent Plague (Erupt)",
+    "id": 1241167,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dread Plague (Erupt)",
+    "id": 1241171,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Reaper",
+    "id": 1241521,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Clawing Shadows",
+    "id": 1241567,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Clawing Shadows",
+    "id": 1241569,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Outnumber",
+    "id": 1241705,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "March of Madness",
+    "id": 1241707,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Infected Claws",
+    "id": 1241786,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Infected Claws",
+    "id": 1241792,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unholy Devotion",
+    "id": 1241858,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Superstrain",
+    "id": 1242078,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Gargoyle",
+    "id": 1242147,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Forbidden Knowledge",
+    "id": 1242158,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Necrotic Coil",
+    "id": 1242172,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Necrotic Coil",
+    "id": 1242174,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Necrotic Coil",
+    "id": 1242175,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Necrotic Coil",
+    "id": 1242178,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Graveyard",
+    "id": 1242218,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Forbidden Knowledge",
+    "id": 1242223,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Army of the Damned",
+    "id": 1242294,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Scythe of Decay",
+    "id": 1242561,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dread Plague",
+    "id": 1242564,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Scourging",
+    "id": 1242604,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Raise Abomination",
+    "id": 1242608,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blightfall",
+    "id": 1242616,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reaping",
+    "id": 1242654,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Raise Dead",
+    "id": 1242866,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lesser Ghoul",
+    "id": 1242998,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "March of Madness",
+    "id": 1244158,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reaping",
+    "id": 1244519,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Putrefy",
+    "id": 1247378,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Ruptured Viscera",
+    "id": 1247379,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Breath of Sindragosa",
+    "id": 1249658,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mastery: Dreadblade",
+    "id": 1250728,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death and Decay",
+    "id": 1251951,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lesser Ghoul",
+    "id": 1254252,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blightburst",
+    "id": 1254552,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lesser Ghoul",
+    "id": 1255830,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Forbidden Knowledge",
+    "id": 1256565,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Forbidden Knowledge",
+    "id": 1256566,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Forbidden Sacrifice",
+    "id": 1256576,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reanimation",
+    "id": 1256813,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frost Death Knight",
+    "id": 1256915,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Death Knight",
+    "id": 1256916,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unholy Death Knight",
+    "id": 1256918,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Abomination Limb",
+    "id": 1263566,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Abomination Limb",
+    "id": 1263568,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Abomination Limb",
+    "id": 1263569,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Graveyard",
+    "id": 1263602,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Mist",
+    "id": 1263729,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Mist",
+    "id": 1263743,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Mist",
+    "id": 1263752,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Mist",
+    "id": 1263774,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sanguinary Burst",
+    "id": 1263781,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sanguinary Burst",
+    "id": 1263786,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sanguinary Burst",
+    "id": 1263789,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Consumption",
+    "id": 1263824,
+    "gcd": 0.5,
+    "castTime": 0
+  },
+  {
+    "name": "Consumption",
+    "id": 1263825,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Consumption",
+    "id": 1263861,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Consumption",
+    "id": 1263872,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Obliterate",
+    "id": 1264082,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Obliterate Off-Hand",
+    "id": 1264083,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Obliterate",
+    "id": 1264084,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Deadly Reach",
+    "id": 1264235,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lifeblood",
+    "id": 1264296,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lifeblood",
+    "id": 1264304,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dance of Midnight",
+    "id": 1264351,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dancing Rune Weapon",
+    "id": 1264353,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dance of Midnight",
+    "id": 1264405,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dance of Midnight",
+    "id": 1264407,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dance of Midnight",
+    "id": 1264506,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dance of Midnight",
+    "id": 1264568,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Blood 12.0 Class Set 2pc",
+    "id": 1264799,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Blood 12.0 Class Set 4pc",
+    "id": 1264800,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Frost 12.0 Class Set 2pc",
+    "id": 1264801,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Frost 12.0 Class Set 4pc",
+    "id": 1264802,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Unholy 12.0 Class Set 2pc",
+    "id": 1264803,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Unholy 12.0 Class Set 4pc",
+    "id": 1264804,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostwyrm's Fury",
+    "id": 1265384,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Thrill of Blood",
+    "id": 1265547,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Transfusion",
+    "id": 1265574,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Transfusion",
+    "id": 1265577,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chosen of Frostbrood",
+    "id": 1265630,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chosen of Frostbrood",
+    "id": 1265632,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chosen of Frostbrood",
+    "id": 1265633,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chosen of Frostbrood",
+    "id": 1265637,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chosen of Frostbrood",
+    "id": 1265639,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chosen of Frostbrood",
+    "id": 1265640,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Boiling Point",
+    "id": 1265790,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Echoing Fury",
+    "id": 1265855,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frigid Resolve",
+    "id": 1265859,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frigid Hunger",
+    "id": 1265860,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Plague Infusion",
+    "id": 1265869,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Deathly Blows",
+    "id": 1265932,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Let Terror Reign",
+    "id": 1265949,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ride or Die!",
+    "id": 1265959,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Boiling Point",
+    "id": 1265968,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unholy Armaments",
+    "id": 1265971,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Boiling Point",
+    "id": 1265982,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Defiance",
+    "id": 1266818,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Notes",
+    "id": 1266819,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Bond",
+    "id": 1267028,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Bond",
+    "id": 1267032,
+    "gcd": 0,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 0
+  },
+  {
+    "name": "Blood Bond",
+    "id": 1267044,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unholy Aura",
+    "id": 1268917,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empowered Strikes",
+    "id": 1269300,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Frost 12.0 Class Set 4pc",
+    "id": 1269322,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Putrefy",
+    "id": 1270443,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unholy Devotion",
+    "id": 1270491,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rejuvenating Blood",
+    "id": 1271198,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blighted",
+    "id": 1271199,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pestilence",
+    "id": 1271967,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Pestilence",
+    "id": 1271974,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pestilence",
+    "id": 1271975,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pestilence",
+    "id": 1272116,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Putrefy",
+    "id": 1277016,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lesser Ghoul",
+    "id": 1277098,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Bond",
+    "id": 1277365,
+    "gcd": 0,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 0
+  },
+  {
+    "name": "Sweeping Claws",
+    "id": 1278150,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Necromancer's Cunning",
+    "id": 1278154,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bloody Reflection",
+    "id": 1279633,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bloody Reflection",
+    "id": 1279656,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Transfusion",
+    "id": 1280386,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ruptured Viscera",
+    "id": 1280645,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Inevitable",
+    "id": 1280658,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lesser Ghoul",
+    "id": 1282535,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Scythe of Decay",
+    "id": 1282565,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Forbidden Ritual",
+    "id": 1282570,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight - Midnight PrePatch - 11.2 Class Set 2pc",
+    "id": 1283621,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight - Midnight PrePatch - 11.2 Class Set 4pc",
+    "id": 1283622,
+    "gcd": 0,
+    "castTime": 0
+  }
+]
