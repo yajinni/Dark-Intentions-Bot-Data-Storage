@@ -1,0 +1,99 @@
+# Fornae - Frost - 2026-04-22 19:24 - US/Illidan
+# SimC Addon 12.0.5-01
+# WoW 12.0.5.67088, TOC 120005
+# Requires SimulationCraft 1000-01 or newer
+
+mage="Fornae"
+level=90
+race=troll
+region=us
+server=illidan
+role=spell
+professions=alchemy=100/enchanting=100
+spec=frost
+# loot_spec=frost
+
+talents=CAEAMhlVtghLZL4RZzExaQoBYNzwYZmZmlxMzEzMzYmZmZWMzMjZMDEAAYmZmtlZm2AAgNAAAgFA2MmZmBz2wYGWAAAYmNgZgBMDGA
+
+# Saved Loadout: Icy Veins Single targ
+# talents=CAEAMhlVtghLZL4RZzExaQoBYZGGLzMzsMmZGMzMzMmxMLmZmZmxMAAAwMzMLLzM2AAgNAAAgNA2MmZmBz28AGzwCAAAzsBMDMgZwA
+# Saved Loadout: Single target cleave
+# talents=CAEAMhlVtghLZL4RZzExaQoBYNzwYZmZmlxMzgZmZMzMzMLmZmxMmBAAAmZmZbZmxGAAsBAAAsAwmxMzMY2GGzwCAAAzsBMDMgZwA
+# Saved Loadout: icy veins m+
+# talents=CAEAMhlVtghLZL4RZzExaQoBYZGmZZmZmlxMzgZGzMzMzMLmZGmxMAAAwMzMLLzM2AAgNAAAgFA2MmZmBz2wYmxCAAAzsBMDMgZwA
+
+# Brambledawn Halo (276)
+head=,id=251080,enchant_id=7989,bonus_id=13440/6652/12667/13577/12699/12798
+# Masterwork Sin'dorei Amulet (285)
+neck=,id=240950,gem_id=240983,bonus_id=12214/12497/12066/8791/13622,crafted_stats=40/32,crafting_quality=5
+# Voidbreaker's Leyline Nexi (276)
+shoulder=,id=250058,enchant_id=7973,bonus_id=6652/13440/13340/13574/12798
+# Voidbreaker's Encryption (289)
+back=,id=250055,bonus_id=42/13440/12806
+# Voidbreaker's Robe (289)
+chest=,id=250063,enchant_id=7987,bonus_id=13336/13440/6652/13575/12806
+# Gorgeous Blouse (1)
+shirt=,id=98080
+# Silvermoon City Tabard (1)
+tabard=,id=45585
+# Martyr's Bindings (285)
+wrist=,id=239648,bonus_id=12214/12497/12066/8960/12384/8791/13622/12667,crafted_stats=40/32,crafting_quality=5
+# Voidbreaker's Gloves (289)
+hands=,id=250061,bonus_id=42/13440/13337/13574/12806
+# Voidbreaker's Sage Cord (276)
+waist=,id=250057,gem_id=240898,bonus_id=6652/13534/13440/12798
+# Voidbreaker's Britches (276)
+legs=,id=250059,enchant_id=7935,bonus_id=6652/13440/13339/13575/12798
+# Dream-Scorched Striders (263)
+feet=,id=249373,enchant_id=8019,bonus_id=6652/13577/13334/12794
+# Occlusion of Void (266)
+finger1=,id=251217,enchant_id=7965,gem_id=240898,bonus_id=13440/42/13668/12699/12795
+# Omission of Light (266)
+finger2=,id=251093,enchant_id=7965,gem_id=240898,bonus_id=12795/13440/6652/13668/12699
+# Gaze of the Alnseer (276)
+trinket1=,id=249343,bonus_id=6652/13334/12798
+# Vaelgor's Final Stare (276)
+trinket2=,id=249346,bonus_id=40/13334/12798
+# Aln'hara Cane (285)
+main_hand=,id=245770,enchant_id=8039,bonus_id=12214/12497/12066/12693/8960/8791/13622,crafted_stats=36/40,crafting_quality=5
+
+### Gear from Bags
+#
+# Talisman of the Shal'dorei (17)
+# neck=,id=141326
+#
+# Reshii Wraps (170)
+# back=,id=235499,enchant_id=7414,gem_id=238037,bonus_id=12401/9893/12255
+#
+# Hara'ti Defender's Sash (263)
+# waist=,id=263265,bonus_id=13577/12790/12667
+#
+# Devouring Outrider's Chausses (253)
+# legs=,id=250457,bonus_id=6652/13577/13333/12787
+#
+# Vibrant Wilderloop (266)
+# finger1=,id=249620,bonus_id=6652/13668/12795
+#
+# Preyseeker's Circle (266)
+# finger1=,id=259914,enchant_id=7964,gem_id=240866,bonus_id=6652/13668/12795
+#
+# Zen Alchemist Stone (15)
+# trinket1=,id=75274
+#
+# Primal Philosopher's Stone (171)
+# trinket1=,id=241291,bonus_id=12249/12248/4785/12495,crafting_quality=3
+#
+# Wand of Arboreal Artifice (49)
+# main_hand=,id=180023,bonus_id=7187/6652/1524/6646
+
+### Additional Character Info
+#
+# catalyst_currencies=3269:8/3378:6/2813:8/3116:8
+#
+# upgrade_currencies=c:3347:85/c:3383:136/c:1813:55488/c:3341:50/c:3343:38/c:1792:3242/c:1931:931/c:2122:5/i:230906:1/i:224072:2/i:204276:2/i:232875:1/i:231769:1
+#
+# slot_high_watermarks=0:276:276/1:285:285/2:276:276/3:289:289/4:276:276/5:276:276/6:263:276/7:285:285/8:289:289/9:266:266/10:276:276/11:289:289/12:285:285/13:266:266/14:0:250/15:0:237/16:276:276
+#
+# upgrade_achievements=42767/42768/61809
+
+# Checksum: 845941d8
