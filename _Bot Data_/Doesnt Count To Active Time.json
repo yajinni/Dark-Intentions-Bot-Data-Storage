@@ -10,11 +10,6 @@
     "reason": "Secondary tick/pull effect, occurs automatically while buff is active"
   },
   {
-    "id": 1263569,
-    "name": "Abomination Limb (Proc)",
-    "reason": "Secondary tick/pull effect, occurs automatically while buff is active"
-  },
-  {
     "id": 441426,
     "name": "Exterminate (Secondary)",
     "reason": "Secondary hit/follow-up to the primary Exterminate cast"
@@ -28,11 +23,6 @@
     "id": 48707,
     "name": "Anti-Magic Shell",
     "reason": "Off-GCD defensive utility"
-  },
-  {
-    "id": 49028,
-    "name": "Dancing Rune Weapon",
-    "reason": "Off-GCD major cooldown"
   },
   {
     "id": 49039,
