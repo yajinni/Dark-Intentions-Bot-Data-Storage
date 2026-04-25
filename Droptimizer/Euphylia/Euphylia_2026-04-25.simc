@@ -1,0 +1,110 @@
+# Euphylia - Frost - 2026-04-25 10:44 - US/Moon Guard
+# SimC Addon 12.0.5-01
+# WoW 12.0.5.67186, TOC 120005
+# Requires SimulationCraft 1000-01 or newer
+
+mage="Euphylia"
+level=90
+race=void_elf
+region=us
+server=moon_guard
+role=spell
+professions=alchemy=100/enchanting=55
+spec=frost
+# loot_spec=frost
+
+talents=CAEAMhlVtghLZL4RZzExaQoBYZGGLzYmlxMzEzMmZmZmZWMzMjZMDEAAYmZmllZm2AAgNAAAgNA22GzMzgZbYMDLAAAMzGwMMGwMYA
+
+# Saved Loadout: M+
+# talents=CAEAMhlVtghLZL4RZzExaQoBYNzwYZmZmFmZGMDzMzMzMLmZGmxMAAAwMzMLLzM2AAgNAAAgFA22GzMzgZbYMzYDAAgZ2AmhxAmBD
+# Saved Loadout: Cleave
+# talents=CAEAMhlVtghLZL4RZzExaQoBYZGGLzYmlxMzgZGzMzMzMLmZmxMmBAAAmZmZZZmxGAAsBAAAsBw22YmZGMbDjZYBAAgZ2AmhxAmBD
+# Saved Loadout: PvP
+# talents=CAEAMhlVtghLZL4RZzExaQoBYNstMzyMzMLziZGMGzMzMmZxMzMzMmZWmxMz2sAAmZmZZZmxGAAsAAAAsBw2yYmZGYxYMzYBAAgZWAmhxAMYA
+# Saved Loadout: Single Target
+# talents=CAEAMhlVtghLZL4RZzExaQoBYZGGLzYmlxMzgZGzMmxMLmZmZmxMAAAwMzMLLzM2AAgNAAAgNA22GzMzgZbeAjZYBAAgZ2AmhxAmBD
+
+# Voidbreaker's Veil (289)
+head=,id=250060,enchant_id=8017,bonus_id=6652/12667/13440/13338/13575/12806
+# Masterwork Sin'dorei Amulet (285)
+neck=,id=240950,gem_id=240983,bonus_id=12214/12497/12066/12715/8791/13622,crafted_stats=40/36,crafting_quality=5
+# Sprawling Fibershells (276)
+shoulder=,id=249634,enchant_id=8001,bonus_id=6652/13577/12798
+# Adherent's Silken Shroud (285)
+back=,id=239656,bonus_id=12214/12497/12066/8960/12384/8791/13622,crafted_stats=36/40,crafting_quality=5
+# Voidbreaker's Robe (276)
+chest=,id=250063,enchant_id=7987,bonus_id=12802/13335/13336/6652/13575
+# Fashionable Undershirt (1)
+shirt=,id=151116
+# Illustrious Guild Tabard (1)
+tabard=,id=69209
+# Bracers of Blazing Light (289)
+wrist=,id=258580,bonus_id=13440/6652/12667/13577/12699/12806
+# Voidbreaker's Gloves (289)
+hands=,id=250061,bonus_id=12806/43/13440/13337/13574/3174
+# Voidbreaker's Sage Cord (289)
+waist=,id=250057,bonus_id=6652/12667/13440/12806
+# Voidbreaker's Britches (276)
+legs=,id=250059,enchant_id=7935,bonus_id=6652/13440/13339/13575/12798
+# Dream-Scorched Striders (276)
+feet=,id=249373,enchant_id=7963,bonus_id=6652/13577/13335/12802
+# Occlusion of Void (276)
+finger1=,id=251217,enchant_id=7967,gem_id=240908,bonus_id=13440/6652/13668/12699/12798
+# Platinum Star Band (276)
+finger2=,id=193708,enchant_id=7967,gem_id=240908,bonus_id=13440/6652/13668/12699/12798
+# Vaelgor's Final Stare (263)
+trinket1=,id=249346,bonus_id=42/13333/12790
+# Gaze of the Alnseer (263)
+trinket2=,id=249343,bonus_id=6652/13333/12790
+# Aln'hara Cane (285)
+main_hand=,id=245770,enchant_id=8039,bonus_id=12214/12497/12066/12693/8960/8791/13622,crafted_stats=40/36,crafting_quality=5
+
+### Gear from Bags
+#
+# Bright Linen Fishing Hat (180)
+# head=,id=239644,bonus_id=12252/12251/12498,crafting_quality=1
+#
+# Amani Totemstring (246)
+# neck=,id=265740,bonus_id=12785/42/13668
+#
+# Ribbon of Coiled Malice (276)
+# neck=,id=249337,gem_id=240983,bonus_id=6652/13668/13334/12798
+#
+# Hara'ti Defender's Sash (263)
+# waist=,id=263265,bonus_id=13577/12790/12667
+#
+# Vibrant Wilderloop (276)
+# finger1=,id=249620,enchant_id=7967,gem_id=240908,bonus_id=6652/13668/12798
+#
+# Omission of Light (276)
+# finger1=,id=251093,enchant_id=7967,gem_id=240908,bonus_id=13440/6652/13668/12699/12798
+#
+# Purloined Wedding Ring (276)
+# finger1=,id=49812,enchant_id=7969,gem_id=240896,bonus_id=13440/42/13668/12699/12798
+#
+# Eye of the Drowning Void (269)
+# trinket1=,id=250257,bonus_id=13440/42/12699/12796
+#
+# Heart of Wind (276)
+# trinket1=,id=250256,bonus_id=13440/6652/12699/12798
+#
+# Primal Philosopher's Stone (165)
+# trinket1=,id=241291,bonus_id=12249/12248/4785/12493,crafting_quality=1
+#
+# Crucible of Erratic Energies (263)
+# trinket1=,id=264507,bonus_id=12790
+#
+# Sigil of the Restless Heart (266)
+# off_hand=,id=251094,bonus_id=12795/13440/6652/12699
+
+### Additional Character Info
+#
+# catalyst_currencies=3269:8/3378:3/2813:8/3116:8
+#
+# upgrade_currencies=c:3347:19/c:3383:791/c:1813:1514/c:3341:500/c:3343:12/c:1792:1/i:232875:1
+#
+# slot_high_watermarks=0:289:289/1:285:285/2:276:289/3:276:276/4:289:289/5:276:276/6:276:289/7:289:289/8:289:289/9:276:276/10:269:269/11:285:289/12:285:285/13:263:266/14:1:263/15:1:259/16:266:285
+#
+# upgrade_achievements=42767/42768/61809
+
+# Checksum: b79bc978
