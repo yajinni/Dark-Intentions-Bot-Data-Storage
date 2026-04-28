@@ -3,14 +3,26 @@
 ## 1. Raid Consumables & Gear
 | Category | Recommendation | Notes |
 | :--- | :--- | :--- |
-| **Flask** | Flask of the Shattered Sun | Intellect / Haste focus |
+| **Flask** | Flask of the Blood Knights / Magisters | Haste or Mastery focus |
 | **Potion** | Light's Potential | Use during Voidform burst |
-| **Food** | Harandar Celebration | |
+| **Food** | Harandar Celebration / Royal Roast | |
 | **Weapon Oil** | Thalassian Phoenix Oil | |
+
+### **Enchants (Midnight 12.0.5)**
+| Slot | Recommended Enchant | Notes |
+| :--- | :--- | :--- |
+| **Weapon** | Enchant Weapon - Arcane Mastery | Or Berserker's Rage (Haste proc) |
+| **Helm** | Empowered Blessing of Speed | |
+| **Chest** | Mark of the Worldsoul | Or Mark of the Magister |
+| **Shoulders** | Akil'zon's Swiftness | Or Flight of the Eagle |
+| **Legs** | Sunfire Silk Spellthread | |
+| **Rings** | Eyes of the Eagle | Or Thalassian Haste / Amani Mastery |
+| **Feet** | Farstrider's Hunt | Or Lynx's Dexterity |
 
 ### Gems
 *   **Unique Gem:** Indecipherable Eversong Diamond
-*   **Standard Fill:** Flawless Versatile Garnet (Haste/Mastery)
+*   **Standard Fill:** Flawless Masterful Peridot (Haste) or Flawless Quick Amethyst (Mastery)
+
 
 ## 2. Spend Resource: Shadow Word: Madness
 This is the defining audit metric for 12.0.5.

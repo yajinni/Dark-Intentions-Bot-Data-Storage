@@ -5,12 +5,24 @@
 | :--- | :--- | :--- |
 | **Flask** | Flask of the Shattered Sun | Intellect / Haste focus |
 | **Potion** | Light's Potential | Pair with Evangelism Ramps |
-| **Food** | Harandar Celebration | |
+| **Food** | Harandar Celebration / Royal Roast | |
 | **Weapon Oil** | Thalassian Phoenix Oil | |
+
+### **Enchants (Midnight 12.0.5)**
+| Slot | **Oracle** Recommendation | **Voidweaver** Recommendation |
+| :--- | :--- | :--- |
+| **Weapon** | Acuity of the Ren'dorei | Berserker's Rage |
+| **Helm** | Empowered Hex of Leeching | Empowered Hex of Leeching |
+| **Chest** | Mark of the Magister | Mark of the Magister |
+| **Shoulders** | Silvermoon's Mending | Silvermoon's Mending |
+| **Legs** | Arcanoweave Spellthread | Arcanoweave Spellthread |
+| **Rings** | Silvermoon's Alacrity | Silvermoon's Alacrity |
+| **Feet** | Shaladrassil's Roots | Shaladrassil's Roots |
 
 ### Gems
 *   **Unique Gem:** Indecipherable Eversong Diamond
 *   **Standard Fill:** Flawless Versatile Garnet (Haste/Vers)
+
 
 ## 2. Apex Talent: Master the Darkness
 This is the primary 12.0.5 proc to audit.

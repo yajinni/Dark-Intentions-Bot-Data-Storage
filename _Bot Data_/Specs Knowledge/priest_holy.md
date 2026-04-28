@@ -5,12 +5,24 @@
 | :--- | :--- | :--- |
 | **Flask** | Flask of the Shattered Sun | Critical Strike focus |
 | **Potion** | Light's Potential | Use during Apotheosis burst |
-| **Food** | Harandar Celebration | or Silvermoon Parade (Feast) |
+| **Food** | Harandar Celebration / Royal Roast | |
 | **Weapon Oil** | Thalassian Phoenix Oil | |
+
+### **Enchants (Midnight 12.0.5)**
+| Slot | Recommended Enchant | Notes |
+| :--- | :--- | :--- |
+| **Weapon** | Enchant Weapon - Acuity of the Ren'dorei | Or Jan'alai's Precision |
+| **Helm** | Empowered Hex of Leeching | |
+| **Chest** | Mark of the Worldsoul | Or Mark of the Magister |
+| **Shoulders** | Silvermoon's Mending | Or Thalassian Recovery |
+| **Legs** | Arcanoweave Spellthread | |
+| **Rings** | Eyes of the Eagle | Or Nature's Fury |
+| **Feet** | Shaladrassil's Roots | Or Farstrider's Hunt |
 
 ### Gems
 *   **Unique Gem:** Indecipherable Eversong Diamond
 *   **Standard Fill:** Flawless Versatile Garnet (Crit/Vers)
+
 
 ## 2. Midnight Apex Talent: Benediction
 This is a core 12.0.5 audit metric.
