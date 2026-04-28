@@ -10,7 +10,6 @@
 | **Chest** | Crystalline Radiance |
 | **Legs** | Stormbound Armor Kit |
 | **Boots** | Enchant Boots - Shaladrassil's Roots |
-| **Wrist** | Enchant Bracer - Chant of Armored Speed |
 | **Rings** | Radiant Mastery or Radiant Haste |
 | **Main Hand** | Rune of the Fallen Crusader |
 | **Off Hand (DW)** | Rune of Hysteria |

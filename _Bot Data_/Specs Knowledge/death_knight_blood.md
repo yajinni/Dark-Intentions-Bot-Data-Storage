@@ -10,7 +10,6 @@
 | **Chest** | Enchant Chest - Mark of the Worldsoul |
 | **Legs** | Blood Knight's Armor Kit (Strength + Stamina) |
 | **Boots** | Enchant Boots - Shaladrassil's Roots |
-| **Wrist** | Enchant Bracer - Chant of Armored Leech |
 | **Rings** | Silvermoon's Tenacity (Deathbringer) or Nature's Fury (San'layn) |
 | **Main Hand** | Rune of Sanguination (San'layn / Survival) or Rune of the Fallen Crusader (Deathbringer / General) |
 

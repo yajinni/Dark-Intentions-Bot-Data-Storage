@@ -10,7 +10,6 @@
 | **Chest** | Enchant Chest - Mark of the Worldsoul |
 | **Legs** | Stormbound Armor Kit |
 | **Boots** | Enchant Boots - Shaladrassil's Roots |
-| **Wrist** | Enchant Bracer - Chant of Armored Leech |
 | **Rings** | Radiant Mastery |
 | **Main Hand** | Rune of the Fallen Crusader |
 

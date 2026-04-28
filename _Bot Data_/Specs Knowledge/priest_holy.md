@@ -10,7 +10,6 @@
 | **Chest** | Enchant Chest - Mark of the Worldsoul |
 | **Legs** | Arcanoweave Spellthread |
 | **Boots** | Enchant Boots - Shaladrassil's Roots |
-| **Wrist** | Enchant Bracer - Chant of Armored Leech |
 | **Rings** | Enchant Ring - Eyes of the Eagle |
 | **Main Hand** | Enchant Weapon - Acuity of the Ren'dorei |
 
