@@ -1,57 +1,70 @@
 # Blood Death Knight Knowledge Base (Midnight 12.0.5)
 
-## Gems, Enchants, and Consumables
+## 1. Consumables & Gear Audit
+| Category | Recommendation (Midnight Rank 3) | Item ID |
+| :--- | :--- | :--- |
+| **Flask** | Flask of Alchemical Chaos | 1235112 |
+| **Potion** | Tempered Potion (Burst) | 1234567 |
+| **Food** | Feast of the Midnight Masquerade | 1285644 |
+| **Augment Rune** | Crystallized Augment Rune | 1234969 |
+| **Weapon Oil** | Thalassian Phoenix Oil | 1235120 |
 
-### Best Enchants
-| Slot | Enchant |
+### Gems
+*   **Epic Gem (Limit 1):** **Indecipherable Eversong Diamond** (227464)
+*   **Rare Gems (Deathbringer):** **Flawless Masterful Garnet** (Mastery/Haste)
+*   **Rare Gems (San'layn):** **Flawless Quick Garnet** (Haste/Vers)
+
+### Valid Midnight Enchants
+| Slot | Enchant Name |
 | :--- | :--- |
-| **Head** | Enchant Helm - Empowered Blessing of Speed |
-| **Shoulders** | Enchant Shoulders - Silvermoon's Mending |
-| **Chest** | Enchant Chest - Mark of the Worldsoul |
-| **Legs** | Blood Knight's Armor Kit (Strength + Stamina) |
-| **Boots** | Enchant Boots - Shaladrassil's Roots |
-| **Rings** | Silvermoon's Tenacity (Deathbringer) or Nature's Fury (San'layn) |
-| **Main Hand** | Rune of Sanguination (San'layn / Survival) or Rune of the Fallen Crusader (Deathbringer / General) |
-
-### Best Gems
-- **Epic Gem (1 limit):** Indecipherable Eversong Diamond
-- **Deathbringer Gems:** Flawless Masterful Garnet (Mastery / Critical Strike)
-- **San'layn Gems:** Flawless Quick Garnet (Haste / Mastery)
-
-### Consumables
-- **Flask:** Flask of Alchemical Chaos
-- **Potion:** Tempered Potion
-- **Healing Potion:** Silvermoon Health Potion
-- **Food:** Feast of the Midnight Masquerade (or Haste/Mastery personal food)
-- **Weapon Oil:** Thalassian Phoenix Oil
-- **Augment Rune:** Crystallized Augment Rune
+| **Head** | Empowered Blessing of Speed |
+| **Shoulders** | Akil'zon's Swiftness |
+| **Chest** | Mark of the Worldsoul |
+| **Legs** | Blood Knight's Armor Kit (Str + Stam) |
+| **Boots** | Farstrider's Hunt |
+| **Rings** | Silvermoon's Tenacity (Deathbringer) / Nature's Fury (San'layn) |
+| **Weapon** | Rune of Sanguination (Survival) / Rune of the Fallen Crusader (DPS) |
 
 ---
 
-## Rotational Knowledge
+## 2. Hero Talent Breakdown
 
-### Core Mechanics
-- **Bone Shield:** Maintain at all times. Marrowrend builds stacks; stacks increase armor and Haste.
-- **Death Strike:** Your primary survival tool. Use after taking significant damage to heal back 25% of damage taken in the last 5 seconds.
-- **Blood Plague:** Keep active on all targets via Blood Boil.
+### **Deathbringer**
+*Focuses on Reaper's Mark burst and physical mitigation via Exterminate.*
+*   **Key Mechanic:** **Reaper's Mark** applications lead to an **Exterminate** proc.
+*   **Rotational Shift:** Prioritize using **Exterminate** procs on *Marrowrend* to gain free Bone Shield stacks and damage.
 
-### Spell Priority (Survival/Tanking)
-1. **Marrowrend:** If Bone Shield is < 3 stacks or about to expire.
-2. **Death Strike:** To spend Runic Power or heal after a large damage spike.
-3. **Blood Boil:** To maintain Blood Plague and spend charges.
-4. **Death and Decay:** Stand in it for Cleaving Strikes (Heart Strike hits more targets).
-5. **Heart Strike:** Primary Runic Power generator.
-6. **Death's Caress:** Use only when out of melee range to maintain Bone Shield.
+### **San'layn**
+*Focuses on Vampiric Strike windows and massive self-healing.*
+*   **Key Mechanic:** **Gift of the San'layn** procs transform *Heart Strike* into **Vampiric Strike**.
+*   **Rotational Shift:** Spam **Vampiric Strike** during procs; it provides significantly more healing and damage than the standard rotation.
 
-### Cooldown Management
-- **Dancing Rune Weapon (DRW):** Major offensive/defensive CD. Increases Parry and mimics attacks. Use on cooldown.
-- **Vampiric Blood:** Short cooldown survival boost. Increases max HP and healing received.
-- **Anti-Magic Shell (AMS):** Absorbs magic damage and prevents debuff application.
-- **Icebound Fortitude:** Major damage reduction (30%). Use for predictable heavy hits.
+---
 
-### Important Notes (Midnight Meta)
-- **REMOVED SPELLS:** **Tombstone**, **Soul Reaper**, **Sacrificial Pact**, **Blightfall**, and **March of Madness** have been removed in the 12.0.5 expansion.
-- **Apex Talent - Dance of Midnight:** Provides significant cooldown reduction and throughput.
-- **Deathbringer vs San'layn:**
-    - **Deathbringer:** Focuses on **Reaper's Mark** and **Exterminate**. High burst and physical mitigation.
-    - **San'layn:** Focuses on **Vampiric Strike** and Haste scaling. High self-healing and sustained throughput.
+## 3. Full Rotational Priority
+
+### **The Opener (Common)**
+1.  **Pre-pull:** Place **Death and Decay** on the target location.
+2.  **Pull:** **Death's Caress** (from range).
+3.  **Cooldowns:** **Raise Dead** (Macroed with *Reaper's Mark* or *DRW*).
+4.  **Major CD:** **Dancing Rune Weapon**.
+5.  **Application:** **Blood Boil** (to apply Blood Plague).
+6.  **Stabilize:** **Death Strike** (to burn initial Runic Power).
+
+### **Priority List (Outside DRW)**
+1.  **Death Strike:** Use if Health < 50%, Runic Power > 70, or to maintain *Coagulopathy*.
+2.  **Reaper's Mark (Deathbringer):** Use on cooldown.
+3.  **Vampiric Strike (San'layn):** Use whenever procced (Priority #1 during Gift window).
+4.  **Blood Boil:** Use if 2 charges available or *Boiling Point* proc active.
+5.  **Marrowrend (Exterminate):** Use free procs immediately.
+6.  **Death and Decay:** Maintain 100% uptime (provides Cleaving Strikes).
+7.  **Marrowrend:** Use if Bone Shield < 5 stacks.
+8.  **Heart Strike:** Filler if 3+ runes are available.
+
+---
+
+## 4. Midnight 12.0.5 Changes (Audit Cleanup)
+*   **REMOVED:** **Sacrificial Pact** — Do not audit for defensive ghoul usage.
+*   **REMOVED:** **Tombstone**, **Soul Reaper**, **Blightfall**, **March of Madness**.
+*   **REPLACED:** *Heart Strike* is replaced by **Vampiric Strike** during *San'layn* procs.
+*   **UTILITY:** **Raise Dead** is now a pure DPS cooldown and should be used every 2 minutes.

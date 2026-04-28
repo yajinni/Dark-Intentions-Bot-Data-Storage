@@ -1,56 +1,68 @@
 # Frost Death Knight Knowledge Base (Midnight 12.0.5)
 
-## Gems, Enchants, and Consumables
+## 1. Consumables & Gear Audit
+| Category | Recommendation (Midnight Rank 3) | Item ID |
+| :--- | :--- | :--- |
+| **Flask** | Flask of Alchemical Chaos | 1235112 |
+| **Potion** | Tempered Potion (Burst) | 1234567 |
+| **Food** | Feast of the Midnight Masquerade | 1285644 |
+| **Augment Rune** | Crystallized Augment Rune | 1234969 |
+| **Weapon Oil** | Thalassian Phoenix Oil | 1235120 |
 
-### Best Enchants
-| Slot | Enchant |
+### Gems
+*   **Epic Gem (Limit 1):** **Indecipherable Eversong Diamond** (227464)
+*   **Rare Gems:** **Flawless Masterful Garnet** (Mastery/Haste) and **Flawless Deadly Amethyst** (Crit/Vers)
+
+### Valid Midnight Enchants
+| Slot | Enchant Name |
 | :--- | :--- |
-| **Head** | Enchant Helm - Empowered Blessing of Speed |
-| **Shoulders** | Enchant Shoulders - Silvermoon's Mending |
-| **Chest** | Crystalline Radiance |
-| **Legs** | Stormbound Armor Kit |
-| **Boots** | Enchant Boots - Shaladrassil's Roots |
-| **Rings** | Radiant Mastery or Radiant Haste |
-| **Main Hand** | Rune of the Fallen Crusader |
-| **Off Hand (DW)** | Rune of Hysteria |
-
-### Best Gems
-- **Epic Gem (1 limit):** Culminating Blasphemite
-- **Deathbringer Gems:** Flawless Masterful Garnet (Mastery / Critical Strike)
-- **Rider of the Apocalypse Gems:** Flawless Deadly Amethyst (Critical Strike / Mastery)
-
-### Consumables
-- **Flask:** Flask of Tempered Swiftness
-- **Potion:** Tempered Potion
-- **Healing Potion:** Silvermoon Health Potion
-- **Food:** Beleaguered Beef (Mastery)
-- **Weapon Oil:** Thalassian Phoenix Oil
-- **Augment Rune:** Crystallized Augment Rune
+| **Head** | Empowered Blessing of Speed |
+| **Shoulders** | Akil'zon's Swiftness |
+| **Chest** | Mark of the Worldsoul |
+| **Legs** | Forest Hunter's Armor Kit (Str + Stam) |
+| **Boots** | Farstrider's Hunt |
+| **Rings** | Silvermoon's Tenacity |
+| **Weapon (BoS)** | Rune of the Fallen Crusader (MH) / Rune of the Stoneskin Gargoyle (OH) |
+| **Weapon (Frostbane)** | Rune of the Fallen Crusader (MH) / Rune of Razorice (OH) |
 
 ---
 
-## Rotational Knowledge
+## 2. Hero Talent Breakdown
 
-### Core Mechanics
-- **Killing Machine:** Makes your next Obliterate a guaranteed critical strike and Frost damage.
-- **Rime:** Makes your next Howling Blast free and deal extra damage.
-- **Pillar of Frost:** Your primary burst window. Align with Reaper's Mark.
+### **Deathbringer**
+*Focuses on Reaper's Mark and high-impact Obliterate procs.*
+*   **Key Mechanic:** **Reaper's Mark** applications lead to **Exterminate** procs.
+*   **Rotational Shift:** Prioritize **Exterminate** procs on *Obliterate* or *Frostscythe*. These procs reduce the Rune cost and increase critical strike damage.
 
-### Spell Priority (Single-Target)
-1. **Remorseless Winter:** Keep active on cooldown.
-2. **Gathering Storm:** Maintain stacks during Remorseless Winter.
-3. **Obliterate:** Primary spender. Prioritize with Killing Machine procs.
-4. **Howling Blast:** Only with Rime procs.
-5. **Frost Strike:** Spend Runic Power to avoid capping.
-6. **Death and Decay:** Only for cleave/AoE scenarios.
+### **Riders of the Apocalypse**
+*Focuses on high uptime, movement utility, and summoning the Horsemen.*
+*   **Key Mechanic:** **Death Charge** utility and **Chosen of Frostbrood** summons.
+*   **Rotational Shift:** **Frostwyrm's Fury** recall is now off the GCD; use it during the **Chosen of Frostbrood** window to maximize Horsemen damage.
 
-### Cooldown Management
-- **Pillar of Frost:** 1-minute CD. Increases Strength. Always sync with **Reaper's Mark**.
-- **Reaper's Mark:** Align with Pillar of Frost to trigger Soul Wave.
-- **Empower Rune Weapon:** 2-minute CD. Increases Haste and resource generation.
-- **Frostwyrm's Fury:** Massive AoE burst. Now OFF the Global Cooldown (GCD) in 12.0.5.
+---
 
-### Important Notes (Midnight Meta)
-- **REMOVED SPELLS:** **Soul Reaper** and **Sacrificial Pact** have been removed from the Frost toolkit.
-- **Apex Saliance:** Rank 3 is now off the Global Cooldown (GCD).
-- **Deathbringer:** Dominant Hero Talent tree, focusing on **Exterminate** and **Soul Wave**.
+## 3. Full Rotational Priority
+
+### **The Opener (Breath of Sindragosa)**
+1.  **Empower Rune Weapon** (Pre-pull).
+2.  **Reaper's Mark** (Immediate).
+3.  **Breath of Sindragosa** + **Pillar of Frost** + **Potion** + **Trinket** + **Raise Dead**.
+4.  **Frostwyrm's Fury** (Initial cast).
+5.  **Obliterate** (Priority #1 to maintain Runic Power).
+6.  **Howling Blast** (Only if Rime proc is up and RP is not at risk of dropping).
+
+### **Single-Target Priority (Frostbane / Shattering Blade)**
+1.  **Remorseless Winter:** Keep active at all times.
+2.  **Obliterate (Killing Machine):** Always consume KM procs immediately.
+3.  **Frost Strike / Frostbane:** Use at **5 stacks of Razorice**.
+4.  **Howling Blast (Rime):** Use immediately on proc.
+5.  **Frost Strike:** Runic Power spender to avoid capping.
+6.  **Obliterate:** Filler to generate Runic Power.
+
+---
+
+## 4. Midnight 12.0.5 Changes (Audit Cleanup)
+*   **REMOVED:** **Abominable Limb** — No longer available for Frost.
+*   **REMOVED:** **Soul Reaper** — Removed from the Frost toolkit.
+*   **CHANGED:** **Frostwyrm's Fury** recall is now **off the GCD**.
+*   **REPLACED:** The "Obliteration" playstyle is now formally **Frostbane** or **Shattering Blade** builds.
