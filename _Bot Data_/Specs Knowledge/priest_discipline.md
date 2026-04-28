@@ -1,52 +1,66 @@
 # Discipline Priest Knowledge Base (Midnight 12.0.5)
 
-## Gems, Enchants, and Consumables
+## 1. Consumables & Gear Audit
+| Category | Recommendation (Midnight Rank 3) | Item ID |
+| :--- | :--- | :--- |
+| **Flask** | Flask of Alchemical Chaos | 1235112 |
+| **Potion** | Potion of Recklessness | 1234569 |
+| **Food** | Feast of the Midnight Masquerade | 1285644 |
+| **Augment Rune** | Crystallized Augment Rune | 1234969 |
+| **Weapon Oil** | Thalassian Phoenix Oil | 1235120 |
 
-### Best Enchants
-| Slot | Enchant |
+### Gems
+*   **Epic Gem (Limit 1):** **Indecipherable Eversong Diamond** (Intellect + Haste)
+*   **Haste Focus:** **Flawless Quick Lapis** (Haste/Vers)
+*   **Crit Focus:** **Flawless Deadly Peridot** (Crit/Vers)
+
+### Valid Midnight Enchants
+| Slot | Enchant Name |
 | :--- | :--- |
-| **Head** | Enchant Helm - Empowered Hex of Leeching |
-| **Chest** | Enchant Chest - Mark of the Magister |
+| **Head** | Empowered Hex of Leeching |
+| **Shoulders** | Silvermoon's Mending |
+| **Chest** | Mark of the Magister |
 | **Legs** | Arcanoweave Spellthread |
-| **Rings** | Enchant Ring - Silvermoon's Alacrity |
-| **Main Hand** | Enchant Weapon - Acuity of the Ren'dorei |
-
-### Best Gems
-- **Epic Gem (1 limit):** Indecipherable Eversong Diamond
-- **Rare Gems:** Flawless Deadly Peridot (Critical Strike / Versatility)
-
-### Consumables
-- **Flask:** Flask of the Blood Knights
-- **Potion:** Potion of Recklessness (Throughput) or Lightfused Mana Potion (Mana)
-- **Food:** Royal Roast
-- **Weapon Oil:** Thalassian Phoenix Oil
+| **Boots** | Shaladrassil's Roots |
+| **Rings** | Silvermoon's Alacrity |
+| **Weapon** | Acuity of the Ren'dorei (Oracle) / Berserker's Rage (Voidweaver) |
 
 ---
 
-## Rotational Knowledge
+## 2. Hero Talent Breakdown
 
-### Core Mechanics
-- **Atonement:** Applied via **Power Word: Radiance**, **Power Word: Shield**, and **Flash Heal**. Damage dealt by the Priest heals all targets with active Atonement.
-- **Ramping:** Preparing the raid with Atonements before a major damage event occurs.
-- **Plea:** Low-cost Atonement applicator for single-target maintenance.
+### **Oracle (Pure Throughput)**
+*Focuses on high Atonement uptime and doubled Penance usage.*
+*   **Key Mechanic:** **Oracle's Wisdom** (Passive) grants a 2nd charge of *Penance*.
+*   **Rotational Shift:** You now use **Penance** as your primary Atonement applicator on allies. Ramps are much faster due to the extra charge.
 
-### Spell Priority (Healing/Damage)
-1. **Power Word: Radiance:** Primary group Atonement applicator. Use to setup bursts.
-2. **Penance:** Use on cooldown (offensively) to heal through Atonement.
-3. **Mind Blast:** High priority damage to generate Atonement healing.
-4. **Power Word: Shield:** Use to prevent damage and apply Atonement.
-5. **Flash Heal:** Use for single-target spot healing and fast Atonement application.
-6. **Shadow Word: Death:** Use for execution damage or to trigger specific procs.
-7. **Smite:** Primary filler damage to maintain Atonement healing.
+### **Voidweaver (Damage/Healing Hybrid)**
+*Focuses on Void Blast and Rift-based damage-to-healing.*
+*   **Key Mechanic:** **Void Blast** (replaces Smite during procs).
+*   **Rotational Shift:** Prioritize **Penance** (Enemy) and **Void Blast** during damage windows. High emphasis on using **Mind Blast** to trigger *Void Summoning*.
 
-### Cooldown Management
-- **Evangelism:** Use immediately after applying Atonements to the raid to extend their duration.
-- **Ultimate Penitence:** Channel during peak damage windows after a full ramp.
-- **Rapture:** Empowers Power Word: Shield. Use for heavy single-target protection or emergency ramping.
-- **Power Word: Barrier:** Place for predictable raid-wide high damage mechanics.
-- **Pain Suppression:** Major defensive for tanks or priority targets.
-- **Power Infusion:** Coordinate with your own ramp or a high-performing DPS burst window.
+---
 
-### Important Notes (Midnight Meta)
-- **Power Word: Life** has been removed/is not recommended for the current meta.
-- **Atonement Management:** Success depends on your ability to anticipate damage and time your Radiance/Evangelism ramps perfectly.
+## 3. Full Rotational Priority
+
+### **The "Evangelism" Ramp (Oracle)**
+1.  **Maintain:** **Shadow Word: Pain** (100% uptime).
+2.  **Setup:** **Penance** (Ally) → **Power Word: Shield** → **Plea** (x2).
+3.  **Activate:** **Evangelism** (Makes next 2 Radiance instant).
+4.  **Atonement:** **Power Word: Radiance** (x2).
+5.  **Throughput:** **Shadow Word: Death** → **Penance** (Ally) → **Mind Blast** → **Smite**.
+
+### **The "Ultimate Penitence" Ramp (Voidweaver)**
+1.  **Maintain:** **Shadow Word: Pain**.
+2.  **Setup:** **Plea** (x3) → **Power Word: Radiance**.
+3.  **Burst:** **Mind Blast** (triggers Voidweaver proc) → **Ultimate Penitence**.
+4.  **Execute:** **Void Blast** (x3) → **Penance** (Enemy).
+
+---
+
+## 4. Midnight 12.0.5 Changes (Audit Cleanup)
+*   **REMOVED: Schism & Shadow Covenant** — Fully removed. Do not audit for damage-window modifiers.
+*   **REMOVED: Active Pets** — *Shadowfiend* and *Mindbender* are now passive procs. Do not audit for manual pet usage.
+*   **ADDED: Plea** — New instant Atonement applicator. Replaces *Renew* in the priority.
+*   **CHANGED: Evangelism** — No longer extends Atonements; now provides instant-cast **Power Word: Radiance** charges.
+*   **CHANGED: Atonement** — Baseline healing reduced to **28%** of damage done.

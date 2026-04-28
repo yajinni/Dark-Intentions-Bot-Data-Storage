@@ -1,57 +1,70 @@
 # Shadow Priest Knowledge Base (Midnight 12.0.5)
 
-## Gems, Enchants, and Consumables
+## 1. Consumables & Gear Audit
+| Category | Recommendation (Midnight Rank 3) | Item ID |
+| :--- | :--- | :--- |
+| **Flask** | Flask of the Magisters (Mastery) | 1235115 |
+| **Potion** | Light's Potential (Burst) | 1234568 |
+| **Food** | Feast of the Midnight Masquerade | 1285644 |
+| **Augment Rune** | Crystallized Augment Rune | 1234969 |
+| **Weapon Oil** | Thalassian Phoenix Oil | 1235120 |
 
-### Best Enchants
-| Slot | Enchant |
+### Gems
+*   **Epic Gem (Limit 1):** **Indecipherable Eversong Diamond** (Intellect + Haste)
+*   **Mastery Focus:** **Flawless Masterful Peridot** (Mastery/Haste)
+*   **Haste Focus:** **Flawless Quick Amethyst** (Haste/Vers)
+
+### Valid Midnight Enchants
+| Slot | Enchant Name |
 | :--- | :--- |
-| **Head** | Enchant Helm - Empowered Blessing of Speed |
-| **Chest** | Enchant Chest - Mark of the Worldsoul |
+| **Head** | Empowered Blessing of Speed |
+| **Shoulders** | Akil'zon's Swiftness |
+| **Chest** | Mark of the Worldsoul |
 | **Legs** | Sunfire Silk Spellthread |
-| **Rings** | Enchant Ring - Eyes of the Eagle (Haste/Mastery) |
-| **Main Hand** | Enchant Weapon - Arcane Mastery |
-
-### Best Gems
-- **Epic Gem (1 limit):** Indecipherable Eversong Diamond
-- **Rare Gems:** Flawless Masterful Peridot (Mastery / Haste) or Flawless Quick Amethyst (Haste / Mastery)
-
-### Consumables
-- **Flask:** Flask of the Magisters (Mastery) or Flask of the Blood Knights (Haste)
-- **Potion:** Draught of Rampant Abandon
-- **Food:** Feast of the Midnight Sun
-- **Weapon Oil:** Thalassian Phoenix Oil
-- **Augment Rune:** Void-Touched Augment Rune
+| **Boots** | Farstrider's Hunt |
+| **Rings** | Amani Mastery / Thalassian Haste |
+| **Weapon** | Arcane Mastery (Oracle) / Berserker's Rage (Voidweaver) |
 
 ---
 
-## Rotational Knowledge
+## 2. Hero Talent Breakdown
 
-### Core Mechanics
-- **Insanity:** Your primary resource. Build it via generators and spend it on **Shadow Word: Madness**.
-- **DoTs:** **Vampiric Touch** and **Shadow Word: Pain** must be maintained with 100% uptime.
-- **Shadowform:** Always keep active for the flat damage increase.
+### **Archon (Halo Focus)**
+*Focuses on high uptime of Halo and Apparitions.*
+*   **Key Mechanic:** **Halo** is core to the rotation and triggers **Apparition** bursts.
+*   **Rotational Shift:** Use **Halo** on cooldown. Spend Insanity on **Shadow Word: Madness** to trigger *Divine Reflection*.
 
-### Single-Target Priority
-1. **Voidform / Dark Ascension:** Use on cooldown (with Power Infusion).
-2. **Void Torrent:** Highest priority Insanity generator. Use on cooldown.
-3. **Shadow Word: Madness:** Primary Insanity spender. Do not overcap Insanity.
-4. **Tentacle Slam:** New core ability for Midnight. High priority generator.
-5. **Mind Blast:** Maintain charges and use to generate Insanity.
-6. **Shadow Word: Death:** Use for execute (< 20% HP) or as a generator.
-7. **Mind Flay:** Primary filler and Insanity generator. Spend **Mind Flay: Insanity** procs immediately.
+### **Voidweaver (Rift Focus)**
+*Focuses on Entropic Rift windows and Void Blast spam.*
+*   **Key Mechanic:** **Entropic Rift** (triggered via Void Torrent).
+*   **Rotational Shift:** During the **Entropic Rift** window, **Void Blast** replaces your primary filler. Prioritize **Void Blast** and **Shadow Word: Madness** to maximize Rift damage.
 
-### Multi-Target (AoE) Priority
-1. **Halo:** High priority for massive AoE and DoT application.
-2. **Void Volley:** Triggered during Voidform/Eruption. Primary AoE throughput.
-3. **Shadow Word: Madness:** Use for significant cleave damage.
-4. **Vampiric Touch:** Ensure all targets are dotted (applies SW:P via talents).
+---
 
-### Cooldown Management
-- **Voidform / Dark Ascension:** Sync with **Power Infusion** and trinket procs.
-- **Power Infusion:** Coordinate with your primary burst window.
-- **Dispersion:** Major defensive. Use to survive heavy mechanics.
-- **Vampiric Embrace:** Use during periods of heavy raid-wide damage to provide off-healing.
+## 3. Full Rotational Priority
 
-### Important Notes (Midnight Meta)
-- **Mind Spike** is currently not recommended; stick to **Mind Flay** for filler/procs.
-- **Voidweaver Interaction:** New Hero Talent tree for Midnight; ensure you are utilizing Entropic Rift synergies if talented.
+### **The Opener**
+1.  **Outbreak:** (If talented) or apply **Vampiric Touch** manually.
+2.  **Tentacle Slam:** Apply **Shadow Word: Pain** to all targets.
+3.  **Cooldowns:** **Voidform** + **Power Infusion** + **Potion**.
+4.  **Hero Power:** **Halo** (Archon) or **Void Torrent** (Voidweaver).
+5.  **Spender:** **Shadow Word: Madness** (to dump initial Insanity).
+
+### **Single-Target Priority**
+1.  **Maintain DoTs:** Use **Tentacle Slam** or **Vampiric Touch** to maintain 100% uptime.
+2.  **Voidform:** Use on cooldown.
+3.  **Shadow Word: Madness:** Use at 50+ Insanity or to prevent capping.
+4.  **Void Blast (Voidweaver):** Use highest priority during Rift window.
+5.  **Mind Blast:** Use on cooldown (Primary Insanity generator).
+6.  **Shadow Word: Death:** Below 20% HP or if an absorb shield is active (*Devour Matter*).
+7.  **Mind Flay / Mind Spike:** Filler.
+
+---
+
+## 4. Midnight 12.0.5 Changes (Audit Cleanup)
+*   **REMOVED: Dark Ascension** — Fully removed. **Voidform** is the only primary CD.
+*   **REMOVED: Devouring Plague** — Replaced by **Shadow Word: Madness** (SWM).
+*   **REMOVED: Shadowform Stance** — Visual and buff are now passive.
+*   **ADDED: Shadow Word: Madness** — New primary single-target Insanity spender.
+*   **ADDED: Tentacle Slam** — New AoE applicator for DoTs.
+*   **ADDED: Void Volley** — AoE burst during Voidform.
