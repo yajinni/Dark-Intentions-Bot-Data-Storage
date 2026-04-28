@@ -11,8 +11,8 @@
 
 ### Gems
 *   **Epic Gem (Limit 1):** **Indecipherable Eversong Diamond** (Intellect + Haste)
-*   **Haste Focus:** **Flawless Quick Lapis** (Haste/Vers)
-*   **Crit Focus:** **Flawless Deadly Peridot** (Crit/Vers)
+*   **Haste Focus:** **Flawless Quick Lapis** (Versatility/Haste)
+*   **Crit Focus:** **Flawless Deadly Peridot** (Haste/Critical Strike)
 
 ### Valid Midnight Enchants
 | Slot | Enchant Name |

@@ -1,70 +1,77 @@
 # Holy Priest Knowledge Base (Midnight 12.0.5)
 
 ## 1. Consumables & Gear Audit
-| Category | Recommendation (Midnight Rank 3) | Item ID |
+| Category | Recommendation | Notes |
 | :--- | :--- | :--- |
-| **Flask** | Flask of Alchemical Chaos | 1235112 |
-| **Potion** | Potion of Recklessness | 1234569 |
-| **Food** | Feast of the Midnight Masquerade | 1285644 |
-| **Augment Rune** | Crystallized Augment Rune | 1234969 |
-| **Weapon Oil** | Thalassian Phoenix Oil | 1235120 |
+| **Flask** | Flask of the Shattered Sun | Critical Strike focus |
+| **Potion** | Light's Potential | Pair with Apotheosis for burst |
+| **Food** | Harandar Celebration | or Silvermoon Parade (Feast) |
+| **Augment Rune** | Crystalline Augment Rune | Standard Midnight Augment |
+| **Weapon Oil** | Thalassian Phoenix Oil | |
 
 ### Gems
-*   **Epic Gem (Limit 1):** **Indecipherable Eversong Diamond** (Intellect + Haste/Mastery)
-*   **Regular Gems:** **Flawless Versatile Garnet** (Versatility/Mastery)
+*   **Unique Gem (Limit 1):** Indecipherable Eversong Diamond
+*   **Standard Fill:** Flawless Versatile Garnet (Critical Strike/Versatility)
 
 ### Valid Midnight Enchants
 | Slot | Enchant Name |
 | :--- | :--- |
+| **Weapon** | Acuity of the Ren'dorei |
 | **Head** | Empowered Hex of Leeching |
 | **Shoulders** | Silvermoon's Mending |
 | **Chest** | Mark of the Worldsoul |
 | **Legs** | Arcanoweave Spellthread |
-| **Boots** | Shaladrassil's Roots |
 | **Rings** | Eyes of the Eagle |
-| **Weapon** | Acuity of the Ren'dorei |
+| **Boots** | Shaladrassil's Roots |
 
 ---
 
-## 2. Hero Talent Breakdown
+## 2. Stat Priority
+### Raid
+1. **Critical Strike**
+2. **Versatility** = **Mastery**
+3. **Haste**
 
-### **Archon (Halo Focus)**
-*Focuses on massive throughput and synergy with Halo.*
-*   **Key Mechanic:** **Halo** is the core of this tree.
-*   **Rotational Shift:** Use **Halo** on cooldown. Spend **Surge of Light** procs on *Prayer of Healing* (via *Spiritwell*) rather than Flash Heal.
-*   **Audit Check:** High **Halo** usage and correct consumption of **Surge of Light**.
-
-### **Oracle (Prayer of Mending Focus)**
-*Focuses on high uptime of Prayer of Mending and the Benediction proc.*
-*   **Key Mechanic:** **Guiding Light** (extra charge of PoM) and **Benediction** (buffed Flash Heal).
-*   **Rotational Shift:** Keep **Prayer of Mending** on cooldown at all times. Prioritize the **Benediction** proc for massive single-target triage.
-*   **Audit Check:** Prayer of Mending frequency and usage of the **Benediction** proc (replaces Flash Heal).
+### Dungeon (Mythic+)
+1. **Critical Strike**
+2. **Versatility** = **Haste**
+3. **Mastery**
 
 ---
 
-## 3. Full Rotational Priority
+## 3. Hero Talent Breakdown
 
-### **The Opener (Raid)**
-1.  **Prayer of Mending:** Apply to the tank (oracle starts with 2 charges).
-2.  **Halo (Archon):** Use immediately as the pull starts for initial healing and damage.
-3.  **Holy Word: Sanctify:** Use if the group takes initial raid-wide damage.
-4.  **Apotheosis:** Use if high intensity is expected immediately to reset Holy Words.
+### **Archon** *(Recommended — Raid)*
+*Focuses on high throughput and synergy with Halo.*
+*   **Key Mechanic:** **Halo** is the core of this tree, especially powerful during **Apotheosis**.
+*   **Rotational Shift:** Use **Halo** on cooldown. **Prayer of Healing** now consumes **Surge of Light** procs via the **Spiritwell** talent.
 
-### **Healing Priority**
-1.  **Halo (Archon):** Use on cooldown.
-2.  **Prayer of Mending:** Use on cooldown (especially Oracle).
-3.  **Holy Word: Sanctify / Serenity:** Use to prevent capping.
-4.  **Benediction (Oracle):** Use procced Flash Heals immediately.
-5.  **Flash Heal:** For triage/emergency spot healing.
-6.  **Prayer of Healing:** General group healing filler.
-7.  **Smite:** Damage filler.
+### **Oracle** *(Recommended — Dungeon)*
+*Focuses on high uptime of Prayer of Mending and the Premonition cycle.*
+*   **Key Mechanic:** **Premonition** — A cycling buff (Insight, Piety, Solace) that provides mana return and burst throughput.
+*   **Rotational Shift:** Keep **Prayer of Mending** on cooldown to maximize **Guiding Light** procs.
 
 ---
 
-## 4. Midnight 12.0.5 Changes (Audit Cleanup)
-*   **REMOVED: Renew & Heal** — These spells no longer exist. Do not audit for uptime or usage.
-*   **REMOVED: Circle of Healing & Lightwell** — Removed to reduce button bloat.
-*   **REMOVED: Symbol of Hope** — No longer part of the kit.
-*   **REMOVED: Power Word: Shield/Life & Shadowfiend** — Simplified out of the Holy toolkit.
-*   **ADDED: Ultimate Serenity** — Check for usage of this merged Holy Word button if talented.
-*   **ADDED: Spiritwell (Archon)** — Causes Prayer of Healing to consume Surge of Light.
+## 4. Full Rotational Priority
+
+### **Raid Healing**
+1.  **Halo:** Use on cooldown (Archon priority).
+2.  **Holy Word: Serenity / Sanctify:** Use for triage and to prevent capping.
+3.  **Prayer of Mending:** Use on cooldown.
+4.  **Prayer of Healing:** Use with **Surge of Light** stacks (Archon).
+5.  **Flash Heal:** Primary triage filler.
+
+### **Mythic+ Healing**
+1.  **Holy Word: Serenity:** Primary emergency button.
+2.  **Flash Heal:** Maintain **Lightweaver** stacks.
+3.  **Prayer of Mending:** Maintenance healing.
+4.  **Holy Nova:** Use for healing on the move.
+
+---
+
+## 5. Midnight 12.0.5 Changes (Audit Cleanup)
+*   **VERIFIED REMOVALS:** **Heal**, **Circle of Healing**, **Power Word: Shield**, **Symbol of Hope**, and **Lightwell** have been removed or heavily pruned.
+*   **REWORKED:** **Renew** still exists but is primarily applied passively via **Benediction** or maintained through **Renewed Faith**. Do not audit for manual Renew casts.
+*   **ADDED:** **Spiritwell (Archon)** — Prayer of Healing now interacts with Surge of Light.
+*   **ADDED:** **Premonition (Oracle)** — New core ability for the Oracle hero tree.
