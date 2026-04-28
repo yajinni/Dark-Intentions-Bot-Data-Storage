@@ -39,19 +39,27 @@ This is a core 12.0.5 audit metric.
 *   **Guiding Light:** Grants an additional charge of *Prayer of Mending*.
 *   **Prompt Prognosis:** Adds a direct heal to the initial target of *Prayer of Mending*. Use to supplement spot-healing weaknesses.
 
-## 4. Raid Rotational Priority
-1.  **Holy Word: Sanctify:** Use on raid clusters (6+ targets).
-2.  **Holy Word: Serenity:** Use for priority triage.
-3.  **Prayer of Mending:** Use on cooldown (melee priority). Triggers Apex procs.
-4.  **Prayer of Healing:** Only with **Surge of Light** (Archon) or **Lightweaver** stacks.
-5.  **Benediction (Proc):** Prioritize over standard Flash Heal.
-6.  **Flash Heal:** Use to generate Lightweaver stacks or in emergencies.
-7.  **Smite / Holy Nova:** Use when no healing is required to fish for Surge of Light procs.
+## 4. High-Precision Raid Rotational Priority
+This priority list is conditional. The bot should audit for these specific IF/THEN interactions:
 
-## 5. Major Cooldown Execution
-*   **Apotheosis:** Use as a reset and burst window. In Archon, ensure Halo is cast before or during this window.
-*   **Divine Hymn:** Use during telegraphed raid-wide damage. Each pulse now triggers *Cosmic Ripple* if the Apex talent is fully unlocked.
-*   **Guardian Spirit:** Save for tanks or targets taking lethal telegraphed hits. Increases healing received by 60%.
+1.  **Divine Image Trigger:** Cast *Holy Word: Chastise* on an enemy 1-2s BEFORE predicted raid damage to ensure the Naaru is active for the burst window.
+2.  **Holy Word: Sanctify:** Use on raid clusters (6+ targets). Never sit on 2 charges (Miracle Worker).
+3.  **Holy Word: Serenity:** Use for priority triage. Never sit on 2 charges.
+4.  **Prayer of Mending (ON COOLDOWN):** This is the engine of the spec. In 12.0.5, this triggers *Benediction* procs and resets via *Epiphany*.
+5.  **Spiritwell (Archon) Proc:** IF *Surge of Light* is active, THEN prioritize **Prayer of Healing**. (CRITICAL: Using procs on Flash Heal during Archon is a mana-efficiency error).
+6.  **Lightweaver Weaving:** IF < 2 stacks, cast **Flash Heal**. IF = 2 stacks, THEN cast **Prayer of Healing** (amplified).
+7.  **Benediction (Apex Proc):** Prioritize over standard fillers. Always consume before casting your next Holy Word to maximize *Cosmic Ripple* windows.
+8.  **Halo (Archon):** Cast 1s before *Apotheosis* or *Divine Hymn* to maximize *Manifested Power* procs and *Resonant Energy* stacking.
+9.  **Holy Word CDR Filler:** IF all Holy Words are on CD, THEN cast **Smite** or **Holy Nova** to fish for *Surge of Light* procs and reset Holy Words via *Serendipity*.
+
+## 5. Major Cooldown Execution (Audit Ready)
+*   **Apotheosis (The Reset Loop):** 
+    *   *Correct Sequence:* Sanctify -> Serenity -> PoM -> Halo -> **Apotheosis** -> (Repeat Sequence). 
+    *   *Error Check:* Pressing Apotheosis while Holy Word charges are full is a significant throughput loss.
+*   **Divine Hymn:** Use during telegraphed raid-wide damage. 
+    *   *12.0.5 Nuance:* Each pulse triggers *Cosmic Ripple* (Benediction Apex). Ensure no movement cancels the channel.
+*   **Guardian Spirit:** Save for tanks or targets taking lethal hits. Increases healing received by 60%.
+
 
 ## 6. Audit Cleanup (12.0.5 Removals)
 *   **DO NOT AUDIT:** Symbol of Hope, Power Word: Life, Power Word: Shield, Lightwell, and Circle of Healing (unless specifically talented for niche utility).
