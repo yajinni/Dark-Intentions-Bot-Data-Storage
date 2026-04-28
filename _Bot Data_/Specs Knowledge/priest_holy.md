@@ -1,64 +1,54 @@
-# Holy Priest Knowledge Base
+# Holy Priest Knowledge Base (Midnight 12.0.5)
 
-## Spec Summary
-Holy Priest is the quintessential "pure" healer, specializing in reactive, high-throughput healing. The spec revolves around the **Serendipity** mechanic, where casting basic healing spells reduces the cooldown of powerful **Holy Words**. It excels at stabilizing individual targets with **Holy Word: Serenity** and groups with **Holy Word: Sanctify**.
+## Gems, Enchants, and Consumables
+
+### Best Enchants
+| Slot | Enchant |
+| :--- | :--- |
+| **Head** | Enchant Helm - Empowered Hex of Leeching |
+| **Shoulders** | Enchant Shoulders - Silvermoon's Mending |
+| **Chest** | Enchant Chest - Mark of the Worldsoul |
+| **Legs** | Arcanoweave Spellthread |
+| **Boots** | Enchant Boots - Shaladrassil's Roots |
+| **Wrist** | Enchant Bracer - Chant of Armored Leech |
+| **Rings** | Enchant Ring - Eyes of the Eagle |
+| **Main Hand** | Enchant Weapon - Acuity of the Ren'dorei |
+
+### Best Gems
+- **Epic Gem (1 limit):** Indecipherable Eversong Diamond
+- **Rare Gems:** Flawless Versatile Garnet (Crit/Vers)
+
+### Consumables
+- **Flask:** Flask of the Shattered Sun (Critical Strike) or Flask of Thalassian Resistance (Versatility)
+- **Potion:** Light's Potential (Throughput) or Potion of Recklessness
+- **Healing Potion:** Silvermoon Health Potion
+- **Food:** Harandar Celebration (Feast) or Royal Roast
+- **Weapon Oil:** Thalassian Phoenix Oil
+- **Augment Rune:** Void-Touched Augment Rune
 
 ---
 
-## Easy Mode Summary
-Holy Priest is about responding to damage with the right tool and ensuring your Holy Words are always being "recharged" through your filler spells.
+## Rotational Knowledge
 
 ### Core Mechanics
-*   **Serendipity:** Casting Flash Heal or Heal reduces the CD of Holy Word: Serenity. Casting Prayer of Healing or Circle of Healing reduces the CD of Holy Word: Sanctify.
-*   **Echo of Light (Mastery):** Your direct heals leave a HoT on the target for a percentage of the amount healed.
-*   **Surge of Light:** Smite and Flash Heal have a chance to make your next Flash Heal instant and mana-free.
+- **Serendipity:** Your core feature. Casting specific spells reduces the cooldown of your Holy Words.
+- **Holy Words:** **Holy Word: Serenity** (Single Target) and **Holy Word: Sanctify** (AoE). Use these as your highest priority.
+- **Prayer of Mending:** Must be used on cooldown. It is highly mana-efficient and triggers the **Benediction** Apex Talent.
 
-### Simplified Rotation
-1.  **Holy Word: Serenity:** Use on low-health targets for massive burst healing.
-2.  **Holy Word: Sanctify:** Use when multiple targets are injured.
-3.  **Prayer of Mending:** Use on cooldown (ideally on the tank).
-4.  **Halo:** (If talented) Use on cooldown for efficient group healing.
-5.  **Circle of Healing:** Use on cooldown for group stabilization.
-6.  **Flash Heal:** Use with **Surge of Light** procs or for fast emergency healing.
-7.  **Heal:** Use as a mana-efficient filler during low-damage periods.
+### Spell Priority (Healing)
+1. **Holy Word: Serenity / Holy Word: Sanctify:** Use immediately to respond to damage and maximize Serendipity value.
+2. **Prayer of Mending:** Maintain 100% uptime and use on cooldown.
+3. **Halo (Archon):** Use regularly if talented into Archon to maximize Archon buffs.
+4. **Flash Heal:** Your primary spot-heal and filler to reduce Holy Word: Serenity cooldown.
+5. **Prayer of Healing:** Group healing filler to reduce Holy Word: Sanctify cooldown.
+6. **Holy Nova:** Low-cost AoE filler when movement is required or damage is low.
 
----
+### Cooldown Management
+- **Apotheosis:** Use during periods of high intensity to reset Holy Words and increase Serendipity throughput.
+- **Divine Hymn:** Major raid cooldown. Channel during massive raid-wide damage. Pair with **Light's Potential** potion for maximum effect.
+- **Guardian Spirit:** Use on tanks or players about to take lethal damage.
 
-## Rotation Priority
-
-### Healing Priority
-1.  **Holy Word: Sanctify:** Use if 3+ targets are injured.
-2.  **Holy Word: Serenity:** Use if a target is below 50% HP.
-3.  **Prayer of Mending:** Must be on cooldown at all times.
-4.  **Halo:** Use on cooldown.
-5.  **Circle of Healing:** Use on cooldown.
-6.  **Flash Heal:** Spend **Surge of Light** procs immediately.
-7.  **Prayer of Healing:** Use for sustained group damage (if Sanctify is on CD).
-8.  **Heal:** Filler.
-
-### Damage Priority
-1.  **Halo:** Use on cooldown.
-2.  **Holy Fire:** Use on cooldown.
-3.  **Shadow Word: Death:** Use as an execute (< 20% HP).
-4.  **Holy Nova:** Use for 3+ targets while moving.
-5.  **Smite:** Primary damage filler.
-
----
-
-## Major Cooldowns & Usage
-*   **Apotheosis:** 2-minute cooldown. Resets Holy Words and increases their Serendipity reduction by 300%. **Usage:** Your "throughput" cooldown for high-stress phases.
-*   **Divine Hymn:** 3-minute cooldown. Channeled raid heal that increases all healing received by 10%. **Usage:** Use during predictable raid-wide damage events.
-*   **Guardian Spirit:** 3-minute cooldown. Increases healing received by 40% and prevents death. **Usage:** Use on the tank or a priority target about to die.
-*   **Symbol of Hope:** 3-minute cooldown. Restores mana to healers and reduces defensive CDs. **Usage:** Coordinate with the raid, typically used at low raid mana levels.
-*   **Holy Word: Salvation:** 12-minute cooldown (reduced by Serendipity). Massive raid-wide heal and HoT application. **Usage:** Your ultimate "raid save".
-
----
-
-## Stat Priority
-1.  **Intellect**
-2.  **Critical Strike:** Increases throughput and potential for massive Holy Word crits.
-3.  **Mastery:** Historically very strong for raid healing due to Echo of Light.
-4.  **Versatility:** Flat damage reduction and healing increase.
-5.  **Haste:** Generally the lowest priority for Holy, as it can lead to mana exhaustion quickly.
-
-**Note:** For Holy, **Crit** and **Mastery** are the two pillars of raid healing throughput.
+### Important Notes (Midnight Meta)
+- **REMOVED SPELLS:** **Heal**, **Renew**, **Circle of Healing**, **Shadow Word: Death**, **Holy Word: Salvation**, **Symbol of Hope**, **Power Word: Shield**, **Power Word: Life**, **Divine Star**, and **Divine Word** have been removed in the Midnight expansion.
+- **Flash Heal Efficiency:** With the removal of **Heal**, **Flash Heal** is your main single-target filler. Focus on **Surge of Light** procs for instant casts.
+- **Archon vs Oracle:** Archon focuses on **Halo** and **Flash Heal** buffs, while Oracle focuses on enhancing **Prayer of Mending**.
