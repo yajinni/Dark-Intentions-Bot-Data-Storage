@@ -1,86 +1,76 @@
-# Devastation Evoker Knowledge Base
+# Devastation Evoker Knowledge Base (Midnight 12.0.5)
 
-## Spec Summary
-Devastation Evoker is a mid-range ranged DPS spec that focuses on high-impact elemental damage. The spec revolves around managing **Essence** and maximizing the value of its **Empower spells**, **Fire Breath** and **Eternity Surge**. The spec is defined by its explosive burst windows during **Dragonrage** and its high mobility via **Hover**.
-
----
-
-## Easy Mode Summary
-Devastation is about balancing your Empower spells with your Essence spenders while ensuring you don't over-cap Essence.
-
-### Core Mechanics
-*   **Empower Spells:** Fire Breath and Eternity Surge. Higher ranks take longer to cast but hit more targets or deal more damage.
-*   **Essence:** Your primary resource. Build with Living Flame/Azure Strike and spend on **Disintegrate** or **Pyre**.
-*   **Essence Burst:** Procs from fillers that make your next Essence spender free.
-*   **Mastery: Giantkiller:** Increases damage dealt to targets based on their current health (higher health = more damage).
-
-### Simplified Rotation
-1.  **Dragonrage:** Your primary burst cooldown. Use on cooldown.
-2.  **Fire Breath:** Use at Rank 1 (to maximize DoT duration and extension).
-3.  **Eternity Surge:** Use at Rank 1 for single target, or higher for AoE.
-4.  **Disintegrate:** Primary single-target Essence spender.
-5.  **Living Flame:** Primary builder for Essence and Essence Burst.
-6.  **Azure Strike:** Filler for movement or AoE.
-
----
-
-## Rotation Priority
-
-### Single-Target (Scalecommander Priority)
-1.  **Dragonrage:** Sync with all other burst tools.
-2.  **Fire Breath:** Rank 1.
-3.  **Eternity Surge:** Rank 1.
-4.  **Deep Breath:** Use with **Strafing Run** charges.
-5.  **Disintegrate:** Spend Essence (don't cap).
-6.  **Living Flame:** main builder.
-
-### Multi-Target (AoE)
-1.  **Deep Breath:** Massive AoE burst through as many targets as possible.
-2.  **Dragonrage:** Primary AoE burst.
-3.  **Eternity Surge:** Rank up to match target count.
-4.  **Fire Breath:** Rank 1 (for extension).
-5.  **Pyre:** Primary Essence spender for 4+ targets.
-6.  **Azure Strike:** Primary builder for 2+ targets.
-
----
-
-## Major Cooldowns & Usage
-*   **Dragonrage:** 2-minute cooldown. Increases damage and makes Mastery always act as if the target is at full health. **Usage:** Your "big" button. Extend its duration by using Empower spells.
-*   **Tip the Scales:** 2-minute cooldown. Makes your next Empower spell instant and max level. **Usage:** Pair with Fire Breath or Eternity Surge for instant burst.
-*   **Deep Breath:** 2-minute cooldown. Fly through targets dealing massive damage. **Usage:** Essential for AoE burst and positioning.
-*   **Renewing Blaze:** 1.5-minute cooldown. Heals back 100% of the damage taken over 8 seconds. **Usage:** Powerful defensive for surviving high-damage periods.
-*   **Obsidian Scales:** 1.5-minute cooldown (2 charges). 30% damage reduction. **Usage:** Primary defensive.
-
----
-
-## Stat Priority
-1.  **Intellect**
-2.  **Haste:** Critical for reducing cast times of Empower spells and increasing Essence generation.
-3.  **Critical Strike:** Increases chance for double damage and procs.
-4.  **Mastery:** Increases damage based on target health.
-5.  **Versatility:** Flat damage boost and reduction.
-
-**Note:** For Devastation, **Haste** and **Crit** are typically the most important secondaries for maximizing their signature elemental burst.
-
----
-
-## Gems, Enchants, and Consumables
+## 1. Consumables & Gear Audit
+| Category | Recommendation | Notes |
+| :--- | :--- | :--- |
+| **Flask** | Flask of the Blood Knights (Haste) | or Flask of Alchemical Chaos |
+| **Potion** | Potion of Recklessness | Use on pull and major burst |
+| **Food** | Silvermoon Parade Feast | or Royal Roast (personal) |
+| **Augment Rune** | Void-Touched Augment Rune | |
+| **Weapon Oil** | Thalassian Phoenix Oil | |
 
 ### Gems
-*   **Unique Gem**: Powerful Eversong Diamond
-*   **Preferred**: Flawless Quick Garnet (Crit/Haste) — fill remaining sockets (ensure one gem of each color for the movement speed bonus)
+*   **Unique Gem (Limit 1):** Powerful Eversong Diamond
+*   **Standard Fill:** Flawless Quick Garnet (Haste) — fill all remaining sockets
+*   **Color Fillers (for diamond bonus):** Flawless Deadly Peridot, Flawless Deadly Amethyst, Flawless Deadly Lapis
 
-### Enchants
-*   **Rings**: Enchant Ring - Silvermoon's Alacrity
-*   **Weapon**: Enchant Weapon - Acuity of the Ren'dorei
-*   **Chest**: Enchant Chest - Mark of the Worldsoul
-*   **Legs**: Sunfire Silk Spellthread
-*   **Feet**: Enchant Boots - Farstrider's Hunt
+### Valid Midnight Enchants
+| Slot | Enchant Name |
+| :--- | :--- |
+| **Weapon** | Acuity of the Ren'dorei (Primary Stat + Haste proc) |
+| **Head** | Empowered Blessing of Speed |
+| **Shoulders** | Akil'zon's Swiftness |
+| **Chest** | Mark of the Worldsoul |
+| **Legs** | Sunfire Silk Spellthread |
+| **Rings** | Silvermoon's Alacrity (Haste) |
+| **Boots** | Farstrider's Hunt |
 
-### Consumables
-*   **Flask**: Flask of the Blood Knights (Haste) or Flask of the Shattered Sun (Critical Strike)
-*   **Weapon Augment**: Thalassian Phoenix Oil
-*   **Potion**: Potion of Recklessness
-*   **Food**: Silvermoon Parade Feast (if available) or Royal Roast (Personal)
-*   **Health Potion**: Silvermoon Health Potion
-*   **Augment Rune**: Void-Touched Augment Rune
+---
+
+## 2. Stat Priority
+1. **Item Level** (always prioritize higher ilvl)
+2. **Haste**
+3. **Critical Strike**
+4. **Mastery**
+5. **Versatility**
+
+---
+
+## 3. Hero Talent Breakdown
+
+### **Scalecommander** *(Recommended — Raid & Mythic+)*
+*Focuses on enhancing Disintegrate and empowered spells for sustained single-target and AoE damage.*
+*   **Key Mechanic:** **Rising Fury** stacks Haste and damage during Dragonrage windows.
+*   **Rotational Shift:** Prioritize maximizing Dragonrage uptime. Use Fire Breath at Rank 1 to preserve the empowerment duration for the proc.
+
+### **Flameshaper**
+*Focused on Living Flame synergies and fire-based damage amplification.*
+*   **Key Mechanic:** Living Flame becomes a powerful filler during Flameshaper windows.
+*   **Rotational Shift:** Weave Living Flame more aggressively between empowered spells.
+
+---
+
+## 4. Full Rotational Priority
+
+### **Single-Target (Scalecommander)**
+1.  **Dragonrage:** Use on cooldown; primary DPS cooldown — align with Lust/Heroism if possible.
+2.  **Fire Breath:** Rank 1 (preserve empowerment for Rising Fury proc).
+3.  **Eternity Surge:** Rank 1 (cast during Dragonrage for maximum value).
+4.  **Deep Breath:** Use on cooldown.
+5.  **Disintegrate:** Primary Essence spender — channel fully when possible.
+6.  **Living Flame:** Primary builder filler.
+
+### **AoE / Mythic+ (Scalecommander)**
+1.  **Fire Breath:** Rank 1 on pull.
+2.  **Eternity Surge:** Rank 3+ for maximum target hits.
+3.  **Deep Breath:** Use on cooldown through the pack.
+4.  **Pyre:** Primary Essence spender for AoE.
+5.  **Azure Strike:** Filler builder on 2+ targets.
+
+---
+
+## 5. Midnight 12.0.5 Changes (Audit Cleanup)
+*   **NEW Apex Talent:** **Rising Fury** — stacks Haste and damage increases during Dragonrage. A major new rotational driver.
+*   **Dragonrage** remains the defining DPS cooldown — it now interacts more tightly with Rising Fury stacks.
+*   **Deep Breath** provides significant AoE damage and should be used on cooldown, not held.
+*   **REMOVED:** Abilities outside the new Scalecommander/Flameshaper hero talent trees have been pruned — do not audit for legacy Dracthyr-only utilities.
