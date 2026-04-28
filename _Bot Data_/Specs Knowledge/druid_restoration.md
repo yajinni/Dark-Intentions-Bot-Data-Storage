@@ -1,94 +1,72 @@
-# Restoration Druid Knowledge Base
+# Restoration Druid Knowledge Base (Midnight 12.0.5)
 
-## Spec Summary
-Restoration Druid is the quintessential "Heal-over-Time" (HoT) healer. It excels at sustained group healing and is highly proactive, requiring you to anticipate damage and apply HoTs before it hits. Its unique Mastery, **Harmony**, increases healing based on the number of active HoTs on the target, making it a powerhouse for single-target and small-group stabilization.
-
----
-
-## Easy Mode Summary
-Restoration Druid is about "maintenance". You keep your core HoTs rolling and use burst cooldowns to extend them or boost their power.
-
-### Core Mechanics
-*   **Lifebloom:** Must be active 100% of the time (usually on the tank).
-*   **Efflorescence:** Must be on the ground 100% of the time under the group.
-*   **Harmony (Mastery):** Your healing is stronger the more HoTs you have on a target. Stacking Rejuvenation, Regrowth, and Lifebloom makes your healing massive.
-
-### Simplified Rotation
-1.  **Efflorescence:** Keep on the ground.
-2.  **Lifebloom:** Keep on the tank.
-3.  **Wild Growth:** Use for group damage (usually after a Swiftmend).
-4.  **Rejuvenation:** Spread proactively on targets expected to take damage.
-5.  **Swiftmend:** Use on cooldown to trigger **Soul of the Forest** (buffs next spell).
-6.  **Regrowth:** Use for emergency single-target healing or on **Clearcasting** procs.
-
----
-
-## Rotation Priority
-
-### Healing Priority
-1.  **Lifebloom:** Maintain 100% uptime.
-2.  **Efflorescence:** Maintain 100% uptime.
-3.  **Swiftmend:** Use on cooldown to empower your next spell.
-4.  **Wild Growth:** Use for group healing (ideally after Swiftmend).
-5.  **Cenarion Ward:** Use on the tank on cooldown.
-6.  **Rejuvenation:** Maintain on priority targets and spread ahead of damage.
-7.  **Regrowth:** Filler for burst healing.
-
-### Damage Priority
-1.  **Moonfire & Sunfire:** Maintain 100% uptime on as many targets as possible.
-2.  **Rip & Rake:** If in Cat Form (Catweaving), maintain these bleeds.
-3.  **Ferocious Bite:** Finish at 5 CP if healing is not needed.
-4.  **Wrath:** Main filler for single-target and mana regen.
-5.  **Starfire:** Filler for AoE damage.
-
----
-
-## Major Cooldowns & Usage
-*   **Tranquility:** 3-minute cooldown. Massive group-wide channel. **Usage:** Use for major raid-wide damage events. Applies a stack of Mastery to everyone it hits.
-*   **Innervate:** 3-minute cooldown. Makes spells free for 10 seconds. **Usage:** Use early and often to spread many HoTs (especially Rejuvenation) without mana cost.
-*   **Convoke the Spirits:** 1-minute or 2-minute cooldown. Fires 16 spells. **Usage:** Use for emergency group stabilization or for a massive damage burst.
-*   **Ironbark:** 1.5-minute cooldown. External 20% damage reduction. **Usage:** Use on the tank for heavy hits or on a squishy ally targeted by mechanics.
-*   **Flourish:** 1.5-minute cooldown. Extends all active HoTs by 6s and doubles their healing. **Usage:** Use immediately after a Wild Growth when many Rejuvenations are out for peak group healing.
-
----
-
-## Stat Priority
-
-### Raid Healing
-1.  **Intellect**
-2.  **Haste >= Mastery**
-3.  **Versatility**
-4.  **Critical Strike**
-
-### Dungeon Healing
-1.  **Intellect**
-2.  **Mastery >= Haste**
-3.  **Versatility**
-4.  **Critical Strike**
-
-**Note:** **Mastery** is significantly more valuable in Dungeons because you can reliably stack many HoTs on a small number of people.
-
----
-
-## Gems, Enchants, and Consumables
+## 1. Consumables & Gear Audit
+| Category | Recommendation (Midnight Rank 3) | Item ID |
+| :--- | :--- | :--- |
+| **Flask** | Flask of the Magisters (Mastery) | 1235115 |
+| **Potion** | Potion of Recklessness | 1234569 |
+| **Food** | Silvermoon Parade (Feast) | 1285645 |
+| **Augment Rune** | Void-Touched Augment Rune | 1234970 |
+| **Weapon Oil** | Thalassian Phoenix Oil | 1235120 |
 
 ### Gems
-*   **Unique Gem**: Indecipherable Eversong Diamond
-*   **Preferred**: Flawless Quick Lapis (Haste/Mastery) or Flawless Quick Citrine (Haste/Mastery)
+*   **Epic Gem (Limit 1):** **Indecipherable Eversong Diamond** (Intellect + Mastery)
+*   **Mastery Focus:** **Flawless Masterful Peridot** (Mastery/Haste)
+*   **Haste Focus:** **Flawless Quick Amethyst** (Haste/Vers)
 
-### Enchants
-*   **Head**: Enchant Helm - Empowered Hex of Leeching
-*   **Shoulders**: Enchant Shoulders - Silvermoon's Mending
-*   **Chest**: Enchant Chest - Mark of the Worldsoul
-*   **Legs**: Sunfire Silk Spellthread
-*   **Feet**: Enchant Boots - Farstrider's Hunt
-*   **Rings**: Enchant Ring - Silvermoon's Alacrity
-*   **Weapon**: Enchant Weapon - Acuity of the Ren'dorei
+### Valid Midnight Enchants
+| Slot | Enchant Name |
+| :--- | :--- |
+| **Head** | Empowered Hex of Leeching |
+| **Shoulders** | Silvermoon's Mending |
+| **Chest** | Mark of the Worldsoul |
+| **Legs** | Arcanoweave Spellthread |
+| **Boots** | Shaladrassil's Roots |
+| **Rings** | Zul'jin's Mastery |
+| **Weapon** | Acuity of the Ren'dorei |
 
-### Consumables
-*   **Flask**: Flask of the Blood Knights (Haste) or Flask of the Shattered Sun (Mastery)
-*   **Weapon Augment**: Thalassian Phoenix Oil
-*   **Potion**: Light's Potential
-*   **Food**: Harandar Celebration (Feast) or Impossibly Royal Roast (Personal)
-*   **Health Potion**: Silvermoon Health Potion
-*   **Augment Rune**: Void-Touched Augment Rune
+---
+
+## 2. Hero Talent Breakdown
+
+### **Keeper of the Grove (Raid Focus)**
+*Focuses on automation and constant throughput via Grove Guardians.*
+*   **Key Mechanic:** **Grove Guardians** (Passive).
+*   **Rotational Shift:** **Grove Guardians** are now spawned automatically via **Swiftmend** and **Wild Growth**. You must use these on cooldown to maintain your guardian army.
+*   **Audit Check:** High usage frequency of **Swiftmend** is mandatory to maximize guardian uptime.
+
+### **Wildstalker (Dungeon/Movement Focus)**
+*Focuses on Symbiotic Blooms and spreading Rejuvenation.*
+*   **Key Mechanic:** **Symbiotic Blooms** via *Thriving Growth*.
+*   **Rotational Shift:** High emphasis on **Rejuvenation** spreading. Each tick of Rejuvenation has a chance to trigger a **Symbiotic Bloom** on the target.
+*   **Audit Check:** Ensure **Rejuvenation** uptime is > 85% on all party members.
+
+---
+
+## 3. Full Rotational Priority
+
+### **The Opener (Raid)**
+1.  **Lifebloom:** Apply to active tanks (Stack to 3 via **Everbloom**).
+2.  **Efflorescence:** Place under the melee stack.
+3.  **Swiftmend:** Use to spawn the first **Grove Guardian**.
+4.  **Wild Growth:** Use immediately after Swiftmend to spawn the second guardian.
+5.  **Tranquility:** Use during initial burst damage to trigger the passive **Flourish** proc.
+
+### **Healing Priority**
+1.  **Lifebloom:** Maintain 3 stacks on tanks (Everbloom).
+2.  **Efflorescence:** Maintain 100% uptime.
+3.  **Swiftmend:** Use on cooldown (to spawn Grove Guardians).
+4.  **Wild Growth:** Use on cooldown (to spawn Grove Guardians).
+5.  **Rejuvenation:** Spread to players taking damage (Wildstalker Focus).
+6.  **Regrowth:** Primary spot heal for triage.
+7.  **Tranquility:** Major raid cooldown; provides massive HoT extension via passive **Flourish**.
+
+---
+
+## 4. Midnight 12.0.5 Changes (Audit Cleanup)
+*   **REMOVED: Adaptive Swarm** — Fully removed. Do not audit for swarm uptime.
+*   **REMOVED: Spring Blossoms & Cultivation** — Removed to reduce UI/Mastery bloat.
+*   **ADDED: Apex Talent: Everbloom** — Increases Lifebloom stacks to 3 and adds massive splash healing.
+*   **CHANGED: Grove Guardians** — No longer an active button; now procs from Swiftmend/Wild Growth.
+*   **CHANGED: Flourish** — No longer an active cooldown; now a passive proc attached to **Tranquility**.
+*   **BUFFED: Mastery: Harmony** — Scaling significantly increased to compensate for fewer baseline HoTs.

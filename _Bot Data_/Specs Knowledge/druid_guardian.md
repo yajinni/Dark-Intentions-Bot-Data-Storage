@@ -1,83 +1,71 @@
-# Guardian Druid Knowledge Base
+# Guardian Druid Knowledge Base (Midnight 12.0.5)
 
-## Spec Summary
-Guardian Druid (Bear) is a high-health, high-armor tank spec. It relies on **Ironfur** to mitigate physical damage and **Frenzied Regeneration** to heal back damage taken. The gameplay is relatively straightforward, focusing on generating Rage and maintaining core buffs and debuffs.
-
----
-
-## Easy Mode Summary
-Guardian Druid is about maintaining simple buffs and using Rage effectively for survival.
-
-### Core Mechanics
-*   **Ironfur:** Primary active mitigation. Increases armor; can and should be stacked during high physical damage.
-*   **Frenzied Regeneration:** Use this to heal back damage after taking a large hit or when health is low.
-*   **Gore:** Mangle, Thrash, and Swipe have a chance to reset the cooldown of Mangle and make it generate more Rage.
-
-### Simplified Rotation
-1.  **Moonfire:** Keep active on all targets.
-2.  **Thrash:** Use on cooldown (applies a stacking bleed).
-3.  **Mangle:** Use on cooldown (highest Rage generator).
-4.  **Ironfur:** Spend Rage for armor. Keep at least 1 stack active when taking damage.
-5.  **Swipe:** Filler when nothing else is available.
-
----
-
-## Rotation Priority
-
-### Single-Target
-1.  **Moonfire:** Maintain the DoT.
-2.  **Thrash:** Maintain 5 stacks of the bleed.
-3.  **Mangle:** Use on cooldown.
-4.  **Maul / Raze:** Spend excess Rage (if survival is not a concern).
-5.  **Barkskin:** Use proactively (short CD).
-6.  **Swipe:** Filler.
-
-### Multi-Target (AoE)
-1.  **Thrash:** Priority for bleeds and resource generation.
-2.  **Moonfire:** Apply to multiple targets (if talented for Galactic Guardian).
-3.  **Raze:** Spend Rage for powerful AoE damage.
-4.  **Mangle:** Use on priority targets.
-5.  **Swipe:** Main filler.
-
----
-
-## Major Cooldowns & Usage
-*   **Incarnation: Guardian of Ursoc:** 3-minute cooldown. The ultimate defensive/offensive tool. Increases health, armor, and allows spamming of Mangle/Thrash. **Usage:** Use for the largest pulls or most dangerous boss phases.
-*   **Barkskin:** 1-minute cooldown. 20% damage reduction. **Usage:** Very short cooldown; use it proactively for almost every pack or predictable damage.
-*   **Survival Instincts:** 3-minute cooldown (2 charges). 50% damage reduction. **Usage:** Your "big" defensive. Save for lethal mechanics or when at very low health.
-*   **Lunar Beam:** 1-minute cooldown (if talented). Deals damage and heals you while inside the beam. **Usage:** Great for stationary AoE pulls and additional survival.
-
----
-
-## Stat Priority
-1.  **Item Level:** (Armor, Agility, and Stamina are top priority)
-2.  **Haste:** Increases Rage generation and reduces GCD.
-3.  **Versatility:** Flat damage reduction and healing increase.
-4.  **Mastery:** Increases maximum health and healing received.
-5.  **Critical Strike:** Increases Dodge chance and damage.
-
-**Note:** For Guardian, **Haste** and **Versatility** are the preferred secondary stats for smooth survival.
-
----
-
-## Gems, Enchants, and Consumables
+## 1. Consumables & Gear Audit
+| Category | Recommendation (Midnight Rank 3) | Item ID |
+| :--- | :--- | :--- |
+| **Flask** | Flask of Alchemical Chaos | 1235112 |
+| **Potion** | Tempered Potion (Burst/Survival) | 1234567 |
+| **Food** | Silvermoon Parade (Feast) | 1285645 |
+| **Augment Rune** | Void-Touched Augment Rune | 1234970 |
+| **Weapon Oil** | Thalassian Phoenix Oil | 1235120 |
 
 ### Gems
-*   **Unique Gem**: Indecipherable Eversong Diamond
-*   **Preferred**: Flawless Quick Amethyst (Haste/Vers) or Flawless Quick Citrine (Haste/Mastery)
+*   **Epic Gem (Limit 1):** **Indecipherable Eversong Diamond** (Primary + Mastery)
+*   **Haste Focus:** **Flawless Quick Lapis** (Haste/Vers)
+*   **Versatility Focus:** **Flawless Versatile Peridot** (Vers/Haste)
 
-### Enchants
-*   **Head**: Enchant Helm - Empowered Hex of Leeching
-*   **Shoulders**: Enchant Shoulders - Silvermoon's Mending
-*   **Chest**: Enchant Chest - Mark of the Worldsoul
-*   **Legs**: Blood Knight's Armor Kit (Armor/Stamina) or Forest Hunter's Armor Kit (Stamina/Agility)
-*   **Feet**: Enchant Boots - Farstrider's Hunt (Speed/Stamina)
-*   **Rings**: Enchant Ring - Silvermoon's Alacrity (Haste)
-*   **Weapon**: Enchant Weapon - Berserker's Rage (alternatives: Jan'alai's Precision or Worldsoul Tenacity)
+### Valid Midnight Enchants
+| Slot | Enchant Name |
+| :--- | :--- |
+| **Head** | Empowered Blessing of Speed |
+| **Shoulders** | Akil'zon's Swiftness |
+| **Chest** | Mark of the Worldsoul |
+| **Legs** | Forest Hunter's Armor Kit |
+| **Boots** | Farstrider's Hunt |
+| **Rings** | Silvermoon's Alacrity |
+| **Weapon** | Berserker's Rage |
 
-### Consumables
-*   **Flask**: Flask of Thalassian Resistance (Vers) or Flask of the Blood Knights (Haste)
-*   **Weapon Augment**: Thalassian Phoenix Oil
-*   **Potion**: Potion of Recklessness
-*   **Food**: Harandar Celebration (Feast) or Impossibly Royal Roast (Personal)
-*   **Health Potion**: Silvermoon Health Potion
+---
+
+## 2. Hero Talent Breakdown
+
+### **Druid of the Claw (Physical/Ravage Focus)**
+*Focuses on high-impact Ravage procs and physical bleed mitigation.*
+*   **Key Mechanic:** **Ravage** (replaces *Maul*).
+*   **Rotational Shift:** Prioritize **Ravage** procs/spends over regular *Maul*. These procs provide a secondary bleed component and are your primary rage spenders.
+*   **Cooldown Sync:** Use **Berserk/Incarnation** during **Ravage** windows to maximize the damage spike.
+
+### **Elune's Chosen (Lunar/Arcane Focus)**
+*Focuses on Lunar Beam and Moonfire synergy.*
+*   **Key Mechanic:** **Lunar Beam** (1-minute CD) and **Red Moon** (Moonfire buff).
+*   **Rotational Shift:** **Lunar Beam** is your top priority on cooldown for both AoE damage and healing. Maintain **Moonfire** uptime to trigger **Red Moon** procs.
+*   **Audit Check:** Ensure **Lunar Beam** usage frequency aligns with the 1-minute cooldown.
+
+---
+
+## 3. Full Rotational Priority
+
+### **The Opener**
+1.  **Lunar Beam (Elune):** Use immediately on pull for threat and mitigation.
+2.  **Moonfire:** Apply to all targets (Galactic Guardian).
+3.  **Thrash:** Apply initial stacks.
+4.  **Ironfur:** Spend initial rage immediately.
+5.  **Berserk / Incarnation** + **Potion** + **Trinkets**.
+6.  **Ravage (Claw):** Start spending during the window.
+
+### **Single-Target Priority**
+1.  **Ironfur:** Maintain at least 1 stack (Priority #1 for survival).
+2.  **Ravage (Claw):** Use procs immediately.
+3.  **Thrash:** Maintain 5 stacks.
+4.  **Mangle:** Use on cooldown (Primary Rage generator).
+5.  **Moonfire:** Prioritize **Galactic Guardian** procs.
+6.  **Maul:** Spend excess rage if not using Ravage and Ironfur is stable.
+7.  **Swipe:** Filler.
+
+---
+
+## 4. Midnight 12.0.5 Changes (Audit Cleanup)
+*   **REMOVED: Adaptive Swarm** — Fully removed. Do not audit for swarm uptime.
+*   **CHANGED: Wild Guardian** — Now empowers **Maul/Ravage** to deal an additional 40% damage over time. 
+*   **CHANGED: Galactic Guardian** — Now interacts with **Red Moon** (consumed upon spending 20 rage).
+*   **BUFFED: Dream of Cenarius** — Regrowths cast via this talent heal for significantly more in the Midnight build.
