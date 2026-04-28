@@ -11,7 +11,7 @@
 
 ### Gems
 *   **Unique Gem (Limit 1):** Indecipherable Eversong Diamond
-*   **Standard Fill:** Flawless Quick Garnet (Haste/Crit) — fill all remaining sockets
+*   **Standard Fill:** Flawless Quick Garnet (Critical Strike/Haste) — fill all remaining sockets
 
 ### Valid Midnight Enchants
 | Slot | Enchant Name |

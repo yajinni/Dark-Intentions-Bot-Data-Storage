@@ -11,7 +11,7 @@
 
 ### Gems
 *   **Epic Gem (Limit 1):** **Indecipherable Eversong Diamond** (227464)
-*   **Rare Gems:** **Flawless Deadly Amethyst** (Crit/Vers) or **Flawless Masterful Garnet** (Mastery/Haste).
+*   **Rare Gems:** **Flawless Deadly Amethyst** (Mastery/Critical Strike) or **Flawless Masterful Garnet** (Critical Strike/Mastery).
 
 ### Valid Midnight Enchants
 | Slot | Enchant Name |

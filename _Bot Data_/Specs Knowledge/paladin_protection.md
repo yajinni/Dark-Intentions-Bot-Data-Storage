@@ -1,80 +1,79 @@
-# Protection Paladin Knowledge Base
+# Protection Paladin Knowledge Base (Midnight 12.0.5)
 
-## Spec Summary
-Protection Paladin is a sturdy, utility-heavy tank spec. It relies on **Shield of the Righteous** to provide a massive armor boost and **Consecration** for constant damage reduction. The gameplay revolves around generating **Holy Power** through various attacks and spending it on active mitigation or self-healing.
-
----
-
-## Easy Mode Summary
-Protection Paladin is about maintaining your basic defenses while providing significant utility to your group.
-
-### Core Mechanics
-*   **Shield of the Righteous:** Your primary active mitigation. Keep this active as close to 100% of the time as possible when taking damage.
-*   **Consecration:** Always stand in your own Consecration. It provides a significant damage reduction buff via your Mastery.
-*   **Shining Light:** Every 3 Shield of the Righteous casts makes your next **Word of Glory** free.
-
-### Simplified Rotation
-1.  **Consecration:** Ensure you are standing in it.
-2.  **Judgment:** Use on cooldown to generate Holy Power.
-3.  **Hammer of the Righteous / Blessed Hammer:** Use to generate Holy Power.
-4.  **Shield of the Righteous:** Spend Holy Power to maintain armor.
-5.  **Avenger's Shield:** Use for damage, threat, and to silence casters.
-6.  **Hammer of Wrath:** Use on low-health targets or during Wings for Holy Power.
-
----
-
-## Rotation Priority
-
-### Single-Target & AoE
-1.  **Avenging Wrath:** Use on cooldown for offense and defense.
-2.  **Sacred Weapon:** (If talented) Use when Wings is down.
-3.  **Divine Toll:** High priority for burst Holy Power and threat.
-4.  **Consecration:** Priority if you are not currently standing in one.
-5.  **Shield of the Righteous:** Primary Holy Power spender. Maintain uptime.
-6.  **Judgment:** Primary Holy Power generator.
-7.  **Hammer of Wrath:** High priority during execute or Wings.
-8.  **Avenger's Shield:** Use to prevent capping procs or for silence.
-9.  **Blessed Hammer / Hammer of the Righteous:** Filler generator.
-
----
-
-## Major Cooldowns & Usage
-*   **Ardent Defender:** 2-minute cooldown. 20% damage reduction and a "cheat death" mechanic. **Usage:** Use proactively for moderate damage or if you feel you might die soon.
-*   **Guardian of Ancient Kings:** 5-minute cooldown. 50% damage reduction. **Usage:** Your strongest defensive. Use for major boss hits or extremely large pulls.
-*   **Eye of Tyr:** 1-minute cooldown. Reduces enemy damage by 25%. **Usage:** Very short CD; use for almost every pack.
-*   **Divine Shield:** 5-minute cooldown. Total immunity. **Usage:** Use with the **Final Stand** talent to taunt everything or to clear dangerous debuffs.
-*   **Lay on Hands:** Long cooldown. Full heal. **Usage:** Emergency save for yourself or a party member.
-
----
-
-## Stat Priority
-1.  **Item Level:** (Stamina and Armor are paramount)
-2.  **Haste:** Reduces the cooldown of all Holy Power generators. Crucial for mitigation uptime.
-3.  **Versatility / Mastery:** Versatility for flat DR; Mastery for block and Consecration DR.
-4.  **Critical Strike:** Increases damage and Parry chance.
-
-**Note:** **Haste** is the most vital secondary stat for Protection Paladin as it directly scales your ability to keep Shield of the Righteous active.
-
----
-
-## Gems, Enchants, and Consumables
+## 1. Consumables & Gear Audit
+| Category | Recommendation | Notes |
+| :--- | :--- | :--- |
+| **Flask** | Flask of the Blood Knights | |
+| **Potion** | Silvermoon Health Potion | |
+| **Food** | Royal Roast | |
+| **Augment Rune** | Void-Touched Augment Rune | |
+| **Weapon Oil** | Thalassian Phoenix Oil | |
 
 ### Gems
-*   **Unique Gem**: Indecipherable Eversong Diamond
-*   **Preferred**: Flawless Quick Citrine (Haste/Mastery) or Flawless Quick Amethyst (Haste/Vers)
+*   **Unique Gem (Limit 1):** Indecipherable Eversong Diamond
+*   **Standard Fill:** Flawless Masterful Peridot (Haste/Mastery)
 
-### Enchants
-*   **Head**: Enchant Helm - Empowered Blessing of Speed
-*   **Shoulders**: Enchant Shoulders - Akil'zon's Swiftness
-*   **Chest**: Enchant Chest - Mark of the Rootwarden
-*   **Legs**: Blood Knight's Armor Kit
-*   **Feet**: Enchant Boots - Farstrider's Hunt
-*   **Rings**: Enchant Ring - Nature's Fury (Haste/Vers)
-*   **Weapon**: Enchant Weapon - Acuity of the Ren'dorei
+### Valid Midnight Enchants
+| Slot | Enchant Name |
+| :--- | :--- |
+| **Weapon** | Acuity of the Ren'dorei |
+| **Head** | Empowered Blessing of Speed |
+| **Shoulders** | Akil'zon's Swiftness |
+| **Chest** | Mark of the Worldsoul |
+| **Legs** | Blood Knight's Armor Kit |
+| **Rings** | Eyes of the Eagle |
+| **Boots** | Farstrider's Hunt |
 
-### Consumables
-*   **Flask**: Flask of the Blood Knights (Haste) or Flask of Thalassian Resistance (Vers)
-*   **Weapon Augment**: Thalassian Phoenix Oil
-*   **Potion**: Light's Potential or Potion of Recklessness
-*   **Food**: Hearty Silvermoon Parade (Feast) or Hearty Royal Roast (Personal)
-*   **Health Potion**: Silvermoon Health Potion
+---
+
+## 2. Stat Priority
+### Defensive
+1. **Haste**
+2. **Versatility** / **Mastery**
+3. **Critical Strike**
+
+### Offensive
+1. **Haste**
+2. **Critical Strike**
+3. **Versatility** / **Mastery**
+
+---
+
+## 3. Hero Talent Breakdown
+
+### **Templar** *(Recommended)*
+*Focuses on high burst and synergy with Eye of Tyr.*
+*   **Key Mechanic:** **Hammer of Light** — Replaces Shield of the Righteous after casting Eye of Tyr or Divine Toll.
+*   **Rotational Shift:** High priority on Hammer of Light during burst windows.
+
+### **Lightsmith** *(Alternative)*
+*Focuses on specific utility and defensive synergy.*
+*   **Key Mechanic:** **Sacred Weapon** — Provides defensive procs when used on yourself.
+*   **Rotational Shift:** Coordinate Sacred Weapon with heavy incoming damage.
+
+---
+
+## 4. Full Rotational Priority
+
+### **Single-Target**
+1.  **Consecration:** Maintain 100% uptime (provides massive reduction).
+2.  **Judgment:** Primary builder; use on cooldown.
+3.  **Hammer of Light:** Use immediately after Eye of Tyr/Divine Toll (Templar).
+4.  **Shield of the Righteous:** Primary Holy Power spender; maintain the Armor buff.
+5.  **Avenger's Shield:** Use on procs (Grand Crusader).
+6.  **Hammer of Wrath:** Use on low health targets or during Avenging Wrath.
+
+### **AoE / Multi-Target**
+1.  **Consecration:** Priority #1; do not fight outside of it.
+2.  **Divine Toll:** Massive AoE burst and threat generation.
+3.  **Hammer of Light:** Primary AoE burst.
+4.  **Shield of the Righteous:** Spend procs for AoE damage and mitigation.
+5.  **Avenger's Shield:** Interrupts and threat.
+
+---
+
+## 5. Midnight 12.0.5 Changes (Audit Cleanup)
+*   **REWORK:** Hammer of Light is now a core rotational burst ability for Protection.
+*   **REMOVED:** Seraphim — Fully removed.
+*   **ADDED:** Blood Knight's Armor Kit — New leg enchant specifically for Paladin tanks.
+*   **ADDED:** Grand Crusader Proc Synergy — Now resets Eye of Tyr more consistently in 12.0.5.

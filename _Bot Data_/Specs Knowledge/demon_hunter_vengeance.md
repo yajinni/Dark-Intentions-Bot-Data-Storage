@@ -11,7 +11,7 @@
 
 ### Gems
 *   **Epic Gem (Limit 1):** **Indecipherable Eversong Diamond** (Agility + Crit)
-*   **Standard Gems:** **Flawless Masterful Peridot** (Mastery/Haste)
+*   **Standard Gems:** **Flawless Masterful Peridot** (Haste/Mastery)
 
 ### Valid Midnight Enchants
 | Slot | Enchant Name |

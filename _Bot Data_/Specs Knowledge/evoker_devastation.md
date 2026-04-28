@@ -11,7 +11,7 @@
 
 ### Gems
 *   **Unique Gem (Limit 1):** Powerful Eversong Diamond
-*   **Standard Fill:** Flawless Quick Garnet (Haste) — fill all remaining sockets
+*   **Standard Fill:** Flawless Quick Garnet (Critical Strike/Haste) — fill all remaining sockets
 *   **Color Fillers (for diamond bonus):** Flawless Deadly Peridot, Flawless Deadly Amethyst, Flawless Deadly Lapis
 
 ### Valid Midnight Enchants

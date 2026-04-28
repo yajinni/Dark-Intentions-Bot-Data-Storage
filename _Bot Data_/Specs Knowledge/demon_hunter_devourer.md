@@ -11,7 +11,7 @@
 
 ### Gems
 *   **Epic Gem (Limit 1):** **Indecipherable Eversong Diamond** (Agility + Haste)
-*   **Haste Focus:** **Flawless Quick Amethyst** (Haste/Mastery)
+*   **Haste Focus:** **Flawless Quick Amethyst** (Mastery/Haste)
 
 ### Valid Midnight Enchants
 | Slot | Enchant Name |

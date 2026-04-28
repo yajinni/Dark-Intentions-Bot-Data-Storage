@@ -1,88 +1,79 @@
-# Brewmaster Monk Knowledge Base
+# Brewmaster Monk Knowledge Base (Midnight 12.0.5)
 
-## Spec Summary
-Brewmaster Monk is a unique "stagger-based" tank. Instead of taking all damage upfront, they convert a large portion of it into a damage-over-time effect called **Stagger**. The gameplay revolves around managing this Stagger pool using **Purifying Brew** and **Celestial Brew**, while maintaining **Shuffle** to increase the effectiveness of your mitigation.
-
----
-
-## Easy Mode Summary
-Brewmaster is about staying active and keeping your basic buffs up while reacting to your Stagger meter.
-
-### Core Mechanics
-*   **Stagger:** Converts incoming damage into a DoT. The meter turns Green (Low), Yellow (Moderate), or Red (High).
-*   **Shuffle:** Increases your Stagger effectiveness. Granted by **Blackout Kick**, **Keg Smash**, and **Spinning Crane Kick**. Maintain 100% uptime.
-*   **Active Mitigation:** Use **Purifying Brew** to clear Stagger and **Celestial Brew** for a massive absorb shield.
-
-### Simplified Rotation
-1.  **Keg Smash:** Your most important button. Generates Shuffle and reduces Brew cooldowns.
-2.  **Blackout Kick:** Use on cooldown (essential for Shuffle).
-3.  **Breath of Fire:** Use on cooldown to reduce enemy damage.
-4.  **Rising Sun Kick:** Use on cooldown for single-target damage.
-5.  **Expel Harm:** Use for immediate self-healing and to consume Healing Spheres.
-6.  **Tiger Palm:** Use as a filler to spend excess Energy (> 65).
-7.  **Spinning Crane Kick:** Use for AoE filler.
-
----
-
-## Rotation Priority
-
-### Single-Target
-1.  **Touch of Death:** Use on targets < 15% HP.
-2.  **Keg Smash:** Use on cooldown.
-3.  **Blackout Kick:** Use on cooldown.
-4.  **Rising Sun Kick:** Use on cooldown.
-5.  **Breath of Fire:** Maintain the debuff on the target.
-6.  **Expel Harm:** Use for healing or at high health for damage via procs.
-7.  **Tiger Palm:** Filler (only if Energy > 65).
-
-### Multi-Target (AoE)
-1.  **Keg Smash:** Priority to spread Weakened Blows and generate Shuffle.
-2.  **Breath of Fire:** Massive AoE damage and mitigation.
-3.  **Exploding Keg:** High burst AoE damage and miss-chance debuff.
-4.  **Blackout Kick:** Maintain Shuffle.
-5.  **Spinning Crane Kick:** Primary AoE filler.
-
----
-
-## Major Cooldowns & Usage
-*   **Purifying Brew:** 2 charges. Clears 50% of Stagger. **Usage:** Use when Stagger is Yellow/Red or if you have 2 charges.
-*   **Celestial Brew:** 45-second (approx) cooldown. Massive absorb shield. **Usage:** Use when taking high damage or to absorb a Red Stagger DoT. Its strength is increased by using Purifying Brew.
-*   **Fortifying Brew:** 2-minute cooldown. 20% damage reduction and health boost. **Usage:** Your "big" defensive. Use proactively for massive pulls.
-*   **Invoke Niuzao, the Black Ox:** 3-minute cooldown. Summons a pet that deals damage and taunts. **Usage:** Great for both offense and defense in heavy damage windows.
-*   **Zen Meditation:** 5-minute cooldown. 90% damage reduction for 8s (breaks on melee hit). **Usage:** Use to ignore specific massive non-melee mechanics.
-
----
-
-## Stat Priority
-1.  **Agility / Item Level:** Strength of your mitigation and damage scales directly with Agility.
-2.  **Critical Strike:** Increases damage and self-healing (Celestial Fortune).
-3.  **Mastery:** Increases dodge chance and attack power.
-4.  **Versatility:** Flat damage reduction and increase.
-5.  **Haste:** Generally the weakest stat for defense, but provides a smoother rotation.
-
-**Note:** For Brewmaster, **Crit** is often favored for its dual offensive/defensive benefit, but all stats are relatively close in value.
-
----
-
-## Gems, Enchants, and Consumables
+## 1. Consumables & Gear Audit
+| Category | Recommendation | Notes |
+| :--- | :--- | :--- |
+| **Flask** | Flask of the Shattered Sun (Crit) | or Flask of the Magisters (Mastery) |
+| **Potion** | Light's Potential | |
+| **Food** | Silvermoon Parade | |
+| **Augment Rune** | Void-Touched Augment Rune | |
+| **Weapon Oil** | Thalassian Phoenix Oil | |
 
 ### Gems
-*   **Unique Gem**: Indecipherable Eversong Diamond
-*   **Preferred**: Flawless Versatile Garnet (Versatility) or Flawless Deadly Lapis (Critical Strike)
+*   **Unique Gem (Limit 1):** Indecipherable Eversong Diamond
+*   **Standard Fill:** Flawless Versatile Garnet (Critical Strike/Versatility)
 
-### Enchants
-*   **Head**: Enchant Helm - Empowered Hex of Leeching or Empowered Blessing of Speed
-*   **Shoulders**: Enchant Shoulders - Silvermoon's Mending or Akil'zon's Swiftness
-*   **Chest**: Enchant Chest - Mark of the Worldsoul or Mark of the Rootwarden
-*   **Legs**: Forest Hunter's Armor Kit
-*   **Feet**: Enchant Boots - Shaladrassil's Roots or Farstrider's Hunt
-*   **Rings**: Enchant Ring - Eyes of the Eagle (Damage) or Silvermoon's Tenacity (Defense)
-*   **Weapon**: Enchant Weapon - Acuity of the Ren'dorei
+### Valid Midnight Enchants
+| Slot | Enchant Name |
+| :--- | :--- |
+| **Weapon** | Acuity of the Ren'dorei |
+| **Head** | Empowered Blessing of Speed |
+| **Shoulders** | Akil'zon's Swiftness |
+| **Chest** | Mark of the Worldsoul |
+| **Legs** | Sunfire Silk Spellthread |
+| **Rings** | Radiant Versatility / Critical Strike |
+| **Boots** | Farstrider's Hunt |
 
-### Consumables
-*   **Flask**: Flask of the Shattered Sun (Crit) or Flask of the Magisters (Mastery)
-*   **Weapon Augment**: Thalassian Phoenix Oil
-*   **Potion**: Light's Potential or Draught of Rampant Abandon
-*   **Food**: Silvermoon Parade / Harandar Celebration (Agility), Royal Roast / Impossibly Royal Roast (Agility), Blooming Feast / Champion's Bento (Secondary stat)
-*   **Health Potion**: Silvermoon Health Potion
-*   **Augment Rune**: Void-Touched Augment Rune
+---
+
+## 2. Stat Priority
+### Defensive
+1. **Agility / Item Level**
+2. **Critical Strike** = **Versatility** = **Mastery**
+3. **Haste**
+
+### Offensive
+1. **Agility**
+2. **Critical Strike** >= **Mastery**
+3. **Versatility**
+4. **Haste**
+
+---
+
+## 3. Hero Talent Breakdown
+
+### **Master of Harmony** *(Recommended — Raid)*
+*Focuses on high uptime of Stagger purification and steady defensive scaling.*
+*   **Key Mechanic:** Increases the efficiency of Celestial Brew and Purifying Brew.
+*   **Rotational Shift:** Prioritize Purifying Brew whenever Stagger is high to trigger Harmony buffs.
+
+### **Shado-Pan** *(Recommended — Mythic+)*
+*Focuses on burst damage and defensive potency in large packs.*
+*   **Key Mechanic:** Flurry of Blows procs from energy spending.
+*   **Rotational Shift:** More aggressive use of Blackout Kick and Tiger Palm to trigger Flurry windows.
+
+---
+
+## 4. Full Rotational Priority
+
+### **Single-Target**
+1.  **Keg Smash:** Highest priority; generates energy and applies brew reduction.
+2.  **Blackout Kick:** Use on cooldown (synergizes with Blackout Combo).
+3.  **Breath of Fire:** Use to maintain damage reduction debuff.
+4.  **Rising Sun Kick:** High priority damage.
+5.  **Spinning Crane Kick:** Filler when other abilities are on cooldown.
+
+### **AoE / Multi-Target**
+1.  **Touch of Death:** Use on low health targets for massive burst.
+2.  **Invoke Niuzao, the Black Ox:** Primary AoE defensive/offensive cooldown.
+3.  **Keg Smash / Breath of Fire:** Maintain debuffs on all targets.
+4.  **Blackout Kick:** Cleaves via talents.
+5.  **Tiger Palm:** Use to consume Blackout Combo procs if Keg Smash is on cooldown.
+
+---
+
+## 5. Midnight 12.0.5 Changes (Audit Cleanup)
+*   **REWORK:** Stagger purification math updated for 12.0.5.
+*   **REMOVED:** Exploding Keg (Active) — Moved into passive procs for Shado-Pan.
+*   **ADDED:** Radiant Enchant Synergy — Brewmaster now benefits significantly from secondary stat enchants on rings.
+*   **ADDED:** Harmony Pool — New resource for Master of Harmony builds to track healing potential.

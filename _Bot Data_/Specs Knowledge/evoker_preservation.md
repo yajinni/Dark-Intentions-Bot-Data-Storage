@@ -12,7 +12,7 @@
 ### Gems
 *   **Unique Gem (Limit 1):** Telluric Eversong Diamond (mana) or Indecipherable Eversong Diamond (primary stat)
 *   **Activator Gems (for diamond bonus):** Flawless Quick Amethyst, Flawless Masterful Garnet, Flawless Masterful Peridot, Flawless Masterful Lapis
-*   **Standard Fill:** Flawless Quick Amethyst (all other sockets)
+*   **Standard Fill:** Flawless Quick Amethyst (Mastery/Haste)
 
 ### Valid Midnight Enchants
 | Slot | Enchant Name |
