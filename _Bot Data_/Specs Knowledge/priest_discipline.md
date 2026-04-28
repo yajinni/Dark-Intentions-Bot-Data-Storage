@@ -1,61 +1,52 @@
-# Discipline Priest Knowledge Base
+# Discipline Priest Knowledge Base (Midnight 12.0.5)
 
-## Spec Summary
-Discipline Priest is a proactive "shield-and-heal" spec that converts damage into healing through the **Atonement** mechanic. It is widely considered one of the most complex healers due to its "Ramp" playstyle, which requires anticipating raid-wide damage and preparing the group with Atonements before the damage hits.
+## Gems, Enchants, and Consumables
+
+### Best Enchants
+| Slot | Enchant |
+| :--- | :--- |
+| **Head** | Enchant Helm - Empowered Hex of Leeching |
+| **Chest** | Enchant Chest - Mark of the Magister |
+| **Legs** | Arcanoweave Spellthread |
+| **Rings** | Enchant Ring - Silvermoon's Alacrity |
+| **Main Hand** | Enchant Weapon - Acuity of the Ren'dorei |
+
+### Best Gems
+- **Epic Gem (1 limit):** Indecipherable Eversong Diamond
+- **Rare Gems:** Flawless Deadly Peridot (Critical Strike / Versatility)
+
+### Consumables
+- **Flask:** Flask of the Blood Knights
+- **Potion:** Potion of Recklessness (Throughput) or Lightfused Mana Potion (Mana)
+- **Food:** Royal Roast
+- **Weapon Oil:** Thalassian Phoenix Oil
 
 ---
 
-## Easy Mode Summary
-Discipline is about keeping your target(s) shielded and dealing damage to heal the group.
+## Rotational Knowledge
 
 ### Core Mechanics
-*   **Atonement:** Applied by Power Word: Radiance, Power Word: Shield, and Flash Heal. Your damage heals all targets with Atonement.
-*   **The Ramp:** The process of applying Atonement to a large number of players (typically 15-20 in a raid) before a major damage event.
-*   **Purge the Wicked:** Your primary DoT. Keep this active to provide a steady stream of Atonement healing.
+- **Atonement:** Applied via **Power Word: Radiance**, **Power Word: Shield**, and **Flash Heal**. Damage dealt by the Priest heals all targets with active Atonement.
+- **Ramping:** Preparing the raid with Atonements before a major damage event occurs.
+- **Plea:** Low-cost Atonement applicator for single-target maintenance.
 
-### Simplified Rotation
-1.  **Purge the Wicked:** Maintain 100% uptime on enemies.
-2.  **Power Word: Radiance:** Use for quick group Atonement application.
-3.  **Penance:** Use on cooldown (offensively) to heal through Atonement.
-4.  **Mind Blast:** Use on cooldown to provide a burst of Atonement healing.
-5.  **Power Word: Shield:** Use to prevent damage and apply Atonement to priority targets.
-6.  **Smite:** Primary filler to heal through Atonement.
-7.  **Power Word: Life:** Powerful emergency heal for targets < 35% health.
+### Spell Priority (Healing/Damage)
+1. **Power Word: Radiance:** Primary group Atonement applicator. Use to setup bursts.
+2. **Penance:** Use on cooldown (offensively) to heal through Atonement.
+3. **Mind Blast:** High priority damage to generate Atonement healing.
+4. **Power Word: Shield:** Use to prevent damage and apply Atonement.
+5. **Flash Heal:** Use for single-target spot healing and fast Atonement application.
+6. **Shadow Word: Death:** Use for execution damage or to trigger specific procs.
+7. **Smite:** Primary filler damage to maintain Atonement healing.
 
----
+### Cooldown Management
+- **Evangelism:** Use immediately after applying Atonements to the raid to extend their duration.
+- **Ultimate Penitence:** Channel during peak damage windows after a full ramp.
+- **Rapture:** Empowers Power Word: Shield. Use for heavy single-target protection or emergency ramping.
+- **Power Word: Barrier:** Place for predictable raid-wide high damage mechanics.
+- **Pain Suppression:** Major defensive for tanks or priority targets.
+- **Power Infusion:** Coordinate with your own ramp or a high-performing DPS burst window.
 
-## Rotation Priority
-
-### Healing Priority (The Ramp)
-1.  **Atonement Setup:** Apply 5-10 Atonements via Power Word: Shield and Flash Heal.
-2.  **Radiance Burst:** Use 2 charges of **Power Word: Radiance** to cover the rest of the group/raid.
-3.  **Evangelism:** Use immediately after Radiance to extend all Atonement durations.
-4.  **Damage Burst:** Follow with **Ultimate Penitence**, **Mind Blast**, and **Penance** while Atonements are active.
-
-### Damage Priority (Maintenance)
-1.  **Purge the Wicked:** Maintain on the primary target.
-2.  **Penance:** Use on cooldown (offensively).
-3.  **Mind Blast:** Use on cooldown.
-4.  **Shadow Word: Death:** Use as an execute or during movement.
-5.  **Smite:** filler.
-
----
-
-## Major Cooldowns & Usage
-*   **Evangelism:** 1.5-minute cooldown. Extends all active Atonements by 6 seconds. **Usage:** The lynchpin of your raid ramp.
-*   **Ultimate Penitence:** 1-minute or 2-minute cooldown (depending on talents). Channeled burst of damage/healing. **Usage:** Use during peak damage windows after ramping.
-*   **Power Word: Barrier:** 3-minute cooldown. 20% damage reduction in a large dome. **Usage:** Pre-place for predictable raid-wide hits.
-*   **Pain Suppression:** 3-minute cooldown (2 charges). 40% damage reduction on a single target. **Usage:** Use on the tank or a player about to die.
-*   **Rapture:** 1.5-minute cooldown. Empowers Power Word: Shield and removes its CD. **Usage:** Use for emergency group shielding or as part of a "mini-ramp".
-*   **Power Infusion:** 2-minute cooldown. 20% Haste for 20s. **Usage:** Sync with your own or a high-performing DPS player's burst.
-
----
-
-## Stat Priority
-1.  **Intellect**
-2.  **Haste:** Critical for reducing cast times and the GCD during your ramp phases.
-3.  **Critical Strike:** Increases damage and healing throughput.
-4.  **Versatility:** Flat damage/healing increase and reduction.
-5.  **Mastery:** Increases healing done to targets with Atonement. Strong for raw throughput but less valuable than Haste/Crit for rotation speed.
-
-**Note:** **Haste** is the single most important stat for Discipline to ensure you can finish your ramp before the damage event occurs.
+### Important Notes (Midnight Meta)
+- **Power Word: Life** has been removed/is not recommended for the current meta.
+- **Atonement Management:** Success depends on your ability to anticipate damage and time your Radiance/Evangelism ramps perfectly.

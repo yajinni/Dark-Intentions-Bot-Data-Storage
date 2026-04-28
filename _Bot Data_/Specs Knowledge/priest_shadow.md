@@ -1,65 +1,57 @@
-# Shadow Priest Knowledge Base
+# Shadow Priest Knowledge Base (Midnight 12.0.5)
 
-## Spec Summary
-Shadow Priest is a ranged DPS spec that focuses on managing **Insanity** and maintaining powerful **Damage-over-Time (DoT)** effects. The gameplay revolves around generating Insanity through spells like **Mind Blast** and **Void Torrent**, and then spending it on **Shadow Word: Madness** or entering **Voidform** for massive burst windows.
+## Gems, Enchants, and Consumables
+
+### Best Enchants
+| Slot | Enchant |
+| :--- | :--- |
+| **Head** | Enchant Helm - Empowered Blessing of Speed |
+| **Chest** | Enchant Chest - Mark of the Worldsoul |
+| **Legs** | Sunfire Silk Spellthread |
+| **Rings** | Enchant Ring - Eyes of the Eagle (Haste/Mastery) |
+| **Main Hand** | Enchant Weapon - Arcane Mastery |
+
+### Best Gems
+- **Epic Gem (1 limit):** Indecipherable Eversong Diamond
+- **Rare Gems:** Flawless Masterful Peridot (Mastery / Haste) or Flawless Quick Amethyst (Haste / Mastery)
+
+### Consumables
+- **Flask:** Flask of the Magisters (Mastery) or Flask of the Blood Knights (Haste)
+- **Potion:** Draught of Rampant Abandon
+- **Food:** Feast of the Midnight Sun
+- **Weapon Oil:** Thalassian Phoenix Oil
+- **Augment Rune:** Void-Touched Augment Rune
 
 ---
 
-## Easy Mode Summary
-Shadow Priest is about keeping your DoTs active and ensure you are always building toward your next burst window.
+## Rotational Knowledge
 
 ### Core Mechanics
-*   **Vampiric Touch & Shadow Word: Pain:** Your two primary DoTs. Maintain 100% uptime.
-*   **Insanity:** Your primary resource. Build it to spend on heavy-hitting abilities.
-*   **Shadowform:** Passive 10% damage increase. Always keep active.
-*   **Dark Evangelism:** (If talented) Increases the damage of your DoTs.
+- **Insanity:** Your primary resource. Build it via generators and spend it on **Shadow Word: Madness**.
+- **DoTs:** **Vampiric Touch** and **Shadow Word: Pain** must be maintained with 100% uptime.
+- **Shadowform:** Always keep active for the flat damage increase.
 
-### Simplified Rotation
-1.  **Vampiric Touch:** Apply to all targets (applies Shadow Word: Pain via Misery talent).
-2.  **Voidform / Dark Ascension:** Use on cooldown (with Power Infusion).
-3.  **Void Torrent:** Use on cooldown (preferably during Voidform).
-4.  **Shadow Word: Madness:** Your primary Insanity spender.
-5.  **Mind Blast:** Use to generate Insanity.
-6.  **Void Volley:** Use on cooldown to build Insanity and refresh DoTs.
-7.  **Mind Flay / Mind Spike:** Your primary filler.
+### Single-Target Priority
+1. **Voidform / Dark Ascension:** Use on cooldown (with Power Infusion).
+2. **Void Torrent:** Highest priority Insanity generator. Use on cooldown.
+3. **Shadow Word: Madness:** Primary Insanity spender. Do not overcap Insanity.
+4. **Tentacle Slam:** New core ability for Midnight. High priority generator.
+5. **Mind Blast:** Maintain charges and use to generate Insanity.
+6. **Shadow Word: Death:** Use for execute (< 20% HP) or as a generator.
+7. **Mind Flay:** Primary filler and Insanity generator. Spend **Mind Flay: Insanity** procs immediately.
 
----
+### Multi-Target (AoE) Priority
+1. **Halo:** High priority for massive AoE and DoT application.
+2. **Void Volley:** Triggered during Voidform/Eruption. Primary AoE throughput.
+3. **Shadow Word: Madness:** Use for significant cleave damage.
+4. **Vampiric Touch:** Ensure all targets are dotted (applies SW:P via talents).
 
-## Rotation Priority
+### Cooldown Management
+- **Voidform / Dark Ascension:** Sync with **Power Infusion** and trinket procs.
+- **Power Infusion:** Coordinate with your primary burst window.
+- **Dispersion:** Major defensive. Use to survive heavy mechanics.
+- **Vampiric Embrace:** Use during periods of heavy raid-wide damage to provide off-healing.
 
-### Single-Target
-1.  **Voidform / Dark Ascension:** Primary burst window.
-2.  **Void Torrent:** Highest priority generator.
-3.  **Halo:** Use on cooldown (with Archon/Oracle synergies).
-4.  **Shadow Word: Madness:** Use at high Insanity (don't cap).
-5.  **Mind Blast:** Maintain 0-1 charges.
-6.  **Void Volley:** On cooldown.
-7.  **Shadow Word: Death:** Use as execute (< 20% HP).
-8.  **Mind Flay: Insanity / Mind Spike: Insanity:** Spend procs immediately.
-
-### Multi-Target (AoE)
-1.  **Halo:** Instantly applies DoTs to all targets.
-2.  **Void Volley:** Primary AoE burst and DoT refresh.
-3.  **Shadow Word: Madness:** Deals significant cleave damage.
-4.  **Void Torrent:** Use on a priority target within the pack.
-5.  **Vampiric Touch:** Manually apply to any targets missed by Halo.
-
----
-
-## Major Cooldowns & Usage
-*   **Voidform / Dark Ascension:** 2-minute cooldown. **Usage:** Your main throughput window. Voidform allows you to cast Void Bolt; Dark Ascension increases direct damage.
-*   **Power Infusion:** 2-minute cooldown. 20% Haste for 20s. **Usage:** Always sync with Voidform or Dark Ascension.
-*   **Halo:** 1-minute cooldown (approx). **Usage:** Massive AoE damage and utility for DoT application.
-*   **Dispersion:** 2-minute cooldown. 75% damage reduction and immunity to movement-impairing effects. **Usage:** Your primary defensive.
-*   **Vampiric Embrace:** 2-minute cooldown. Converts 50% of your single-target shadow damage into healing for the group. **Usage:** Use during heavy raid damage phases.
-
----
-
-## Stat Priority
-1.  **Intellect**
-2.  **Haste:** The most important secondary stat for cast speed, GCD, and DoT ticking frequency.
-3.  **Mastery:** Increases damage based on the number of DoTs active on the target.
-4.  **Critical Strike:** Increases chance for double damage.
-5.  **Versatility:** Flat damage boost and reduction.
-
-**Note:** For Shadow, **Haste** is the engine that drives the entire spec's resource generation and damage throughput.
+### Important Notes (Midnight Meta)
+- **Mind Spike** is currently not recommended; stick to **Mind Flay** for filler/procs.
+- **Voidweaver Interaction:** New Hero Talent tree for Midnight; ensure you are utilizing Entropic Rift synergies if talented.
