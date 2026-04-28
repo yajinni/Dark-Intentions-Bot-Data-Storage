@@ -12,17 +12,18 @@
 | **Boots** | Enchant Boots - Shaladrassil's Roots |
 | **Wrist** | Enchant Bracer - Chant of Armored Leech |
 | **Rings** | Silvermoon's Tenacity (Deathbringer) or Nature's Fury (San'layn) |
-| **Main Hand** | Rune of Sanguination (Survival) or Rune of the Fallen Crusader (General) |
+| **Main Hand** | Rune of Sanguination (San'layn / Survival) or Rune of the Fallen Crusader (Deathbringer / General) |
 
 ### Best Gems
 - **Epic Gem (1 limit):** Indecipherable Eversong Diamond
-- **Rare Gems:** Flawless Masterful Garnet (Mastery / Versatility)
+- **Deathbringer Gems:** Flawless Masterful Garnet (Mastery / Haste)
+- **San'layn Gems:** Flawless Quick Garnet (Haste / Mastery)
 
 ### Consumables
 - **Flask:** Flask of Alchemical Chaos
 - **Potion:** Tempered Potion
 - **Healing Potion:** Silvermoon Health Potion
-- **Food:** Feast of the Midnight Masquerade (or Haste/Mastery food)
+- **Food:** Feast of the Midnight Masquerade (or Haste/Mastery personal food)
 - **Weapon Oil:** Thalassian Phoenix Oil
 - **Augment Rune:** Crystallized Augment Rune
 
@@ -48,9 +49,10 @@
 - **Vampiric Blood:** Short cooldown survival boost. Increases max HP and healing received.
 - **Anti-Magic Shell (AMS):** Absorbs magic damage and prevents debuff application.
 - **Icebound Fortitude:** Major damage reduction. Use for predictable heavy hits.
-- **Tombstone:** Consumes Bone Shield for Runic Power and an absorb shield. Use to cycle CDs.
 
 ### Important Notes (Midnight Meta)
-- **Dance of Midnight:** New Apex talent. Provides significant cooldown reduction and throughput.
-- **Blightfall** and **March of Madness** have been REMOVED.
-- **Deathbringer vs San'layn:** Deathbringer is the current default for most content, focusing on Reaper's Mark and Exterminate.
+- **REMOVED SPELLS:** **Tombstone**, **Blightfall**, **March of Madness**, and **Scythe of Decay** have been removed in the 12.0.5 expansion.
+- **Apex Talent - Dance of Midnight:** Provides significant cooldown reduction and throughput.
+- **Deathbringer vs San'layn:**
+    - **Deathbringer:** Focuses on **Reaper's Mark** and **Exterminate**. High burst and physical mitigation.
+    - **San'layn:** Focuses on **Vampiric Strike** and Haste scaling. High self-healing and sustained throughput.
