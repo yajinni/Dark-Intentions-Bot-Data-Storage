@@ -17,7 +17,8 @@
 
 ### Best Gems
 - **Epic Gem (1 limit):** Culminating Blasphemite
-- **Rare Gems:** Flawless Masterful Garnet (Mastery / Haste)
+- **Deathbringer Gems:** Flawless Masterful Garnet (Mastery / Critical Strike)
+- **Rider of the Apocalypse Gems:** Flawless Deadly Amethyst (Critical Strike / Mastery)
 
 ### Consumables
 - **Flask:** Flask of Tempered Swiftness
@@ -48,10 +49,9 @@
 - **Pillar of Frost:** 1-minute CD. Increases Strength. Always sync with **Reaper's Mark**.
 - **Reaper's Mark:** Align with Pillar of Frost to trigger Soul Wave.
 - **Empower Rune Weapon:** 2-minute CD. Increases Haste and resource generation.
-- **Frostwyrm's Fury:** Massive AoE burst. Best used during Pillar of Frost.
-- **Breath of Sindragosa:** If talented, maintain for as long as possible by pooling Runic Power beforehand.
+- **Frostwyrm's Fury:** Massive AoE burst. Now OFF the Global Cooldown (GCD) in 12.0.5.
 
 ### Important Notes (Midnight Meta)
+- **REMOVED SPELLS:** **Soul Reaper** and **Sacrificial Pact** have been removed from the Frost toolkit.
 - **Apex Saliance:** Rank 3 is now off the Global Cooldown (GCD).
-- **March of Madness** and **Scythe of Decay** have been REMOVED.
-- **Deathbringer:** Current dominant Hero Talent tree for Frost, focusing on Exterminate and Soul Wave.
+- **Deathbringer:** Dominant Hero Talent tree, focusing on **Exterminate** and **Soul Wave**.

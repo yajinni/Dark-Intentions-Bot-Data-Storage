@@ -15,8 +15,8 @@
 | **Main Hand** | Rune of the Fallen Crusader |
 
 ### Best Gems
-- **Epic Gem (1 limit):** Culminating Blasphemite
-- **Rare Gems:** Flawless Masterful Garnet (Mastery / Critical Strike)
+- **Epic Gem (1 limit):** Indecipherable Eversong Diamond
+- **San'layn / Rider Gems:** Flawless Masterful Garnet (Mastery / Critical Strike) or Flawless Deadly Amethyst (Critical Strike / Mastery)
 
 ### Consumables
 - **Flask:** Flask of Alchemical Chaos
@@ -31,26 +31,31 @@
 ## Rotational Knowledge
 
 ### Core Mechanics
-- **Virulent Plague:** Maintain 100% uptime. Outbreak is the primary applicator.
-- **Festering Wounds:** Build with Festering Strike, burst with Scourge Strike.
+- **REWORKED:** **Festering Wounds have been REMOVED.** The spec now focuses on a minion-summoning loop and disease management.
+- **Dread Plague:** Your primary disease. Maintain 100% uptime.
 - **Dark Transformation:** Use on cooldown to empower your Ghoul.
 
 ### Spell Priority (Single-Target)
-1. **Outbreak:** Apply Virulent Plague.
+1. **Outbreak:** Apply **Dread Plague**.
 2. **Dark Transformation:** Use on cooldown.
-3. **Apocalypse:** Use with 4+ Festering Wounds.
-4. **Festering Strike:** Apply wounds if < 4.
-5. **Scourge Strike:** Burst wounds. In 12.0.5, this also spreads/applies Virulent Plague automatically if talented.
-6. **Death Coil:** Spend Runic Power and reduce cooldowns via Sudden Doom.
+3. **Putrefy:** Your new core rotational ability. Use on cooldown.
+4. **Soul Reaper:** High priority if target is < 35% HP.
+5. **Apocalypse:** Use to summon minions. No longer requires Festering Wounds.
+6. **Death Coil:** Spend Runic Power and reduce cooldowns via **Sudden Doom**.
+
+### Multi-Target (AoE) Priority
+1. **Blightfall:** Replaces Outbreak during certain windows or procs. Massive AoE throughput.
+2. **Putrefy:** Use to spread diseases and deal burst shadow damage.
+3. **Epidemic:** Primary Runic Power spender for 3+ targets.
+4. **Scourge Strike:** Now automatically spreads/maintains diseases in AoE if talented.
+5. **Abomination Limb:** Use for AoE setup and minion summoning.
 
 ### Cooldown Management
-- **Army of the Dead:** Massive burst window. Sync with Bloodlust and Dark Transformation.
-- **Dark Transformation:** 45-second cooldown. Primary pet buff.
-- **Abomination Limb:** Use for AoE setup and extra wound application.
-- **Summon Gargoyle:** High priority single-target burst if talented.
+- **Army of the Dead:** Massive burst window. Now has heavy synergy with minion-summoning loops.
+- **Summon Gargoyle:** High priority single-target burst.
+- **Dark Transformation:** Primary pet buff.
 
 ### Important Notes (Midnight Meta)
-- **Raise Abomination** has been heavily reworked/nerfed.
-- **Cycle of Death:** New talent in 12.0.5 that improves Putrefy and Death and Decay loops.
-- **Blightfall** has been REMOVED.
-- **Scourge Strike Utility:** Now much more efficient at maintaining diseases in AoE.
+- **REMOVED SPELLS:** **Festering Wounds**, **Pestilence**, **Sacrificial Pact**, and **Blightfall** (Legacy version).
+- **Cycle of Death:** New talent that improves Putrefy and minion-summoning uptime.
+- **AoE Decoupling:** You no longer need to stand in *Death and Decay* to cleave effectively.

@@ -16,7 +16,7 @@
 
 ### Best Gems
 - **Epic Gem (1 limit):** Indecipherable Eversong Diamond
-- **Deathbringer Gems:** Flawless Masterful Garnet (Mastery / Haste)
+- **Deathbringer Gems:** Flawless Masterful Garnet (Mastery / Critical Strike)
 - **San'layn Gems:** Flawless Quick Garnet (Haste / Mastery)
 
 ### Consumables
@@ -33,25 +33,25 @@
 
 ### Core Mechanics
 - **Bone Shield:** Maintain at all times. Marrowrend builds stacks; stacks increase armor and Haste.
-- **Death Strike:** Your primary survival tool. Use after taking significant damage to heal back 25% of damage taken in the last 5 seconds (minimum 7% max HP).
+- **Death Strike:** Your primary survival tool. Use after taking significant damage to heal back 25% of damage taken in the last 5 seconds.
 - **Blood Plague:** Keep active on all targets via Blood Boil.
 
 ### Spell Priority (Survival/Tanking)
 1. **Marrowrend:** If Bone Shield is < 3 stacks or about to expire.
 2. **Death Strike:** To spend Runic Power or heal after a large damage spike.
 3. **Blood Boil:** To maintain Blood Plague and spend charges.
-4. **Death and Decay:** If Crimson Scourge procs or for AoE cleave.
+4. **Death and Decay:** Stand in it for Cleaving Strikes (Heart Strike hits more targets).
 5. **Heart Strike:** Primary Runic Power generator.
 6. **Death's Caress:** Use only when out of melee range to maintain Bone Shield.
 
 ### Cooldown Management
-- **Dancing Rune Weapon (DRW):** Major offensive/defensive CD. Increases Parry and mimics attacks. Use on cooldown for resource generation.
+- **Dancing Rune Weapon (DRW):** Major offensive/defensive CD. Increases Parry and mimics attacks. Use on cooldown.
 - **Vampiric Blood:** Short cooldown survival boost. Increases max HP and healing received.
 - **Anti-Magic Shell (AMS):** Absorbs magic damage and prevents debuff application.
-- **Icebound Fortitude:** Major damage reduction. Use for predictable heavy hits.
+- **Icebound Fortitude:** Major damage reduction (30%). Use for predictable heavy hits.
 
 ### Important Notes (Midnight Meta)
-- **REMOVED SPELLS:** **Tombstone**, **Blightfall**, **March of Madness**, and **Scythe of Decay** have been removed in the 12.0.5 expansion.
+- **REMOVED SPELLS:** **Tombstone**, **Soul Reaper**, **Sacrificial Pact**, **Blightfall**, and **March of Madness** have been removed in the 12.0.5 expansion.
 - **Apex Talent - Dance of Midnight:** Provides significant cooldown reduction and throughput.
 - **Deathbringer vs San'layn:**
     - **Deathbringer:** Focuses on **Reaper's Mark** and **Exterminate**. High burst and physical mitigation.
