@@ -6,6 +6,8 @@
 - [x] **Devourer Demon Hunter** (Annihilator/Void-Scarred Splits, Ranged Focus)
 - [x] **Frost Death Knight** (Deathbringer/Rider Splits, Breath Focus)
 - [x] **Unholy Death Knight** (Rider/San'layn Splits, Ghoul Stack Logic)
+- [x] **Havoc Demon Hunter** (Fel-Scarred/Aldrachi Splits, Inertia Window)
+- [x] **Vengeance Demon Hunter** (Annihilator/Aldrachi Splits, Voidfall Logic)
 
 ## [/] In Progress
 - [ ] Next Target Selection...
