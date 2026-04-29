@@ -26,6 +26,9 @@
 - [x] **Brewmaster Monk** (Master of Harmony/Shado-Pan Splits, Stagger Logic)
 - [x] **Mistweaver Monk** (Conduit/Harmony Splits, Fistweaving Logic)
 - [x] **Windwalker Monk** (Conduit/Shado-Pan Splits, Combo Strikes Logic)
+- [x] **Holy Paladin** (Herald/Lightsmith Splits, Holy Power Logic)
+- [x] **Protection Paladin** (Templar/Lightsmith Splits, Consecration Logic)
+- [x] **Retribution Paladin** (Templar/Herald Splits, Execution Window)
 
 ## [/] In Progress
 - [ ] Next Target Selection...
