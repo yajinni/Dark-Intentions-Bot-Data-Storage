@@ -63,5 +63,5 @@ This rotation prioritizes **Holy Word CDR** and **Proc Efficiency**.
 *   **Apotheosis (Healing Burst):** 2-minute CD. Increases Holy Word CDR by 300%. Weave Serenity/Sanctify rapidly during this window.
 *   **Divine Hymn (Raid Defense):** Channeled heal. Increases all healing received by the raid by 10%. Best used during planned raid-wide damage.
 *   **Guardian Spirit (The Save):** Prevents the target from dying and increases healing received by 40%. Best for Tanks or lethal hits.
-*   **Symbol of Hope (Utility):** Recovers mana for healers and reduces defensive cooldowns for the entire raid.
 *   **Power Infusion (Offensive):** Massive Haste buff. Typically used on high-performing DPS.
+
