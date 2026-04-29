@@ -14,6 +14,9 @@
 - [x] **Feral Druid** (Wildstalker/Claw Splits, Snapshot Logic)
 - [x] **Guardian Druid** (Claw/Elune Splits, Ironfur Logic)
 - [x] **Restoration Druid** (Keeper/Wildstalker Splits, Ramp Logic)
+- [x] **Augmentation Evoker** (Scalecommander/Chronowarden Splits, Ebon Might Logic)
+- [x] **Devastation Evoker** (Scalecommander/Flameshaper Splits, Empower Logic)
+- [x] **Preservation Evoker** (Chronowarden/Flameshaper Splits, Stasis Logic)
 
 ## [/] In Progress
 - [ ] Next Target Selection...
