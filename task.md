@@ -35,6 +35,9 @@
 - [x] **Elemental Shaman** (Stormbringer/Farseer Splits, Maelstrom Logic)
 - [x] **Enhancement Shaman** (Totemic/Stormbringer Splits, MW10 Logic)
 - [x] **Restoration Shaman** (Totemic/Farseer Splits, Cloudburst Logic)
+- [x] **Affliction Warlock** (Soul Harvester/Hellcaller Splits, DoT Logic)
+- [x] **Demonology Warlock** (Soul Harvester/Diabolist Splits, Shard Logic)
+- [x] **Destruction Warlock** (Diabolist/Hellcaller Splits, Chaos Bolt Logic)
 
 ## [/] In Progress
 - [ ] Next Target Selection...
