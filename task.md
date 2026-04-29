@@ -8,6 +8,8 @@
 - [x] **Unholy Death Knight** (Rider/San'layn Splits, Ghoul Stack Logic)
 - [x] **Havoc Demon Hunter** (Fel-Scarred/Aldrachi Splits, Inertia Window)
 - [x] **Vengeance Demon Hunter** (Annihilator/Aldrachi Splits, Voidfall Logic)
+- [x] **Discipline Priest** (Oracle/Voidweaver Splits, Ramp Sequence)
+- [x] **Shadow Priest** (Voidweaver/Archon Splits, Entropic Rift)
 
 ## [/] In Progress
 - [ ] Next Target Selection...
