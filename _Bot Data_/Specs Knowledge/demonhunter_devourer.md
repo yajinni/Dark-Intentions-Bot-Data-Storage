@@ -12,13 +12,15 @@
 ### **Gear Enchants Table**
 | Slot | Recommended Enchant | Notes |
 | :--- | :--- | :--- |
-| **Weapon** | **Acuity of the Ren'dorei** | Mastery proc focus. |
-| **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
-| **Shoulders** | **Akil'zon's Swiftness** | Mastery/Crit focus. |
-| **Chest** | **Mark of the Magister** | Primary Intellect buff. |
+| **Weapon (MH)** | **Enchant Weapon - Arcane Mastery** | Primary DPS proc. |
+| **Weapon (OH)** | **Enchant Weapon - Berserker's Rage** | Secondary DPS proc. |
+| **Alternative Weapon**| **Enchant Weapon - Acuity of the Ren'dorei** | Mastery focus (Budget/Alternative). |
+| **Helm** | **Enchant Helm - Empowered Rune of Avoidance** | Utility/Avoidance focus. |
+| **Shoulders** | **Enchant Shoulders - Amirdrassil's Grace** | Utility/Survival focus. |
+| **Chest** | **Enchant Chest - Mark of the Worldsoul** | Primary Stat (Intellect). |
 | **Legs** | **Sunfire Silk Spellthread** | Intellect + Stamina. |
-| **Boots** | **Farstrider's Hunt** | Mastery/Speed focus. |
-| **Rings** | **Eyes of the Eagle** | Mastery focus. |
+| **Boots** | **Enchant Boots - Lynx's Dexterity** | Utility/Agility/Intellect. |
+| **Rings** | **Enchant Ring - Eyes of the Eagle** | Mastery focus. |
 
 ---
 
