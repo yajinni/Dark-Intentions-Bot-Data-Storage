@@ -1,14 +1,13 @@
 # Devourer Demon Hunter Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-## 1. Consumables & Equipment Preparation
-| Category | Recommended Item | Notes |
+## 1. Hero-Specific Consumables & Equipment
+| Category | **Annihilator Profile (Haste)** | **Void-Scarred Profile (Mastery)** |
 | :--- | :--- | :--- |
-| **Gems (Unique)** | **Indecipherable Eversong Diamond** | Intellect & Mastery. |
-| **Gems (Standard)** | **Masterful Jewel of the Sun** | Mastery / Haste focus. |
-| **Flask** | **Flask of the Magisters** | Mastery focus. |
-| **Potion** | **Potion of Recklessness** | Standard offensive burst. |
-| **Food** | **Harandar Celebration** | Intellect primary buff. |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | Throughput oil. |
+| **Flask** | **Flask of the Blood Knights** | **Flask of the Magisters** |
+| **Food** | **Harandar Celebration** | **Royal Roast** |
+| **Gems** | **Flawless Quick Amethyst** | **Flawless Masterful Garnet** |
+| **Weapon Oil** | **Thalassian Phoenix Oil** | **Thalassian Phoenix Oil** |
+| **Unique Gem** | **Indecipherable Eversong Diamond** | **Indecipherable Eversong Diamond** |
 
 ### **Gear Enchants Table**
 | Slot | Recommended Enchant | Notes |
@@ -23,44 +22,51 @@
 
 ---
 
-## 2. Stat Priority
-1.  **Mastery:** Increases damage of core spenders and Soul generation.
-2.  **Haste:** Vital for Fury drain management during Metamorphosis.
-3.  **Critical Strike / Versatility:** Secondary scaling.
+## 2. Stat Priority Split
+*   **Annihilator Build:** Intellect > **Haste** > Mastery > Crit = Vers.
+*   **Void-Scarred Build:** Intellect > **Mastery** > Haste > Crit = Vers.
 
 ---
 
-## 3. Hero Talents: Annihilator vs. Void-Scarred
+## 3. Hero Talents Deep Dive
 
-| Feature | **Annihilator** | **Void-Scarred** |
-| :--- | :--- | :--- |
-| **Core Focus** | **Infinite Metamorphosis** | **Frequent Burst** |
-| **Key Synergy** | **Collapsing Star** (Soul spender). | **Void Scar** (Burst window). |
-| **Gameplay Style** | Complex resource management (Drain pausing). | Straightforward burst priority. |
-| **When to Pick?** | Primary Raid Choice / Sustained Cleave. | Niche / Burst-heavy Delves. |
+### **Annihilator (Infinite Demon)**
+*   **Core Mechanic:** **Collapsing Star** (Soul consumer).
+*   **Gameplay Effect:** Focuses on extending **Void Metamorphosis** by using "drain-pausing" spells (*Void Ray* and *Collapsing Star*).
+*   **Why Pick?** Superior for long, sustained raid encounters where high Metamorphosis uptime is possible.
+
+### **Void-Scarred (Void Burst)**
+*   **Core Mechanic:** **Voidsurge** (Multiplied burst windows).
+*   **Gameplay Effect:** High-intensity burst windows triggered by specific spell sequences (*Voidblade* -> *Metamorphosis* -> *Pierce the Veil*).
+*   **Why Pick?** Superior for burst-heavy encounters or fights with frequent downtime/target switching.
 
 ---
 
 ## 4. Deep Dive: Raid Rotation
-Focus: **Fury/Soul Equilibrium** and **Metamorphosis Uptime**.
+The bot must switch audit logic based on the active Hero Spec.
 
-### **A. Outside Void Metamorphosis (Loading)**
+### **A. Global Devourer Logic (Ranged)**
 1.  **Soul Immolation:** Maintain 100% uptime.
-2.  **Reap:** Use with **3 stacks of Voidfall** or at **10 Souls**.
-3.  **Void Metamorphosis:** Activate as soon as Souls are **> 50**.
-4.  **Void Ray:** Use at **100+ Fury** to load Souls.
-5.  **Consume:** Primary filler to generate Souls.
+2.  **Void Metamorphosis:** Activate at **> 50 Souls**.
+3.  **Void Ray:** Use at **100+ Fury** outside transformation to load Souls.
+4.  **Cull:** Spender for *Voidfall* stacks.
 
-### **B. During Void Metamorphosis (The Drain Window)**
-1.  **Void Ray:** Use on cooldown. (Crucial: Pauses Fury drain).
-2.  **Collapsing Star:** Cast at **30 Souls**. (Crucial: Pauses Fury drain).
-3.  **Cull:** Use with **3 stacks of Voidfall**.
-4.  **Devour:** Primary filler while transformed.
-5.  **Audit Flag:** Never use *Consume* while transformed.
+### **B. Annihilator Specific Priority (Drain Management)**
+1.  **Void Ray:** Use on cooldown while transformed. (CRITICAL: Pauses Fury Drain).
+2.  **Collapsing Star:** Use immediately at **30 Souls**. (CRITICAL: Pauses Fury Drain).
+3.  **Devour:** Primary transformed filler.
+4.  **Audit Flag:** Casting *Devour* while *Collapsing Star* is available at 30+ Souls is a "Sustain Error."
+
+### **C. Void-Scarred Specific Priority (Burst Management)**
+1.  **Voidsurge Prep:** Cast **Voidblade** immediately before entering Metamorphosis.
+2.  **Voidsurge Trigger:** Cast **Pierce the Veil** immediately after transforming (within 2s).
+3.  **Void Ray:** Primary spender.
+4.  **Devour:** Primary filler.
+5.  **Audit Flag:** Entering transformation without a *Voidblade* charge is a "Burst Efficiency Error."
 
 ---
 
 ## 5. Major Cooldowns Breakdown (Strict Whitelist)
-*   **Void Metamorphosis:** Core specialization cooldown. The goal of the entire spec is to extend this window via resource management.
-*   **Collapsing Star:** Massive Soul-consumer available only during Metamorphosis.
+*   **Void Metamorphosis:** Core specialization cooldown.
+*   **Collapsing Star:** Soul-spender available during Metamorphosis.
 *   **Rolling Torment:** Increases Soul and Fury generation for a 12s window.
