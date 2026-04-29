@@ -1,23 +1,27 @@
 # Fire Mage Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-## 1. Hero-Specific Consumables & Equipment
-| Category | **Sunfury Profile (Raid Meta)** | **Frostfire Profile** |
+## 1. Consumables & Equipment (Unified Guide Approach)
+The guide recommends a unified approach for both Sunfury and Frostfire builds.
+
+| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Silvermoon's Alacrity** | **Enchant Ring - Silvermoon's Alacrity** |
-| **Flask** | **Flask of the Blood Knights** (Haste) | **Flask of the Shattered Sun** (Crit) |
-| **Food** | **Harandar Celebration** (Intellect Feast) | **Royal Roast** (Intellect) |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | **Thalassian Phoenix Oil** |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | **Indecipherable Eversong Diamond** |
+| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | None listed. |
+| **Flask** | **Flask of Thalassian Resistance** (Vers) | **Flask of the Magisters** (Mastery). |
+| **Food** | **Silvermoon Parade** (Intellect Feast) | **Royal Roast** (Valid if Feast is not provided). |
+| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
+| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
+| **Gems** | **Flawless Deadly Peridot** | **Flawless Quick Lapis** (Haste alternative). |
 
 ### **Gear Enchants Table (Global)**
 | Slot | Recommended Enchant | Notes |
 | :--- | :--- | :--- |
 | **Weapon** | **Acuity of the Ren'dorei** | Mastery/Intellect proc. |
-| **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
-| **Shoulders** | **Akil'zon's Swiftness** | Mastery focus. |
+| **Weapon (Alternative)** | **Enchant Weapon - Arcane Mastery** | **Valid Alternative** for preference. |
+| **Helm** | **Empowered Hex of Leeching** | Defensive utility. |
+| **Shoulders** | **Silvermoon's Mending** | Best for raid throughput. |
 | **Chest** | **Mark of the Magister** | Primary Intellect buff. |
 | **Legs** | **Sunfire Silk Spellthread** | Intellect + Stamina. |
-| **Boots** | **Farstrider's Hunt** | Mastery/Speed. |
+| **Boots** | **Shaladrassil's Roots** | Versatility / Speed. |
 
 ---
 

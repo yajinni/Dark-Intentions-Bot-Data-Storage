@@ -1,23 +1,27 @@
 # Beast Mastery Hunter Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-## 1. Hero-Specific Consumables & Equipment
-| Category | **Pack Leader Profile (ST/Meta)** | **Dark Ranger Profile (Alternative)** |
+## 1. Consumables & Equipment (Unified Guide Approach)
+The guide recommends a unified approach for both Pack Leader and Dark Ranger builds.
+
+| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Nature's Fury** | **Enchant Ring - Nature's Fury** |
-| **Flask** | **Flask of the Magisters** (Mastery) | **Flask of the Magisters** (Mastery) |
-| **Food** | **Harandar Celebration** (Mastery Feast) | **Royal Roast** (Agility) |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | **Thalassian Phoenix Oil** |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | **Indecipherable Eversong Diamond** |
+| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | None listed. |
+| **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Blood Knights** (Haste). |
+| **Food** | **Harandar Celebration** (Agility Feast) | **Royal Roast** (Valid if Feast is not provided). |
+| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
+| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
+| **Gems** | **Flawless Deadly Peridot** | **Flawless Quick Lapis** (Haste alternative). |
 
 ### **Gear Enchants Table (Global)**
 | Slot | Recommended Enchant | Notes |
 | :--- | :--- | :--- |
 | **Weapon** | **Acuity of the Ren'dorei** | Mastery/Agility proc. |
+| **Weapon (Alternative)** | **Jan'alai's Precision** | **Valid Alternative** for preference. |
 | **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
-| **Shoulders** | **Akil'zon's Swiftness** | Mastery focus. |
+| **Shoulders** | **Akil'zon's Swiftness** | Critical Strike focus. |
 | **Chest** | **Mark of the Worldsoul** | Primary Agility buff. |
 | **Legs** | **Thunderous Armor Kit** | Agility + Stamina. |
-| **Boots** | **Farstrider's Hunt** | Mastery/Speed. |
+| **Boots** | **Farstrider's Hunt** | Mastery/Speed focus. |
 
 ---
 

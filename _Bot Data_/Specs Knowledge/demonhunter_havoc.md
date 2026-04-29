@@ -1,65 +1,69 @@
 # Havoc Demon Hunter Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-## 1. Hero-Specific Consumables & Equipment
-| Category | **Fel-Scarred Profile (Raid Meta)** | **Aldrachi Reaver Profile** |
+## 1. Consumables & Equipment (Unified Guide Approach)
+The guide recommends a "one-size-fits-all" approach for consumables across all builds.
+
+| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Cursed Criticality** | **Enchant Ring - Eyes of the Eagle** |
-| **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Magisters** (Mastery) |
-| **Food** | **Royal Roast** (Agility) | **Harandar Celebration** (Crit Feast) |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | **Thalassian Phoenix Oil** |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | **Indecipherable Eversong Diamond** |
+| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | None listed. |
+| **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Magisters** (Valid if Mastery preferred). |
+| **Food** | **Silvermoon Parade** (Agility Feast) | **Royal Roast** (Valid if Feast is not provided). |
+| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
+| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
+| **Gems** | **Flawless Masterful Garnet** | **Flawless Deadly Amethyst** (Valid alternative). |
 
 ### **Gear Enchants Table (Global)**
 | Slot | Recommended Enchant | Notes |
 | :--- | :--- | :--- |
 | **Weapon** | **Acuity of the Ren'dorei** | Mastery/Agility proc. |
 | **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
-| **Shoulders** | **Akil'zon's Swiftness** | Mastery/Crit focus. |
+| **Shoulders** | **Akil'zon's Swiftness** | Critical Strike focus. |
 | **Chest** | **Mark of the Worldsoul** | Primary Agility buff. |
 | **Legs** | **Thunderous Armor Kit** | Agility + Stamina. |
 | **Boots** | **Farstrider's Hunt** | Mastery/Speed. |
 
 ---
 
-## 2. Stat Priority Split
-*   **Fel-Scarred:** Agility > Critical Strike > Mastery > Haste > Versatility.
-*   **Aldrachi Reaver:** Agility > Mastery > Critical Strike > Haste > Versatility.
+## 2. Stat Priority
+*   **General Priority:** Agility > Critical Strike > Haste > Mastery > Versatility.
+*   *Note: These weights are consistent across Fel-Scarred and Aldrachi Reaver builds.*
 
 ---
 
 ## 3. Hero Talents Deep Dive
 
 ### **Fel-Scarred**
-*   **Core Mechanic:** **Demonsurge** (Metamorphosis amplification).
-*   **Gameplay Effect:** Every *Eye Beam* or *Metamorphosis* cast triggers a massive burst window where your primary spenders are empowered.
-*   **Why Pick?** Superior burst and sustained single-target damage in 12.0.5.
+*   **Core Focus:** **Burning Hatred** & **Focused Hatred**.
+*   **Gameplay Effect:** Significantly increases the damage and duration of *Metamorphosis*. Focuses on massive burst windows.
+*   **Why Pick?** Superior for encounters with predictable high-damage burn phases.
 
 ### **Aldrachi Reaver**
-*   **Core Mechanic:** **Reaver's Mark** & **Reaver's Glaive**.
-*   **Gameplay Effect:** Introduces a complex "Mark" system that requires specific sequences of Glaive tosses and melee finishers.
-*   **Why Pick?** Superior for priority-target funneling and specific Mythic+ scenarios.
+*   **Core Mechanic:** **Art of the Glaive** & **Aldrachi Tactics**.
+*   **Gameplay Effect:** Introduces a complex "Glaive-shaping" mechanic that empowers specific finishers. Requires high-precision rotational discipline.
+*   **Why Pick?** Superior for consistent sustained throughput and mobility.
 
 ---
 
 ## 4. Deep Dive: Raid Rotation
-Focus: **Inertia** windows and **Demonic** uptime.
+Focus: **Inertia Windows** and **Fury Management**.
 
-### **A. Primary Priority (The Inertia Cycle)**
-1.  **Fel Rush (Inertia):** Use to trigger the 6s **Inertia** damage buff.
-2.  **Death Sweep (Demonic):** Must be used within the 6s Inertia window.
-3.  **Annihilation (Demonic):** Use to spend Fury within the Demonic window.
-4.  **Eye Beam:** Use on cooldown to trigger *Demonic* transformation.
-5.  **Audit Flag:** Casting *Eye Beam* or *Blade Dance* while **Inertia** is NOT active (and Fel Rush is available) is a "Buff-Gap" error.
+### **A. The Inertia Audit (The 100% Rule)**
+1.  **Requirement:** Align **Inertia** (if talented) with your highest damage abilities (*Death Sweep*, *Anniversary*, etc.).
+2.  **Audit Flag:** Casting *Death Sweep* or *Eye Beam* without the **Inertia** buff (when available) is a major throughput error.
 
-### **B. Resource Management**
-1.  **Immolation Aura:** Use on cooldown to generate Fury.
-2.  **Sigil of Flame:** Use to maintain the *Precise Sigils* buff.
-3.  **Throw Glaive:** Use only as a filler or to maintain *Tactical Retreat*.
+### **B. Primary Priority List (Strict Whitelist)**
+1.  **Metamorphosis:** Use on cooldown. Your primary engine.
+2.  **Eye Beam:** Use on cooldown to trigger *Demonic*.
+3.  **Death Sweep / Blade Dance:** Highest priority spender. Use on cooldown.
+4.  **Annihilation / Chaos Strike:** Secondary spender.
+5.  **Immolation Aura:** Use on cooldown (Fury generation).
+6.  **Audit Flag:** Casting *Eye Beam* while already in a long-duration **Metamorphosis** window is a minor efficiency error unless used for the Fury gain.
 
 ---
 
 ## 5. Major Cooldowns Breakdown (Strict Whitelist)
-*   **Metamorphosis:** 2-minute CD. Major burst window.
-*   **The Hunt:** Use on cooldown (align with Metamorphosis).
-*   **Eye Beam:** 30s CD. Triggers mini-meta and Demonsurge procs.
-*   **Vengeful Retreat:** Used to trigger *Initiative* and *Tactical Retreat* buffs.
+*   **Metamorphosis:** 4-minute CD.
+*   **The Hunt:** 1.5-minute CD. High damage and mobility.
+*   **Eye Beam:** 30s CD. 
+*   **Vengeful Retreat:** (If talented for Initiative) Used to trigger crit windows.
+*   **Fel Barrage:** (If talented) High-intensity AoE burst.

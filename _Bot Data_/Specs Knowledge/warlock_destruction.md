@@ -1,18 +1,22 @@
 # Destruction Warlock Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-## 1. Hero-Specific Consumables & Equipment
-| Category | **Diabolist Profile (Raid Meta)** | **Hellcaller Profile** |
+## 1. Consumables & Equipment (Unified Guide Approach)
+The guide recommends a unified approach for both Diabolist and Hellcaller builds.
+
+| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Eyes of the Eagle** |
-| **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Blood Knights** (Haste) |
-| **Food** | **Harandar Celebration** (Intellect Feast) | **Royal Roast** (Intellect) |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | **Thalassian Phoenix Oil** |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | **Indecipherable Eversong Diamond** |
+| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | None listed. |
+| **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Blood Knights** (Haste). |
+| **Food** | **Harandar Celebration** (Intellect Feast) | **Royal Roast** (Valid if Feast is not provided). |
+| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
+| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
+| **Gems** | **Flawless Masterful Garnet** | **Flawless Quick Amethyst** (Haste alternative). |
 
 ### **Gear Enchants Table (Global)**
 | Slot | Recommended Enchant | Notes |
 | :--- | :--- | :--- |
 | **Weapon** | **Acuity of the Ren'dorei** | Mastery/Intellect proc. |
+| **Weapon (Alternative)** | **Enchant Weapon - Berserker's Rage** | **Valid Alternative** for preference. |
 | **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
 | **Shoulders** | **Akil'zon's Swiftness** | Critical Strike focus. |
 | **Chest** | **Mark of the Magister** | Primary Intellect buff. |

@@ -1,18 +1,22 @@
 # Arms Warrior Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-## 1. Hero-Specific Consumables & Equipment
-| Category | **Slayer Profile (Raid Meta)** | **Colossus Profile** |
+## 1. Consumables & Equipment (Unified Guide Approach)
+The guide recommends a unified approach for both Slayer and Colossus builds.
+
+| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Silvermoon's Alacrity** | **Enchant Ring - Silvermoon's Alacrity** |
-| **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Magisters** (Mastery) |
-| **Food** | **Harandar Celebration** (Strength Feast) | **Royal Roast** (Strength) |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | **Thalassian Phoenix Oil** |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | **Indecipherable Eversong Diamond** |
+| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | None listed. |
+| **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Blood Knights** (Haste). |
+| **Food** | **Harandar Celebration** (Strength Feast) | **Royal Roast** (Valid if Feast is not provided). |
+| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
+| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
+| **Gems** | **Flawless Quick Garnet** | **Flawless Deadly Peridot** (Mastery alternative). |
 
 ### **Gear Enchants Table (Global)**
 | Slot | Recommended Enchant | Notes |
 | :--- | :--- | :--- |
-| **Weapon** | **Acuity of the Ren'dorei** | Mastery/Strength proc. |
+| **Weapon** | **Enchant Weapon - Berserker's Rage** | Standard DPS enchant. |
+| **Weapon (Alternative)** | **Jan'alai's Precision** | **Valid Alternative** for preference. |
 | **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
 | **Shoulders** | **Akil'zon's Swiftness** | Critical Strike focus. |
 | **Chest** | **Mark of the Worldsoul** | Primary Strength buff. |
@@ -21,8 +25,9 @@
 
 ---
 
-## 2. Stat Priority Split
-*   **All Builds:** Strength > Critical Strike > Haste > Mastery > Versatility.
+## 2. Stat Priority
+*   **General Priority:** Strength > Critical Strike > Haste > Mastery > Versatility.
+*   *Note: Slayer benefits slightly more from Crit, while Colossus values Mastery, but the general priority remains consistent for raiding.*
 
 ---
 
@@ -49,7 +54,7 @@ Focus: **Colossus Smash Windows** and **Execute Priority**.
 3.  **Bladestorm:** Use immediately inside the CS window (if talented).
 4.  **Audit Flag:** Casting **Slam** or **Overpower** during the *Colossus Smash* window while **Mortal Strike** or **Execute** is available is a catastrophic throughput failure.
 
-### **B. Primary Priority List**
+### **B. Primary Priority List (Strict Whitelist)**
 1.  **Execute:** Top priority whenever available (including *Sudden Death* procs).
 2.  **Mortal Strike:** Primary generator and damage source. Use on cooldown.
 3.  **Overpower:** Use to generate *Dreadnaught* stacks and bridge gaps.

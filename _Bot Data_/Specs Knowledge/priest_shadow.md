@@ -1,67 +1,71 @@
 # Shadow Priest Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-## 1. Hero-Specific Consumables & Equipment
-| Category | **Voidweaver Profile (Raid Meta)** | **Archon Profile** |
+## 1. Consumables & Equipment (Unified Guide Approach)
+The guide recommends a unified approach based on stat weights rather than a rigid Hero Spec split.
+
+| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Silvermoon's Alacrity** | **Enchant Ring - Silvermoon's Alacrity** |
-| **Flask** | **Flask of the Blood Knights** (Haste) | **Flask of the Blood Knights** (Haste) |
-| **Potion** | **Potion of Devoured Dreams** | **Potion of Devoured Dreams** |
-| **Food** | **Royal Roast** (Intellect) | **Royal Roast** (Intellect) |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | **Thalassian Phoenix Oil** |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | **Indecipherable Eversong Diamond** |
+| **Ring Enchant** | **Enchant Ring - Zul'jin's Mastery** | **Enchant Ring - Silvermoon's Alacrity** (Haste). |
+| **Flask** | **Flask of the Magisters** (Mastery) | **Flask of the Blood Knights** (Haste). |
+| **Food** | **Silvermoon Parade** (Intellect Feast) | **Royal Roast** (Valid if Feast is not provided). |
+| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
+| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
+| **Gems** | **Flawless Masterful Peridot** | **Flawless Quick Amethyst** (Valid if Haste preferred). |
 
 ### **Gear Enchants Table (Global)**
 | Slot | Recommended Enchant | Notes |
 | :--- | :--- | :--- |
-| **Weapon** | **Acuity of the Ren'dorei** | Mastery/Intellect proc. |
-| **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
-| **Shoulders** | **Akil'zon's Swiftness** | Mastery focus. |
-| **Chest** | **Mark of the Magister** | Primary Intellect buff. |
+| **Weapon** | **Enchant Weapon - Arcane Mastery** | Mastery/Intellect focus. |
+| **Weapon (Budget)** | **Berserker's Rage** | **Valid Alternative** for early gearing. |
+| **Helm** | **Empowered Hex of Leeching** | Defensive utility. |
+| **Shoulders** | **Silvermoon's Mending** | Best for raid throughput. |
+| **Chest** | **Mark of the Worldsoul** | Primary Intellect buff. |
 | **Legs** | **Sunfire Silk Spellthread** | Intellect + Stamina. |
-| **Boots** | **Farstrider's Hunt** | Mastery/Speed. |
+| **Boots** | **Shaladrassil's Roots** | Versatility / Speed. |
 
 ---
 
-## 2. Stat Priority Split
-*   **All Builds:** Haste > Mastery > Critical Strike > Versatility.
+## 2. Stat Priority
+*   **General Priority:** Intellect > Mastery > Haste > Critical Strike > Versatility.
+*   *Note: Mastery becomes significantly more valuable in single-target raid encounters.*
 
 ---
 
 ## 3. Hero Talents Deep Dive
 
 ### **Voidweaver**
-*   **Core Mechanic:** **Entropic Rift** & **Void Blast**.
-*   **Gameplay Effect:** Heavily dependent on the Rift window. Replaces *Mind Blast* with *Void Blast* and requires high *Devouring Plague* uptime during the window.
-*   **Why Pick?** Superior single-target and priority burst in 12.0.5.
+*   **Core Focus:** **Entropic Rift** & **Void Blast**.
+*   **Gameplay Effect:** Introduces the *Entropic Rift* as a massive damage multiplier. Requires precise timing of *Devouring Plague* to maintain the rift.
+*   **Why Pick?** Superior for single-target boss encounters and consistent throughput in 12.0.5.
 
 ### **Archon**
-*   **Core Mechanic:** **Halo** & **Surge of Insanity**.
-*   **Gameplay Effect:** Increases the importance of *Halo* timing and *Surge of Insanity* (Mind Flay: Insanity) procs.
-*   **Why Pick?** Superior for consistent multi-target cleave and target-rich environments.
+*   **Core Mechanic:** **Halo** & **Energy Cycle**.
+*   **Gameplay Effect:** Focuses on *Halo* and high-intensity burst windows. More reliant on cooldown alignment.
+*   **Why Pick?** Superior for multi-target cleave and target-rich environments.
 
 ---
 
 ## 4. Deep Dive: Raid Rotation
-Focus: **Insanity Management** and **Entropic Rift** efficiency.
+Focus: **Entropic Rift Alignment** and **Insanity Management**.
 
-### **A. Primary Priority (The Rift Cycle)**
-1.  **Entropic Rift (Voidweaver):** Your primary damage window.
-2.  **Devouring Plague:** Maintain **100% uptime** during the Entropic Rift window. (CRITICAL: Maximize Void Blast procs).
-3.  **Void Blast:** Use every available charge during the Entropic Rift.
-4.  **Shadow Word: Madness:** Use to spend procs and generate Insanity.
-5.  **Void Torrent:** Use on cooldown (ensure DoTs are active).
-6.  **Audit Flag:** Casting *Mind Blast* while *Void Blast* is available during a Rift is a major efficiency error.
+### **A. Voidweaver Audit (The Rift Rule)**
+1.  **Entropic Rift:** Trigger as often as possible through *Devouring Plague*.
+2.  **Void Blast:** Priority #1 while the Rift is active.
+3.  **Audit Flag:** Casting **Mind Blast** while a Rift is active and **Void Blast** is available is a major throughput error.
 
-### **B. Maintenance**
-1.  **Vampiric Touch / Shadow Word: Pain:** Maintain 100% uptime.
-2.  **Mind Blast:** Generate Insanity outside of Rift windows.
-3.  **Mind Flay: Insanity:** Spend *Surge of Insanity* procs.
+### **B. Primary Priority List (Strict Whitelist)**
+1.  **Devouring Plague:** Primary Insanity spender. Use to maintain high Rift uptime.
+2.  **Vampiric Touch:** Maintain 100% uptime (Applies Shadow Word: Pain).
+3.  **Mind Blast:** Primary generator.
+4.  **Shadow Word: Death:** Use on cooldown (especially in execute range < 20%).
+5.  **Mind Spike (or Mind Flay):** Filler generator.
+6.  **Audit Flag:** Letting **Vampiric Touch** fall off the primary target is a catastrophic failure.
 
 ---
 
 ## 5. Major Cooldowns Breakdown (Strict Whitelist)
-*   **Voidform / Dark Ascension:** 2-minute CD. Primary burst window.
-*   **Power Infusion:** Aligned with Voidform/Ascension.
-*   **Void Torrent:** 45s CD. Major Insanity generator and damage channel.
-*   **Tentacle Slam:** (If talented) High priority burst CD.
-*   **Shadowfiend / Mindbender:** Used to supplement Insanity generation during burst windows.
+*   **Dark Ascension / Void Eruption:** 1-minute CD. Increases shadow damage.
+*   **Shadowfiend / Mindbender:** Major resource generator and damage source.
+*   **Halo:** (Archon only) High-impact burst utility.
+*   **Power Infusion:** Major Haste multiplier.
+*   **Vampiric Embrace:** Defensive utility for raid healing.
