@@ -29,6 +29,9 @@
 - [x] **Holy Paladin** (Herald/Lightsmith Splits, Holy Power Logic)
 - [x] **Protection Paladin** (Templar/Lightsmith Splits, Consecration Logic)
 - [x] **Retribution Paladin** (Templar/Herald Splits, Execution Window)
+- [x] **Assassination Rogue** (Fatebound/Deathstalker Splits, Kingsbane Window)
+- [x] **Outlaw Rogue** (Trickster/Fatebound Splits, Roll the Bones Logic)
+- [x] **Subtlety Rogue** (Trickster/Deathstalker Splits, Shadow Dance Logic)
 
 ## [/] In Progress
 - [ ] Next Target Selection...
