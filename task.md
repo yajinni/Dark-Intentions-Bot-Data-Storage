@@ -4,6 +4,8 @@
 - [x] **Holy Priest** (Archon/Oracle Splits, Granular Gear)
 - [x] **Blood Death Knight** (Deathbringer/San'layn Splits, Granular Gear)
 - [x] **Devourer Demon Hunter** (Annihilator/Void-Scarred Splits, Ranged Focus)
+- [x] **Frost Death Knight** (Deathbringer/Rider Splits, Breath Focus)
+- [x] **Unholy Death Knight** (Rider/San'layn Splits, Ghoul Stack Logic)
 
 ## [/] In Progress
 - [ ] Next Target Selection...
