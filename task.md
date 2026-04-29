@@ -17,6 +17,9 @@
 - [x] **Augmentation Evoker** (Scalecommander/Chronowarden Splits, Ebon Might Logic)
 - [x] **Devastation Evoker** (Scalecommander/Flameshaper Splits, Empower Logic)
 - [x] **Preservation Evoker** (Chronowarden/Flameshaper Splits, Stasis Logic)
+- [x] **Beast Mastery Hunter** (Pack Leader/Dark Ranger Splits, Frenzy Logic)
+- [x] **Marksmanship Hunter** (Dark Ranger/Sentinel Splits, Trick Shots Logic)
+- [x] **Survival Hunter** (Sentinel/Pack Leader Splits, Tip of the Spear Logic)
 
 ## [/] In Progress
 - [ ] Next Target Selection...
