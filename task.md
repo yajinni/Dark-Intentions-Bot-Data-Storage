@@ -23,6 +23,9 @@
 - [x] **Arcane Mage** (Sunfury/Spellslinger Splits, Burn Phase Logic)
 - [x] **Fire Mage** (Sunfury/Frostfire Splits, Combustion Logic)
 - [x] **Frost Mage** (Spellslinger/Frostfire Splits, Shatter Logic)
+- [x] **Brewmaster Monk** (Master of Harmony/Shado-Pan Splits, Stagger Logic)
+- [x] **Mistweaver Monk** (Conduit/Harmony Splits, Fistweaving Logic)
+- [x] **Windwalker Monk** (Conduit/Shado-Pan Splits, Combo Strikes Logic)
 
 ## [/] In Progress
 - [ ] Next Target Selection...
