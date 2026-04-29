@@ -38,6 +38,9 @@
 - [x] **Affliction Warlock** (Soul Harvester/Hellcaller Splits, DoT Logic)
 - [x] **Demonology Warlock** (Soul Harvester/Diabolist Splits, Shard Logic)
 - [x] **Destruction Warlock** (Diabolist/Hellcaller Splits, Chaos Bolt Logic)
+- [x] **Arms Warrior** (Slayer/Colossus Splits, CS Window Logic)
+- [x] **Fury Warrior** (Slayer/Mountain Splits, Rage Management)
+- [x] **Protection Warrior** (Mountain/Colossus Splits, Block Uptime)
 
 ## [/] In Progress
 - [ ] Next Target Selection...
