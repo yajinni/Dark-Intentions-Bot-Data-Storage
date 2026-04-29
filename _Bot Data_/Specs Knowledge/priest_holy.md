@@ -1,71 +1,67 @@
 # Holy Priest Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-## 1. Raid Consumables & Gear
-| Category | Recommendation | Notes |
+## 1. Consumables & Gear Preparation
+| Category | Recommended Item | Notes |
 | :--- | :--- | :--- |
-| **Flask** | Flask of the Shattered Sun | Critical Strike focus |
-| **Potion** | Light's Potential | Use during Apotheosis burst |
-| **Food** | Harandar Celebration / Royal Roast | |
-| **Weapon Oil** | Thalassian Phoenix Oil | |
+| **Gems (Unique)** | **Indecipherable Eversong Diamond** | One per gear set. |
+| **Gems (Standard)** | **Flawless Versatile Garnet** | Critical Strike / Versatility focus. |
+| **Flask** | **Flask of the Shattered Sun** | Focuses on Critical Strike for Surge of Light procs. |
+| **Potion** | **Light's Potential** | Use during high-intensity raid damage. |
+| **Food** | **Harandar Celebration / Royal Roast** | Intellect buff. |
+| **Weapon Oil** | **Thalassian Phoenix Oil** | Essential throughput oil. |
 
-### **Enchants (Midnight 12.0.5)**
+### **Gear Enchants Table**
 | Slot | Recommended Enchant | Notes |
 | :--- | :--- | :--- |
-| **Weapon** | Enchant Weapon - Acuity of the Ren'dorei | Or Jan'alai's Precision |
-| **Helm** | Empowered Hex of Leeching | |
-| **Chest** | Mark of the Worldsoul | Or Mark of the Magister |
-| **Shoulders** | Silvermoon's Mending | Or Thalassian Recovery |
-| **Legs** | Arcanoweave Spellthread | |
-| **Rings** | Eyes of the Eagle | Or Nature's Fury |
-| **Feet** | Shaladrassil's Roots | Or Farstrider's Hunt |
+| **Weapon** | **Acuity of the Ren'dorei** | High-throughput proc. |
+| **Helm** | **Empowered Hex of Leeching** | Defensive utility. |
+| **Chest** | **Mark of the Worldsoul** | Primary stat (Intellect). |
+| **Shoulders** | **Silvermoon's Mending** | Best for raid healing throughput. |
+| **Legs** | **Arcanoweave Spellthread** | Intellect and Stamina/Mana. |
+| **Rings** | **Eyes of the Eagle** | Critical Strike focus. |
+| **Boots** | **Shaladrassil's Roots** | Versatility / Speed. |
 
-### Gems
-*   **Unique Gem:** Indecipherable Eversong Diamond
-*   **Standard Fill:** Flawless Versatile Garnet (Crit/Vers)
+---
 
+## 2. Stat Priority
+1.  **Critical Strike:** Essential for Surge of Light proc rate and raw throughput.
+2.  **Versatility / Mastery:** Versatility provides stability and damage reduction; Mastery (Echo of Light) is excellent for raid-wide HPS.
+3.  **Haste:** Generally avoided in Raid builds due to mana consumption.
 
-## 2. Midnight Apex Talent: Benediction
-This is a core 12.0.5 audit metric.
-*   **Trigger:** casting *Prayer of Mending* periodically transforms your next *Flash Heal* into **Benediction**.
-*   **Effect:** Benediction deals significantly increased healing and triggers a *Cosmic Ripple*.
-*   **Apotheosis Synergy:** During Apotheosis, *Flash Heal* is automatically upgraded to Benediction. Prioritize these procs over standard fillers.
+---
 
-## 3. Hero Spec Analysis (Raid Context)
-### **Archon** (Standard Raid Choice)
-*   **Spiritwell (CRITICAL):** Surge of Light procs should be spent exclusively on **Prayer of Healing**. This maximizes mana efficiency and triggers *Empowered Surges*.
-*   **Halo Synergy:** Cast Halo on cooldown (ideally before Apotheosis or Divine Hymn). Do not hold Halo for more than 30s.
+## 3. Hero Talents: Archon vs. Oracle
 
-### **Oracle** (Utility/Single Target)
-*   **Guiding Light:** Grants an additional charge of *Prayer of Mending*.
-*   **Prompt Prognosis:** Adds a direct heal to the initial target of *Prayer of Mending*. Use to supplement spot-healing weaknesses.
+| Feature | **Archon** | **Oracle** |
+| :--- | :--- | :--- |
+| **Core Focus** | **Halo & High-Burst Procs** | **Prayer of Mending & Stability** |
+| **Key Synergy** | **Spiritwell:** Surge of Light now buffs Prayer of Healing. | **Prompt Prognosis:** Massive buffs to PoM and Renew. |
+| **Gameplay** | High activity during Apotheosis and Halo windows. | Consistent, lower-stress rotational healing. |
+| **When to Pick?** | Pick for heavy raid-wide bursts (e.g., Mythic Raiding). | Pick for consistent, high-uptime healing requirements. |
 
-## 4. High-Precision Raid Rotational Priority
-This priority list is dynamic. The bot must check for **Ultimate Serenity** talent status before auditing.
+---
+
+## 4. Deep Dive: Raid Rotation
+This rotation prioritizes **Holy Word CDR** and **Proc Efficiency**.
 
 ### **A. Primary Priority (Proactive / CD Management)**
-1.  **Divine Image Trigger:** Cast *Holy Word: Chastise* 1-2s BEFORE predicted raid damage.
-2.  **Holy Word: Serenity:** Use for priority triage. NEVER sit on 2 charges.
-3.  **Holy Word: Sanctify:** IF NOT talented into *Ultimate Serenity*, use on raid clusters (6+ targets). IF talented into *Ultimate Serenity*, move this to lowest priority.
-4.  **Prayer of Mending (CORE ENGINE):** Use on cooldown. In 12.0.5, this triggers *Benediction* procs and resets via *Epiphany*.
-5.  **Benediction (Apex Proc):** Consumes *Flash Heal* for massive throughput. Prioritize over all other fillers.
-6.  **Spiritwell (Archon) Proc:** IF *Surge of Light* is active, THEN cast **Prayer of Healing**. (Note: Using this on Flash Heal is a mana-efficiency error in Archon).
-7.  **Lightweaver Weave:** IF < 2 stacks, cast **Flash Heal**. IF = 2 stacks, THEN cast **Prayer of Healing** (amplified).
+1.  **Holy Word: Serenity:** Primary triage. Use whenever an ally is below 70% HP. 
+2.  **Holy Word: Sanctify:** Group heal for clusters. (Note: If talented into **Ultimate Serenity**, deprioritize this as its CDR fuels Serenity).
+3.  **Prayer of Mending (CORE ENGINE):** Cast on cooldown. Triggers Benediction procs and background healing.
+4.  **Benediction (Apex Proc):** Consumes next Flash Heal for a massive, instant heal. Prioritize over all other fillers.
+5.  **Surge of Light (Archon):** IF Surge of Light is active, THEN cast **Prayer of Healing** (Spiritwell synergy).
+6.  **Lightweaver Weaving:** Alternate between **Flash Heal** (to get 2 stacks) and **Prayer of Healing** (to spend them).
 
 ### **B. Emergency Triage (No-Proc Fillers)**
-*The bot should only validate these if all Holy Words are on CD and no procs are active:*
-8.  **Emergency Flash Heal:** Cast on allies <35% HP or near death.
-9.  **Standard Prayer of Healing:** Use for group stabilization ONLY if mana permits and raid is at 50% HP or lower.
-10. **CDR Fishing:** Cast **Smite** or **Holy Nova** (if moving) to reset Holy Words via *Serendipity*.
+7.  **Emergency Flash Heal:** Cast on allies <35% HP or near death.
+8.  **Standard Prayer of Healing:** Group stabilization filler when no procs are active and 3+ targets are injured.
+9.  **CDR Fishing:** Cast **Smite** or **Holy Nova** to reset Holy Words faster during downtime.
 
-## 5. Major Cooldown Execution (Audit Ready)
-*   **Ultimate Serenity Audit:** If this talent is taken, the bot will flag any *Holy Word: Sanctify* cast as a "Low-Value Global" unless the entire raid is failing.
-*   **Apotheosis Reset:** Correct Sequence: Sanctify -> Serenity -> PoM -> Halo -> **Apotheosis**.
-*   **Divine Hymn:** Ensure no movement cancels the channel. paired with *Cosmic Ripple* procs.
+---
 
-
-## 6. Audit Cleanup (12.0.5 Removals)
-*   **DO NOT AUDIT:** Symbol of Hope, Power Word: Life, Power Word: Shield, Lightwell, and Circle of Healing (unless specifically talented for niche utility).
-*   **RENEW:** Should primarily be applied passively via *Benediction*. Manual Renew casts are generally inefficient in Raids.
-
-## 7. Divine Image (Naaru)
-*   Tracking the Naaru is vital. Trigger it with Holy Words (Serenity/Sanctify/Chastise) before high-intensity healing windows to benefit from mirrored spellcasts.
+## 5. Major Cooldowns Breakdown
+*   **Apotheosis (Healing Burst):** 2-minute CD. Increases Holy Word CDR by 300%. Weave Serenity/Sanctify rapidly during this window.
+*   **Divine Hymn (Raid Defense):** Channeled heal. Increases all healing received by the raid by 10%. Best used during planned raid-wide damage.
+*   **Guardian Spirit (The Save):** Prevents the target from dying and increases healing received by 40%. Best for Tanks or lethal hits.
+*   **Symbol of Hope (Utility):** Recovers mana for healers and reduces defensive cooldowns for the entire raid.
+*   **Power Infusion (Offensive):** Massive Haste buff. Typically used on high-performing DPS.
