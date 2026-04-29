@@ -1,15 +1,18 @@
 # Blood Death Knight Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
 ## 1. Hero-Specific Consumables & Equipment
-| Category | **Deathbringer Profile** | **San'layn Profile** |
+| Category | **Deathbringer Profile (Crit/Vers)** | **San'layn Profile (Haste)** |
 | :--- | :--- | :--- |
-| **Flask** | **Flask of the Blood Knights** (Mastery) | **Flask of the Shattered Sun** (Haste) |
+| **Flask** | **Flask of the Shattered Sun** (Haste) | **Flask of the Shattered Sun** (Haste) |
+| **Alternative Flask** | **Flask of Thalassian Resistance** (Vers) | **Flask of the Blood Knights** (Mastery) |
 | **Food** | **Royal Roast** (Primary/Vers) | **Harandar Celebration** (Haste) |
 | **Gems** | **Flawless Masterful Garnet** | **Flawless Quick Amethyst** |
-| **Weapon Rune** | **Rune of Sanguination** | **Rune of Sanguination** |
+| **Ring Enchants** | **Enchant Ring - Silvermoon's Tenacity** | **Enchant Ring - Nature's Fury** |
+| **Weapon Rune** | **Rune of Sanguination** (ST) / **Fallen Crusader** (5+) | **Rune of Sanguination** (ST/AoE) |
+| **Weapon Oil** | **Thalassian Phoenix Oil** | **Thalassian Phoenix Oil** |
 | **Unique Gem** | **Indecipherable Eversong Diamond** | **Indecipherable Eversong Diamond** |
 
-### **Gear Enchants Table**
+### **Gear Enchants Table (Global)**
 | Slot | Recommended Enchant | Notes |
 | :--- | :--- | :--- |
 | **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
@@ -17,7 +20,6 @@
 | **Chest** | **Mark of the Worldsoul** | Primary Strength buff. |
 | **Legs** | **Blood Knight's Armor Kit** | Strength + Stamina. |
 | **Boots** | **Farstrider's Hunt** | Versatility/Speed. |
-| **Rings** | **Silvermoon's Tenacity** | Critical Strike focus. |
 
 ---
 
