@@ -32,6 +32,9 @@
 - [x] **Assassination Rogue** (Fatebound/Deathstalker Splits, Kingsbane Window)
 - [x] **Outlaw Rogue** (Trickster/Fatebound Splits, Roll the Bones Logic)
 - [x] **Subtlety Rogue** (Trickster/Deathstalker Splits, Shadow Dance Logic)
+- [x] **Elemental Shaman** (Stormbringer/Farseer Splits, Maelstrom Logic)
+- [x] **Enhancement Shaman** (Totemic/Stormbringer Splits, MW10 Logic)
+- [x] **Restoration Shaman** (Totemic/Farseer Splits, Cloudburst Logic)
 
 ## [/] In Progress
 - [ ] Next Target Selection...
