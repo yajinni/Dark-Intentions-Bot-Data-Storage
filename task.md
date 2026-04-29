@@ -20,6 +20,9 @@
 - [x] **Beast Mastery Hunter** (Pack Leader/Dark Ranger Splits, Frenzy Logic)
 - [x] **Marksmanship Hunter** (Dark Ranger/Sentinel Splits, Trick Shots Logic)
 - [x] **Survival Hunter** (Sentinel/Pack Leader Splits, Tip of the Spear Logic)
+- [x] **Arcane Mage** (Sunfury/Spellslinger Splits, Burn Phase Logic)
+- [x] **Fire Mage** (Sunfury/Frostfire Splits, Combustion Logic)
+- [x] **Frost Mage** (Spellslinger/Frostfire Splits, Shatter Logic)
 
 ## [/] In Progress
 - [ ] Next Target Selection...
