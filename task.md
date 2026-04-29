@@ -10,6 +10,10 @@
 - [x] **Vengeance Demon Hunter** (Annihilator/Aldrachi Splits, Voidfall Logic)
 - [x] **Discipline Priest** (Oracle/Voidweaver Splits, Ramp Sequence)
 - [x] **Shadow Priest** (Voidweaver/Archon Splits, Entropic Rift)
+- [x] **Balance Druid** (Keeper/Elune Splits, Eclipse Logic)
+- [x] **Feral Druid** (Wildstalker/Claw Splits, Snapshot Logic)
+- [x] **Guardian Druid** (Claw/Elune Splits, Ironfur Logic)
+- [x] **Restoration Druid** (Keeper/Wildstalker Splits, Ramp Logic)
 
 ## [/] In Progress
 - [ ] Next Target Selection...
