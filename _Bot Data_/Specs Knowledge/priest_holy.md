@@ -1,67 +1,72 @@
 # Holy Priest Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-## 1. Consumables & Gear Preparation
-| Category | Recommended Item | Notes |
+## 1. Hero-Specific Consumables & Equipment
+| Category | **Archon Profile (Mastery/Crit)** | **Oracle Profile (Haste/Mastery)** |
 | :--- | :--- | :--- |
-| **Gems (Unique)** | **Indecipherable Eversong Diamond** | One per gear set. |
-| **Gems (Standard)** | **Flawless Versatile Garnet** | Critical Strike / Versatility focus. |
-| **Flask** | **Flask of the Shattered Sun** | Focuses on Critical Strike for Surge of Light procs. |
-| **Potion** | **Light's Potential** | Use during high-intensity raid damage. |
-| **Food** | **Harandar Celebration / Royal Roast** | Intellect buff. |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | Essential throughput oil. |
+| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Nature's Fury** |
+| **Food** | **Harandar Celebration** (Intellect Feast) | **Royal Roast** (Intellect Personal) |
+| **Flask** | **Flask of the Shattered Sun** (Critical Strike) | **Flask of the Shattered Sun** (Critical Strike) |
+| **Weapon Oil** | **Thalassian Phoenix Oil** | **Thalassian Phoenix Oil** |
+| **Gems (Standard)** | **Flawless Versatile Garnet** | **Flawless Masterful Garnet** |
+| **Unique Gem** | **Indecipherable Eversong Diamond** | **Indecipherable Eversong Diamond** |
 
-### **Gear Enchants Table**
+### **Gear Enchants Table (Global)**
 | Slot | Recommended Enchant | Notes |
 | :--- | :--- | :--- |
-| **Weapon** | **Acuity of the Ren'dorei** | High-throughput proc. |
+| **Weapon** | **Acuity of the Ren'dorei** | Mastery proc focus. |
 | **Helm** | **Empowered Hex of Leeching** | Defensive utility. |
-| **Chest** | **Mark of the Worldsoul** | Primary stat (Intellect). |
+| **Chest** | **Mark of the Worldsoul** | Primary Stat (Intellect). |
 | **Shoulders** | **Silvermoon's Mending** | Best for raid healing throughput. |
 | **Legs** | **Arcanoweave Spellthread** | Intellect and Stamina/Mana. |
-| **Rings** | **Eyes of the Eagle** | Critical Strike focus. |
 | **Boots** | **Shaladrassil's Roots** | Versatility / Speed. |
 
 ---
 
-## 2. Stat Priority
-1.  **Critical Strike:** Essential for Surge of Light proc rate and raw throughput.
-2.  **Versatility / Mastery:** Versatility provides stability and damage reduction; Mastery (Echo of Light) is excellent for raid-wide HPS.
-3.  **Haste:** Generally avoided in Raid builds due to mana consumption.
+## 2. Stat Priority Split
+*   **Archon Build:** Intellect > Crit = Mastery > Versatility > Haste.
+*   **Oracle Build:** Intellect > Haste > Mastery > Crit = Versatility.
 
 ---
 
-## 3. Hero Talents: Archon vs. Oracle
+## 3. Hero Talents Deep Dive
 
-| Feature | **Archon** | **Oracle** |
-| :--- | :--- | :--- |
-| **Core Focus** | **Halo & High-Burst Procs** | **Prayer of Mending & Stability** |
-| **Key Synergy** | **Spiritwell:** Surge of Light now buffs Prayer of Healing. | **Prompt Prognosis:** Massive buffs to PoM and Renew. |
-| **Gameplay** | High activity during Apotheosis and Halo windows. | Consistent, lower-stress rotational healing. |
-| **When to Pick?** | Pick for heavy raid-wide bursts (e.g., Mythic Raiding). | Pick for consistent, high-uptime healing requirements. |
+### **Archon**
+*   **Core Focus:** **Halo & High-Burst Procs**.
+*   **Key Synergy:** **Spiritwell** (*Surge of Light* now buffs *Prayer of Healing*).
+*   **Why Pick?** Superior for burst-heavy raid damage and high-throughput windows.
+
+### **Oracle**
+*   **Core Focus:** **Premonition & Utility**.
+*   **Key Synergy:** **Prompt Prognosis** (Massive buffs to *Prayer of Mending*).
+*   **Why Pick?** Superior for consistent stabilization and target-specific utility.
 
 ---
 
 ## 4. Deep Dive: Raid Rotation
-This rotation prioritizes **Holy Word CDR** and **Proc Efficiency**.
+The bot must switch audit logic based on the active Hero Spec.
 
-### **A. Primary Priority (Proactive / CD Management)**
-1.  **Holy Word: Serenity:** Primary triage. Use whenever an ally is below 70% HP. 
-2.  **Holy Word: Sanctify:** Group heal for clusters. (Note: If talented into **Ultimate Serenity**, deprioritize this as its CDR fuels Serenity).
-3.  **Prayer of Mending (CORE ENGINE):** Cast on cooldown. Triggers Benediction procs and background healing.
-4.  **Benediction (Apex Proc):** Consumes next Flash Heal for a massive, instant heal. Prioritize over all other fillers.
-5.  **Surge of Light (Archon):** IF Surge of Light is active, THEN cast **Prayer of Healing** (Spiritwell synergy).
-6.  **Lightweaver Weaving:** Alternate between **Flash Heal** (to get 2 stacks) and **Prayer of Healing** (to spend them).
+### **A. Global Holy Priest Logic**
+1.  **Prayer of Mending:** Use on cooldown (Core Engine).
+2.  **Holy Word: Serenity:** Use for priority triage.
+3.  **Benediction (Apex Proc):** Consumes next Flash Heal for massive throughput.
 
-### **B. Emergency Triage (No-Proc Fillers)**
-7.  **Emergency Flash Heal:** Cast on allies <35% HP or near death.
-8.  **Standard Prayer of Healing:** Group stabilization filler when no procs are active and 3+ targets are injured.
-9.  **CDR Fishing:** Cast **Smite** or **Holy Nova** to reset Holy Words faster during downtime.
+### **B. Archon Specific Priority**
+1.  **Halo:** Use on cooldown to trigger *Archon* buffs.
+2.  **Spiritwell Proc:** IF *Surge of Light* is active, THEN cast **Prayer of Healing**.
+3.  **Lightweaver Weaving:** Alternate *Flash Heal* and *Prayer of Healing*.
+4.  **Audit Flag:** Using a *Surge of Light* proc on *Flash Heal* in Archon build is a mana-efficiency error.
+
+### **C. Oracle Specific Priority**
+1.  **Premonition:** Use on cooldown to cycle through *Insight*, *Solace*, and *Glory* buffs.
+2.  **Prayer of Mending:** Higher priority for *Prompt Prognosis* synergy.
+3.  **Lightweaver Weave:** Standard weaving.
 
 ---
 
-## 5. Major Cooldowns Breakdown
-*   **Apotheosis (Healing Burst):** 2-minute CD. Increases Holy Word CDR by 300%. Weave Serenity/Sanctify rapidly during this window.
-*   **Divine Hymn (Raid Defense):** Channeled heal. Increases all healing received by the raid by 10%. Best used during planned raid-wide damage.
-*   **Guardian Spirit (The Save):** Prevents the target from dying and increases healing received by 40%. Best for Tanks or lethal hits.
-*   **Power Infusion (Offensive):** Massive Haste buff. Typically used on high-performing DPS.
-
+## 5. Major Cooldowns Breakdown (Strict Whitelist)
+*   **Apotheosis:** Increases Holy Word CDR by 300%.
+*   **Divine Hymn:** Channeled raid heal. Increases healing received by 10%.
+*   **Guardian Spirit:** Save for tanks or lethal hits. Increases healing received by 40%.
+*   **Power Infusion:** Haste buff for top DPS.
+*   **Halo (Archon Only):** High-throughput burst window trigger.
+*   **Premonition (Oracle Only):** Versatile utility/throughput buff cycle.
