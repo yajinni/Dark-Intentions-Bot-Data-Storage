@@ -66,8 +66,8 @@ This rotation focuses on **Bone Shield Stability** and **Death Strike Timing**.
 *   **Dancing Rune Weapon:** 40% Parry and mirrors your attacks. Doubles Bone Shield generation from Marrowrend.
 *   **Icebound Fortitude:** 30% Damage Reduction and Stun Immunity.
 *   **Anti-Magic Shell:** Absorbs magic damage and prevents debuff application.
-*   **Tombstone:** Consumes Bone Shield for a shield and RP. Synergizes with *Dancing Rune Weapon* CDR.
+*   **Lichborne:** Leech and Fear/Sleep immunity.
+*   **Purgatory:** Prevents death once every 4 minutes.
 
-### **Offensive / Utility**
 *   **Empower Rune Weapon:** 15% Haste and instant Rune/RP generation.
 *   **Raise Dead:** Summons Ghoul for minor DPS support.
