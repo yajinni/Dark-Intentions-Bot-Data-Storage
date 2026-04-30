@@ -1,4 +1,4 @@
-# Mcpaw - Feral - 2026-04-30 16:47 - US/Stormrage
+# Mcpaw - Feral - 2026-04-30 16:57 - US/Stormrage
 # SimC Addon 12.0.5-01
 # WoW 12.0.5.67235, TOC 120005
 # Requires SimulationCraft 1000-01 or newer
@@ -28,8 +28,8 @@ talents=CcGA8cL7tpvige+kkmGM9zUPWDAAAAAAjZYmZmZmxstMWGbzYm5BmZAAAAYJY2MMmZUzYWGz
 # Saved Loadout: raid short convoke
 # talents=CcGA8cL7tpvige+kkmGM9zUPWDAAAAAgZMDGzMjxsZegtZ2mZmZegZGAAAA2AzGjxMDmxswMzMGzMDAAAAAAgBAAAAAYWmZxsMzyGYmBYxMYAAMzAgB
 
-# Spellsnap Shadowmask (276)
-head=,id=251109,enchant_id=7991,bonus_id=13440/6652/12667/13577/12699/12798
+# Branches of the Luminous Bloom (289)
+head=,id=250024,bonus_id=6652/12667/13440/13338/13575/12806
 # Barbed Ymirheim Choker (276)
 neck=,id=50228,gem_id=240893,bonus_id=13440/6652/13668/12699/12798
 # Seedpods of the Luminous Bloom (276)
@@ -65,14 +65,17 @@ main_hand=,id=237847,enchant_id=7983,bonus_id=12214/12497/12066/12693/8960/8792/
 
 ### Gear from Bags
 #
-# Branches of the Luminous Bloom (276)
-# head=,id=250024,bonus_id=6652/12667/12798/13440/13338/13575/3161
+# Galactic Gladiator's Leather Helm (246)
+# head=,id=255421,bonus_id=12785/13448/13577/13554/13452/12667
 #
 # Osseoclad Saberteeth (250)
 # head=,id=249640,bonus_id=12786/6652/12667/13577
 #
-# Galactic Gladiator's Leather Helm (246)
-# head=,id=255421,bonus_id=12785/13448/13577/13554/13452/12667
+# Spellsnap Shadowmask (276)
+# head=,id=251109,enchant_id=7991,bonus_id=13440/6652/12667/13577/12699/12798
+#
+# Branches of the Luminous Bloom (276)
+# head=,id=250024,bonus_id=6652/12667/12798/13440/13338/13575/3161
 #
 # Verdant Tracker's Guise (237)
 # head=,id=256996,bonus_id=12778/6652/12667/13577
@@ -95,14 +98,14 @@ main_hand=,id=237847,enchant_id=7983,bonus_id=12214/12497/12066/12693/8960/8792/
 # Seedpods of the Luminous Bloom (276)
 # shoulder=,id=250022,bonus_id=6652/12798/13440/13340/13574/3161
 #
+# Potion-Stained Cloak (263)
+# back=,id=193712,bonus_id=13440/41/13577/12699/12790
+#
 # Shroud of the Soulhunter (266)
 # back=,id=251161,bonus_id=12795/13440/6652/13577/12699
 #
 # Potion-Stained Cloak (276)
 # back=,id=193712,bonus_id=13440/6652/13577/12699/12798
-#
-# Potion-Stained Cloak (263)
-# back=,id=193712,bonus_id=13440/41/13577/12699/12790
 #
 # Trunk of the Luminous Bloom (276)
 # chest=,id=250027,enchant_id=7984,bonus_id=6652/13440/13336/13575/12798
@@ -113,23 +116,23 @@ main_hand=,id=237847,enchant_id=7983,bonus_id=12214/12497/12066/12693/8960/8792/
 # Void-Skinned Bracers (250)
 # wrist=,id=249327,bonus_id=6652/12667/13577/13333/12786/11215
 #
-# Osseoclad Ivory Wrist (250)
-# wrist=,id=249644,bonus_id=12786/6652/12667/13577
-#
 # Galactic Aspirant's Leather Armguards (217)
 # wrist=,id=255325,bonus_id=13629/13447/13554
 #
 # Verdant Tracker's Cuffs (233)
 # wrist=,id=256967,bonus_id=12777/6652/12667/13577
 #
+# Osseoclad Ivory Wrist (250)
+# wrist=,id=249644,bonus_id=12786/6652/12667/13577
+#
 # Ruby Contestant's Gloves (266)
 # hands=,id=193721,bonus_id=12795/13440/6652/13577/12699
 #
-# Vaelgor's Fearsome Grasp (266)
-# hands=,id=249321,bonus_id=6652/13577/13334/12795
-#
 # Arbortenders of the Luminous Bloom (250)
 # hands=,id=250025,bonus_id=13332/13337/6652/13574/12782
+#
+# Vaelgor's Fearsome Grasp (266)
+# hands=,id=249321,bonus_id=6652/13577/13334/12795
 #
 # Gloves of Viscous Goo (266)
 # hands=,id=251113,bonus_id=12795/13440/6652/13577/12699
@@ -173,17 +176,17 @@ main_hand=,id=237847,enchant_id=7983,bonus_id=12214/12497/12066/12693/8960/8792/
 # Spiritseal Ring (250)
 # finger1=,id=249622,bonus_id=12786/6652/13668
 #
-# Thalassian Competitor's Signet (242)
-# finger1=,id=240951,enchant_id=8027,gem_id=240918,bonus_id=12245/13760/12496/13571/13448/13453/8960/8794,crafted_stats=36/49,crafting_quality=4
-#
 # Voodoo Band (259)
 # finger1=,id=249621,bonus_id=12793/6652/13668
+#
+# Thalassian Competitor's Signet (242)
+# finger1=,id=240951,enchant_id=8027,gem_id=240918,bonus_id=12245/13760/12496/13571/13448/13453/8960/8794,crafted_stats=40/32,crafting_quality=4
 #
 # Eredath Seal of Nobility (276)
 # finger1=,id=151308,enchant_id=8024,gem_id=240893,bonus_id=13440/6652/13668/12699/12798
 #
 # Thalassian Competitor's Signet (242)
-# finger1=,id=240951,enchant_id=8027,gem_id=240918,bonus_id=12245/13760/12496/13571/13448/13453/8960/8794,crafted_stats=40/32,crafting_quality=4
+# finger1=,id=240951,enchant_id=8027,gem_id=240918,bonus_id=12245/13760/12496/13571/13448/13453/8960/8794,crafted_stats=36/49,crafting_quality=4
 #
 # Band of the Triumvirate (289)
 # finger1=,id=151311,enchant_id=8025,gem_id=240862,bonus_id=13440/41/13668/12699/12806
@@ -308,39 +311,14 @@ main_hand=,id=237847,enchant_id=7983,bonus_id=12214/12497/12066/12693/8960/8792/
 # Elderbloom Lantern (250)
 # off_hand=,id=249672,bonus_id=12786/6652
 
-### Weekly Reward Choices
-#
-# Elderbloom Lantern (259)
-# off_hand=,id=249672,bonus_id=12793/6652
-#
-# Elderoot Spire (259)
-# main_hand=,id=249670,bonus_id=12793/42
-#
-# Signet of the Starved Beast (276)
-# finger1=,id=249336,bonus_id=6652/13668/13335/12802
-#
-# Locus-Walker's Ribbon (269)
-# trinket1=,id=249809,bonus_id=6652/13334/12796
-#
-# Defiant Defender's Drape (272)
-# back=,id=260312,bonus_id=12801/13440/6652/13577/12699
-#
-# Voidlashed Hood (272)
-# head=,id=151336,bonus_id=12801/13440/6652/12667/13577/12699
-#
-# Falconer's Cinch (272)
-# waist=,id=251166,bonus_id=12801/13440/6652/12667/13577/12699
-#
-### End of Weekly Reward Choices
-
 ### Additional Character Info
 #
-# catalyst_currencies=3269:8/3378:4/2813:8/3116:8
+# catalyst_currencies=3269:8/3378:3/2813:8/3116:8
 #
-# upgrade_currencies=c:3347:170/c:3383:749/c:1813:7/c:3341:1180/c:3343:487/c:1792:10526/c:1931:4441/c:2122:3/c:3345:220/i:228338:1/i:230906:2/i:224072:2/i:204276:2/i:232875:2/i:230936:2/i:211296:3
+# upgrade_currencies=c:3347:90/c:3383:749/c:1813:7/c:3341:1180/c:3343:487/c:1792:10526/c:1931:4441/c:2122:3/c:3345:220/i:228338:1/i:230906:2/i:224072:2/i:204276:2/i:232875:2/i:230936:2/i:211296:3
 #
-# slot_high_watermarks=0:276:276/1:276:276/2:276:276/3:289:289/4:285:285/5:289:289/6:276:276/7:285:285/8:276:276/9:276:276/10:276:276/11:276:276/12:285:285/13:276:276/14:0:272/15:0:250/16:276:285
+# slot_high_watermarks=0:289:289/1:276:276/2:276:276/3:289:289/4:285:285/5:289:289/6:276:276/7:285:285/8:276:276/9:276:276/10:276:276/11:276:276/12:285:285/13:276:276/14:0:272/15:0:250/16:276:285
 #
 # upgrade_achievements=19326/19397/19398/19577/19578/19579/40107/40115/40118/40939/40942/40943/40944/40945/41886/41887/41888/41892/42767/42768/42769/61809
 
-# Checksum: b79afe79
+# Checksum: 58566ac0
