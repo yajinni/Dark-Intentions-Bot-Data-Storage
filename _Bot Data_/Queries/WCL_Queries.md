@@ -117,3 +117,13 @@ query($code: String, $fightIDs: [Int]) {
     }
 }
 ```
+
+---
+
+## 3. Data Normalization & Matching
+
+To ensure 100% accuracy when matching logs to ranking data, the bot applies the following normalization rules to all character names before comparison:
+
+1.  **Unicode Normalization (NFD):** Converts special/accented characters (e.g., `é`, `ø`) into their base characters to prevent encoding mismatches.
+2.  **Server Stripping:** Any server name attached to a character (e.g., `Azaxiel-Zul'jin`) is stripped using a `.split('-')[0]` operation. This is because WCL Ranking data usually stores names in their "clean" form.
+3.  **Case & Whitespace Sanitization:** All names are converted to lowercase and trimmed of leading/trailing whitespace before the final match check.
