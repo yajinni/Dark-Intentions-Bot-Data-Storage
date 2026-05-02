@@ -6,8 +6,10 @@ This document contains the **exact, verbatim GraphQL queries** used by the Dark 
 
 ## 1. Discovery & Rankings (`wcl-discovery.js`)
 
-### **Character Rankings Search**
-Used to find top-performing logs for comparison.
+### **Query: Character Rankings Search**
+**Triggered When:** A user starts an audit via `/audit`.
+**Purpose:** Fetches character rankings for a specific Boss + Spec + Difficulty. 
+**Usage:** We use this to find a player who matches your **Item Level (±3)** and **Hero Talent Spec**. The search depth is controlled by the `MAX_RANKINGS_DEPTH` variable in the bot (currently scanning up to 50 pages).
 ```graphql
 query($encounterID: Int, $difficulty: Int, $className: String, $specName: String, $metric: CharacterRankingMetricType, $filter: String, $page: Int, $partition: Int) {
     worldData {
