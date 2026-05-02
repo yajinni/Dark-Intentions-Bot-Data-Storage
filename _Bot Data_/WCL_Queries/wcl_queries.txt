@@ -149,10 +149,10 @@ query($code: String, $fightId: [Int], $sourceId: Int) {
 **Source:** `bot.js`
 Used to retrieve the character's performance percentile (rankPercent).
 ```graphql
-query($code: String, $fightIDs: [Int]) {
+query($code: String, $fightIDs: [Int], $metric: ReportRankingMetricType) {
     reportData {
         report(code: $code) {
-            rankings(fightIDs: $fightIDs)
+            rankings(fightIDs: $fightIDs, playerMetric: $metric)
         }
     }
 }
