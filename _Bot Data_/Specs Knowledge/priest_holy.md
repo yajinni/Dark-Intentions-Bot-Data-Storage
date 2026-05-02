@@ -64,10 +64,16 @@ The bot must switch audit logic based on the active Hero Spec.
 2.  **Prayer of Mending:** Higher priority for *Prompt Prognosis* synergy.
 3.  **Lightweaver Weave:** Standard weaving.
 
+### **D. The Smite/Filler Audit (The 100% Rule)**
+1.  **Usage:** Cast **Smite** during ANY period of low healing demand to maintain activity and fish for procs.
+2.  **Serendipity Synergy:** Each Smite reduces the remaining cooldown of **Holy Word: Chastise** by 4 seconds (12 seconds during *Apotheosis*).
+3.  **Surge of Light:** Smite has a chance to trigger free, instant **Flash Heals** (or *Prayer of Healing* in the Archon build).
+4.  **Audit Flag:** Showing near-zero Smite casts during low-intensity phases is a failure of resource management, proc-fishing, and Holy Word uptime.
+
 ---
 
 ## 5. Major Cooldowns Breakdown (Strict Whitelist)
-*   **Apotheosis:** Increases Holy Word CDR by 300%.
+*   **Apotheosis:** Increases Holy Word CDR by 300%. Each **Smite** cast now reduces the cooldown of *Holy Word: Chastise* by 12 seconds.
 *   **Divine Hymn:** Channeled raid heal. Increases healing received by 10%.
 *   **Guardian Spirit:** Save for tanks or lethal hits. Increases healing received by 40%.
 *   **Power Infusion:** Haste buff for top DPS.
