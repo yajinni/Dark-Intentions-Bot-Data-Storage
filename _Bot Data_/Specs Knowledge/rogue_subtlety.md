@@ -1,14 +1,16 @@
 # Subtlety Rogue Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-## 1. Hero-Specific Consumables & Equipment
-| Category | **Trickster Profile (Raid Meta)** | **Deathstalker Profile** |
+## 1. Consumables & Equipment (Unified Guide Approach)
+The guide recommends a unified approach for both Trickster and Deathstalker builds.
+
+| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
 | :--- | :--- | :--- |
-| **Weapon Enchant** | **Acuity of the Ren'dorei** | **Enchant Weapon - Jan'alai's Precision** |
-| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Eyes of the Eagle** |
-| **Flask** | **Flask of the Blood Knights** (Haste) | **Flask of the Magisters** (Mastery) |
-| **Food** | **Harandar Celebration** (Haste Feast) | **Royal Roast** (Agility) |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | **Thalassian Phoenix Oil** |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | **Indecipherable Eversong Diamond** |
+| **Weapon Enchant** | **Acuity of the Ren'dorei** | **Jan'alai's Precision** (Crit Alternative). |
+| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Silvermoon's Alacrity** (Haste). |
+| **Flask** | **Flask of the Blood Knights** (Haste) | **Flask of the Magisters** (Mastery). |
+| **Food** | **Silvermoon Parade** (Agility Feast) | **Royal Roast** (Valid if Feast is not provided). |
+| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
+| **Gems** | **Flawless Quick Amethyst** | **Flawless Masterful Peridot** (Mastery alternative). |
 
 ### **Gear Enchants Table (Global)**
 | Slot | Recommended Enchant | Notes |

@@ -1,13 +1,16 @@
 # Enhancement Shaman Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-## 1. Hero-Specific Consumables & Equipment
-| Category | **Totemic Profile (Raid Meta)** | **Stormbringer Profile** |
+## 1. Consumables & Equipment (Hybrid Guide Approach)
+Enhancement uses unified consumables for gems/food, but splits on Flasks based on Hero Spec choice.
+
+| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Zul'jin's Mastery** | **Enchant Ring - Zul'jin's Mastery** |
-| **Flask** | **Flask of the Magisters** (Mastery) | **Flask of the Shattered Sun** (Crit) |
-| **Food** | **Harandar Celebration** (Agility Feast) | **Royal Roast** (Agility) |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | **Thalassian Phoenix Oil** |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | **Indecipherable Eversong Diamond** |
+| **Flask (Totemic)** | **Flask of the Magisters** (Mastery) | **Flask of the Shattered Sun** (Crit). |
+| **Flask (Storm)** | **Flask of the Blood Knights** (Haste) | **Flask of the Shattered Sun** (Crit). |
+| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Zul'jin's Mastery** (Mastery). |
+| **Food** | **Silvermoon Parade** (Agility Feast) | **Royal Roast** (Valid if Feast is not provided). |
+| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
+| **Gems** | **Flawless Masterful Peridot** | **Flawless Quick Amethyst** (Haste alternative). |
 
 ### **Gear Enchants Table (Global)**
 | Slot | Recommended Enchant | Notes |

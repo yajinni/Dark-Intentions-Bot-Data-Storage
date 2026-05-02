@@ -1,13 +1,16 @@
 # Guardian Druid Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-## 1. Hero-Specific Consumables & Equipment
-| Category | **Druid of the Claw Profile (ST/Raid)** | **Elune's Chosen Profile (Safety)** |
+## 1. Consumables & Equipment (Unified Guide Approach)
+The guide recommends a unified approach for both Druid of the Claw and Elune's Chosen builds.
+
+| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Silvermoon's Alacrity** | **Enchant Ring - Silvermoon's Alacrity** |
-| **Flask** | **Flask of the Blood Knights** (Haste) | **Flask of the Blood Knights** (Haste) |
-| **Food** | **Royal Roast** (Agility) | **Harandar Celebration** (Haste Feast) |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | **Thalassian Phoenix Oil** |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | **Indecipherable Eversong Diamond** |
+| **Weapon Enchant** | **Enchant Weapon - Berserker's Rage** | **Jan'alai's Precision** (Crit Alternative). |
+| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Nature's Fury** (Haste). |
+| **Flask** | **Flask of the Blood Knights** (Haste) | **Flask of the Shattered Sun** (Crit). |
+| **Food** | **Silvermoon Parade** (Agility Feast) | **Royal Roast** (Valid if Feast is not provided). |
+| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
+| **Gems** | **Flawless Versatile Peridot** | **Flawless Quick Amethyst** (Haste alternative). |
 
 ### **Gear Enchants Table (Global)**
 | Slot | Recommended Enchant | Notes |

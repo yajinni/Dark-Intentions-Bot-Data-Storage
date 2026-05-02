@@ -1,15 +1,17 @@
 # Discipline Priest Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-## 1. Hero-Specific Consumables & Equipment
-| Category | **Oracle Profile (Ramp Focus)** | **Voidweaver Profile (Rift Focus)** |
+## 1. Consumables & Equipment (Hybrid Guide Approach)
+Discipline uses unified consumables for gems/food, but splits on Weapon Enchants by Hero Spec.
+
+| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
 | :--- | :--- | :--- |
-| **Weapon Enchant** | **Acuity of the Ren'dorei** | **Enchant Weapon - Berserker's Rage** |
-| **Ring Enchant** | **Enchant Ring - Silvermoon's Alacrity** | **Enchant Ring - Silvermoon's Alacrity** |
-| **Flask** | **Flask of the Blood Knights** (Haste) | **Flask of the Blood Knights** (Haste) |
-| **Potion** | **Potion of Devoured Dreams** (Mana) | **Potion of Devoured Dreams** (Mana) |
-| **Food** | **Royal Roast** (Intellect) | **Royal Roast** (Intellect) |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | **Thalassian Phoenix Oil** |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | **Indecipherable Eversong Diamond** |
+| **Weapon Enchant (Oracle)** | **Acuity of the Ren'dorei** | Mastery/Intellect proc. |
+| **Weapon Enchant (Void)** | **Enchant Weapon - Berserker's Rage** | Critical Strike focus. |
+| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Silvermoon's Alacrity** (Haste). |
+| **Flask** | **Flask of the Blood Knights** (Haste) | **Flask of the Shattered Sun** (Crit). |
+| **Food** | **Silvermoon Parade** (Intellect Feast) | **Royal Roast** (Valid if Feast is not provided). |
+| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
+| **Gems** | **Flawless Deadly Peridot** | **Flawless Quick Amethyst** (Haste alternative). |
 
 ### **Gear Enchants Table (Global)**
 | Slot | Recommended Enchant | Notes |

@@ -1,14 +1,16 @@
 # Frost Death Knight Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-## 1. Hero-Specific Consumables & Equipment
-| Category | **Deathbringer Profile (Raid Meta)** | **Rider of the Apocalypse Profile** |
+## 1. Consumables & Equipment (Unified Guide Approach)
+The guide recommends a unified approach for both Deathbringer and Rider builds.
+
+| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
 | :--- | :--- | :--- |
-| **Weapon Enchant** | **Rune of the Fallen Crusader** | **Rune of the Fallen Crusader** |
-| **Ring Enchant** | **Enchant Ring - Cursed Mastery** | **Enchant Ring - Cursed Mastery** |
-| **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Shattered Sun** (Crit) |
-| **Food** | **Royal Roast** (Strength) | **Royal Roast** (Strength) |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | **Thalassian Phoenix Oil** |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | **Indecipherable Eversong Diamond** |
+| **Weapon Rune** | **Rune of the Fallen Crusader** | **Rune of Razorice** (Valid if build requires it). |
+| **Ring Enchant** | **Enchant Ring - Nature's Fury** | **Enchant Ring - Eyes of the Eagle** (Crit). |
+| **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Magisters** (Mastery). |
+| **Food** | **Harandar Celebration** (Strength Feast) | **Royal Roast** (Valid if Feast is not provided). |
+| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
+| **Gems** | **Flawless Deadly Amethyst** | **Flawless Masterful Garnet** (Mastery alternative). |
 
 ### **Gear Enchants Table (Global)**
 | Slot | Recommended Enchant | Notes |

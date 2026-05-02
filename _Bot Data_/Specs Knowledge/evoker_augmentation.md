@@ -1,13 +1,16 @@
 # Augmentation Evoker Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-## 1. Hero-Specific Consumables & Equipment
-| Category | **Scalecommander Profile (Raid Meta)** | **Chronowarden Profile (ST)** |
+## 1. Consumables & Equipment (Unified Guide Approach)
+The guide recommends a unified approach for both Scalecommander and Chronowarden builds.
+
+| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Nature's Fury** | **Enchant Ring - Nature's Fury** |
-| **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Shattered Sun** (Crit) |
-| **Food** | **Silvermoon Parade** (Primary Stat) | **Royal Roast** (Intellect) |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | **Thalassian Phoenix Oil** |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | **Indecipherable Eversong Diamond** |
+| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Nature's Fury** (Haste). |
+| **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Magisters** (Mastery). |
+| **Food** | **Silvermoon Parade** (Intellect Feast) | **Royal Roast** (Valid if Feast is not provided). |
+| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
+| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
+| **Gems** | **Flawless Quick Garnet** | **Flawless Deadly Peridot** (Mastery alternative). |
 
 ### **Gear Enchants Table (Global)**
 | Slot | Recommended Enchant | Notes |

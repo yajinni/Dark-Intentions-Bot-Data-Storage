@@ -1,14 +1,16 @@
 # Assassination Rogue Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-## 1. Hero-Specific Consumables & Equipment
-| Category | **Fatebound Profile (Raid Meta)** | **Deathstalker Profile** |
+## 1. Consumables & Equipment (Unified Guide Approach)
+The guide recommends a unified approach for both Fatebound and Deathstalker builds.
+
+| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
 | :--- | :--- | :--- |
-| **Weapon Enchant** | **Enchant Weapon - Berserker's Rage** | **Enchant Weapon - Jan'alai's Precision** |
-| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Eyes of the Eagle** |
-| **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Shattered Sun** (Crit) |
-| **Food** | **Harandar Celebration** (Crit Feast) | **Royal Roast** (Agility) |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | **Thalassian Phoenix Oil** |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | **Indecipherable Eversong Diamond** |
+| **Weapon Enchant** | **Enchant Weapon - Berserker's Rage** | **Jan'alai's Precision** (Crit Alternative). |
+| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Silvermoon's Alacrity** (Haste). |
+| **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Magisters** (Mastery). |
+| **Food** | **Silvermoon Parade** (Agility Feast) | **Royal Roast** (Valid if Feast is not provided). |
+| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
+| **Gems** | **Flawless Deadly Peridot** | **Flawless Quick Amethyst** (Haste alternative). |
 
 ### **Gear Enchants Table (Global)**
 | Slot | Recommended Enchant | Notes |

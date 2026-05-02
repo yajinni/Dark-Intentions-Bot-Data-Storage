@@ -1,13 +1,16 @@
 # Preservation Evoker Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-## 1. Hero-Specific Consumables & Equipment
-| Category | **Chronowarden Profile (Raid Meta)** | **Flameshaper Profile (Spot Healing)** |
+## 1. Consumables & Equipment (Unified Guide Approach)
+The guide recommends a unified approach for both Chronowarden and Flameshaper builds.
+
+| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Zul'jin's Mastery** | **Enchant Ring - Zul'jin's Mastery** |
-| **Flask** | **Flask of the Magisters** (Mastery) | **Flask of the Blood Knights** (Haste) |
-| **Food** | **Hearty Royal Roast** (Mastery) | **Silvermoon Parade** (Primary Stat) |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | **Thalassian Phoenix Oil** |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | **Indecipherable Eversong Diamond** |
+| **Ring Enchant** | **Enchant Ring - Zul'jin's Mastery** | **Enchant Ring - Eyes of the Eagle** (Crit). |
+| **Flask** | **Flask of the Magisters** (Mastery) | **Flask of the Blood Knights** (Haste). |
+| **Food** | **Silvermoon Parade** (Intellect Feast) | **Royal Roast** (Valid if Feast is not provided). |
+| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
+| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
+| **Gems** | **Flawless Masterful Peridot** | **Flawless Deadly Peridot** (Crit alternative). |
 
 ### **Gear Enchants Table (Global)**
 | Slot | Recommended Enchant | Notes |
