@@ -69,6 +69,7 @@ The bot must switch audit logic based on the active Hero Spec.
 2.  **Serendipity Synergy:** Each Smite reduces the remaining cooldown of **Holy Word: Chastise** by 4 seconds (12 seconds during *Apotheosis*).
 3.  **Surge of Light:** Smite has a chance to trigger free, instant **Flash Heals** (or *Prayer of Healing* in the Archon build).
 4.  **Audit Flag:** Showing near-zero Smite casts during low-intensity phases is a failure of resource management, proc-fishing, and Holy Word uptime.
+    *   **AI Analysis Hook:** If Smite casts are low compared to the reference, explicitly state that the player is missing out on **Holy Word: Chastise** resets (via *Serendipity*) and free **Surge of Light** procs. This results in fewer Holy Words available for peak throughput and inefficient mana management.
 
 ---
 
