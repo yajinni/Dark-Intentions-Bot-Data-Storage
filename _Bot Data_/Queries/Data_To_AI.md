@@ -42,4 +42,4 @@ This document explains exactly which data is passed to the AI during the audit p
 ---
 
 ### **Zero Tolerance for Guessing**
-If a piece of data (like an Enchant ID) is missing from the JSON, the bot is strictly forbidden from using search links. It is instructed to show **"Data Not Available"** instead. This makes it immediately obvious when a piece of data is missing from the log or the internal mappings.
+If a piece of data (like an Enchant ID) is missing from the JSON, the bot is strictly forbidden from using search links or "hallucinating" an ID based on its training data. It is instructed to cross-reference the **Internal Data Mappings** first; if the ID is missing from both the combat log AND the mappings, it must state **"Data Not Available"**. This ensures that every link in the report is 100% verified.
