@@ -42,6 +42,7 @@ At the bottom of the prompt, the bot attaches several raw JSON blocks:
 *   **Reference Performance Table:** The "Gold Standard" performance data.
 *   **Player/Reference Buff Tables:** Uptime and cast counts for all buffs.
 *   **Gear Audit Data:** A structured list of every equipped item, its enchant ID, and socketed gem IDs.
+*   **Internal Data Mappings:** Raw ID mappings for `enchants`, `gems`, `food`, `flasks`, and `potions` to ensure 100% link accuracy for KB recommendations.
 *   **Spec Knowledge Base:** The most recent Icy Veins guide data for rotation and gear.
 
 <small>Current Prompt Version: 0.3.5 | Logic: Revert-to-Gold-Standard</small>
