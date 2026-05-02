@@ -15,9 +15,9 @@ Your goal is to compare a player's performance against a top-tier reference log 
 
 ### **1. Structural Requirements**
 The AI is forced to follow a specific Markdown structure:
-1. **Audit Conclusions:** Strictly mandatory "Casting Optimizations" list (triggered by any 10% performance gap).
-2. **Comparison Header:** Professional vs. display showing Parses and HPS/DPS amounts.
-3. **Encounter Summary:** Boss name, difficulty, and log duration.
+1. **Comparison Header:** Professional vs. display showing Parses and HPS/DPS amounts.
+2. **Encounter Summary:** Boss name, difficulty, and log duration.
+3. **Audit Conclusions:** Strictly mandatory "Casting Optimizations" list (triggered by any 10% performance gap).
 4. **Audit Selection Rationale:** Explanation of why the reference log was chosen (ilvl tolerance, group composition).
 5. **Stat Profile Comparison:** Side-by-side table of Secondary Stats (Crit, Haste, Mastery, Vers) in percentage and raw values.
 6. **Rotational Efficiency:** Deep-dive comparison of every spell cast, damage/healing per cast, and technical gap analysis.
