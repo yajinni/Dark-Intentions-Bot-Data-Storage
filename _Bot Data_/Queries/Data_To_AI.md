@@ -35,6 +35,10 @@ This document explains exactly which data is passed to the AI during the audit p
 **What it is:** A sorted list of `casts` and `buff` events with millisecond timestamps.
 **Why it's given:** This allows the AI to analyze **Downtime**. By looking at the gaps between your casts (accounting for Haste and GCD), the AI can calculate exactly how many seconds you spent "doing nothing" compared to the reference player.
 
+## 7. Internal Data Mappings
+**What it is:** The raw `.ts` mapping files for `enchants`, `gems`, `food`, `flasks`, and `potions`.
+**Why it's given:** This is the bridge between the Knowledge Base (KB) and Wowhead. The KB usually contains only item names (e.g., "Savage Intellect"). To make these clickable in the report, the AI uses these mappings to find the exact **Item ID** or **Spell ID** and generate a valid Wowhead link.
+
 ---
 
 ### **Zero Tolerance for Guessing**
