@@ -53,14 +53,16 @@ Focus: **Void Ray Efficiency** and **Drain Pausing**.
 1.  **Void Ray:** Maintain 100% uptime on the primary target.
 2.  **Drain Pausing:** If **Void Ray** is active, DO NOT cast *Chaos Bolt* or *Eye Beam* if it will cause the ray to fall off before the cast finishes.
 3.  **Audit Flag:** Letting **Void Ray** expire during a high-damage window is a catastrophic failure of the hero spec.
+    *   **AI Analysis Hook:** If **Void Ray** uptime is significantly lower than the reference, explicitly highlight the failure to manage "Drain Pausing". State that the player is losing their primary damage multiplier by allowing the channel to clip or expire prematurely.
 
 ### **B. Primary Priority List (Strict Whitelist)**
 1.  **Void Ray / Annihilation:** (Depending on Hero Spec) Core damage engine.
 2.  **Metamorphosis:** Use on cooldown (align with Heroism if possible).
-3.  **Eye Beam:** Use on cooldown (ensure you are not at max Fury).
-4.  **Chaos Strike / Annihilation:** Primary Fury spender.
-5.  **Immolation Aura:** Use on cooldown for Fury generation and minor AoE.
+3.  **Collapsing Star (Annihilator Only):** Your highest priority finisher. Use immediately upon reaching 5 Soul Fragments.
+4.  **Eye Beam:** Use on cooldown (ensure you are not at max Fury).
+5.  **Chaos Strike / Annihilation:** Primary Fury spender.
 6.  **Audit Flag:** Casting *Eye Beam* while at **100 Fury** is a major resource waste.
+    *   **AI Analysis Hook (Annihilator):** If **Collapsing Star** casts are lower than the reference, state that the player is failing to consume Soul Fragments efficiently. This results in "over-capping" fragments and missing out on the massive burst damage of the star.
 
 ---
 
