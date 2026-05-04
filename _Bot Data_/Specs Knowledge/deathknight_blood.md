@@ -66,6 +66,9 @@ The bot must switch audit logic based on the active Hero Spec.
 3.  **Blood Boil:** Use to maintain Blood Plague.
 4.  **Heart Strike:** Only use if Vampiric Strike is NOT active.
 
+### **D. Utility & Positioning**
+1.  **Sanguine Ground:** Always maintain high uptime by standing in your **Death and Decay**. This provides 5% increased damage and healing, and is critical for "Per Cast" value across all abilities. Low uptime on Sanguine Ground is a major indicator of poor positioning or inefficient DnD usage.
+
 ---
 
 ## 5. Major Cooldowns Breakdown (Strict Whitelist)
