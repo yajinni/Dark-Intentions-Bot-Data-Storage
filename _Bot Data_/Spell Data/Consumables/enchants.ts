@@ -789,6 +789,78 @@ const enchants = {
     craftQuality: 2,
   },
   // #endregion
+  // #region TEMPORARY WEAPON ENCHANTS
+  THALASSIAN_PHOENIX_OIL_R2: {
+    id: 243734,
+    name: 'Thalassian Phoenix Oil',
+    icon: 'inv_12_profession_enchanting_manaoil_red',
+    effectId: 8052,
+    craftQuality: 2,
+  },
+  THALASSIAN_PHOENIX_OIL_R1: {
+    id: 243733,
+    name: 'Thalassian Phoenix Oil',
+    icon: 'inv_12_profession_enchanting_manaoil_red',
+    effectId: 8051,
+    craftQuality: 1,
+  },
+  ALGARI_MANA_OIL_R2: {
+    id: 243736,
+    name: 'Algari Mana Oil',
+    icon: 'inv_12_profession_enchanting_manaoil_blue',
+    effectId: 8054,
+    craftQuality: 2,
+  },
+  ALGARI_MANA_OIL_R1: {
+    id: 243735,
+    name: 'Algari Mana Oil',
+    icon: 'inv_12_profession_enchanting_manaoil_blue',
+    effectId: 8053,
+    craftQuality: 1,
+  },
+  SMUGGLERS_ENCHANTED_EDGE_R2: {
+    id: 243738,
+    name: "Smuggler's Enchanted Edge",
+    icon: 'inv_12_profession_enchanting_manaoil_purple',
+    effectId: 8056,
+    craftQuality: 2,
+  },
+  SMUGGLERS_ENCHANTED_EDGE_R1: {
+    id: 243737,
+    name: "Smuggler's Enchanted Edge",
+    icon: 'inv_12_profession_enchanting_manaoil_purple',
+    effectId: 8055,
+    craftQuality: 1,
+  },
+  LACED_ZOOMSHOTS_R2: {
+    id: 257750,
+    name: 'Laced Zoomshots',
+    icon: 'inv_ammo_bullet_06',
+    effectId: 8609,
+    craftQuality: 2,
+  },
+  LACED_ZOOMSHOTS_R1: {
+    id: 257749,
+    name: 'Laced Zoomshots',
+    icon: 'inv_ammo_bullet_06',
+    effectId: 8608,
+    craftQuality: 1,
+  },
+  WEIGHTED_BOOMSHOTS_R2: {
+    id: 257752,
+    name: 'Weighted Boomshots',
+    icon: 'inv_ammo_bullet_05',
+    effectId: 8611,
+    craftQuality: 2,
+  },
+  WEIGHTED_BOOMSHOTS_R1: {
+    id: 257751,
+    name: 'Weighted Boomshots',
+    icon: 'inv_ammo_bullet_05',
+    effectId: 8610,
+    craftQuality: 1,
+  },
+  // #endregion
 } satisfies Record<string, Enchant>;
 
 export default enchants;
