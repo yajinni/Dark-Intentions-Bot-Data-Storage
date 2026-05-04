@@ -67,7 +67,8 @@ The bot must switch audit logic based on the active Hero Spec.
 4.  **Heart Strike:** Only use if Vampiric Strike is NOT active.
 
 ### **D. Utility & Positioning**
-1.  **Sanguine Ground:** Always maintain high uptime by standing in your **Death and Decay**. This provides 5% increased damage and healing, and is critical for "Per Cast" value across all abilities. Low uptime on Sanguine Ground is a major indicator of poor positioning or inefficient DnD usage.
+1.  **Sanguine Ground:** Always maintain high uptime by standing in your **Death and Decay**. This provides 5% increased damage and healing, and is critical for "Per Cast" value across all abilities. 
+    *   **Audit Rule:** If the **Sanguine Ground** uptime difference is **> 10%** compared to the reference, you MUST mention this in the **Audit Conclusions** as a critical positioning failure. Explain that they are losing the 5% damage/healing bonus by not standing in their Death and Decay.
 
 ---
 
