@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "name": "Path of Frost",
     "id": 3714,
@@ -5236,6 +5236,18 @@
   {
     "name": "Death Knight - Midnight PrePatch - 11.2 Class Set 4pc",
     "id": 1283622,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Riders of the Apocalypse",
+    "id": 445513,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Riders of the Apocalypse",
+    "id": 444005,
     "gcd": 0,
     "castTime": 0
   }
