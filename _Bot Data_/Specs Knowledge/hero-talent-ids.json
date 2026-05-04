@@ -3,31 +3,37 @@
         "Holy": [
             {
                 "name": "Oracle",
-                "id": 20
+                "id": 20,
+                "keystoneID": 117301
             },
             {
                 "name": "Archon",
-                "id": 19
+                "id": 19,
+                "keystoneID": 117302
             }
         ],
         "Discipline": [
             {
                 "name": "Oracle",
-                "id": 20
+                "id": 20,
+                "keystoneID": 117301
             },
             {
                 "name": "Voidweaver",
-                "id": 18
+                "id": 18,
+                "keystoneID": 136498
             }
         ],
         "Shadow": [
             {
                 "name": "Archon",
-                "id": 19
+                "id": 19,
+                "keystoneID": 117302
             },
             {
                 "name": "Voidweaver",
-                "id": 18
+                "id": 18,
+                "keystoneID": 136498
             }
         ]
     },
@@ -35,31 +41,37 @@
         "Fire": [
             {
                 "name": "Sunfury",
-                "id": 39
+                "id": 39,
+                "keystoneID": 117250
             },
             {
                 "name": "Frostfire",
-                "id": 41
+                "id": 41,
+                "keystoneID": 117239
             }
         ],
         "Frost": [
             {
                 "name": "Spellslinger",
-                "id": 40
+                "id": 40,
+                "keystoneID": 117267
             },
             {
                 "name": "Frostfire",
-                "id": 41
+                "id": 41,
+                "keystoneID": 117239
             }
         ],
         "Arcane": [
             {
                 "name": "Sunfury",
-                "id": 39
+                "id": 39,
+                "keystoneID": 117250
             },
             {
                 "name": "Spellslinger",
-                "id": 40
+                "id": 40,
+                "keystoneID": 117267
             }
         ]
     },
@@ -67,31 +79,37 @@
         "Holy": [
             {
                 "name": "Herald of the Sun",
-                "id": 50
+                "id": 50,
+                "keystoneID": 117696
             },
             {
                 "name": "Lightsmith",
-                "id": 49
+                "id": 49,
+                "keystoneID": 117882
             }
         ],
         "Protection": [
             {
                 "name": "Lightsmith",
-                "id": 49
+                "id": 49,
+                "keystoneID": 117882
             },
             {
                 "name": "Templar",
-                "id": 48
+                "id": 48,
+                "keystoneID": 117813
             }
         ],
         "Retribution": [
             {
                 "name": "Herald of the Sun",
-                "id": 50
+                "id": 50,
+                "keystoneID": 117696
             },
             {
                 "name": "Templar",
-                "id": 48
+                "id": 48,
+                "keystoneID": 117813
             }
         ]
     },
@@ -99,41 +117,49 @@
         "Restoration": [
             {
                 "name": "Wildstalker",
-                "id": 22
+                "id": 22,
+                "keystoneID": 117226
             },
             {
                 "name": "Keeper of the Grove",
-                "id": 23
+                "id": 23,
+                "keystoneID": 117199
             }
         ],
         "Balance": [
             {
                 "name": "Elune's Chosen",
-                "id": 24
+                "id": 24,
+                "keystoneID": 117205
             },
             {
                 "name": "Keeper of the Grove",
-                "id": 23
+                "id": 23,
+                "keystoneID": 117199
             }
         ],
         "Feral": [
             {
                 "name": "Wildstalker",
-                "id": 22
+                "id": 22,
+                "keystoneID": 117226
             },
             {
                 "name": "Druid of the Claw",
-                "id": 21
+                "id": 21,
+                "keystoneID": 117206
             }
         ],
         "Guardian": [
             {
                 "name": "Elune's Chosen",
-                "id": 24
+                "id": 24,
+                "keystoneID": 117205
             },
             {
                 "name": "Druid of the Claw",
-                "id": 21
+                "id": 21,
+                "keystoneID": 117206
             }
         ]
     },
@@ -141,31 +167,37 @@
         "Restoration": [
             {
                 "name": "Totemic",
-                "id": 54
+                "id": 54,
+                "keystoneID": 117474
             },
             {
                 "name": "Farseer",
-                "id": 56
+                "id": 56,
+                "keystoneID": 117485
             }
         ],
         "Elemental": [
             {
                 "name": "Farseer",
-                "id": 56
+                "id": 56,
+                "keystoneID": 117485
             },
             {
                 "name": "Stormbringer",
-                "id": 55
+                "id": 55,
+                "keystoneID": 117489
             }
         ],
         "Enhancement": [
             {
                 "name": "Totemic",
-                "id": 54
+                "id": 54,
+                "keystoneID": 117474
             },
             {
                 "name": "Stormbringer",
-                "id": 55
+                "id": 55,
+                "keystoneID": 117489
             }
         ]
     },
@@ -173,31 +205,37 @@
         "Affliction": [
             {
                 "name": "Soul Harvester",
-                "id": 57
+                "id": 57,
+                "keystoneID": 117448
             },
             {
                 "name": "Hellcaller",
-                "id": 58
+                "id": 58,
+                "keystoneID": 117437
             }
         ],
         "Demonology": [
             {
                 "name": "Soul Harvester",
-                "id": 57
+                "id": 57,
+                "keystoneID": 117448
             },
             {
                 "name": "Diabolist",
-                "id": 59
+                "id": 59,
+                "keystoneID": 117452
             }
         ],
         "Destruction": [
             {
                 "name": "Hellcaller",
-                "id": 58
+                "id": 58,
+                "keystoneID": 117437
             },
             {
                 "name": "Diabolist",
-                "id": 59
+                "id": 59,
+                "keystoneID": 117452
             }
         ]
     },
@@ -205,31 +243,37 @@
         "Mistweaver": [
             {
                 "name": "Conduit of the Celestials",
-                "id": 47
+                "id": 47,
+                "keystoneID": 136562
             },
             {
                 "name": "Master of Harmony",
-                "id": 46
+                "id": 46,
+                "keystoneID": 125033
             }
         ],
         "Brewmaster": [
             {
                 "name": "Master of Harmony",
-                "id": 46
+                "id": 46,
+                "keystoneID": 125033
             },
             {
                 "name": "Shado-Pan",
-                "id": 45
+                "id": 45,
+                "keystoneID": 125069
             }
         ],
         "Windwalker": [
             {
                 "name": "Conduit of the Celestials",
-                "id": 47
+                "id": 47,
+                "keystoneID": 136562
             },
             {
                 "name": "Shado-Pan",
-                "id": 45
+                "id": 45,
+                "keystoneID": 125069
             }
         ]
     },
@@ -237,31 +281,37 @@
         "Assassination": [
             {
                 "name": "Deathstalker",
-                "id": 53
+                "id": 53,
+                "keystoneID": 117733
             },
             {
                 "name": "Fatebound",
-                "id": 52
+                "id": 52,
+                "keystoneID": 117722
             }
         ],
         "Outlaw": [
             {
                 "name": "Fatebound",
-                "id": 52
+                "id": 52,
+                "keystoneID": 117722
             },
             {
                 "name": "Trickster",
-                "id": 51
+                "id": 51,
+                "keystoneID": 117712
             }
         ],
         "Subtlety": [
             {
                 "name": "Deathstalker",
-                "id": 53
+                "id": 53,
+                "keystoneID": 117733
             },
             {
                 "name": "Trickster",
-                "id": 51
+                "id": 51,
+                "keystoneID": 117712
             }
         ]
     },
@@ -269,31 +319,37 @@
         "Blood": [
             {
                 "name": "San'layn",
-                "id": 31
+                "id": 31,
+                "keystoneID": 117648
             },
             {
                 "name": "Deathbringer",
-                "id": 33
+                "id": 33,
+                "keystoneID": 117659
             }
         ],
         "Frost": [
             {
                 "name": "Rider of the Apocalypse",
-                "id": 32
+                "id": 32,
+                "keystoneID": 117663
             },
             {
                 "name": "Deathbringer",
-                "id": 33
+                "id": 33,
+                "keystoneID": 117659
             }
         ],
         "Unholy": [
             {
                 "name": "Rider of the Apocalypse",
-                "id": 32
+                "id": 32,
+                "keystoneID": 117663
             },
             {
                 "name": "San'layn",
-                "id": 31
+                "id": 31,
+                "keystoneID": 117648
             }
         ]
     },
@@ -301,31 +357,37 @@
         "BeastMastery": [
             {
                 "name": "Dark Ranger",
-                "id": 44
+                "id": 44,
+                "keystoneID": 117584
             },
             {
                 "name": "Pack Leader",
-                "id": 43
+                "id": 43,
+                "keystoneID": 117588
             }
         ],
         "Marksmanship": [
             {
                 "name": "Dark Ranger",
-                "id": 44
+                "id": 44,
+                "keystoneID": 117584
             },
             {
                 "name": "Sentinel",
-                "id": 42
+                "id": 42,
+                "keystoneID": 117573
             }
         ],
         "Survival": [
             {
                 "name": "Pack Leader",
-                "id": 43
+                "id": 43,
+                "keystoneID": 117588
             },
             {
                 "name": "Sentinel",
-                "id": 42
+                "id": 42,
+                "keystoneID": 117573
             }
         ]
     },
@@ -333,31 +395,37 @@
         "Protection": [
             {
                 "name": "Mountain Thane",
-                "id": 61
+                "id": 61,
+                "keystoneID": 117400
             },
             {
                 "name": "Colossus",
-                "id": 62
+                "id": 62,
+                "keystoneID": 117415
             }
         ],
         "Fury": [
             {
                 "name": "Mountain Thane",
-                "id": 61
+                "id": 61,
+                "keystoneID": 117400
             },
             {
                 "name": "Slayer",
-                "id": 60
+                "id": 60,
+                "keystoneID": 117411
             }
         ],
         "Arms": [
             {
                 "name": "Colossus",
-                "id": 62
+                "id": 62,
+                "keystoneID": 117415
             },
             {
                 "name": "Slayer",
-                "id": 60
+                "id": 60,
+                "keystoneID": 117411
             }
         ]
     },
@@ -365,31 +433,37 @@
         "Preservation": [
             {
                 "name": "Chronowarden",
-                "id": 38
+                "id": 38,
+                "keystoneID": 117551
             },
             {
                 "name": "Flameshaper",
-                "id": 37
+                "id": 37,
+                "keystoneID": 117515
             }
         ],
         "Devastation": [
             {
                 "name": "Scalecommander",
-                "id": 36
+                "id": 36,
+                "keystoneID": 117533
             },
             {
                 "name": "Flameshaper",
-                "id": 37
+                "id": 37,
+                "keystoneID": 117515
             }
         ],
         "Augmentation": [
             {
                 "name": "Chronowarden",
-                "id": 38
+                "id": 38,
+                "keystoneID": 117551
             },
             {
                 "name": "Scalecommander",
-                "id": 36
+                "id": 36,
+                "keystoneID": 117533
             }
         ]
     },
@@ -397,31 +471,37 @@
         "Havoc": [
             {
                 "name": "Aldrachi Reaver",
-                "id": 35
+                "id": 35,
+                "keystoneID": 117512
             },
             {
                 "name": "Fel-Scarred",
-                "id": 34
+                "id": 34,
+                "keystoneID": 117514
             }
         ],
         "Vengeance": [
             {
                 "name": "Aldrachi Reaver",
-                "id": 35
+                "id": 35,
+                "keystoneID": 117512
             },
             {
                 "name": "Annihilator",
-                "id": 124
+                "id": 124,
+                "keystoneID": 117512
             }
         ],
         "Devourer": [
             {
                 "name": "Annihilator",
-                "id": 124
+                "id": 124,
+                "keystoneID": 117512
             },
             {
                 "name": "Fel-Scarred",
-                "id": 34
+                "id": 34,
+                "keystoneID": 117514
             }
         ]
     }
