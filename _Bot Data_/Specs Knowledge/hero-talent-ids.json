@@ -1,0 +1,188 @@
+{
+    "Priest": {
+        "Holy": [
+            { "name": "Oracle", "id": 20, "spells": [443331] },
+            { "name": "Archon", "id": 19, "spells": [120517] }
+        ],
+        "Discipline": [
+            { "name": "Oracle", "id": 20, "spells": [443331] },
+            { "name": "Voidweaver", "id": 18, "spells": [445070] }
+        ],
+        "Shadow": [
+            { "name": "Archon", "id": 19, "spells": [120644] },
+            { "name": "Voidweaver", "id": 18, "spells": [445070] }
+        ]
+    },
+    "Mage": {
+        "Fire": [
+            { "name": "Sunfury", "id": 39, "spells": [441110] },
+            { "name": "Frostfire", "id": 41, "spells": [441120] }
+        ],
+        "Frost": [
+            { "name": "Spellslinger", "id": 40, "spells": [443722] },
+            { "name": "Frostfire", "id": 41, "spells": [441120] }
+        ],
+        "Arcane": [
+            { "name": "Sunfury", "id": 39, "spells": [441110] },
+            { "name": "Spellslinger", "id": 40, "spells": [443722] }
+        ]
+    },
+    "Paladin": {
+        "Holy": [
+            { "name": "Herald of the Sun", "id": 50, "spells": [431381] },
+            { "name": "Lightsmith", "id": 49, "spells": [441150] }
+        ],
+        "Protection": [
+            { "name": "Lightsmith", "id": 49, "spells": [441150] },
+            { "name": "Templar", "id": 48, "spells": [441190] }
+        ],
+        "Retribution": [
+            { "name": "Herald of the Sun", "id": 50, "spells": [431380] },
+            { "name": "Templar", "id": 48, "spells": [441190] }
+        ]
+    },
+    "Druid": {
+        "Restoration": [
+            { "name": "Wildstalker", "id": 22, "spells": [439530, 439531] },
+            { "name": "Keeper of the Grove", "id": 23, "spells": [433940, 433850] }
+        ],
+        "Balance": [
+            { "name": "Elune's Chosen", "id": 24, "spells": [428682, 1281579] },
+            { "name": "Keeper of the Grove", "id": 23, "spells": [433939, 433850] }
+        ],
+        "Feral": [
+            { "name": "Wildstalker", "id": 22, "spells": [439531] },
+            { "name": "Druid of the Claw", "id": 21, "spells": [441585] }
+        ],
+        "Guardian": [
+            { "name": "Elune's Chosen", "id": 24, "spells": [428682, 1281579] },
+            { "name": "Druid of the Claw", "id": 21, "spells": [441585] }
+        ]
+    },
+    "Shaman": {
+        "Restoration": [
+            { "name": "Totemic", "id": 54, "spells": [441200] },
+            { "name": "Farseer", "id": 56, "spells": [441210] }
+        ],
+        "Elemental": [
+            { "name": "Farseer", "id": 56, "spells": [441210] },
+            { "name": "Stormbringer", "id": 55, "spells": [452201] }
+        ],
+        "Enhancement": [
+            { "name": "Totemic", "id": 54, "spells": [441200] },
+            { "name": "Stormbringer", "id": 55, "spells": [452201] }
+        ]
+    },
+    "Warlock": {
+        "Affliction": [
+            { "name": "Soul Harvester", "id": 57, "spells": [441230, 449801] },
+            { "name": "Hellcaller", "id": 58, "spells": [441240, 443473] }
+        ],
+        "Demonology": [
+            { "name": "Soul Harvester", "id": 57, "spells": [441230, 449801] },
+            { "name": "Diabolist", "id": 59, "spells": [441250, 428514] }
+        ],
+        "Destruction": [
+            { "name": "Hellcaller", "id": 58, "spells": [441240, 443473] },
+            { "name": "Diabolist", "id": 59, "spells": [441250, 428514] }
+        ]
+    },
+    "Monk": {
+        "Mistweaver": [
+            { "name": "Conduit of the Celestials", "id": 47, "spells": [443028] },
+            { "name": "Master of Harmony", "id": 46, "spells": [441270, 451270] }
+        ],
+        "Brewmaster": [
+            { "name": "Master of Harmony", "id": 46, "spells": [441270, 451270] },
+            { "name": "Shado-Pan", "id": 45, "spells": [451021] }
+        ],
+        "Windwalker": [
+            { "name": "Conduit of the Celestials", "id": 47, "spells": [123904] },
+            { "name": "Shado-Pan", "id": 45, "spells": [451021] }
+        ]
+    },
+    "Rogue": {
+        "Assassination": [
+            { "name": "Deathstalker", "id": 53, "spells": [441290] },
+            { "name": "Fatebound", "id": 52, "spells": [441300] }
+        ],
+        "Outlaw": [
+            { "name": "Fatebound", "id": 52, "spells": [441300] },
+            { "name": "Trickster", "id": 51, "spells": [441310] }
+        ],
+        "Subtlety": [
+            { "name": "Deathstalker", "id": 53, "spells": [441290] },
+            { "name": "Trickster", "id": 51, "spells": [441310] }
+        ]
+    },
+    "DeathKnight": {
+        "Blood": [
+            { "name": "San'layn", "id": 31, "spells": [433895] },
+            { "name": "Deathbringer", "id": 33, "spells": [439843] }
+        ],
+        "Frost": [
+            { "name": "Rider of the Apocalypse", "id": 32, "spells": [445513, 444005] },
+            { "name": "Deathbringer", "id": 33, "spells": [439843] }
+        ],
+        "Unholy": [
+            { "name": "Rider of the Apocalypse", "id": 32, "spells": [445513, 444005] },
+            { "name": "San'layn", "id": 31, "spells": [433895] }
+        ]
+    },
+    "Hunter": {
+        "BeastMastery": [
+            { "name": "Dark Ranger", "id": 44, "spells": [441320] },
+            { "name": "Pack Leader", "id": 43, "spells": [471877] }
+        ],
+        "Marksmanship": [
+            { "name": "Dark Ranger", "id": 44, "spells": [441320] },
+            { "name": "Sentinel", "id": 42, "spells": [451447] }
+        ],
+        "Survival": [
+            { "name": "Pack Leader", "id": 43, "spells": [471877] },
+            { "name": "Sentinel", "id": 42, "spells": [451447] }
+        ]
+    },
+    "Warrior": {
+        "Protection": [
+            { "name": "Mountain Thane", "id": 61, "spells": [435791] },
+            { "name": "Colossus", "id": 62, "spells": [441360] }
+        ],
+        "Fury": [
+            { "name": "Mountain Thane", "id": 61, "spells": [435791] },
+            { "name": "Slayer", "id": 60, "spells": [445579] }
+        ],
+        "Arms": [
+            { "name": "Colossus", "id": 62, "spells": [441360] },
+            { "name": "Slayer", "id": 60, "spells": [445579] }
+        ]
+    },
+    "Evoker": {
+        "Preservation": [
+            { "name": "Chronowarden", "id": 38, "spells": [431443] },
+            { "name": "Flameshaper", "id": 37, "spells": [433062] }
+        ],
+        "Devastation": [
+            { "name": "Scalecommander", "id": 36, "spells": [436336, 434481] },
+            { "name": "Flameshaper", "id": 37, "spells": [433062] }
+        ],
+        "Augmentation": [
+            { "name": "Chronowarden", "id": 38, "spells": [431583] },
+            { "name": "Scalecommander", "id": 36, "spells": [434481] }
+        ]
+    },
+    "DemonHunter": {
+        "Havoc": [
+            { "name": "Aldrachi Reaver", "id": 35, "spells": [441447, 1266592] },
+            { "name": "Fel-Scarred", "id": 34, "spells": [441775, 452416] }
+        ],
+        "Vengeance": [
+            { "name": "Aldrachi Reaver", "id": 35, "spells": [441447, 1266592] },
+            { "name": "Annihilator", "id": 124, "spells": [1256301, 1256306] }
+        ],
+        "Devourer": [
+            { "name": "Annihilator", "id": 124, "spells": [1256301, 1256306] },
+            { "name": "Fel-Scarred", "id": 34, "spells": [441775, 452416] }
+        ]
+    }
+}
