@@ -7,6 +7,7 @@ The guide recommends a unified approach for both Archon and Oracle builds.
 | :--- | :--- | :--- |
 | **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Nature's Fury** (Haste). |
 | **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of Thalassian Resistance** (Vers). |
+| **Potion** | **Light's Potential** (primary) | **Potion of Recklessness** (alternative throughput). |
 | **Food** | **Silvermoon Parade** (Intellect Feast) | **Royal Roast** (Valid if Feast is not provided). |
 | **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
 | **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |

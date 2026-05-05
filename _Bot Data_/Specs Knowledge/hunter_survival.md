@@ -7,6 +7,7 @@ The guide recommends a unified approach for both Sentinel and Pack Leader builds
 | :--- | :--- | :--- |
 | **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Nature's Fury** (Haste). |
 | **Flask** | **Flask of the Magisters** (Mastery) | **Flask of the Shattered Sun** (Crit). |
+| **Potion** | **Potion of Recklessness** (primary) | **Light's Potential** (alternative). |
 | **Food** | **Silvermoon Parade** (Agility Feast) | **Royal Roast** (Valid if Feast is not provided). |
 | **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
 | **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |

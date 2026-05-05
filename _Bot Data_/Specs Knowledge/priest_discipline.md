@@ -9,6 +9,7 @@ Discipline uses unified consumables for gems/food, but splits on Weapon Enchants
 | **Weapon Enchant (Void)** | **Enchant Weapon - Berserker's Rage** | Critical Strike focus. |
 | **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Silvermoon's Alacrity** (Haste). |
 | **Flask** | **Flask of the Blood Knights** (Haste) | **Flask of the Shattered Sun** (Crit). |
+| **Potion** | **Potion of Recklessness** (throughput) | **Potion of Devoured Dreams** (mana-critical situations). |
 | **Food** | **Silvermoon Parade** (Intellect Feast) | **Royal Roast** (Valid if Feast is not provided). |
 | **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
 | **Gems** | **Flawless Deadly Peridot** | **Flawless Quick Amethyst** (Haste alternative). |

@@ -7,6 +7,7 @@ The guide recommends a "one-size-fits-all" approach for consumables across all b
 | :--- | :--- | :--- |
 | **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | None listed. |
 | **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Magisters** (Valid if Mastery preferred). |
+| **Potion** | **Potion of Recklessness** (primary) | **Light's Potential** (alternative). |
 | **Food** | **Silvermoon Parade** (Agility Feast) | **Royal Roast** (Valid if Feast is not provided). |
 | **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
 | **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |

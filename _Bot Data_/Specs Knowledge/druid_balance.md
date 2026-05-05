@@ -7,6 +7,7 @@ The guide recommends a unified approach across Elune's Chosen and Keeper of the 
 | :--- | :--- | :--- |
 | **Ring Enchant** | **Enchant Ring - Silvermoon's Alacrity** | None listed. |
 | **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Magisters** (Mastery). |
+| **Potion** | **Draught of Rampant Abandon** (max throughput, spawns silence pool) | **Light's Potential** (safe alternative, ~10% less). |
 | **Food** | **Silvermoon Parade** (Intellect Feast) | **Royal Roast** (Valid if Feast is not provided). |
 | **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
 | **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |

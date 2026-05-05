@@ -7,6 +7,7 @@ The guide recommends a unified approach for both Conduit of the Celestials and M
 | :--- | :--- | :--- |
 | **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Silvermoon's Alacrity** (Haste). |
 | **Flask** | **Flask of the Blood Knights** (Haste) | **Flask of the Shattered Sun** (Crit). |
+| **Potion** | **Potion of Devoured Dreams** (mana/raid) | **Lightfused Mana Potion** (M+) / **Light's Potential** (throughput). |
 | **Food** | **Silvermoon Parade** (Intellect Feast) | **Royal Roast** (Valid if Feast is not provided). |
 | **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
 | **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |

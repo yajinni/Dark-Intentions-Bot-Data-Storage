@@ -7,6 +7,7 @@ The guide recommends a unified approach for both Pack Leader and Dark Ranger bui
 | :--- | :--- | :--- |
 | **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | None listed. |
 | **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Blood Knights** (Haste). |
+| **Potion** | **Potion of Recklessness** (primary) | **Light's Potential** (alternative). |
 | **Food** | **Harandar Celebration** (Agility Feast) | **Royal Roast** (Valid if Feast is not provided). |
 | **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
 | **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |

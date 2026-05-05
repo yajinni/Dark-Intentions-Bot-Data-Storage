@@ -7,6 +7,7 @@ The guide recommends a unified approach for both Sunfury and Spellslinger builds
 | :--- | :--- | :--- |
 | **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Silvermoon's Alacrity** (Haste). |
 | **Flask** | **Flask of Thalassian Resistance** (Vers) | **Flask of the Magisters** (Mastery). |
+| **Potion** | **Draught of Rampant Abandon** (max throughput, spawns silence pool) | **Light's Potential** (safe alternative, ~10% less). |
 | **Food** | **Silvermoon Parade** (Intellect Feast) | **Royal Roast** (Valid if Feast is not provided). |
 | **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
 | **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |

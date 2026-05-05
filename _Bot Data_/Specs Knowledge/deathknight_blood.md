@@ -6,6 +6,7 @@
 | **Flask** | **Flask of the Shattered Sun** (Haste) | **Flask of the Shattered Sun** (Haste) |
 | **Alternative Flask** | **Flask of Thalassian Resistance** (Vers) | **Flask of the Blood Knights** (Mastery) |
 | **Food** | **Royal Roast** (Primary/Vers) | **Harandar Celebration** (Haste) |
+| **Potion** | **Light's Potential** (tank default) | **Potion of Recklessness** (alternative). |
 | **Gems** | **Flawless Masterful Garnet** | **Flawless Quick Amethyst** |
 | **Ring Enchants** | **Enchant Ring - Silvermoon's Tenacity** | **Enchant Ring - Nature's Fury** |
 | **Weapon Rune** | **Rune of Sanguination** (ST) / **Fallen Crusader** (5+) | **Rune of Sanguination** (ST/AoE) |

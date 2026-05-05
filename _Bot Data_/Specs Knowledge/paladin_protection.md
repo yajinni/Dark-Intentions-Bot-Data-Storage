@@ -7,6 +7,7 @@ The guide recommends a unified approach for both Templar and Lightsmith builds.
 | :--- | :--- | :--- |
 | **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Silvermoon's Alacrity** (Haste). |
 | **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Blood Knights** (Haste). |
+| **Potion** | **Light's Potential** (primary tank) | **Potion of Recklessness** (alternative). |
 | **Food** | **Silvermoon Parade** (Strength Feast) | **Royal Roast** (Valid if Feast is not provided). |
 | **Weapon Buff** | **Thalassian Phoenix Oil** | **Rite of Sanctification** (Valid for Lightsmith builds). |
 | **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |

@@ -8,6 +8,7 @@ The guide recommends a unified approach for both Trickster and Fatebound builds.
 | **Weapon Enchant** | **Enchant Weapon - Jan'alai's Precision** | **Enchant Weapon - Berserker's Rage** (ST Alternative). |
 | **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Silvermoon's Alacrity** (Haste). |
 | **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Blood Knights** (Valid if >40% Crit). |
+| **Potion** | **Potion of Recklessness** (primary) | **Light's Potential** (alternative). |
 | **Food** | **Silvermoon Parade** (Agility Feast) | **Royal Roast** (Valid if Feast is not provided). |
 | **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
 | **Gems** | **Flawless Deadly Peridot** | **Flawless Quick Amethyst** (Haste alternative). |

@@ -7,6 +7,7 @@ The guide recommends a unified approach for both Chronowarden and Flameshaper bu
 | :--- | :--- | :--- |
 | **Ring Enchant** | **Enchant Ring - Zul'jin's Mastery** | **Enchant Ring - Eyes of the Eagle** (Crit). |
 | **Flask** | **Flask of the Magisters** (Mastery) | **Flask of the Blood Knights** (Haste). |
+| **Potion** | **Potion of Recklessness** (throughput) | **Lightfused Mana Potion** (mana-critical situations). |
 | **Food** | **Silvermoon Parade** (Intellect Feast) | **Royal Roast** (Valid if Feast is not provided). |
 | **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
 | **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |

@@ -7,6 +7,7 @@ The guide recommends a unified approach for both Master of Harmony and Shado-Pan
 | :--- | :--- | :--- |
 | **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Nature's Fury** (Haste). |
 | **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Magisters** (Mastery). |
+| **Potion** | **Light's Potential** (primary tank) | **Potion of Recklessness** (alternative). |
 | **Food** | **Silvermoon Parade** (Agility Feast) | **Royal Roast** (Valid if Feast is not provided). |
 | **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
 | **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |

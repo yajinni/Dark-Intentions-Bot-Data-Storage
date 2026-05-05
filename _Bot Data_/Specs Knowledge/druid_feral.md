@@ -7,6 +7,7 @@ The guide recommends a unified approach for both Wildstalker and Druid of the Cl
 | :--- | :--- | :--- |
 | **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Nature's Fury** (Haste). |
 | **Flask** | **Flask of the Magisters** (Mastery) | **Flask of the Shattered Sun** (Crit). |
+| **Potion** | **Light's Potential** (primary for melee) | **Potion of Recklessness** (alternative, sim-dependent). |
 | **Food** | **Silvermoon Parade** (Agility Feast) | **Royal Roast** (Valid if Feast is not provided). |
 | **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
 | **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
@@ -45,15 +46,16 @@ The guide recommends a unified approach for both Wildstalker and Druid of the Cl
 ---
 
 ## 4. Deep Dive: Raid Rotation
-Focus: **Bleed Snapshotting** and **Bloodtalons** management.
+Focus: **Bleed Snapshotting** and **Tiger's Fury** alignment.
+> **Note:** Bloodtalons no longer exists in Midnight (12.0.5). It was a talent from previous expansions and must **not** be referenced in audits or recommendations.
 
 ### **A. Snapshotting (The Tiger's Fury Audit)**
 1.  **Tiger's Fury:** Use BEFORE applying or refreshing **Rip** and **Rake**.
-2.  **Bloodtalons:** Sequence **3 unique generators** (e.g., Shred, Rake, Thrash) within 4 seconds to trigger the buff for your next 2 finishers.
-3.  **Audit Flag:** Casting *Rip* or *Ferocious Bite* without the **Bloodtalons** buff (when available) is a major throughput error.
+2.  **Combo Point Pooling:** Build to **5 Combo Points** before spending on finishers. Never spend below 5 CP.
+3.  **Audit Flag:** Casting *Rip* or *Ferocious Bite* at fewer than **5 Combo Points** is a major throughput error.
 
 ### **B. Primary Priority List**
-1.  **Rip:** Maintain at 5 Combo Points (Snapshotted with TF/BT).
+1.  **Rip:** Maintain at 5 Combo Points (Snapshotted with Tiger's Fury).
 2.  **Rake:** Maintain 100% uptime (Snapshotted with TF).
 3.  **Ferocious Bite:** Use at **5 Combo Points** and **50+ Energy** (to maximize the damage multiplier).
 4.  **Shred:** Primary generator while at < 5 Combo Points.

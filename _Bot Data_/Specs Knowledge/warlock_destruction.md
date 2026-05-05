@@ -7,6 +7,7 @@ The guide recommends a unified approach for both Diabolist and Hellcaller builds
 | :--- | :--- | :--- |
 | **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | None listed. |
 | **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Blood Knights** (Haste). |
+| **Potion** | **Draught of Rampant Abandon** (max throughput, spawns silence pool) | **Light's Potential** (safe alternative, ~10% less). |
 | **Food** | **Harandar Celebration** (Intellect Feast) | **Royal Roast** (Valid if Feast is not provided). |
 | **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
 | **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |

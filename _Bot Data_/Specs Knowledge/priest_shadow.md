@@ -7,6 +7,7 @@ The guide recommends a unified approach based on stat weights rather than a rigi
 | :--- | :--- | :--- |
 | **Ring Enchant** | **Enchant Ring - Zul'jin's Mastery** | **Enchant Ring - Silvermoon's Alacrity** (Haste). |
 | **Flask** | **Flask of the Magisters** (Mastery) | **Flask of the Blood Knights** (Haste). |
+| **Potion** | **Draught of Rampant Abandon** (max throughput, spawns silence pool) | **Light's Potential** (safe alternative, ~10% less). |
 | **Food** | **Silvermoon Parade** (Intellect Feast) | **Royal Roast** (Valid if Feast is not provided). |
 | **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
 | **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |

@@ -7,6 +7,7 @@ The guide recommends a unified approach for both Slayer and Mountain Thane build
 | :--- | :--- | :--- |
 | **Ring Enchant** | **Enchant Ring - Zul'jin's Mastery** | **Enchant Ring - Silvermoon's Alacrity** (Haste). |
 | **Flask** | **Flask of the Magisters** (Mastery) | **Flask of the Shattered Sun** (Crit). |
+| **Potion** | **Potion of Recklessness** (primary) | **Light's Potential** (alternative). |
 | **Food** | **Silvermoon Parade** (Strength Feast) | **Royal Roast** (Valid if Feast is not provided). |
 | **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
 | **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |

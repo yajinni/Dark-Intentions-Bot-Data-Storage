@@ -9,6 +9,7 @@ Enhancement uses unified consumables for gems/food, but splits on Flasks based o
 | **Flask (Storm)** | **Flask of the Blood Knights** (Haste) | **Flask of the Shattered Sun** (Crit). |
 | **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Zul'jin's Mastery** (Mastery). |
 | **Food** | **Silvermoon Parade** (Agility Feast) | **Royal Roast** (Valid if Feast is not provided). |
+| **Potion** | **Light's Potential** (primary for melee) | **Potion of Recklessness** (alternative, sim-dependent). |
 | **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
 | **Gems** | **Flawless Masterful Peridot** | **Flawless Quick Amethyst** (Haste alternative). |
 

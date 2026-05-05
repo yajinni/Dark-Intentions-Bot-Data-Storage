@@ -8,6 +8,7 @@ The guide recommends a unified approach for both Trickster and Deathstalker buil
 | **Weapon Enchant** | **Acuity of the Ren'dorei** | **Jan'alai's Precision** (Crit Alternative). |
 | **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Silvermoon's Alacrity** (Haste). |
 | **Flask** | **Flask of the Blood Knights** (Haste) | **Flask of the Magisters** (Mastery). |
+| **Potion** | **Light's Potential** (primary for melee) | **Potion of Recklessness** (alternative). |
 | **Food** | **Silvermoon Parade** (Agility Feast) | **Royal Roast** (Valid if Feast is not provided). |
 | **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
 | **Gems** | **Flawless Quick Amethyst** | **Flawless Masterful Peridot** (Mastery alternative). |

@@ -7,6 +7,7 @@ The guide recommends a unified approach for both Mountain Thane and Colossus bui
 | :--- | :--- | :--- |
 | **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Silvermoon's Alacrity** (Haste). |
 | **Flask** | **Flask of the Blood Knights** (Haste) | **Flask of the Shattered Sun** (Crit). |
+| **Potion** | **Light's Potential** (primary tank) | **Potion of Recklessness** (alternative). |
 | **Food** | **Silvermoon Parade** (Strength Feast) | **Royal Roast** (Valid if Feast is not provided). |
 | **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
 | **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |

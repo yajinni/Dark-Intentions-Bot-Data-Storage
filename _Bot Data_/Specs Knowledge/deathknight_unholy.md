@@ -8,6 +8,7 @@ The guide recommends a unified approach for both Rider and San'layn builds.
 | **Weapon Rune** | **Rune of the Apocalypse** | **Rune of the Fallen Crusader** (Valid alternative). |
 | **Ring Enchant** | **Enchant Ring - Nature's Fury** | **Enchant Ring - Eyes of the Eagle** (Crit). |
 | **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Magisters** (Mastery). |
+| **Potion** | **Potion of Recklessness** (primary) | **Light's Potential** (alternative). |
 | **Food** | **Harandar Celebration** (Strength Feast) | **Royal Roast** (Valid if Feast is not provided). |
 | **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
 | **Gems** | **Flawless Deadly Amethyst** | **Flawless Masterful Garnet** (Mastery alternative). |

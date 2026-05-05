@@ -8,6 +8,7 @@ The guide recommends a unified approach for both Fatebound and Deathstalker buil
 | **Weapon Enchant** | **Enchant Weapon - Berserker's Rage** | **Jan'alai's Precision** (Crit Alternative). |
 | **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Silvermoon's Alacrity** (Haste). |
 | **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Magisters** (Mastery). |
+| **Potion** | **Potion of Recklessness** (primary) | **Light's Potential** (alternative). |
 | **Food** | **Silvermoon Parade** (Agility Feast) | **Royal Roast** (Valid if Feast is not provided). |
 | **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
 | **Gems** | **Flawless Deadly Peridot** | **Flawless Quick Amethyst** (Haste alternative). |
