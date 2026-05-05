@@ -66,7 +66,7 @@ Before the AI sees anything, the bot performs strict calculations via the `forma
     *   **Flasks & Food**: Scans the player's active Auras (buffs) during the fight.
     *   **Weapon Oils & Stones (100% ID-Based)**: 
         *   The bot checks the **Temporary Enchant ID** of the weapon slots against the `enchants.ts` mapping.
-        *   **Rule**: It ONLY reports an oil/stone if the ID is explicitly flagged as `isWeaponEnhancement: true` in our mapping. This completely eliminates "Boiling Point" and other talent-procs from being misidentified.
+        *   **Rule**: It ONLY reports an oil/stone if the ID is explicitly flagged as `isWeaponEnhancement: true` in our mapping. 
         *   **Fallback**: If not found on gear, it scans active Auras but only accepts names that exist in our `isWeaponEnhancement` whitelist.
     *   **Potions**: Scans the **Performance Table** for casted spell IDs. It uses **Exact String Matching** against the `potions.ts` mapping to ensure accuracy.
 3.  **Stats Flattening**: Normalizes ratings (Haste, Crit, etc.) into percentages using Midnight-specific coefficients (e.g., Haste: 44, Crit: 46).
