@@ -25,15 +25,17 @@ This document provides a step-by-step technical explanation of the bot's analysi
 ## Phase 3: Deep Data Collection (The Audit)
 **Trigger:** User selects a character.
 
-1.  **Authoritative Detection Query**: The bot runs a specialized GraphQL query (`SummaryTable`) to fetch:
-    *   **Talent Tree**: The raw ID array of all selected talents.
-    *   **Combatant Info**: Gear, stats, and primary attributes.
-    *   **Performance Table**: All spells cast, their damage/healing, and hit counts.
-2.  **Hero Spec Identification**:
+1.  **Authoritative Detection Query**: The bot runs a specialized GraphQL query (`SummaryTable`) to fetch the character's **Talent Tree** and combat metadata.
+2.  **Hero Spec Identification (STRICT)**:
     *   The bot uses the `detectHeroTree` engine.
     *   It looks for specific **Keystone Talent IDs** in the character's Talent Tree (e.g., ID `117515` for San'layn).
-    *   **Rule**: If the Keystone ID is missing, it falls back to "Spell Signatures" (detecting if a unique hero ability was cast).
-3.  **Mappings Load**: The bot fetches the latest `potions.ts`, `enchants.ts`, `food.ts`, and `flasks.ts` from the GitHub Data Storage repository to use as the source of truth for the audit.
+    *   **Rule**: Detection is now strictly deterministic based on Talent IDs. If no recognized Keystone ID is found, the bot throws an error and stops the analysis. Legacy "Spell Signature" fallback has been removed to ensure 100% accuracy.
+3.  **Mappings Load**: The bot fetches the latest **Source of Truth** files from the GitHub Data Storage repository:
+    *   `gems.ts`
+    *   `enchants.ts`
+    *   `food.ts`
+    *   `flasks.ts`
+    *   `potions.ts`
 
 ---
 
@@ -53,7 +55,7 @@ The bot must find a "Gold Standard" log to compare the user against.
 Before the AI sees anything, the bot performs strict calculations:
 
 1.  **Gear Audit (`formatGearData`)**:
-    *   **Enchants**: Uses IDs from WCL to look up names in `enchants.ts`. 
+    *   **Enchants & Gems**: Uses IDs from WCL to look up names in our authoritative mapping files. 
     *   **Rule**: If an ID is missing from our mapping, it's labeled "Unknown" to prevent AI guessing.
     *   **Weapon Oils**: Checks both Character Auras and Gear Slots for keywords like "oil" or "stone". 
     *   **Exclusion**: Explicitly ignores talent-procs like "Boiling Point" that WCL sometimes mislabels as temporary enchants.
