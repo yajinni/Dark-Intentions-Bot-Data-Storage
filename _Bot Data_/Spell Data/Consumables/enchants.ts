@@ -789,13 +789,46 @@ const enchants = {
     craftQuality: 2,
   },
   // #endregion
-  // #region TEMPORARY WEAPON ENCHANTS
+    // #region TEMPORARY WEAPON ENCHANTS
+  REFULGENT_WHETSTONE_R2: {
+    id: 237365,
+    name: 'Refulgent Whetstone',
+    icon: 'inv_12_profession_blacksmithing_whetstones_silver',
+    effectId: 7905,
+    craftQuality: 2,
+    isWeaponEnhancement: true,
+  },
+  REFULGENT_WHETSTONE_R1: {
+    id: 237363,
+    name: 'Refulgent Whetstone',
+    icon: 'inv_12_profession_blacksmithing_whetstones_green',
+    effectId: 7906,
+    craftQuality: 1,
+    isWeaponEnhancement: true,
+  },
+  REFULGENT_WEIGHTSTONE_R2: {
+    id: 237369,
+    name: 'Refulgent Weightstone',
+    icon: 'inv_12_profession_blacksmithing_weightstone_silver',
+    effectId: 7908,
+    craftQuality: 2,
+    isWeaponEnhancement: true,
+  },
+  REFULGENT_WEIGHTSTONE_R1: {
+    id: 237367,
+    name: 'Refulgent Weightstone',
+    icon: 'inv_12_profession_blacksmithing_weightstone_green',
+    effectId: 7907,
+    craftQuality: 1,
+    isWeaponEnhancement: true,
+  },
   THALASSIAN_PHOENIX_OIL_R2: {
     id: 243734,
     name: 'Thalassian Phoenix Oil',
     icon: 'inv_12_profession_enchanting_manaoil_red',
     effectId: 8052,
     craftQuality: 2,
+    isWeaponEnhancement: true,
   },
   THALASSIAN_PHOENIX_OIL_R1: {
     id: 243733,
@@ -803,6 +836,23 @@ const enchants = {
     icon: 'inv_12_profession_enchanting_manaoil_red',
     effectId: 8051,
     craftQuality: 1,
+    isWeaponEnhancement: true,
+  },
+  OIL_OF_DAWN_R2: {
+    id: 243736,
+    name: 'Oil of Dawn',
+    icon: 'inv_12_profession_enchanting_manaoil_orange',
+    effectId: 8054,
+    craftQuality: 2,
+    isWeaponEnhancement: true,
+  },
+  OIL_OF_DAWN_R1: {
+    id: 243735,
+    name: 'Oil of Dawn',
+    icon: 'inv_12_profession_enchanting_manaoil_orange',
+    effectId: 8053,
+    craftQuality: 1,
+    isWeaponEnhancement: true,
   },
   ALGARI_MANA_OIL_R2: {
     id: 243736,
@@ -810,6 +860,7 @@ const enchants = {
     icon: 'inv_12_profession_enchanting_manaoil_blue',
     effectId: 8054,
     craftQuality: 2,
+    isWeaponEnhancement: true,
   },
   ALGARI_MANA_OIL_R1: {
     id: 243735,
@@ -817,6 +868,7 @@ const enchants = {
     icon: 'inv_12_profession_enchanting_manaoil_blue',
     effectId: 8053,
     craftQuality: 1,
+    isWeaponEnhancement: true,
   },
   SMUGGLERS_ENCHANTED_EDGE_R2: {
     id: 243738,
@@ -824,6 +876,7 @@ const enchants = {
     icon: 'inv_12_profession_enchanting_manaoil_purple',
     effectId: 8056,
     craftQuality: 2,
+    isWeaponEnhancement: true,
   },
   SMUGGLERS_ENCHANTED_EDGE_R1: {
     id: 243737,
@@ -831,6 +884,7 @@ const enchants = {
     icon: 'inv_12_profession_enchanting_manaoil_purple',
     effectId: 8055,
     craftQuality: 1,
+    isWeaponEnhancement: true,
   },
   LACED_ZOOMSHOTS_R2: {
     id: 257750,
@@ -838,6 +892,7 @@ const enchants = {
     icon: 'inv_ammo_bullet_06',
     effectId: 8609,
     craftQuality: 2,
+    isWeaponEnhancement: true,
   },
   LACED_ZOOMSHOTS_R1: {
     id: 257749,
@@ -845,6 +900,7 @@ const enchants = {
     icon: 'inv_ammo_bullet_06',
     effectId: 8608,
     craftQuality: 1,
+    isWeaponEnhancement: true,
   },
   WEIGHTED_BOOMSHOTS_R2: {
     id: 257752,
@@ -852,6 +908,7 @@ const enchants = {
     icon: 'inv_ammo_bullet_05',
     effectId: 8611,
     craftQuality: 2,
+    isWeaponEnhancement: true,
   },
   WEIGHTED_BOOMSHOTS_R1: {
     id: 257751,
@@ -859,6 +916,7 @@ const enchants = {
     icon: 'inv_ammo_bullet_05',
     effectId: 8610,
     craftQuality: 1,
+    isWeaponEnhancement: true,
   },
   // #endregion
 } satisfies Record<string, Enchant>;
