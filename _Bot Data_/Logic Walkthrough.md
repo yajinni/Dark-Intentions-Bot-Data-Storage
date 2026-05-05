@@ -46,8 +46,12 @@ The bot must find a "Gold Standard" log to compare the user against.
 2.  **Filtering Logic**:
     *   **Strict Spec Match**: Must be the same Class and Specialization.
     *   **Hero Spec Match**: Filters the leaderboard for players using the same Hero Spec (e.g., only compare Deathbringer DKs to Deathbringer DKs).
-    *   **iLvl Tolerance**: Attempts to find a player within **+/- 5 iLvl** of the user. If none are found, it gradually "relaxes" the filter.
-3.  **Selection**: The bot picks the highest-parsing log that meets all criteria to serve as the **Reference Data**.
+    *   **iLvl Tolerance (STRICT)**: Attempts to find a player within **±3 iLvl** of the user. 
+    *   **Duration Tolerance**: 
+        *   **Healers**: ±20 seconds from the user's fight duration.
+        *   **Tanks/DPS**: ±15 seconds from the user's fight duration.
+    *   **Rule**: If no logs match these strict criteria, the bot will return an error stating no comparable logs were found. It does NOT currently "relax" the filters.
+3.  **Selection**: The bot picks the highest-parsing log from the filtered candidates to serve as the **Reference Data**.
 
 ---
 
@@ -76,6 +80,7 @@ The bot packages two massive JSON objects (`userData` and `referenceData`) and s
 *   **Performance Table**: A cleaned list of the Top 100 spells with their %, avg hit, and crit rate.
 *   **Stats**: Raw ratings and normalized percentages for both players.
 *   **Downtime Data**: Active time, GCDs cast, and downtime percentage.
+*   **Healer Context**: For healers, the bot explicitly tells the AI how many healers were in the player's group (e.g., "Player healed with 5 healers") so the AI can account for "Healing Sniping" or throughput competition.
 *   **Mappings**: Every internal ID-to-Name mapping (Gems, Enchants, etc.) so the AI can generate accurate Wowhead links.
 
 ### **The AI Prompt (Instructions)**
