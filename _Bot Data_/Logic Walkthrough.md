@@ -56,15 +56,19 @@ The bot must find a "Gold Standard" log to compare the user against.
 ---
 
 ## Phase 5: Data Normalization & Math
-Before the AI sees anything, the bot performs strict calculations:
+Before the AI sees anything, the bot performs strict calculations via the `formatGearData` engine:
 
-1.  **Gear Audit (`formatGearData`)**:
-    *   **Enchants & Gems**: Uses IDs from WCL to look up names in our authoritative mapping files. 
+1.  **Enchants & Gems Audit**:
+    *   Uses IDs from WCL to look up names in our authoritative mapping files (`enchants.ts` and `gems.ts`). 
     *   **Rule**: If an ID is missing from our mapping, it's labeled "Unknown" to prevent AI guessing.
-    *   **Weapon Oils**: Checks both Character Auras and Gear Slots for keywords like "oil" or "stone". 
+    *   **Sockets**: Explicitly counts total sockets and empty sockets for the AI to flag.
+2.  **Consumables Audit**:
+    *   **Flasks & Food**: Scans the player's active Auras (buffs) during the fight.
+    *   **Weapon Oils**: Checks both Character Auras and Gear Slots for keywords like "oil", "stone", or "mana oil". 
+    *   **Potions**: Scans the **Performance Table** for casted spell IDs. It uses **Exact String Matching** against the `potions.ts` mapping to ensure accuracy (e.g., preventing "Light" from matching "Light's Potential").
     *   **Exclusion**: Explicitly ignores talent-procs like "Boiling Point" that WCL sometimes mislabels as temporary enchants.
-2.  **Stats Flattening**: Normalizes ratings (Haste, Crit, etc.) into percentages using Midnight-specific coefficients (e.g., Haste: 44, Crit: 46).
-3.  **Downtime & GCD Calculation**:
+3.  **Stats Flattening**: Normalizes ratings (Haste, Crit, etc.) into percentages using Midnight-specific coefficients (e.g., Haste: 44, Crit: 46).
+4.  **Downtime & GCD Calculation**:
     *   Fetches the class-specific spell metadata (GCD values, channel durations).
     *   Analyzes the raw event stream (`cast`, `begincast`, `applybuff`).
     *   Merges overlapping casting windows to find the **True Active Time**.
