@@ -1,0 +1,117 @@
+# Tattoomoon - Holy - 2026-05-05 13:05 - US/Moon Guard
+# SimC Addon 12.0.5-02
+# WoW 12.0.5.67314, TOC 120005
+# Requires SimulationCraft 1000-01 or newer
+
+priest="Tattoomoon"
+level=90
+race=dracthyr
+region=us
+server=moon_guard
+role=attack
+professions=herbalism=88/inscription=100
+spec=holy
+# loot_spec=holy
+
+talents=CEQA4VPTJ8eQb8/qEm8PyGu4ywYAAAAAAAgZmlxYMzMDzMzYZGmBAAAwwsMDzMzMYGzAYmaAgZWMTmFDAMGsZmZWA0MMjxwMz2yAMDMA
+
+# Saved Loadout: Archon Raid 4/21
+# talents=CEQA4VPTJ8eQb8/qEm8PyGu4ywYAAAAAAAgZmlxYMzMDzMzYZGmBAAAwwsMDzMzMYGzAYGGAYmFzwsYAgxgNzMzCAzwMGDzMbLDwMwA
+# Saved Loadout: Archon M+
+# talents=CEQA4VPTJ8eQb8/qEm8PyGu4ywYAAAAAAgZzwYWGMmZmZMzMjlZmZAAAAYMWmBzMzgxMjxGmBAwMbmhZzAAjBbGjFAmxMjxwMz2yAMgB
+
+# Blind Oath's Winged Crest (289)
+head=,id=250051,enchant_id=7961,bonus_id=13338/13440/6652/12667/13575/12806
+# Thalassian Phoenix Torque (285)
+neck=,id=241139,gem_id=240983,bonus_id=12214/13667/8960/12497/12066/13622,crafting_quality=5
+# Blind Oath's Seraphguards (289)
+shoulder=,id=250049,enchant_id=8031,bonus_id=6652/13440/13340/13574/12806
+# Cloak of the Fallen Cardinal (289)
+back=,id=49823,bonus_id=13440/6652/13577/12699/12806
+# Blind Oath's Raiment (276)
+chest=,id=250054,enchant_id=7987,bonus_id=13334/13336/6652/13575/12798
+# Lucky Shirt (1)
+shirt=,id=138385
+# Radiant Recruit's Tabard (1)
+tabard=,id=233288
+# Wristguards of Subterranean Moss (266)
+wrist=,id=49809,bonus_id=12795/13440/6652/12667/13577/12699
+# Handwraps of the Ascended (272)
+hands=,id=151300,bonus_id=13440/43/13577/12699/12797
+# Infernal Greatlock Girdle (276)
+waist=,id=260371,bonus_id=6652/12667/13577/13334/10844/12798,crafted_stats=40/36
+# Blind Oath's Leggings (276)
+legs=,id=250050,enchant_id=7937,bonus_id=6652/13440/13339/13575/12798
+# Ice-Steeped Sandals (276)
+feet=,id=49805,enchant_id=7993,bonus_id=13440/6652/13577/12699/12802
+# Signet of the Starved Beast (289)
+finger1=,id=249336,enchant_id=7997,gem_id=240896,bonus_id=6652/13668/13335/12806
+# Platinum Star Band (276)
+finger2=,id=193708,enchant_id=7997,gem_id=240896,bonus_id=13440/6652/13668/12699/12798
+# Locus-Walker's Ribbon (276)
+trinket1=,id=249809,bonus_id=6652/13334/12798
+# Litany of Lightblind Wrath (276)
+trinket2=,id=249808,bonus_id=6652/13334/12798
+# Surgeon's Needle (289)
+main_hand=,id=50227,enchant_id=8039,bonus_id=13440/6652/12701/12806
+# Aln'hara Lantern (285)
+off_hand=,id=245769,bonus_id=12214/12497/12066/12693/8960/8791/13622,crafted_stats=36/40,crafting_quality=5
+
+### Gear from Bags
+#
+# Tarnished Dawnlit Corsair's Hood (192)
+# head=,id=258923,bonus_id=13729/13578,drop_level=90
+#
+# Barbed Ymirheim Choker (263)
+# neck=,id=50228,gem_id=240983,bonus_id=13439/6652/13668/12699/12790
+#
+# Tarnished Dawnlit Spellbinder's Pads (192)
+# shoulder=,id=258917,bonus_id=13729/13578,drop_level=90
+#
+# Shroud of the Soulhunter (272)
+# back=,id=251161,bonus_id=12801/13440/6652/13577/12699
+#
+# Elegant Dress (1)
+# chest=,id=151806
+#
+# Bracers of Blazing Light (266)
+# wrist=,id=258580,bonus_id=12795/13440/6652/12667/13577/12699
+#
+# Tarnished Dawnlit Sentinel's Handguards (192)
+# hands=,id=258930,bonus_id=13729/13578,drop_level=90
+#
+# Black Tuxedo Pants (1)
+# legs=,id=151804
+#
+# Slippers of the Midnight Flame (269)
+# feet=,id=249305,enchant_id=7993,bonus_id=6652/13577/13334/12796
+#
+# Tarnished Dawnlit Corsair's Boots (192)
+# feet=,id=258921,bonus_id=13729/13578,drop_level=90
+#
+# Bifurcation Band (230)
+# finger1=,id=251115,bonus_id=12772/13438/6652/13668/12698
+#
+# Vessel of Tortured Souls (272)
+# trinket1=,id=250258,bonus_id=12801/13440/6652/12699
+#
+# Drum of Renewed Bonds (220)
+# trinket1=,id=248583,bonus_id=13183/12769/6652/11311
+#
+# Blossoming Rootwarden's Focus (237)
+# main_hand=,id=259349,bonus_id=12778/6652
+#
+# Rukhran's Solar Reliquary (266)
+# off_hand=,id=258472,bonus_id=12795/13440/6652/12699
+
+### Additional Character Info
+#
+# catalyst_currencies=3269:8/3378:8/2813:8/3116:8
+#
+# upgrade_currencies=c:3347:4/c:3383:792/c:1813:483/c:3341:822/c:3343:320/c:1792:300/c:1931:2841/c:2122:22/i:231756:4/i:232875:6/i:231769:1
+#
+# slot_high_watermarks=0:289:289/1:285:285/2:289:289/3:276:276/4:276:276/5:276:276/6:276:276/7:266:266/8:272:272/9:276:276/10:276:276/11:289:289/12:266:266/13:289:289/14:0:102/15:0:0/16:285:285
+#
+# upgrade_achievements=19326/19397/19398/19577/19578/19579/40107/40115/40118/40942/40943/40944/40945/41886/41887/41888/41892/42767/42768/61809
+
+# Checksum: eeafdcef
