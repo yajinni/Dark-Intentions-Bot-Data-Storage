@@ -63,7 +63,49 @@ Focus: **Bleed Snapshotting** and **Tiger's Fury** alignment.
 
 ---
 
-## 5. Major Cooldowns Breakdown (Strict Whitelist)
+## 6. Spec-Specific Audit Instructions (Report Section 4)
+Audit Resource: 22568 { "minCP": 5, "minEnergy": 50 } // Ferocious Bite
+Audit Resource: 441591 { "minCP": 5, "minEnergy": 50 } // Ravage (Hero Talent FB)
+Audit Resource: 1079 { "minCP": 5 } // Rip
+Track Resources: [3, 4] // 3 = Energy, 4 = Combo Points
+
+*AI Instruction:* Include the following tables as sub-sections (4.1, 4.2) within **4. Rotational Efficiency & Spell Priority**.
+
+### **4.1 Resource Management & Overcapping**
+- **Trigger:** Only create this table if `<RESOURCE_WASTE_DATA>` is provided.
+- **Table Headers:** | Resource | The Player | The Reference | Overcapping Analysis |
+- **Formatting Rule:** For each resource, you MUST show \`Generated: [Total] • Wasted: [Wasted] ([Waste%]%)\`.
+- **Logic:**
+    1.  **Energy (Type 3):** Feral is a "pooling" spec. High energy waste often comes from improper **Tiger's Fury** usage or not spending energy fast enough during Berserk.
+    2.  **Combo Points (Type 4):** Wasting CP (generating at 5 CP) is a severe error. 
+
+### **4.2 Finisher Quality Audit**
+- **Trigger:** Only create this table if `<RESOURCE_AUDIT_DATA>` is provided.
+- **Table Headers:** | Metric | The Player | The Reference | Analysis |
+- **Formatting Rule:** For metrics provided (Low CP %, Under-Energized %), format as \`X / Total (Y%)\`.
+- **Audit Rules & Reasoning:**
+    1.  **Ferocious Bite / Ravage:**
+        - **CP Limit (5):** Must be cast at 5 Combo Points for maximum efficiency.
+        - **Energy Limit (50):** These abilities drain up to 50 *additional* energy to deal double damage. Casting at < 50 energy is a major DPS loss.
+        - **Apex Predator's Craving (Free Procs):** Counted as \`freeProcs\`. They have zero cost and are excluded from errors. Mention them as a positive rotational benefit.
+    2.  **Rip:**
+        - **CP Limit (5):** Must be cast at 5 Combo Points.
+
+
+### **Data Interpretation Rules:**
+1.  **Apex Predator's Craving:** These are free Ferocious Bite procs. The data excludes these from "Low CP" counts automatically. You should mention the proc count as a sign of rotational benefit, but do not audit them for energy/CP efficiency.
+2.  **The 50 Energy Rule (Ferocious Bite):** Ferocious Bite drains up to 50 *additional* energy for 100% bonus damage. Casting at < 50 energy is a direct DPS loss.
+    - **Audit:** Flag any cast where the player had < 50 energy at the moment of cast.
+3.  **The 5 CP Rule (Rip & FB):** Finishers should ONLY be cast at 5 Combo Points.
+    - **Audit:** Flag any cast with < 5 CP as a "Low CP Finisher".
+
+### **Audit Severity:**
+*   **Low CP Rate > 5%:** Major Rotational Error.
+*   **Under-Energized FB Rate > 15%:** Significant Resource Management Error.
+
+---
+
+## 7. Major Cooldowns Breakdown (Strict Whitelist)
 *   **Berserk / Incarnation:** 3-minute CD. Reduces Energy costs and increases CP generation.
 *   **Tiger's Fury:** 30s CD. Core damage buff and Energy generator.
 *   **Convoke the Spirits:** 1-minute CD (if talented). Rapid-fire burst.
