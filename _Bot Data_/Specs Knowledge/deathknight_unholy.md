@@ -69,3 +69,24 @@ Focus: **Festering Wound** and **Lesser Ghoul** management.
 *   **Abomination Limb:** Use for burst damage and grip utility.
 *   **Summon Gargoyle:** (If talented) High priority burst CD.
 *   **Empower Rune Weapon:** Use to supplement resource flooding during Army windows.
+
+---
+
+## 6. Spec-Specific Audit Instructions (Report Section 4)
+Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
+
+*AI Instruction:* Include the following tables as sub-sections (4.1, 4.2) within **4. Rotational Efficiency & Spell Priority**.
+
+### **4.1 Resource Management & Overcapping**
+- **Trigger:** Only create this table if `<RESOURCE_WASTE_DATA>` is provided.
+- **Table Headers:** | Resource | The Player | The Reference | Overcapping Analysis |
+- **Formatting Rule:** For each resource, you MUST show `Generated: [Total] • Wasted: [Wasted] ([Waste%]%)`.
+- **Logic:**
+    1.  **Runes (Type 5 / ID 105):** Audited via **"Recharge Stalls"**. Having 0-3 runes available is optimal. Wasting recharge potential starts when **4, 5, or 6** runes are available simultaneously. Flag periods where the player held 4+ runes as a "Rune Stall."
+    2.  **Runic Power (Type 6 / ID 106):** Spent on **Death Coil** to trigger **Runic Corruption** (which increases rune recharge speed). Overcapping RP (> 80) means lost Runic Corruption uptime.
+
+### **4.2 Festering Wound Audit**
+- **Trigger:** Check for `Festering Strike` and `Scourge Strike` / `Clawing Shadows` casts.
+- **Logic:**
+    1.  **Wound Overcapping:** Casting **Festering Strike** when the target already has 6+ Festering Wounds is a significant waste of Runes.
+    2.  **Sudden Doom Efficiency:** Ensure **Death Coil** is used on procs to avoid wasting free RP spenders.

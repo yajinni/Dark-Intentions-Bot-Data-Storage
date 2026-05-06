@@ -81,3 +81,24 @@ The bot must switch audit logic based on the active Hero Spec.
 *   **Lichborne:** Leech and Fear/Sleep immunity.
 *   **Purgatory:** Prevents death once every 4 minutes.
 *   **Empower Rune Weapon:** 15% Haste and instant resource generation.
+
+---
+
+## 6. Spec-Specific Audit Instructions (Report Section 4)
+Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
+
+*AI Instruction:* Include the following tables as sub-sections (4.1, 4.2) within **4. Rotational Efficiency & Spell Priority**.
+
+### **4.1 Resource Management & Overcapping**
+- **Trigger:** Only create this table if `<RESOURCE_WASTE_DATA>` is provided.
+- **Table Headers:** | Resource | The Player | The Reference | Overcapping Analysis |
+- **Formatting Rule:** For each resource, you MUST show `Generated: [Total] • Wasted: [Wasted] ([Waste%]%)`.
+- **Logic:**
+    1.  **Runes (Type 5 / ID 105):** Audited via **"Recharge Stalls"**. Because only 3 runes can recharge at once, having 0-3 runes available is optimal. Wasting recharge potential starts when **4, 5, or 6** runes are available simultaneously. Flag any period where the player held 4+ runes as a "Rune Stall."
+    2.  **Runic Power (Type 6 / ID 106):** Spent on Death Strike for survival. Overcapping RP (> 75-80) is a survival error as it represents missed healing and potential death.
+
+### **4.2 Spec-Specific Efficiency Audit**
+- **Trigger:** Compare `Marrowrend` casts in the `<PLAYER_DATA>` targets table.
+- **Table Headers:** | Metric | The Player | The Reference | Efficiency Analysis |
+- **Logic:**
+    1.  **Bone Shield Waste:** Marrowrend should only be cast when Bone Shield is < 7 stacks. Casting at 7+ stacks is a significant waste of 2 Runes that should have been Heart Strike or Vampiric Strike.

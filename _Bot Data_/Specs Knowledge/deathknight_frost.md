@@ -67,3 +67,24 @@ The bot must switch audit logic based on whether **Breath of Sindragosa** is act
 *   **Reaper's Mark (Deathbringer):** 45s CD. Essential burst trigger.
 *   **Apocalypse Now (Rider):** 1.5-minute CD. Summons the Four Horsemen.
 *   **Frostwyrm's Fury:** Used as a massive burst finisher during Pillar of Frost windows.
+
+---
+
+## 6. Spec-Specific Audit Instructions (Report Section 4)
+Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
+
+*AI Instruction:* Include the following tables as sub-sections (4.1, 4.2) within **4. Rotational Efficiency & Spell Priority**.
+
+### **4.1 Resource Management & Overcapping**
+- **Trigger:** Only create this table if `<RESOURCE_WASTE_DATA>` is provided.
+- **Table Headers:** | Resource | The Player | The Reference | Overcapping Analysis |
+- **Formatting Rule:** For each resource, you MUST show `Generated: [Total] • Wasted: [Wasted] ([Waste%]%)`.
+- **Logic:**
+    1.  **Runes (Type 5 / ID 105):** Audited via **"Recharge Stalls"**. Having 0-3 runes available is optimal. Wasting recharge potential starts when **4, 5, or 6** runes are available simultaneously. Flag periods where the player held 4+ runes as a "Rune Stall," especially outside of burst windows.
+    2.  **Runic Power (Type 6 / ID 106):** Critical for **Breath of Sindragosa** uptime. Overcapping RP outside of Breath is less severe than starving during Breath. 
+
+### **4.2 Breath of Sindragosa Audit**
+- **Trigger:** Check for `Breath of Sindragosa` casts.
+- **Logic:**
+    1.  **RP Waste (During Breath):** Casting **Frost Strike** or **Death Coil** while Breath is active is a catastrophic failure (waste of RP that should sustain the Breath).
+    2.  **Starvation:** Ending a Breath with > 40 RP indicates the player likely stopped spending Runes on Obliterate, which is a rotational error.
