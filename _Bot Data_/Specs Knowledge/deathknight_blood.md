@@ -94,8 +94,11 @@ Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
 - **Table Headers:** | Resource | The Player | The Reference | Overcapping Analysis |
 - **Formatting Rule:** For each resource, you MUST show `Generated: [Total] • Wasted: [Wasted] ([Waste%]%)`.
 - **Logic:**
-    1.  **Runes (Type 5 / ID 105):** Audited via **"Recharge Stalls"**. Because only 3 runes can recharge at once, having 0-3 runes available is optimal. Wasting recharge potential starts when **4, 5, or 6** runes are available simultaneously. 
+    1.  **Runes (Type 5 / ID 105):** Audited via **"Recharge Stalls"**. 
         - **Metric:** Report the **Recharge Efficiency %** (Time spent with at least 3 runes recharging). 100% is perfect.
+        - **Detailed Breakdown:** Create a table showing the **Rune State Distribution** using the `distribution` data.
+        - **Table Format:** | Runes | Time (s) | Time (%) |
+        - **Coloring Rule:** Rows 0-3 should be neutral. Rows **4, 5, 6** should be highlighted as errors/inefficiencies.
     2.  **Runic Power (Type 6 / ID 106):** Spent on Death Strike for survival. Overcapping RP (> 75-80) is a survival error as it represents missed healing and potential death.
 
 ### **4.2 Spec-Specific Efficiency Audit**
