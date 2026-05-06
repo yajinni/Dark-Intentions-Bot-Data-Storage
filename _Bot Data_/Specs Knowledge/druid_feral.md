@@ -68,6 +68,7 @@ Audit Resource: 22568 { "minCP": 5, "minEnergy": 50 } // Ferocious Bite
 Audit Resource: 441591 { "minCP": 5, "minEnergy": 50 } // Ravage (Hero Talent FB)
 Audit Resource: 1079 { "minCP": 5 } // Rip
 Track Resources: [3, 4] // 3 = Energy (ID 103), 4 = Combo Points (ID 104)
+Ignore from Energy: ["Ferocious Bite"]
 
 *AI Instruction:* Include the following tables as sub-sections (4.1, 4.2) within **4. Rotational Efficiency & Spell Priority**.
 
