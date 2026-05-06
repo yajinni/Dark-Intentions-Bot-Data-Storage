@@ -72,3 +72,17 @@ Focus: **Shield Block Uptime** and **Rage Efficiency**.
 *   **Avatar:** 1.5-minute CD. Increases damage and Rage generation.
 *   **Spell Reflection:** Essential utility for magic damage mitigation.
 *   **Shield Charge:** 45s CD. Gap closer and heavy generator.
+
+---
+
+## 6. Spec-Specific Audit Instructions (Report Section 4)
+Track Resources: [2] // 2 = Rage (ID 101)
+
+*AI Instruction:* Include the following tables as sub-sections (4.1, 4.2) within **4. Rotational Efficiency & Spell Priority**.
+
+### **4.1 Resource Management & Overcapping**
+- **Trigger:** Only create this table if `<RESOURCE_WASTE_DATA>` is provided.
+- **Table Headers:** | Resource | The Player | The Reference | Overcapping Analysis |
+- **Formatting Rule:** For each resource, you MUST show `Generated: [Total] • Wasted: [Wasted] ([Waste%]%)`.
+- **Logic:**
+    1.  **Rage (Type 2 / ID 101):** Protection Warriors use Rage for Active Mitigation (Shield Block) and survival (Ignore Pain). Wasting Rage at 100 is a critical survival error, as it indicates the player is not maintaining their defensive shell properly.
