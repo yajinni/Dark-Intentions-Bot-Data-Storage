@@ -67,27 +67,28 @@ Focus: **Bleed Snapshotting** and **Tiger's Fury** alignment.
 Audit Resource: 22568 { "minCP": 5, "minEnergy": 50 } // Ferocious Bite
 Audit Resource: 441591 { "minCP": 5, "minEnergy": 50 } // Ravage (Hero Talent FB)
 Audit Resource: 1079 { "minCP": 5 } // Rip
-Track Resources: [3, 4] // 3 = Energy, 4 = Combo Points
+Track Resources: [3, 4] // 3 = Energy (ID 103), 4 = Combo Points (ID 104)
 
 *AI Instruction:* Include the following tables as sub-sections (4.1, 4.2) within **4. Rotational Efficiency & Spell Priority**.
 
 ### **4.1 Resource Management & Overcapping**
 - **Trigger:** Only create this table if `<RESOURCE_WASTE_DATA>` is provided.
 - **Table Headers:** | Resource | The Player | The Reference | Overcapping Analysis |
-- **Formatting Rule:** For each resource, you MUST show \`Generated: [Total] • Wasted: [Wasted] ([Waste%]%)\`.
+- **Formatting Rule:** For each resource, you MUST show `Generated: [Total] • Wasted: [Wasted] ([Waste%]%)`.
 - **Logic:**
-    1.  **Energy (Type 3):** Feral is a "pooling" spec. High energy waste often comes from improper **Tiger's Fury** usage or not spending energy fast enough during Berserk.
-    2.  **Combo Points (Type 4):** Wasting CP (generating at 5 CP) is a severe error. 
+    1.  **Energy (Type 3 / ID 103):** Feral is a "pooling" spec. High energy waste often comes from improper **Tiger's Fury** usage or not spending energy fast enough during Berserk.
+        - **IMPORTANT:** Ignore "Ferocious Bite" in energy gain/waste totals as it is a consumer that behaves uniquely.
+    2.  **Combo Points (Type 4 / ID 104):** Wasting CP (generating at 5 CP) is a severe error. 
 
 ### **4.2 Finisher Quality Audit**
 - **Trigger:** Only create this table if `<RESOURCE_AUDIT_DATA>` is provided.
 - **Table Headers:** | Metric | The Player | The Reference | Analysis |
-- **Formatting Rule:** For metrics provided (Low CP %, Under-Energized %), format as \`X / Total (Y%)\`.
+- **Formatting Rule:** For metrics provided (Low CP %, Under-Energized %), format as `X / Total (Y%)`.
 - **Audit Rules & Reasoning:**
     1.  **Ferocious Bite / Ravage:**
         - **CP Limit (5):** Must be cast at 5 Combo Points for maximum efficiency.
         - **Energy Limit (50):** These abilities drain up to 50 *additional* energy to deal double damage. Casting at < 50 energy is a major DPS loss.
-        - **Apex Predator's Craving (Free Procs):** Counted as \`freeProcs\`. They have zero cost and are excluded from errors. Mention them as a positive rotational benefit.
+        - **Apex Predator's Craving (Free Procs):** Counted as `freeProcs`. They have zero cost and are excluded from errors. Mention them as a positive rotational benefit.
     2.  **Rip:**
         - **CP Limit (5):** Must be cast at 5 Combo Points.
 
