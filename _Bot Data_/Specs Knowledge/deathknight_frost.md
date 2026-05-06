@@ -80,7 +80,8 @@ Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
 - **Table Headers:** | Resource | The Player | The Reference | Overcapping Analysis |
 - **Formatting Rule:** For each resource, you MUST show `Generated: [Total] • Wasted: [Wasted] ([Waste%]%)`.
 - **Logic:**
-    1.  **Runes (Type 5 / ID 105):** Audited via **"Recharge Stalls"**. Having 0-3 runes available is optimal. Wasting recharge potential starts when **4, 5, or 6** runes are available simultaneously. Flag periods where the player held 4+ runes as a "Rune Stall," especially outside of burst windows.
+    1.  **Runes (Type 5 / ID 105):** Audited via **"Recharge Stalls"**. Having 0-3 runes available is optimal. Wasting recharge potential starts when **4, 5, or 6** runes are available simultaneously. 
+        - **Metric:** Report the **Recharge Efficiency %** (Time spent with at least 3 runes recharging). 100% is perfect.
     2.  **Runic Power (Type 6 / ID 106):** Critical for **Breath of Sindragosa** uptime. Overcapping RP outside of Breath is less severe than starving during Breath. 
 
 ### **4.2 Breath of Sindragosa Audit**
