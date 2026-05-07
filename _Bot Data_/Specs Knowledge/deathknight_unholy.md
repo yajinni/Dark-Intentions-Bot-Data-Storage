@@ -83,8 +83,8 @@ Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
 - **Formatting Rule:** For each resource, you MUST show `Generated: [Total] • Wasted: [Wasted] ([Waste%]%)`.
 - **Logic:**
     1.  **Runes (Type 5 / ID 105):** Audited via **"Rune Spending Discipline"**. 
-        - **Metric:** Report the **Spending Discipline %** (Percentage of rune-spending casts performed while at **4 or fewer** runes).
-        - **Goal:** Aim for > 95%. Spending runes at 5 or 6 runes available is a rotational error (stalling regeneration).
+        - **Metric:** Compare the **Spending Discipline %** (Percentage of rune-spending casts performed while at **4 or fewer** runes) between the Player and the Reference.
+        - **Audit Rule:** If the player's Spending Discipline is **> 10% lower** than the reference, mention this as a rotational efficiency failure. Explain that they are waiting too long to spend runes, causing regeneration stalls.
     2.  **Runic Power (Type 6 / ID 106):** Spent on **Death Coil** to trigger **Runic Corruption** (which increases rune recharge speed). Overcapping RP (> 80) means lost Runic Corruption uptime.
 
 ### **4.2 Festering Wound Audit**
