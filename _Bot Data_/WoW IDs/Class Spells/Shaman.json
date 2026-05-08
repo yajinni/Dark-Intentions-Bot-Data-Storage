@@ -1,0 +1,4274 @@
+﻿[
+  {
+    "name": "Purge",
+    "id": 370,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Earth Shield",
+    "id": 379,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Earth Shield",
+    "id": 974,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Chain Heal",
+    "id": 1064,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Earthbind Totem",
+    "id": 2484,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Ghost Wolf",
+    "id": 2645,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Earthbind",
+    "id": 3600,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Searing Bolt",
+    "id": 3606,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Healing Stream Totem",
+    "id": 5394,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Healing Stream",
+    "id": 5672,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Far Sight",
+    "id": 6196,
+    "gcd": 1.5,
+    "castTime": 2,
+    "isChanneled": true,
+    "channelTime": 60
+  },
+  {
+    "name": "Healing Surge",
+    "id": 8004,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Earth Shock",
+    "id": 8042,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Tremor Totem",
+    "id": 8143,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Tremor Totem Effect",
+    "id": 8146,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flametongue Attack",
+    "id": 10444,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Master of the Elements",
+    "id": 16166,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Resurgence",
+    "id": 16196,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stormstrike",
+    "id": 17364,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Reincarnation (desc=Passive)",
+    "id": 20608,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Windfury Attack",
+    "id": 25504,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nature's Guardian",
+    "id": 30884,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nature's Guardian",
+    "id": 31616,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stormstrike",
+    "id": 32175,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stormstrike Off-Hand",
+    "id": 32176,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Windfury Attack",
+    "id": 33750,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Windfury Weapon (desc=Weapon Imbue)",
+    "id": 33757,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Earth Elemental",
+    "id": 35773,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Angered Earth",
+    "id": 36213,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lightning Bolt Overload",
+    "id": 45284,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chain Lightning Overload",
+    "id": 45297,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Earthgrab Totem",
+    "id": 51485,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Thunderstorm",
+    "id": 51490,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Lava Burst",
+    "id": 51505,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Hex (desc=Frog)",
+    "id": 51514,
+    "gcd": 1.5,
+    "castTime": 1.7
+  },
+  {
+    "name": "Feral Spirit",
+    "id": 51533,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Tidal Waves",
+    "id": 51564,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cleanse Spirit",
+    "id": 51886,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Healing Stream Totem",
+    "id": 52042,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Water Shield",
+    "id": 52127,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Water Shield",
+    "id": 52128,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tidal Waves",
+    "id": 53390,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fire Blast",
+    "id": 57984,
+    "gcd": 0,
+    "castTime": 3
+  },
+  {
+    "name": "Wind Shear",
+    "id": 57994,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glyph of the Spectral Wolf",
+    "id": 58135,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spectral Wolf",
+    "id": 58261,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Spirit Walk",
+    "id": 58875,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spirit Walk",
+    "id": 58876,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spirit Hunt",
+    "id": 58877,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Spirit Hunt",
+    "id": 58879,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lava Lash",
+    "id": 60103,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Elemental Fury",
+    "id": 60188,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Riptide",
+    "id": 61295,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Earthquake",
+    "id": 61882,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Earthgrab",
+    "id": 64695,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unleash Life",
+    "id": 73685,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Primal Strike",
+    "id": 73899,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Healing Rain",
+    "id": 73920,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Healing Rain",
+    "id": 73921,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Purify Spirit",
+    "id": 77130,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Mastery: Enhanced Elements",
+    "id": 77223,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mastery: Deep Healing",
+    "id": 77226,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lava Burst Overload",
+    "id": 77451,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Healing Wave",
+    "id": 77472,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Earthquake",
+    "id": 77478,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lava Surge",
+    "id": 77756,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lava Surge",
+    "id": 77762,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spiritwalker's Grace",
+    "id": 79206,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mail Specialization (desc=Passive)",
+    "id": 86099,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mail Specialization (desc=Passive)",
+    "id": 86100,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mail Specialization (desc=Passive)",
+    "id": 86108,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dual Wield",
+    "id": 86629,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spirit Link Totem",
+    "id": 98007,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spirit Link Totem",
+    "id": 98008,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Spirit Link",
+    "id": 98017,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Resurgence",
+    "id": 101033,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Astral Shift",
+    "id": 108271,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Healing Tide Totem",
+    "id": 108280,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Ancestral Guidance",
+    "id": 108281,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Totemic Projection",
+    "id": 108287,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ascendance",
+    "id": 114050,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Ascendance",
+    "id": 114051,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Ascendance",
+    "id": 114052,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Restorative Mists",
+    "id": 114083,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Windlash",
+    "id": 114089,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Windlash Off-Hand",
+    "id": 114093,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ancestral Guidance",
+    "id": 114911,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Healing Tide",
+    "id": 114942,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Windstrike",
+    "id": 115356,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Windstrike",
+    "id": 115357,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Windstrike Off-Hand",
+    "id": 115360,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Earthgrab",
+    "id": 116943,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Earthbind",
+    "id": 116947,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Primal Elementalist",
+    "id": 117013,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elemental Blast",
+    "id": 117014,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Meteor",
+    "id": 117588,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Immolate",
+    "id": 118297,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Pulverize",
+    "id": 118345,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elemental Blast: Critical Strike",
+    "id": 118522,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Capacitor Totem",
+    "id": 118905,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Elemental Blast Overload",
+    "id": 120588,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Block",
+    "id": 123831,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman",
+    "id": 137038,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Restoration Shaman",
+    "id": 137039,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elemental Shaman",
+    "id": 137040,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Enhancement Shaman",
+    "id": 137041,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rushing Streams",
+    "id": 147074,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rain of Frogs",
+    "id": 147709,
+    "gcd": 1.5,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 8
+  },
+  {
+    "name": "Rain of Frogs",
+    "id": 147745,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glyph of Spirit Raptors (desc=Enhancement)",
+    "id": 147783,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glyph of Lingering Ancestors",
+    "id": 147784,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spirit Raptors",
+    "id": 148079,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Lingering Ancestors",
+    "id": 148080,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Summon Elemental Familiar",
+    "id": 148118,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Adaptation",
+    "id": 152244,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Combat Experience",
+    "id": 156843,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Storm Elemental",
+    "id": 157299,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Primal Storm Elemental",
+    "id": 157319,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wind Gust",
+    "id": 157331,
+    "gcd": 0.5,
+    "castTime": 2
+  },
+  {
+    "name": "Call Lightning",
+    "id": 157348,
+    "gcd": 0.5,
+    "castTime": 2
+  },
+  {
+    "name": "Stormfury",
+    "id": 157375,
+    "gcd": 0,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 4
+  },
+  {
+    "name": "Critical Strikes (desc=Passive)",
+    "id": 157444,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mastery: Elemental Overload",
+    "id": 168534,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Earthen Rage",
+    "id": 170374,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Earthen Rage",
+    "id": 170377,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Earthen Rage",
+    "id": 170379,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elemental Blast: Haste",
+    "id": 173183,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elemental Blast: Mastery",
+    "id": 173184,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Maelstrom",
+    "id": 187828,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crash Lightning",
+    "id": 187874,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Crash Lightning",
+    "id": 187878,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Maelstrom Weapon",
+    "id": 187880,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Maelstrom Weapon",
+    "id": 187881,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Maelstrom Weapon",
+    "id": 187890,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lightning Bolt",
+    "id": 188196,
+    "gcd": 1.5,
+    "castTime": 2.5
+  },
+  {
+    "name": "Flame Shock",
+    "id": 188389,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Chain Lightning",
+    "id": 188443,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Fire Elemental",
+    "id": 188592,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Earth Elemental",
+    "id": 188616,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shattered Earth",
+    "id": 188912,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feral Spirit",
+    "id": 190185,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fulmination",
+    "id": 190493,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stormkeeper",
+    "id": 191634,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Fury of the Storms",
+    "id": 191717,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lightning Blast",
+    "id": 191726,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Power of the Maelstrom",
+    "id": 191861,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Power of the Maelstrom",
+    "id": 191877,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Capacitor Totem",
+    "id": 192058,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Gust of Wind",
+    "id": 192063,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Wind Rush Totem",
+    "id": 192077,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Wind Rush Totem",
+    "id": 192078,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wind Rush",
+    "id": 192082,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Graceful Spirit",
+    "id": 192088,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lightning Shield",
+    "id": 192106,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Lightning Shield",
+    "id": 192109,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crashing Storm",
+    "id": 192246,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Storm Elemental",
+    "id": 192249,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Stormlash",
+    "id": 195222,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stormstrike",
+    "id": 195573,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crash Lightning",
+    "id": 195592,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frost Shock",
+    "id": 196840,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Feral Lunge",
+    "id": 196881,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feral Lunge",
+    "id": 196884,
+    "gcd": 0.5,
+    "castTime": 0
+  },
+  {
+    "name": "Lightning Rod",
+    "id": 197209,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sundering",
+    "id": 197214,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Lightning Rod",
+    "id": 197568,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fire Elemental",
+    "id": 198067,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Earth Elemental",
+    "id": 198103,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Converging Storms",
+    "id": 198300,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Alpha Wolf",
+    "id": 198455,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Torrent",
+    "id": 200072,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Deluge",
+    "id": 200075,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Deluge",
+    "id": 200076,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stormsurge",
+    "id": 201845,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stormsurge",
+    "id": 201846,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hot Hand",
+    "id": 201900,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stomp",
+    "id": 202044,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Feral Swipe",
+    "id": 202045,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Voodoo Mastery",
+    "id": 204268,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Control of Lava",
+    "id": 204395,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Windfury",
+    "id": 205648,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ancestral Vigor",
+    "id": 207400,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ancestral Vigor",
+    "id": 207401,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Downpour",
+    "id": 207778,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stormlash",
+    "id": 207835,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Lightning Rod",
+    "id": 210689,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Icefury",
+    "id": 210714,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Crashing Storm",
+    "id": 210797,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elemental Assault",
+    "id": 210853,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flame Spit",
+    "id": 210859,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Chain Lightning",
+    "id": 211094,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ancestral Vision",
+    "id": 212048,
+    "gcd": 1.5,
+    "castTime": 10
+  },
+  {
+    "name": "Lightning Bolt",
+    "id": 214815,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lightning Bolt Overload",
+    "id": 214816,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hot Hand",
+    "id": 215785,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feral Lunge",
+    "id": 215802,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sundering",
+    "id": 216170,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chain Lightning Overload",
+    "id": 218558,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Icefury Overload",
+    "id": 219271,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Molten Weapon",
+    "id": 224125,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Icy Edge",
+    "id": 224126,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crackling Surge",
+    "id": 224127,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reincarnation",
+    "id": 225080,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wind Gust",
+    "id": 226180,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Totem Mastery",
+    "id": 226772,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feral Spirit",
+    "id": 228562,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Earth Elemental",
+    "id": 235429,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tidebringer",
+    "id": 236501,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tidebringer",
+    "id": 236502,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Control of Lava",
+    "id": 236746,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fulmination (desc=0)",
+    "id": 260111,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Master of the Elements",
+    "id": 260734,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spirit Wolf",
+    "id": 260878,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spirit Wolf",
+    "id": 260881,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spirit Wolf",
+    "id": 260882,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elemental Spirits",
+    "id": 262624,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Forceful Winds",
+    "id": 262647,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Forceful Winds",
+    "id": 262652,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wind Gust",
+    "id": 263806,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fire Elemental",
+    "id": 263819,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Static Charge",
+    "id": 265046,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stormfury",
+    "id": 269005,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feral Spirit",
+    "id": 271852,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Molten Weapon",
+    "id": 271924,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Aftershock",
+    "id": 273221,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lightning Shield Overcharge",
+    "id": 273323,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lightning Shield",
+    "id": 273324,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lava Burst",
+    "id": 285452,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lava Burst Overload",
+    "id": 285466,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frost Shock",
+    "id": 289439,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ride the Lightning",
+    "id": 289874,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ancestral Gift (desc=PvP Talent)",
+    "id": 290254,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Restorative Mists",
+    "id": 294020,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Earthquake",
+    "id": 298762,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Earthquake Overload",
+    "id": 298765,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lightning Lasso",
+    "id": 305483,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Lightning Lasso (desc=PvP Talent)",
+    "id": 305484,
+    "gcd": 0,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 5
+  },
+  {
+    "name": "Lightning Lasso (desc=PvP Talent)",
+    "id": 305485,
+    "gcd": 0,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 5
+  },
+  {
+    "name": "Flametongue Weapon (desc=Weapon Imbue)",
+    "id": 318038,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Lightning Bolt (desc=Rank 2)",
+    "id": 318044,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Seismic Thunder",
+    "id": 319343,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Windfury Weapon",
+    "id": 319773,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flametongue Weapon",
+    "id": 319778,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stormblast",
+    "id": 319930,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chain Harvest (desc=Venthyr)",
+    "id": 320674,
+    "gcd": 1.5,
+    "castTime": 2.5
+  },
+  {
+    "name": "Surge of Earth",
+    "id": 320746,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Surge of Earth",
+    "id": 320747,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chain Harvest (desc=Venthyr)",
+    "id": 320748,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chain Harvest (desc=Venthyr)",
+    "id": 320749,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chain Harvest (desc=Venthyr)",
+    "id": 320751,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chain Harvest (desc=Venthyr)",
+    "id": 320752,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chain Harvest (desc=Venthyr)",
+    "id": 320762,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chain Harvest",
+    "id": 321310,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chain Harvest",
+    "id": 321311,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vesper Totem (desc=Kyrian)",
+    "id": 324386,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Vesper Totem (desc=Kyrian)",
+    "id": 324519,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vesper Totem (desc=Kyrian)",
+    "id": 324520,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vesper Totem (desc=Kyrian)",
+    "id": 324522,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spirit Link Totem",
+    "id": 325174,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Primordial Wave (desc=Necrolord)",
+    "id": 326059,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Primordial Wave (desc=Necrolord)",
+    "id": 327161,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Primordial Wave (desc=Necrolord)",
+    "id": 327162,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Primordial Wave (desc=Necrolord)",
+    "id": 327163,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Primordial Wave (desc=Necrolord)",
+    "id": 327164,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fae Transfusion (desc=Night Fae)",
+    "id": 328923,
+    "gcd": 1.5,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 3
+  },
+  {
+    "name": "Fae Transfusion (desc=Night Fae)",
+    "id": 328928,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fae Transfusion (desc=Night Fae)",
+    "id": 328930,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Fae Transfusion (desc=Night Fae)",
+    "id": 328933,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Earthquake",
+    "id": 329801,
+    "gcd": 0,
+    "castTime": 3
+  },
+  {
+    "name": "Echo of the Elements",
+    "id": 333919,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feral Spirit",
+    "id": 333957,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crash Lightning",
+    "id": 333964,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fire Nova",
+    "id": 333974,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fire Nova",
+    "id": 333977,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Molten Assault",
+    "id": 334033,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lashing Flames",
+    "id": 334046,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lashing Flames",
+    "id": 334168,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chaining Storms",
+    "id": 334308,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Earthquake",
+    "id": 336740,
+    "gcd": 0,
+    "castTime": 3
+  },
+  {
+    "name": "Thunderous Paws",
+    "id": 338033,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thunderous Paws",
+    "id": 338036,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elemental Fury (desc=Rank 2)",
+    "id": 343190,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Maelstrom",
+    "id": 343725,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lightning Shield",
+    "id": 344174,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Maelstrom Weapon",
+    "id": 344179,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stormflurry",
+    "id": 344357,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ascendance",
+    "id": 344548,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elemental Blast",
+    "id": 344645,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Windveil",
+    "id": 355630,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Windveil",
+    "id": 355634,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vesper Totem (desc=Kyrian)",
+    "id": 356790,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vesper Totem (desc=Kyrian)",
+    "id": 356791,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feral Spirit",
+    "id": 363941,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chain Harvest",
+    "id": 368583,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Time Spiral",
+    "id": 375256,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Astral Bulwark",
+    "id": 377933,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thunderous Paws",
+    "id": 378075,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thunderous Paws",
+    "id": 378076,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spiritwalker's Aegis",
+    "id": 378077,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spiritwalker's Aegis",
+    "id": 378078,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Enfeeblement",
+    "id": 378079,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Enfeeblement",
+    "id": 378080,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nature's Swiftness",
+    "id": 378081,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Primordial Fury",
+    "id": 378193,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Refreshing Waters",
+    "id": 378211,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Call of Fire",
+    "id": 378255,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flames of the Cauldron",
+    "id": 378266,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Deeply Rooted Elements",
+    "id": 378270,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Acid Rain",
+    "id": 378443,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Acid Rain",
+    "id": 378463,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Acid Rain",
+    "id": 378597,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Greater Purge",
+    "id": 378773,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Inundate",
+    "id": 378776,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Inundate",
+    "id": 378777,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thundershock",
+    "id": 378779,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Planes Traveler",
+    "id": 381647,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elemental Warding",
+    "id": 381650,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nature's Fury",
+    "id": 381655,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Brimming with Life",
+    "id": 381684,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Brimming with Life",
+    "id": 381689,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Swelling Maelstrom",
+    "id": 381707,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Eye of the Storm",
+    "id": 381708,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Earth Shock Overload",
+    "id": 381725,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Mountains Will Fall",
+    "id": 381726,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Primordial Bond",
+    "id": 381755,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Searing Flames",
+    "id": 381782,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Searing Flames",
+    "id": 381783,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Totemic Surge",
+    "id": 381867,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mana Spring",
+    "id": 381930,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mana Spring",
+    "id": 381931,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flash of Lightning",
+    "id": 381936,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wavespeaker's Blessing",
+    "id": 381946,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Earthen Harmony",
+    "id": 382020,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Earthliving Weapon",
+    "id": 382021,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Earthliving Weapon",
+    "id": 382022,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Earthliving Weapon",
+    "id": 382024,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Flametongue Weapon",
+    "id": 382027,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Flametongue Weapon",
+    "id": 382028,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Water Totem Mastery",
+    "id": 382030,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Echo Chamber",
+    "id": 382032,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Surging Shields",
+    "id": 382033,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flow of the Tides",
+    "id": 382039,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Surging Elements",
+    "id": 382042,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Surging Elements",
+    "id": 382043,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Primal Tide Core",
+    "id": 382045,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Undercurrent",
+    "id": 382194,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ancestral Wolf Affinity",
+    "id": 382197,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Totemic Focus",
+    "id": 382201,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Winds of Al'Akir",
+    "id": 382215,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Winds of Al'Akir",
+    "id": 382216,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ancestral Awakening",
+    "id": 382309,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ancestral Awakening",
+    "id": 382311,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Earthliving Weapon",
+    "id": 382315,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Living Stream",
+    "id": 382482,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ancestral Reach",
+    "id": 382732,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fire and Ice",
+    "id": 382886,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flurry",
+    "id": 382888,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flurry",
+    "id": 382889,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stormkeeper",
+    "id": 383009,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Elemental Orbit",
+    "id": 383010,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Poison Cleansing Totem",
+    "id": 383013,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Poison Cleansing",
+    "id": 383014,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Poison Cleansing",
+    "id": 383015,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Purify Spirit",
+    "id": 383016,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Overflowing Shores",
+    "id": 383222,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Overflowing Shores",
+    "id": 383223,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Undercurrent",
+    "id": 383235,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Earth Shield",
+    "id": 383648,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Doom Winds",
+    "id": 384352,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elemental Weapons",
+    "id": 384355,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Converging Storms",
+    "id": 384363,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Static Accumulation",
+    "id": 384411,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Static Accumulation",
+    "id": 384437,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thorim's Invocation",
+    "id": 384444,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lightning Strikes",
+    "id": 384450,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lightning Strikes",
+    "id": 384451,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stormblast",
+    "id": 390287,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unruly Winds",
+    "id": 390288,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ashen Catalyst",
+    "id": 390370,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ashen Catalyst",
+    "id": 390371,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Storm's Wrath",
+    "id": 392352,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Earthen Weapon",
+    "id": 392375,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stormkeeper",
+    "id": 392714,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stormkeeper",
+    "id": 392763,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Healing Stream Totem",
+    "id": 392915,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Healing Stream Totem",
+    "id": 392916,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elemental Blast",
+    "id": 394150,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elemental Blast",
+    "id": 394152,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mana Spring",
+    "id": 395192,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mana Spring",
+    "id": 395197,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Poison Cleansing",
+    "id": 403922,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mana Spring",
+    "id": 404550,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mana Spring",
+    "id": 404551,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Elemental 10.1 Class Set 2pc",
+    "id": 405565,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Elemental 10.1 Class Set 4pc",
+    "id": 405566,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Enhancement 10.1 Class Set 2pc",
+    "id": 405567,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Enhancement 10.1 Class Set 4pc",
+    "id": 405568,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Restoration 10.1 Class Set 2pc",
+    "id": 405569,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Restoration 10.1 Class Set 4pc",
+    "id": 405570,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elemental Weapons",
+    "id": 408390,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tidewaters",
+    "id": 409354,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rainstorm",
+    "id": 409386,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Swelling Rain",
+    "id": 409391,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Earthen Might",
+    "id": 409689,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Volcanic Strength",
+    "id": 409833,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crackling Thunder",
+    "id": 409834,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Primal Fracture",
+    "id": 410018,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stormweaver (desc=PvP Talent)",
+    "id": 410673,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Raging Maelstrom",
+    "id": 410681,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Maelstrom Weapon",
+    "id": 412692,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Initial Shaman",
+    "id": 417374,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Elemental 10.2 Class Set 2pc",
+    "id": 422911,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Elemental 10.2 Class Set 4pc",
+    "id": 422912,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Enhancement 10.2 Class Set 2pc",
+    "id": 422913,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Enhancement 10.2 Class Set 4pc",
+    "id": 422914,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Restoration 10.2 Class Set 2pc",
+    "id": 422915,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Restoration 10.2 Class Set 4pc",
+    "id": 422916,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tidal Reservoir",
+    "id": 424461,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tidal Reservoir",
+    "id": 424464,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Molten Charge",
+    "id": 426578,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Molten Slag",
+    "id": 427729,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cleanse Spirit",
+    "id": 440012,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Elemental Reverb",
+    "id": 443418,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ancient Fellowship",
+    "id": 443423,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spiritwalker's Momentum",
+    "id": 443425,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Earthen Communion",
+    "id": 443441,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Natural Harmony",
+    "id": 443442,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heed My Call",
+    "id": 443444,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Routine Communication",
+    "id": 443445,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Final Calling",
+    "id": 443446,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Maelstrom Supremacy",
+    "id": 443447,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Primordial Capacity",
+    "id": 443448,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Latent Wisdom",
+    "id": 443449,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Call of the Ancestors",
+    "id": 443450,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Offering from Beyond",
+    "id": 443451,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ancestral Swiftness",
+    "id": 443454,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hydrobubble",
+    "id": 444490,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Surging Totem",
+    "id": 444995,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Whirling Elements",
+    "id": 445024,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Totemic Rebound",
+    "id": 445025,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Oversized Totems",
+    "id": 445026,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Swift Recall",
+    "id": 445027,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Imbuement Mastery",
+    "id": 445028,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Amplification Core",
+    "id": 445029,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Oversurge",
+    "id": 445030,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wind Barrier",
+    "id": 445031,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pulse Capacitor",
+    "id": 445032,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Supportive Imbuements",
+    "id": 445033,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lively Totems",
+    "id": 445034,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Splitstream",
+    "id": 445035,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Totemic Coordination",
+    "id": 445036,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Call of the Ancestors",
+    "id": 445624,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nature's Guardian",
+    "id": 445698,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Call of the Ancestors",
+    "id": 447206,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Call of the Ancestors",
+    "id": 447244,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lava Burst",
+    "id": 447419,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chain Lightning",
+    "id": 447425,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elemental Blast",
+    "id": 447427,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ancestral Swiftness",
+    "id": 448861,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ancestral Swiftness",
+    "id": 448866,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nature's Swiftness",
+    "id": 448898,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Call of the Ancestors",
+    "id": 450511,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Call of the Ancestors",
+    "id": 451031,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Call of the Ancestors",
+    "id": 451137,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tempest",
+    "id": 452201,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Whirling Fire",
+    "id": 453405,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Whirling Earth",
+    "id": 453406,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Whirling Water",
+    "id": 453407,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Whirling Air",
+    "id": 453409,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Elemental 11.0 Class Set 2pc",
+    "id": 453684,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Elemental 11.0 Class Set 4pc",
+    "id": 453685,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Restoration 11.0 Class Set 2pc",
+    "id": 453705,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Restoration 11.0 Class Set 4pc",
+    "id": 453706,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Enhancement 11.0 Class Set 4pc",
+    "id": 453708,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tempest",
+    "id": 454009,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tempest",
+    "id": 454015,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stormcaller",
+    "id": 454021,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Electroshock",
+    "id": 454022,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Electroshock",
+    "id": 454025,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rolling Thunder",
+    "id": 454026,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nature's Protection",
+    "id": 454027,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nature's Protection",
+    "id": 454029,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Surging Currents",
+    "id": 454372,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Surging Currents",
+    "id": 454376,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unlimited Power",
+    "id": 454391,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unlimited Power",
+    "id": 454394,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Enhancement 11.0 Class Set 2pc",
+    "id": 454838,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Voltaic Surge",
+    "id": 454919,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Storm Swell",
+    "id": 455088,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Storm Swell",
+    "id": 455089,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arc Discharge",
+    "id": 455096,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arc Discharge",
+    "id": 455097,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Supercharge",
+    "id": 455110,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Conductive Energy",
+    "id": 455123,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Awakening Storms",
+    "id": 455129,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Awakening Storms",
+    "id": 455130,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Earthsurge",
+    "id": 455590,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Surging Totem",
+    "id": 455593,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tremor",
+    "id": 455622,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Surging Totem",
+    "id": 455630,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Surging Totem",
+    "id": 456359,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Amplification Core",
+    "id": 456369,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wind Barrier",
+    "id": 457387,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wind Barrier",
+    "id": 457390,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tidecaller's Guard",
+    "id": 457481,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Tidecaller's Guard",
+    "id": 457493,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tidecaller's Guard",
+    "id": 457496,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Earthsurge",
+    "id": 457566,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Swift Recall",
+    "id": 457676,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Maelstrom Surge",
+    "id": 457727,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Oversized Totems",
+    "id": 458016,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lively Totems",
+    "id": 458101,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Searing Volley",
+    "id": 458147,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Lively Totems",
+    "id": 458221,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chain Heal",
+    "id": 458235,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Surging Bolt",
+    "id": 458266,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Surging Bolt",
+    "id": 458267,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Totemic Rebound",
+    "id": 458269,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chain Heal",
+    "id": 458352,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chain Heal",
+    "id": 458357,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lively Totems",
+    "id": 461242,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman",
+    "id": 462106,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elemental Shaman",
+    "id": 462107,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Enhancement Shaman",
+    "id": 462108,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Restoration Shaman",
+    "id": 462110,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Awakening Storms",
+    "id": 462131,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elemental Resistance",
+    "id": 462368,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spouting Spirits",
+    "id": 462383,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spouting Spirits",
+    "id": 462384,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tidewaters",
+    "id": 462424,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tidewaters",
+    "id": 462425,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "First Ascendant",
+    "id": 462440,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Preeminence",
+    "id": 462443,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reactive Warding",
+    "id": 462454,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reactive Warding",
+    "id": 462477,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reactive Warding",
+    "id": 462479,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Downpour",
+    "id": 462486,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Downpour",
+    "id": 462488,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elemental Resistance",
+    "id": 462568,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Downpour",
+    "id": 462603,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Earthquake",
+    "id": 462620,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Storm Frenzy",
+    "id": 462695,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thunderstrike Ward",
+    "id": 462742,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thunderstrike Ward (desc=Shield Imbue)",
+    "id": 462757,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Thunderstrike Ward (desc=Shield Imbue)",
+    "id": 462760,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Encasing Cold",
+    "id": 462762,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thunderstrike",
+    "id": 462763,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arctic Snowstorm",
+    "id": 462764,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arctic Snowstorm",
+    "id": 462765,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arctic Snowstorm",
+    "id": 462767,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ascending Air",
+    "id": 462791,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Enhanced Imbues",
+    "id": 462796,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jet Stream",
+    "id": 462817,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jet Stream",
+    "id": 462820,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fusion of Elements",
+    "id": 462840,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Skyfury",
+    "id": 462854,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Lightning Capacitor",
+    "id": 462862,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elemental Unity",
+    "id": 462866,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Everlasting Elements",
+    "id": 462867,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lesser Storm Elemental",
+    "id": 462990,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lesser Fire Elemental",
+    "id": 462992,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Lesser Storm Elemental",
+    "id": 462993,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tempest Overload",
+    "id": 463351,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Elemental Blast",
+    "id": 465717,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Windfury",
+    "id": 466440,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Windfury",
+    "id": 466442,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Windfury",
+    "id": 466443,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stormsurge",
+    "id": 466486,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Doom Winds",
+    "id": 466772,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ascendance",
+    "id": 467263,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shattering Strikes",
+    "id": 467274,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sundering",
+    "id": 467283,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lively Totems",
+    "id": 467306,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flametongue Attack",
+    "id": 467386,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flametongue Attack",
+    "id": 467390,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Maelstrom Weapon",
+    "id": 467442,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lightning Conduit",
+    "id": 467778,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lightning Conduit",
+    "id": 468226,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Herald of the Storms",
+    "id": 468571,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Charged Conduit",
+    "id": 468625,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Earthshatter",
+    "id": 468626,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Doom Winds",
+    "id": 469270,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feral Spirit",
+    "id": 469314,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feral Spirit",
+    "id": 469322,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feral Spirit",
+    "id": 469324,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feral Spirit",
+    "id": 469328,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feral Spirit",
+    "id": 469329,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feral Spirit",
+    "id": 469330,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feral Spirit",
+    "id": 469331,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feral Spirit",
+    "id": 469332,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feral Spirit",
+    "id": 469333,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Voltaic Blaze",
+    "id": 470057,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Coalescing Water",
+    "id": 470076,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Coalescing Water",
+    "id": 470077,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flame Shock",
+    "id": 470411,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Stormblast",
+    "id": 470466,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arc Discharge",
+    "id": 470532,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Enhancement Shaman",
+    "id": 1214207,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Restoration 11.1 Class Set 2pc",
+    "id": 1215538,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Insurance!",
+    "id": 1215539,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Insurance!",
+    "id": 1215540,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Restoration 11.1 Class Set 4pc",
+    "id": 1215611,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Elemental 11.1 Class Set 2pc",
+    "id": 1215675,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Elemental 11.1 Class Set 4pc",
+    "id": 1215676,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Enhancement 11.1 Class Set 2pc",
+    "id": 1215710,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Enhancement 11.1 Class Set 4pc",
+    "id": 1215712,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Therazane's Resilience",
+    "id": 1217622,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Primordial Storm",
+    "id": 1218047,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Primordial Storm",
+    "id": 1218090,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Primordial Fire",
+    "id": 1218113,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Primordial Frost",
+    "id": 1218116,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Primordial Lightning",
+    "id": 1218118,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Primordial Storm",
+    "id": 1218125,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jackpot!",
+    "id": 1218612,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Winning Streak!",
+    "id": 1218616,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fate Reversal",
+    "id": 1219323,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feral Lunge",
+    "id": 1219343,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feral Lunge",
+    "id": 1219348,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Maelstrom Weapon",
+    "id": 1219440,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thorim's Invocation",
+    "id": 1219461,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ascendance",
+    "id": 1219480,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Storm Lunge",
+    "id": 1221246,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Surging Totem",
+    "id": 1221347,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Surging Totem",
+    "id": 1221348,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Electrostatic Wager",
+    "id": 1223332,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Electrostatic Wager",
+    "id": 1223410,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Single-Button Assistant",
+    "id": 1229376,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Elemental Shaman",
+    "id": 1231772,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Totemic 11.2 Class Set 4pc",
+    "id": 1236411,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Awakening Storms",
+    "id": 1238133,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Call of the Ancestors",
+    "id": 1238269,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elemental Overflow",
+    "id": 1239170,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Call of Al'Akir (desc=PvP Talent)",
+    "id": 1246131,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Windfury Attack",
+    "id": 1247053,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elemental Tempo",
+    "id": 1250364,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Overcharge",
+    "id": 1251026,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stormbind",
+    "id": 1251059,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stormbind",
+    "id": 1251069,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crash Lightning",
+    "id": 1252415,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crash Lightning (Unleashed)",
+    "id": 1252431,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crash Lightning",
+    "id": 1252433,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Calm Waters",
+    "id": 1252841,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soothing Rain",
+    "id": 1252874,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Double Dip",
+    "id": 1252882,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Water Expulsion",
+    "id": 1253014,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crashing Waves",
+    "id": 1253090,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Current Control",
+    "id": 1253093,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Quickstream",
+    "id": 1253099,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Earthweaver",
+    "id": 1254210,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rip Current",
+    "id": 1254251,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Restoration Shaman",
+    "id": 1256945,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Molten Wrath",
+    "id": 1258843,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Encasing Cold",
+    "id": 1258862,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Storm Infusion",
+    "id": 1258889,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elemental Resonance",
+    "id": 1258895,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tectonic Collapse",
+    "id": 1258899,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Inferno Arc",
+    "id": 1259047,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Voltaic Blaze",
+    "id": 1259101,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Purging Flames",
+    "id": 1259471,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Purging Flames",
+    "id": 1259491,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Totemic Momentum",
+    "id": 1260644,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fire Nova",
+    "id": 1260666,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elementalist",
+    "id": 1260667,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Primal Catalyst",
+    "id": 1260874,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Primal Catalyst",
+    "id": 1260880,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thunder Capacitor",
+    "id": 1262635,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Storm Unleashed",
+    "id": 1262713,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Storm Unleashed",
+    "id": 1262761,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Storm Unleashed",
+    "id": 1262830,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elemental Attunement",
+    "id": 1263288,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Descending Skies",
+    "id": 1264688,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Natural Gift",
+    "id": 1264691,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stormwell",
+    "id": 1264762,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Elemental 12.0 Class Set 2pc",
+    "id": 1264862,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Elemental 12.0 Class Set 4pc",
+    "id": 1264863,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Enhancement 12.0 Class Set 2pc",
+    "id": 1264864,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Enhancement 12.0 Class Set 4pc",
+    "id": 1264865,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Restoration 12.0 Class Set 2pc",
+    "id": 1264866,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Restoration 12.0 Class Set 4pc",
+    "id": 1264867,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stormstream Totem",
+    "id": 1267016,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stormstream Totem",
+    "id": 1267068,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Stormstream Totem",
+    "id": 1267089,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stormstream Totem",
+    "id": 1267093,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stormstream Totem",
+    "id": 1267120,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stormstream Totem",
+    "id": 1267745,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stormstream Totem",
+    "id": 1267765,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stormswell",
+    "id": 1268684,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crackling Fury",
+    "id": 1269215,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Frost 12.0 Class Set 4pc",
+    "id": 1269322,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Amped Up",
+    "id": 1269360,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Path of the Seer",
+    "id": 1269364,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feedback Loop",
+    "id": 1270061,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feedback Loop",
+    "id": 1270062,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feedback Loop",
+    "id": 1270064,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Instinctive Imbuements",
+    "id": 1270350,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spiritual Awakening",
+    "id": 1270375,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ancestral Influence",
+    "id": 1270446,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Windspeaker",
+    "id": 1270447,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mystic Knowledge",
+    "id": 1270450,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mystic Knowledge",
+    "id": 1270453,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Earthen Accord",
+    "id": 1271104,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Boon of the Water Ascendant",
+    "id": 1271192,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Skyfury Highlight",
+    "id": 1271904,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thunderous Velocity",
+    "id": 1272101,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lava Flows",
+    "id": 1273485,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Primordial Bond",
+    "id": 1279819,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman - Midnight PrePatch - 11.2 Class Set 2pc",
+    "id": 1283655,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman - Midnight PrePatch - 11.2 Class Set 4pc",
+    "id": 1283656,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman - Midnight PrePatch - 11.2 Class Set 2pc - Healing",
+    "id": 1283657,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman - Midnight PrePatch - 11.2 Class Set 4pc - Healing",
+    "id": 1283658,
+    "gcd": 0,
+    "castTime": 0
+  }
+]

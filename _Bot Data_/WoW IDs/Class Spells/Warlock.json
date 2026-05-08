@@ -1,0 +1,4858 @@
+﻿[
+  {
+    "name": "Eye of Kilrogg",
+    "id": 126,
+    "gcd": 1.5,
+    "castTime": 2,
+    "isChanneled": true,
+    "channelTime": 45
+  },
+  {
+    "name": "Corruption",
+    "id": 172,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Immolate",
+    "id": 348,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Shadow Bolt",
+    "id": 686,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Summon Imp (desc=Summon)",
+    "id": 688,
+    "gcd": 1.5,
+    "castTime": 6
+  },
+  {
+    "name": "Summon Felhunter (desc=Summon)",
+    "id": 691,
+    "gcd": 1.5,
+    "castTime": 6
+  },
+  {
+    "name": "Summon Voidwalker (desc=Summon)",
+    "id": 697,
+    "gcd": 1.5,
+    "castTime": 6
+  },
+  {
+    "name": "Ritual of Summoning",
+    "id": 698,
+    "gcd": 1.5,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 120
+  },
+  {
+    "name": "Curse of Weakness",
+    "id": 702,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Banish",
+    "id": 710,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Agony",
+    "id": 980,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Subjugate Demon",
+    "id": 1098,
+    "gcd": 1.5,
+    "castTime": 3
+  },
+  {
+    "name": "Summon Infernal (desc=Guardian)",
+    "id": 1122,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Curse of Tongues",
+    "id": 1714,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Use Soulstone",
+    "id": 3026,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Firebolt (desc=Basic Attack)",
+    "id": 3110,
+    "gcd": 0.5,
+    "castTime": 1.75
+  },
+  {
+    "name": "Consuming Shadows (desc=Basic Attack)",
+    "id": 3716,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Shoot",
+    "id": 5019,
+    "gcd": 1.5,
+    "castTime": 0.5
+  },
+  {
+    "name": "Howl of Terror",
+    "id": 5484,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Rain of Fire",
+    "id": 5740,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Fear",
+    "id": 5782,
+    "gcd": 1.5,
+    "castTime": 1.7
+  },
+  {
+    "name": "Create Healthstone",
+    "id": 6201,
+    "gcd": 1.5,
+    "castTime": 3
+  },
+  {
+    "name": "Soulstone",
+    "id": 6203,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Healthstone",
+    "id": 6262,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Fire",
+    "id": 6353,
+    "gcd": 1.5,
+    "castTime": 3
+  },
+  {
+    "name": "Seduction (desc=Command Demon Ability)",
+    "id": 6358,
+    "gcd": 0,
+    "castTime": 1.7,
+    "isChanneled": true,
+    "channelTime": 30
+  },
+  {
+    "name": "Whiplash (desc=Special Ability)",
+    "id": 6360,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mortal Coil",
+    "id": 6789,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Lash of Pain (desc=Basic Attack)",
+    "id": 7814,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Lesser Invisibility (desc=Special Ability)",
+    "id": 7870,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Suffering (desc=Special Ability)",
+    "id": 17735,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadow Bulwark (desc=Command Demon Ability)",
+    "id": 17767,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Shadowburn",
+    "id": 17877,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Agony",
+    "id": 17941,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Conflagrate",
+    "id": 17962,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Immolation",
+    "id": 19483,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Devour Magic (desc=Special Ability)",
+    "id": 19505,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spell Lock (desc=Command Demon Ability)",
+    "id": 19647,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Devour Magic",
+    "id": 19658,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Immolation",
+    "id": 20153,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soulstone",
+    "id": 20707,
+    "gcd": 1.5,
+    "castTime": 3
+  },
+  {
+    "name": "Infernal Awakening",
+    "id": 22703,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Create Healthstone",
+    "id": 23517,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Seed of Corruption",
+    "id": 27243,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Seed of Corruption",
+    "id": 27285,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadowburn",
+    "id": 29341,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Incinerate",
+    "id": 29722,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Unstable Affliction",
+    "id": 30108,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Summon Felguard (desc=Summon)",
+    "id": 30146,
+    "gcd": 1.5,
+    "castTime": 6
+  },
+  {
+    "name": "Pursuit (desc=Special Ability)",
+    "id": 30151,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Pursuit",
+    "id": 30153,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Legion Strike (desc=Basic Attack)",
+    "id": 30213,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Shadowfury",
+    "id": 30283,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Unstable Affliction",
+    "id": 31117,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Avoidance (desc=Passive)",
+    "id": 32233,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rain of Fire",
+    "id": 42223,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Seed of Corruption",
+    "id": 43991,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Haunt",
+    "id": 48181,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Shadow Bite (desc=Basic Attack)",
+    "id": 54049,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Horrify",
+    "id": 56244,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glyph of Felguard (desc=Demonology)",
+    "id": 56246,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Felguard",
+    "id": 56285,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Glyph of Soulwell",
+    "id": 58094,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soulwell",
+    "id": 58275,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Siphon Life",
+    "id": 63106,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Glyph of Crimson Banish",
+    "id": 63312,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crimson Banish",
+    "id": 63943,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Mastery: Potent Afflictions",
+    "id": 77215,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mastery: Master Demonologist",
+    "id": 77219,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mastery: Chaotic Energies",
+    "id": 77220,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Havoc",
+    "id": 80240,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Doom Bolt",
+    "id": 85692,
+    "gcd": 0,
+    "castTime": 3
+  },
+  {
+    "name": "Hand of Gul'dan",
+    "id": 86040,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Felstorm (desc=Special Ability)",
+    "id": 89751,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Felstorm",
+    "id": 89753,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Axe Toss (desc=Special Ability)",
+    "id": 89766,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flee (desc=Special Ability)",
+    "id": 89792,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Singe Magic (desc=Command Demon Ability)",
+    "id": 89808,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flee (desc=Special Ability)",
+    "id": 93282,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Control Demon",
+    "id": 93375,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soulstone Resurrection",
+    "id": 95750,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "The Codex of Xerrath",
+    "id": 101508,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Call Dreadstalkers",
+    "id": 104316,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Wild Imp",
+    "id": 104317,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fel Firebolt (desc=Basic Attack)",
+    "id": 104318,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Unending Resolve",
+    "id": 104773,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hand of Gul'dan",
+    "id": 105174,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Soul Leech (desc=Talent)",
+    "id": 108366,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Leech",
+    "id": 108370,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mortal Coil (desc=Talent)",
+    "id": 108396,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Link",
+    "id": 108415,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dark Pact",
+    "id": 108416,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Link",
+    "id": 108446,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Link",
+    "id": 108447,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Grimoire of Service",
+    "id": 108501,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Grimoire of Sacrifice",
+    "id": 108503,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Nightfall",
+    "id": 108558,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Burning Rush",
+    "id": 111400,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Infernal (desc=Guardian)",
+    "id": 111685,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Gateway",
+    "id": 111771,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Grimoire: Imp (desc=Summon)",
+    "id": 111859,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Grimoire: Voidwalker (desc=Summon)",
+    "id": 111895,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Grimoire: Succubus (desc=Summon)",
+    "id": 111896,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Grimoire: Felhunter (desc=Summon)",
+    "id": 111897,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Grimoire: Felguard (desc=Summon)",
+    "id": 111898,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Threatening Presence (desc=Special Ability)",
+    "id": 112042,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Gateway",
+    "id": 113886,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Gateway",
+    "id": 113890,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Gateway",
+    "id": 113895,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Gateway",
+    "id": 113896,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Gateway",
+    "id": 113904,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Gateway",
+    "id": 113942,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chaos Bolt",
+    "id": 116858,
+    "gcd": 1.5,
+    "castTime": 3
+  },
+  {
+    "name": "Void Reflexes",
+    "id": 117225,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Backdraft",
+    "id": 117828,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fear",
+    "id": 118699,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Command Demon",
+    "id": 119898,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Singe Magic (desc=Command Demon Ability)",
+    "id": 119905,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadow Bulwark (desc=Command Demon Ability)",
+    "id": 119907,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Seduction (desc=Command Demon Ability)",
+    "id": 119909,
+    "gcd": 0,
+    "castTime": 1.7
+  },
+  {
+    "name": "Spell Lock (desc=Command Demon Ability)",
+    "id": 119910,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Axe Toss (desc=Command Demon Ability)",
+    "id": 119914,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Gateway",
+    "id": 120729,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fear",
+    "id": 130616,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Threatening Presence (desc=Special Ability)",
+    "id": 134477,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock",
+    "id": 137042,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Affliction Warlock",
+    "id": 137043,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonology Warlock",
+    "id": 137044,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Destruction Warlock",
+    "id": 137046,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Corruption",
+    "id": 146739,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Grimoire of Supremacy",
+    "id": 152107,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cataclysm",
+    "id": 152108,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Immolate",
+    "id": 157736,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock",
+    "id": 157903,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cripple",
+    "id": 170995,
+    "gcd": 1.5,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 30
+  },
+  {
+    "name": "Burning Presence (desc=Special Ability)",
+    "id": 171011,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Seethe (desc=Special Ability)",
+    "id": 171014,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meteor Strike",
+    "id": 171017,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Torch Magic (desc=Special Ability)",
+    "id": 171021,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadow Lock (desc=Special Ability)",
+    "id": 171138,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadow Lock (desc=Special Ability)",
+    "id": 171140,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meteor Strike (desc=Special Ability)",
+    "id": 171152,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meteor Strike (desc=Command Demon Ability)",
+    "id": 171156,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Avoidance (desc=Passive)",
+    "id": 190019,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Call Dreadstalkers",
+    "id": 193331,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Call Dreadstalkers",
+    "id": 193332,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Immolate",
+    "id": 193540,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Immolate",
+    "id": 193541,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadow Bolt",
+    "id": 194192,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Grimoire of Sacrifice",
+    "id": 196099,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Grimoire of Sacrifice",
+    "id": 196100,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Absolute Corruption",
+    "id": 196103,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sow the Seeds",
+    "id": 196226,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadowy Inspiration",
+    "id": 196269,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Call Dreadstalkers",
+    "id": 196273,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Call Dreadstalkers",
+    "id": 196274,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Implosion",
+    "id": 196277,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Implosion",
+    "id": 196278,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Call Dreadstalkers",
+    "id": 196281,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hand of Gul'dan",
+    "id": 196282,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hand of Doom",
+    "id": 196283,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unstable Affliction",
+    "id": 196364,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Backdraft",
+    "id": 196406,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fire and Brimstone",
+    "id": 196408,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Channel Demonfire",
+    "id": 196447,
+    "gcd": 1.5,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 3
+  },
+  {
+    "name": "Channel Demonfire",
+    "id": 196448,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Channel Demonfire",
+    "id": 196449,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadowy Inspiration",
+    "id": 196606,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Drain Soul",
+    "id": 198590,
+    "gcd": 1.5,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 5
+  },
+  {
+    "name": "Bane of Havoc (desc=PvP Talent)",
+    "id": 200546,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Reverse Entropy",
+    "id": 205148,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Effigy",
+    "id": 205178,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Phantom Singularity",
+    "id": 205179,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Darkglare",
+    "id": 205180,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Dreadbite",
+    "id": 205196,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Eye Beam",
+    "id": 205231,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Phantom Singularity",
+    "id": 205246,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Effigy",
+    "id": 205247,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Effigy",
+    "id": 205260,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Phantom Singularity",
+    "id": 205276,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Drain Soul",
+    "id": 205292,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nether Ward (desc=PvP Talent)",
+    "id": 212295,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rot and Decay (desc=PvP Talent)",
+    "id": 212371,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Grimoire of Service",
+    "id": 216187,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demon Skin",
+    "id": 219272,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Implosion",
+    "id": 225590,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Totem Mastery",
+    "id": 226772,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Immolate",
+    "id": 228312,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unstable Affliction (desc=Rank 2)",
+    "id": 231791,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Conflagrate",
+    "id": 231793,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soulstone (desc=Rank 2)",
+    "id": 231811,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unstable Affliction",
+    "id": 233490,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unstable Affliction",
+    "id": 233496,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unstable Affliction",
+    "id": 233497,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unstable Affliction",
+    "id": 233498,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unstable Affliction",
+    "id": 233499,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Drain Life",
+    "id": 234153,
+    "gcd": 1.5,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 5
+  },
+  {
+    "name": "Death's Embrace",
+    "id": 234876,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Incinerate",
+    "id": 244670,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Conflagrate",
+    "id": 245330,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadowburn",
+    "id": 245731,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Shards",
+    "id": 246985,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gateway Mastery (desc=PvP Talent)",
+    "id": 248855,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empowered Healthstone",
+    "id": 262031,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empowered Healthstone",
+    "id": 262080,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Creeping Death",
+    "id": 264000,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dreadlash",
+    "id": 264078,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Power Siphon",
+    "id": 264130,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Core",
+    "id": 264173,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonbolt",
+    "id": 264178,
+    "gcd": 1.5,
+    "castTime": 4.5
+  },
+  {
+    "name": "Embers",
+    "id": 264364,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Burning Ember",
+    "id": 264365,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nightfall",
+    "id": 264571,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadow Shield",
+    "id": 264993,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Demonic Tyrant",
+    "id": 265187,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Demonic Power",
+    "id": 265273,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonfire Blast",
+    "id": 265279,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Soulfire",
+    "id": 265321,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Reverse Entropy",
+    "id": 266030,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rain of Chaos",
+    "id": 266086,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rain of Chaos",
+    "id": 266087,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Internal Combustion",
+    "id": 266134,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Internal Combustion",
+    "id": 266136,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Core",
+    "id": 267102,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flashover",
+    "id": 267115,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wicked Maw",
+    "id": 267170,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sacrificed Souls",
+    "id": 267214,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Consumption",
+    "id": 267215,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Inner Demons",
+    "id": 267216,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nether Portal",
+    "id": 267218,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soulfire",
+    "id": 267549,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Strike",
+    "id": 267964,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Consumption",
+    "id": 267971,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Consumption",
+    "id": 267972,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Prince Malchezaar",
+    "id": 267986,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Illidari Satyr",
+    "id": 267987,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Vicious Hellhound",
+    "id": 267988,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Eyes of Gul'dan",
+    "id": 267989,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Void Terror",
+    "id": 267991,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Bilescourge",
+    "id": 267992,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Shivarra",
+    "id": 267994,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Wrathguard",
+    "id": 267995,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Darkhound",
+    "id": 267996,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bile Spit",
+    "id": 267997,
+    "gcd": 1,
+    "castTime": 2
+  },
+  {
+    "name": "Headbutt",
+    "id": 267999,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Ur'zul",
+    "id": 268001,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Circle",
+    "id": 268358,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Implosion",
+    "id": 268583,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Core",
+    "id": 270171,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Core",
+    "id": 270176,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hand of Gul'dan",
+    "id": 270215,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonfire",
+    "id": 270481,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Wicked Maw",
+    "id": 270569,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dreadbite",
+    "id": 271971,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadow Slash",
+    "id": 272012,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Demon Fangs",
+    "id": 272013,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Eye of Gul'dan",
+    "id": 272131,
+    "gcd": 1,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 15
+  },
+  {
+    "name": "Double Breath",
+    "id": 272156,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Toxic Bile",
+    "id": 272167,
+    "gcd": 1,
+    "castTime": 1.5
+  },
+  {
+    "name": "Multi-Slash",
+    "id": 272172,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Overhead Assault",
+    "id": 272432,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Fel Bite",
+    "id": 272435,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Many Faced Bite",
+    "id": 272439,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Sacrificed Souls",
+    "id": 272591,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vile Taint",
+    "id": 278350,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Wild Imp",
+    "id": 279910,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonbolt",
+    "id": 280127,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonbolt",
+    "id": 280381,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Channel Demonfire",
+    "id": 281362,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Fire",
+    "id": 281440,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Fire",
+    "id": 281490,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Power",
+    "id": 281870,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demon Armor",
+    "id": 285933,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Embrace",
+    "id": 288843,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Scouring Tithe (desc=Kyrian)",
+    "id": 312321,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Scouring Tithe (desc=Kyrian)",
+    "id": 312379,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Scouring Tithe (desc=Kyrian)",
+    "id": 312397,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Scouring Tithe (desc=Kyrian)",
+    "id": 312420,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unstable Affliction",
+    "id": 316099,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Strength of Will",
+    "id": 317138,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Impending Catastrophe (desc=Venthyr)",
+    "id": 321792,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Impending Catastrophe",
+    "id": 322167,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Impending Catastrophe",
+    "id": 322170,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Malefic Rapture",
+    "id": 324536,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Malefic Rapture",
+    "id": 324540,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Decimating Bolt (desc=Necrolord)",
+    "id": 325289,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Decimating Bolt (desc=Necrolord)",
+    "id": 325299,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Rot (desc=Night Fae)",
+    "id": 325640,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Decimating Bolt (desc=Necrolord)",
+    "id": 327059,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Decimating Bolt (desc=Necrolord)",
+    "id": 327070,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Decimating Bolt (desc=Necrolord)",
+    "id": 327072,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Rot (desc=Night Fae)",
+    "id": 331623,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fel Domination",
+    "id": 333889,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Curse of Exhaustion",
+    "id": 334275,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Inevitable Demise",
+    "id": 334319,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Inevitable Demise",
+    "id": 334320,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Inevitable Demise",
+    "id": 334463,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Power Siphon",
+    "id": 334581,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soulbound Tyrant",
+    "id": 334585,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fel Firebolt (desc=Rank 2)",
+    "id": 334591,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Fire",
+    "id": 335004,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Infernal (desc=Guardian)",
+    "id": 335236,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tyrant's Soul",
+    "id": 339766,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tyrant's Soul",
+    "id": 339784,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ashen Remains",
+    "id": 339892,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Combusting Engine",
+    "id": 339986,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ritual of Doom",
+    "id": 342601,
+    "gcd": 1.5,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 180
+  },
+  {
+    "name": "Fear (desc=Rank 2)",
+    "id": 342914,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Create Healthstone",
+    "id": 344026,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ritual Subjugation",
+    "id": 344323,
+    "gcd": 0,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 5
+  },
+  {
+    "name": "Axe Toss (desc=Special Ability)",
+    "id": 347008,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Call Dreadstalkers",
+    "id": 364750,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Call Dreadstalkers",
+    "id": 364751,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Sayaad",
+    "id": 366222,
+    "gcd": 1.5,
+    "castTime": 6
+  },
+  {
+    "name": "Summon Blasphemy (desc=Guardian)",
+    "id": 367679,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Blasphemy (desc=Guardian)",
+    "id": 367680,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blasphemous Existence",
+    "id": 367819,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Deliberate Corruption",
+    "id": 367831,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Implosion",
+    "id": 370371,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Time Spiral",
+    "id": 375257,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Teachings of the Black Harvest",
+    "id": 385881,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soulburn",
+    "id": 385899,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fiendish Stride",
+    "id": 386110,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fel Pact",
+    "id": 386113,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fel Armor",
+    "id": 386124,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Knowledge",
+    "id": 386185,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Carnivorous Stalkers",
+    "id": 386194,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Carnivorous Stalkers",
+    "id": 386195,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Fortitude",
+    "id": 386617,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Desperate Pact",
+    "id": 386619,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lifeblood",
+    "id": 386646,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lifeblood",
+    "id": 386647,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nightmare",
+    "id": 386648,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Greater Banish",
+    "id": 386651,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dark Accord",
+    "id": 386659,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ichor of Devils",
+    "id": 386664,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frequent Donor",
+    "id": 386686,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pact of Gluttony",
+    "id": 386689,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fel Resilience",
+    "id": 386869,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vile Taint",
+    "id": 386931,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Withering Bolt",
+    "id": 386976,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sacrolash's Dark Strike",
+    "id": 386986,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Rot",
+    "id": 386997,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Soul Rot (desc=Shadowlands)",
+    "id": 386998,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tormented Crescendo",
+    "id": 387075,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tormented Crescendo",
+    "id": 387079,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pyrogenics",
+    "id": 387095,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pyrogenics",
+    "id": 387096,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ruin",
+    "id": 387103,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Conflagration of Chaos",
+    "id": 387108,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Conflagration of Chaos",
+    "id": 387109,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Conflagration of Chaos",
+    "id": 387110,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ritual of Ruin",
+    "id": 387156,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ritual of Ruin",
+    "id": 387157,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Impending Ruin",
+    "id": 387158,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Raging Demonfire",
+    "id": 387166,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Diabolic Embers",
+    "id": 387173,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ashen Remains",
+    "id": 387252,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flashpoint",
+    "id": 387259,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flashpoint",
+    "id": 387263,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chaos Incarnate",
+    "id": 387275,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Haunted Soul",
+    "id": 387301,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Haunted Soul",
+    "id": 387310,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crashing Chaos",
+    "id": 387355,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crashing Chaos",
+    "id": 387356,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Backlash",
+    "id": 387384,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Backlash",
+    "id": 387385,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dread Calling",
+    "id": 387391,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dread Calling",
+    "id": 387392,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dread Calling",
+    "id": 387393,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Madness of the Azj'Aqir",
+    "id": 387400,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Madness of the Azj'Aqir",
+    "id": 387409,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Madness of the Azj'Aqir",
+    "id": 387413,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Madness of the Azj'Aqir",
+    "id": 387414,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Antoran Armaments",
+    "id": 387494,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Antoran Armaments",
+    "id": 387496,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Cleave",
+    "id": 387502,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mayhem",
+    "id": 387506,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ner'zhul's Volition",
+    "id": 387526,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Infernal Command",
+    "id": 387549,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Infernal Command",
+    "id": 387552,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soulburn",
+    "id": 387626,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soulburn: Drain Life",
+    "id": 387630,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soulburn: Demonic Circle",
+    "id": 387633,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soulburn: Healthstone",
+    "id": 387636,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soulburn: Health Funnel",
+    "id": 387641,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fel Armor",
+    "id": 387846,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fel Armor",
+    "id": 387847,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dimensional Rift",
+    "id": 387976,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Unstable Tear",
+    "id": 387979,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chaos Barrage",
+    "id": 387984,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chaos Barrage",
+    "id": 387985,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chaos Barrage",
+    "id": 387986,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Drain Soul",
+    "id": 388667,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Explosive Potential",
+    "id": 388827,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Scalding Flames",
+    "id": 388832,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fel Synergy",
+    "id": 389367,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fel Synergy",
+    "id": 389372,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Resilience",
+    "id": 389590,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Abyss Walker",
+    "id": 389609,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Abyss Walker",
+    "id": 389614,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gorefiend's Resolve",
+    "id": 389623,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Grim Reach",
+    "id": 389992,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Grim Reach",
+    "id": 389996,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Grim Reach",
+    "id": 390097,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frantic Momentum",
+    "id": 391876,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mayhem",
+    "id": 394087,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadowy Tear",
+    "id": 394235,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadow Barrage",
+    "id": 394237,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadow Bolt",
+    "id": 394238,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chaos Tear",
+    "id": 394243,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chaos Bolt",
+    "id": 394244,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chaos Bolt",
+    "id": 394246,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soulburn: Drain Life",
+    "id": 394810,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Affliction 10.1 Class Set 2pc",
+    "id": 405571,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Affliction 10.1 Class Set 4pc",
+    "id": 405572,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Demonology 10.1 Class Set 2pc",
+    "id": 405573,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Demonology 10.1 Class Set 4pc",
+    "id": 405574,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Destruction 10.1 Class Set 2pc",
+    "id": 405575,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Destruction 10.1 Class Set 4pc",
+    "id": 405576,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Immutable Hatred",
+    "id": 405670,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Immutable Hatred",
+    "id": 405681,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Immutable Hatred",
+    "id": 405685,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sargerei Technique",
+    "id": 405955,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Umbrafire Embers",
+    "id": 409652,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fury of Ruvaraad",
+    "id": 409708,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rite of Ruvaraad",
+    "id": 409725,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Infirmity",
+    "id": 409765,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Channel Demonfire",
+    "id": 409889,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Channel Demonfire",
+    "id": 409890,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lord Banehollow's Soulstone (desc=Warlock)",
+    "id": 416219,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lord Banehollow's Soulstone",
+    "id": 416229,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Imp-erator",
+    "id": 416230,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Xavius' Gambit",
+    "id": 416615,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lord Banehollow's Soulstone (desc=Warlock)",
+    "id": 416694,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crashing Chaos",
+    "id": 417234,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crashing Chaos",
+    "id": 417282,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Malefic Rapture",
+    "id": 417875,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Malefic Rapture",
+    "id": 418015,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ner'zhul's Volition",
+    "id": 421970,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Affliction 10.2 Class Set 2pc",
+    "id": 422917,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Affliction 10.2 Class Set 4pc",
+    "id": 422918,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Demonology 10.2 Class Set 2pc",
+    "id": 422919,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Demonology 10.2 Class Set 4pc",
+    "id": 422920,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Destruction 10.2 Class Set 2pc",
+    "id": 422921,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Destruction 10.2 Class Set 4pc",
+    "id": 422922,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Doom Brand",
+    "id": 423583,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Doom Brand",
+    "id": 423584,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Doomfiend",
+    "id": 423585,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Doom Bolt Volley",
+    "id": 423734,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Umbrafire Kindling",
+    "id": 423765,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flame Rift",
+    "id": 423874,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Searing Bolts",
+    "id": 423885,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Searing Bolt",
+    "id": 423886,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demoniac",
+    "id": 426115,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Doom Brand",
+    "id": 427216,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dimensional Cinder",
+    "id": 427285,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fel Invocation",
+    "id": 428351,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spiteful Reconstitution",
+    "id": 428394,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Infernal Presence",
+    "id": 428453,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Infernal Presence",
+    "id": 428455,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Diabolic Ritual",
+    "id": 428514,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cloven Souls",
+    "id": 428517,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Secrets of the Coven",
+    "id": 428518,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ruination",
+    "id": 428522,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Art: Overlord",
+    "id": 428524,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Mother of Chaos",
+    "id": 428565,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Overlord",
+    "id": 428571,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul-Etched Circles",
+    "id": 428911,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Annihilan's Bellow",
+    "id": 429072,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Infernal Vitality",
+    "id": 429115,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Infernal Bulwark",
+    "id": 429130,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Abyssal Dominion",
+    "id": 429581,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flames of Xoroth",
+    "id": 429657,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Touch of Rancora",
+    "id": 429893,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gloom of Nathreza",
+    "id": 429899,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cruelty of Kerxan",
+    "id": 429902,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Infernal Machine",
+    "id": 429917,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Malevolence",
+    "id": 430014,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Diabolic Ritual: Overlord",
+    "id": 431944,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spawn",
+    "id": 432105,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wicked Cleave",
+    "id": 432120,
+    "gcd": 0,
+    "castTime": 1
+  },
+  {
+    "name": "Wicked Cleave",
+    "id": 432220,
+    "gcd": 0.75,
+    "castTime": 0
+  },
+  {
+    "name": "Spawn",
+    "id": 432484,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chaos Salvo",
+    "id": 432569,
+    "gcd": 0,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 4
+  },
+  {
+    "name": "Chaos Salvo",
+    "id": 432592,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chaos Salvo",
+    "id": 432596,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Art: Mother of Chaos",
+    "id": 432794,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Art: Pit Lord",
+    "id": 432795,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Diabolic Ritual: Mother of Chaos",
+    "id": 432815,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Diabolic Ritual: Pit Lord",
+    "id": 432816,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ruination",
+    "id": 433885,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Infernal Bolt",
+    "id": 433891,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Pit Lord",
+    "id": 434400,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Felseeker",
+    "id": 434404,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cloven Soul",
+    "id": 434424,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Infernal Bolt",
+    "id": 434506,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Infernal Vitality",
+    "id": 434559,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Infernal Bulwark",
+    "id": 434561,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Overfiend",
+    "id": 434587,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chaos Bolt",
+    "id": 434589,
+    "gcd": 0,
+    "castTime": 3
+  },
+  {
+    "name": "Ruination",
+    "id": 434635,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Ruination",
+    "id": 434636,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Diabolic Imp",
+    "id": 438822,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Diabolic Bolt (desc=Basic Attack)",
+    "id": 438823,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Felseeker",
+    "id": 438973,
+    "gcd": 0,
+    "castTime": 1.5,
+    "isChanneled": true,
+    "channelTime": 1.5
+  },
+  {
+    "name": "Xalan's Cruelty",
+    "id": 440040,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blackened Soul",
+    "id": 440043,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Xalan's Ferocity",
+    "id": 440044,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mark of Peroth'arn",
+    "id": 440045,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mark of Xavius",
+    "id": 440046,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hatefury Rituals",
+    "id": 440048,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bleakheart Tactics",
+    "id": 440051,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Seeds of Their Demise",
+    "id": 440055,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Curse of the Satyr",
+    "id": 440057,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Aura of Enfeeblement",
+    "id": 440059,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Zevrim's Resilience",
+    "id": 440065,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Illhoof's Design",
+    "id": 440070,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Will of Xalan",
+    "id": 441531,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blackened Soul",
+    "id": 441638,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Malevolence",
+    "id": 442708,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Malevolence",
+    "id": 442726,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Curse of the Satyr",
+    "id": 442804,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Malevolence",
+    "id": 443371,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wither",
+    "id": 445465,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wither",
+    "id": 445468,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Wither",
+    "id": 445474,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blackened Soul",
+    "id": 445731,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blackened Soul",
+    "id": 445736,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Malevolence",
+    "id": 446285,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Aura of Enfeeblement",
+    "id": 449587,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Soul",
+    "id": 449614,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Necrolyte Teachings",
+    "id": 449620,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Anathema",
+    "id": 449624,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demoniac's Fervor",
+    "id": 449629,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wicked Reaping",
+    "id": 449631,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Quietus",
+    "id": 449634,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sataiel's Volition",
+    "id": 449637,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadow of Death",
+    "id": 449638,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gorebound Fortitude",
+    "id": 449701,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Friends In Dark Places",
+    "id": 449703,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shared Fate",
+    "id": 449704,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feast of Souls",
+    "id": 449706,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Eternal Servitude",
+    "id": 449707,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Succulent Soul",
+    "id": 449793,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Soul",
+    "id": 449801,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Soul",
+    "id": 449811,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wicked Reaping",
+    "id": 449826,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadow of Death",
+    "id": 449858,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Demonic Tactics",
+    "id": 449961,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Soul",
+    "id": 450510,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Anathema",
+    "id": 450538,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Necrolyte Teachings",
+    "id": 450563,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shared Fate",
+    "id": 450591,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shared Fate",
+    "id": 450593,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Marked Soul",
+    "id": 450629,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shared Fate",
+    "id": 450630,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feast of Souls",
+    "id": 450752,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Swift Artifice",
+    "id": 452902,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Healthstone",
+    "id": 452930,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Create Demonic Healthstone",
+    "id": 452982,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Siphon Life",
+    "id": 452999,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Siphon Life",
+    "id": 453000,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Shadow Bolt",
+    "id": 453080,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Malediction",
+    "id": 453087,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Contagion",
+    "id": 453096,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summoner's Embrace",
+    "id": 453105,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cunning Cruelty",
+    "id": 453172,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadowbolt Volley",
+    "id": 453176,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Affliction 11.0 Class Set 4pc",
+    "id": 453642,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Affliction 11.0 Class Set 2pc",
+    "id": 453643,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Demonology 11.0 Class Set 2pc",
+    "id": 453644,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Demonology 11.0 Class Set 4pc",
+    "id": 453645,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Destruction 11.0 Class Set 4pc",
+    "id": 453646,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Destruction 11.0 Class Set 2pc",
+    "id": 453647,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flametouched",
+    "id": 453699,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ferocity of F'harg",
+    "id": 453704,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rune of Shadows",
+    "id": 453744,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Demonic Tactics",
+    "id": 453800,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Brutality",
+    "id": 453908,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Devastation",
+    "id": 454735,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Emberstorm",
+    "id": 454744,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mark of Shatug",
+    "id": 455449,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mark of F'harg",
+    "id": 455450,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Gloomhound",
+    "id": 455465,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Charhound",
+    "id": 455476,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gloom Slash",
+    "id": 455489,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gloom Slash",
+    "id": 455491,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empowered Legion Strike",
+    "id": 455647,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Echo of the Azj'Aqir",
+    "id": 455674,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Umbral Lattice",
+    "id": 455679,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Infernal Fragmentation",
+    "id": 456310,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Burning Ember",
+    "id": 456312,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Abyssal Dominion",
+    "id": 456323,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Chaos Bolt",
+    "id": 456951,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Avatar of Destruction",
+    "id": 456975,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Overfiend",
+    "id": 457578,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Haunt",
+    "id": 458034,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ravenous Afflictions",
+    "id": 459440,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Doom",
+    "id": 460551,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Doom",
+    "id": 460553,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Doom",
+    "id": 460555,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Doom",
+    "id": 460569,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Affliction Warlock",
+    "id": 462111,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock",
+    "id": 462112,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonology Warlock",
+    "id": 462113,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Destruction Warlock",
+    "id": 462114,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Call Dreadstalkers",
+    "id": 464880,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Diabolic Ritual",
+    "id": 470479,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wicked Throw",
+    "id": 470489,
+    "gcd": 0,
+    "castTime": 1
+  },
+  {
+    "name": "Demonfire Infusion",
+    "id": 1214442,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rain of Fire",
+    "id": 1214467,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Affliction 11.1 Class Set 2pc",
+    "id": 1215678,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Demonology 11.1 Class Set 2pc",
+    "id": 1215679,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Destruction 11.1 Class Set 2pc",
+    "id": 1215680,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Destruction 11.1 Class Set 4pc",
+    "id": 1215681,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Demonology 11.1 Class Set 4pc",
+    "id": 1215682,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Affliction 11.1 Class Set 4pc",
+    "id": 1215683,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Call Greater Dreadstalker",
+    "id": 1217615,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Hunger",
+    "id": 1217617,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Demonology 11.1 Class Set 4pc",
+    "id": 1217647,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonfire Flurry",
+    "id": 1217731,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Channel Demonfire",
+    "id": 1217771,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Channel Demonfire",
+    "id": 1217786,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Channel Demonfire",
+    "id": 1217787,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jackpot!",
+    "id": 1217798,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jackpot!",
+    "id": 1219034,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Affliction 11.1 Class Set 4pc",
+    "id": 1219036,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unstable Affliction",
+    "id": 1219045,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Single-Button Assistant",
+    "id": 1229376,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Soul Swipe",
+    "id": 1239714,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Soul",
+    "id": 1239715,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Master Summoner",
+    "id": 1240189,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Practiced Chaos",
+    "id": 1244284,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Roaring Blaze",
+    "id": 1244310,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Havoc",
+    "id": 1244460,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chaotic Inferno",
+    "id": 1244788,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chaotic Inferno",
+    "id": 1244860,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lake of Fire",
+    "id": 1244877,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lake of Fire",
+    "id": 1244885,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lake of Fire",
+    "id": 1244890,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lake of Fire",
+    "id": 1244918,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Destructive Rapidity",
+    "id": 1244928,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Alythess's Ire",
+    "id": 1244941,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Alythess's Ire",
+    "id": 1244947,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Avatar of Destruction",
+    "id": 1245089,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fiendish Cruelty",
+    "id": 1245633,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fiendish Cruelty",
+    "id": 1245664,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hand of Gul'dan",
+    "id": 1250273,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fel Intellect",
+    "id": 1250372,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Practiced Rituals",
+    "id": 1250375,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Imp Gang Boss",
+    "id": 1250768,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Imp Gang Boss",
+    "id": 1250772,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hellbent Commander",
+    "id": 1250897,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Antoran Armaments",
+    "id": 1250921,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Antoran Armaments",
+    "id": 1251000,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Infernal Houndmaster",
+    "id": 1251704,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Vilefiend",
+    "id": 1251778,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Vilefiend",
+    "id": 1251781,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Doom Bolt Volley",
+    "id": 1251989,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Affliction Warlock",
+    "id": 1256906,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonology Warlock",
+    "id": 1256907,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Destruction Warlock",
+    "id": 1256908,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dark Harvest",
+    "id": 1257052,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Dark Harvest",
+    "id": 1257065,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unstable Affliction",
+    "id": 1259790,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Practiced Pestilence",
+    "id": 1259811,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Potent Soul Shards",
+    "id": 1259815,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shared Agony",
+    "id": 1259825,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Seeds of Destruction",
+    "id": 1259838,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cull the Weak",
+    "id": 1259886,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sudden Onset",
+    "id": 1260209,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fatal Echoes",
+    "id": 1260229,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shard Instability",
+    "id": 1260264,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shard Instability",
+    "id": 1260269,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nocturnal Yield",
+    "id": 1260271,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nightfall",
+    "id": 1260279,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Patient Zero",
+    "id": 1260285,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cascading Calamity",
+    "id": 1261124,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cascading Calamity",
+    "id": 1261125,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Malefic Grasp",
+    "id": 1261149,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Malefic Grasp",
+    "id": 1261153,
+    "gcd": 1.5,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 4
+  },
+  {
+    "name": "Corruption",
+    "id": 1261158,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Agony",
+    "id": 1261166,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unstable Affliction",
+    "id": 1261176,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadow of Nathreza",
+    "id": 1261984,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadow of Nathreza",
+    "id": 1261990,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadow of Nathreza",
+    "id": 1261992,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wrath of Nathreza",
+    "id": 1262028,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Summon Desperate Soul",
+    "id": 1262094,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Abyssal Tether",
+    "id": 1262320,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadow of Nathreza",
+    "id": 1262710,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fel Armaments",
+    "id": 1263935,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fel Armaments",
+    "id": 1263938,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Infernal Rapidity",
+    "id": 1263941,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Infernal Grudge",
+    "id": 1264017,
+    "gcd": 0,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 8
+  },
+  {
+    "name": "Burning Cleave",
+    "id": 1264093,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Affliction 12.0 Class Set 2pc",
+    "id": 1264869,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Affliction 12.0 Class Set 4pc",
+    "id": 1264870,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Demonology 12.0 Class Set 2pc",
+    "id": 1264871,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Demonology 12.0 Class Set 4pc",
+    "id": 1264872,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Destruction 12.0 Class Set 2pc",
+    "id": 1264873,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Destruction 12.0 Class Set 4pc",
+    "id": 1264874,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Embers of Nihilam",
+    "id": 1265770,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Embers of Nihilam",
+    "id": 1265772,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Embers of Nihilam",
+    "id": 1265774,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blight of Weakness",
+    "id": 1265799,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frequent Traveler",
+    "id": 1265801,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Infernal Beneficiary",
+    "id": 1265810,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Foul Mouth",
+    "id": 1265813,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Mortal Coil",
+    "id": 1265816,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Echo of Sargeras",
+    "id": 1265884,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vision of Nihilam",
+    "id": 1265939,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Through the Felvine",
+    "id": 1266799,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Alzzin's Iniquity",
+    "id": 1266803,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Devil Fruit",
+    "id": 1266805,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Diabolic Oculi",
+    "id": 1268709,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Looks That Kill",
+    "id": 1268713,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mind's Eyes",
+    "id": 1268716,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Manifested Avarice",
+    "id": 1268884,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shared Vessel",
+    "id": 1268889,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Eternal Hunger",
+    "id": 1268903,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Manifested Demonic Soul",
+    "id": 1269042,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Swipe",
+    "id": 1269049,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Manifested Avarice",
+    "id": 1269050,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Touch",
+    "id": 1269221,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Oculi",
+    "id": 1269643,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Eye Explosion",
+    "id": 1269800,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mind's Eyes",
+    "id": 1269879,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Diabolic Gaze",
+    "id": 1269885,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Diabolic Gaze",
+    "id": 1269886,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Diabolic Gaze",
+    "id": 1269892,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Oppressive Darkness",
+    "id": 1270255,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pact of the Nathrezim",
+    "id": 1270690,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pact of the Satyr",
+    "id": 1270691,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pact of the Annihilan",
+    "id": 1270693,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pact of the Eredar",
+    "id": 1270695,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gorefiend's Avarice",
+    "id": 1270701,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empowered Drain Life",
+    "id": 1271689,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fortified Soul",
+    "id": 1271694,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empowered Healthstone",
+    "id": 1271699,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frequent Traveler",
+    "id": 1271712,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blight of Weakness",
+    "id": 1271748,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Blight of Weakness",
+    "id": 1271798,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blight of Tongues",
+    "id": 1271802,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Blight of Weakness",
+    "id": 1271803,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blight of Tongues",
+    "id": 1272122,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blight of Tongues",
+    "id": 1272123,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dominion of Argus",
+    "id": 1276163,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dominion of Argus",
+    "id": 1276166,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dominion of Argus: Antoran Jailer",
+    "id": 1276182,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dominion of Argus",
+    "id": 1276190,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dominion of Argus",
+    "id": 1276222,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dominion of Argus: Doommaiden",
+    "id": 1276282,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dominion of Argus: Antoran Inquisitor",
+    "id": 1276283,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dominion of Argus",
+    "id": 1276318,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dominant Hand",
+    "id": 1276433,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Grimoire: Imp Lord",
+    "id": 1276452,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Grimoire: Fel Ravager",
+    "id": 1276467,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Spell Lock",
+    "id": 1276610,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Singe Magic",
+    "id": 1276623,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stabilized Portals",
+    "id": 1276661,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Doomguard",
+    "id": 1276672,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Tyrant's Oblation",
+    "id": 1276746,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reign of Tyranny",
+    "id": 1276748,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tyrant's Oblation",
+    "id": 1276767,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Power",
+    "id": 1276788,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Calling",
+    "id": 1276947,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blighted Maw",
+    "id": 1276956,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blighted Maw",
+    "id": 1276960,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Barrage",
+    "id": 1277099,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Greater Felbolt (desc=Basic Attack)",
+    "id": 1277116,
+    "gcd": 0.5,
+    "castTime": 1.75
+  },
+  {
+    "name": "Abyssal Bite (desc=Basic Attack)",
+    "id": 1277117,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Infernal Grudge",
+    "id": 1277151,
+    "gcd": 0,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 0
+  },
+  {
+    "name": "Echo of Sargeras",
+    "id": 1277879,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wrath of Nathreza",
+    "id": 1278047,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Niskaran Methods",
+    "id": 1279510,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Eye Contract",
+    "id": 1279521,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empowered Felstorm",
+    "id": 1279575,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Malefic Grasp",
+    "id": 1279659,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wither",
+    "id": 1279686,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Seed of Corruption Is Out [DNT]",
+    "id": 1279998,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Barrage",
+    "id": 1280307,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Mind Sear",
+    "id": 1280457,
+    "gcd": 0,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 10
+  },
+  {
+    "name": "Mind Sear",
+    "id": 1280460,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mind Sear",
+    "id": 1280461,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Inferno",
+    "id": 1280483,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Darkglare Presence",
+    "id": 1280663,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nether Plating",
+    "id": 1280733,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dimensional Rift",
+    "id": 1280868,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Searing Bolts",
+    "id": 1280879,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nether Plating",
+    "id": 1280940,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "To Hell and Back",
+    "id": 1281511,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unstable Soul",
+    "id": 1281512,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hellbent Commander",
+    "id": 1281559,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dominion of Argus: Lady Sacrolash",
+    "id": 1282501,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dominion of Argus: Grand Warlock Alythess",
+    "id": 1282502,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadow Nova",
+    "id": 1282507,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Blaze",
+    "id": 1282533,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Blaze",
+    "id": 1282534,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blaze",
+    "id": 1282748,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadow Nova",
+    "id": 1282757,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock - Midnight PrePatch - 11.2 Class Set 2pc",
+    "id": 1283640,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock - Midnight PrePatch - 11.2 Class Set 4pc",
+    "id": 1283641,
+    "gcd": 0,
+    "castTime": 0
+  }
+]

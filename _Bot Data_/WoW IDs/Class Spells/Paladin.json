@@ -1,0 +1,4864 @@
+﻿[
+  {
+    "name": "Devotion Aura",
+    "id": 465,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Protection",
+    "id": 498,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lay on Hands",
+    "id": 633,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Shield",
+    "id": 642,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Hammer of Justice",
+    "id": 853,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Blessing of Protection",
+    "id": 1022,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Blessing of Freedom",
+    "id": 1044,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Denounce",
+    "id": 2812,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Cleanse",
+    "id": 4987,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Blessing of Sacrifice",
+    "id": 6940,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Turn Evil",
+    "id": 10326,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Flash of Light",
+    "id": 19750,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Judgment",
+    "id": 20271,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Holy Shock",
+    "id": 20473,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Hammer of Wrath",
+    "id": 24275,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Forbearance",
+    "id": 25771,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Righteous Fury",
+    "id": 25780,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Holy Shock",
+    "id": 25912,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Holy Shock",
+    "id": 25914,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Consecration",
+    "id": 26573,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Aura Mastery",
+    "id": 31821,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Ardent Defender",
+    "id": 31850,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Avenging Wrath",
+    "id": 31884,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Avenger's Shield",
+    "id": 31935,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Crusader Aura",
+    "id": 32223,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Crusader Strike",
+    "id": 35395,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Sanctified Wrath",
+    "id": 53376,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Storm",
+    "id": 53385,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Beacon of Light",
+    "id": 53563,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Infusion of Light",
+    "id": 53576,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hammer of the Righteous",
+    "id": 53595,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Shield of the Righteous",
+    "id": 53600,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Light's Beacon",
+    "id": 53651,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Beacon of Light",
+    "id": 53652,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Infusion of Light",
+    "id": 54149,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Luminous Charger",
+    "id": 55115,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Glyph of Fire From the Heavens",
+    "id": 57954,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glyph of Winged Vengeance (desc=Holy, Retribution)",
+    "id": 57979,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Winged Vengeance",
+    "id": 58244,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Fire From the Heavens",
+    "id": 58247,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Hand of Reckoning",
+    "id": 62124,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ardent Defender",
+    "id": 66235,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mastery: Divine Bulwark",
+    "id": 76671,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Consecration",
+    "id": 81297,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Parry",
+    "id": 82242,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Holy Light",
+    "id": 82326,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Grand Crusader",
+    "id": 85043,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Light of Dawn",
+    "id": 85222,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Templar's Verdict",
+    "id": 85256,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Grand Crusader",
+    "id": 85416,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Word of Glory",
+    "id": 85673,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Plate Specialization (desc=Protection, Passive)",
+    "id": 86102,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Plate Specialization (desc=Holy, Passive)",
+    "id": 86103,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Plate Specialization (desc=Retribution, Passive)",
+    "id": 86539,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Guardian of Ancient Kings",
+    "id": 86659,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Light of the Ancient Kings",
+    "id": 86678,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ancient Fury",
+    "id": 86704,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hammer of the Righteous",
+    "id": 88263,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Beacon of Light",
+    "id": 88852,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glyph of the Luminous Charger",
+    "id": 89401,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rebuke",
+    "id": 96231,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sanctuary",
+    "id": 105805,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unbreakable Spirit",
+    "id": 114154,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Boundless Conviction",
+    "id": 115675,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blinding Light",
+    "id": 115750,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Fire From the Heavens",
+    "id": 115995,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Contemplation",
+    "id": 121183,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Block",
+    "id": 123830,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crusader Strike",
+    "id": 132331,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Shield of the Righteous",
+    "id": 132403,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin",
+    "id": 137026,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Retribution Paladin",
+    "id": 137027,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Protection Paladin",
+    "id": 137028,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Light's Revocation",
+    "id": 146956,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glyph of Pillar of Light",
+    "id": 146959,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pillar of Light",
+    "id": 147974,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Eternal Flame",
+    "id": 156322,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Beacon of Faith",
+    "id": 156910,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Saved by the Light",
+    "id": 157047,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Saved by the Light",
+    "id": 157128,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Recently Saved by the Light",
+    "id": 157131,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Riposte",
+    "id": 161800,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Light's Beacon",
+    "id": 177173,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shining Light",
+    "id": 182104,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blessing of Dawn",
+    "id": 183416,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Retribution Aura",
+    "id": 183435,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Mastery: Lightbringer",
+    "id": 183997,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Light of the Martyr",
+    "id": 183998,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Blade of Justice",
+    "id": 184575,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Shield of Vengeance",
+    "id": 184662,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shield of Vengeance",
+    "id": 184689,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Consecration",
+    "id": 188370,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Steed",
+    "id": 190784,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Invoke the Naaru",
+    "id": 196687,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Light of the Martyr",
+    "id": 196917,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crusader's Might",
+    "id": 196926,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Judgment",
+    "id": 197277,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Beacon of the Lightbringer",
+    "id": 197446,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Avenger's Valor",
+    "id": 197561,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Hammer",
+    "id": 198034,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Hammer",
+    "id": 198137,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unbound Freedom (desc=PvP Talent)",
+    "id": 199325,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Holy Ritual",
+    "id": 199422,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Holy Ritual (desc=PvP Talent)",
+    "id": 199423,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Luminescence (desc=PvP Talent)",
+    "id": 199428,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Luminescence (desc=PvP Talent)",
+    "id": 199435,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Steed of Glory (desc=PvP Talent)",
+    "id": 199542,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Steed of Glory (desc=PvP Talent)",
+    "id": 199545,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Beacon of Virtue",
+    "id": 200025,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Blessing of Sacrifice (desc=Rank 2)",
+    "id": 200327,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Protection of Tyr",
+    "id": 200430,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "First Avenger",
+    "id": 203776,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blessing of Spellwarding",
+    "id": 204018,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Blessed Hammer",
+    "id": 204019,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Crusader's Judgment",
+    "id": 204023,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Consecrated Ground",
+    "id": 204054,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Righteous Protector",
+    "id": 204074,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Final Stand",
+    "id": 204077,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Final Stand",
+    "id": 204079,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Consecration",
+    "id": 204242,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blessed Hammer",
+    "id": 204301,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cleansed by Flame (desc=PvP Talent)",
+    "id": 208770,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bulwark of Order",
+    "id": 209388,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bulwark of Order",
+    "id": 209389,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Favor",
+    "id": 210294,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blessing of Dawn",
+    "id": 210372,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blessing of Dawn",
+    "id": 210380,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blessing of Dawn",
+    "id": 210383,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Protection of Tyr",
+    "id": 211210,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Absolution",
+    "id": 212056,
+    "gcd": 1.5,
+    "castTime": 10
+  },
+  {
+    "name": "Cleanse Toxins",
+    "id": 213644,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Judgment",
+    "id": 214222,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Avenging Crusader",
+    "id": 216331,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Avenging Crusader",
+    "id": 216371,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Light of the Martyr",
+    "id": 219562,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Judgment",
+    "id": 220637,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Steed",
+    "id": 221883,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Steed",
+    "id": 221885,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Steed",
+    "id": 221886,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Steed",
+    "id": 221887,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Purpose",
+    "id": 223817,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Purpose",
+    "id": 223819,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Storm",
+    "id": 224239,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Templar's Verdict",
+    "id": 224266,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Guardian of the Forgotten Queen (desc=PvP Talent)",
+    "id": 228049,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Shield (desc=PvP Talent)",
+    "id": 228050,
+    "gcd": 0,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 10
+  },
+  {
+    "name": "Blessed Hammer",
+    "id": 229976,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cavalier",
+    "id": 230332,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tower of Radiance",
+    "id": 231642,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Greater Judgment",
+    "id": 231644,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Greater Judgment",
+    "id": 231663,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Avenging Wrath",
+    "id": 231895,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fist of Justice",
+    "id": 234299,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Consecration",
+    "id": 243597,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Valorous Charger's Bridle",
+    "id": 254465,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Valorous Charger's Bridle",
+    "id": 254466,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Vengeful Charger's Bridle",
+    "id": 254467,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vengeful Charger's Bridle",
+    "id": 254468,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Vigilant Charger's Bridle",
+    "id": 254469,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vigilant Charger's Bridle",
+    "id": 254470,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Divine Steed",
+    "id": 254471,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Steed",
+    "id": 254472,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Steed",
+    "id": 254473,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Steed",
+    "id": 254474,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Golden Charger's Bridle",
+    "id": 254475,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Golden Charger's Bridle",
+    "id": 254476,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Wake of Ashes",
+    "id": 255937,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Wake of Ashes",
+    "id": 255941,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mastery: Highlord's Judgment",
+    "id": 267316,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Holy Shock (desc=Rank 2)",
+    "id": 272906,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Judgment",
+    "id": 275773,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Judgment",
+    "id": 275779,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Steed",
+    "id": 276111,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Steed",
+    "id": 276112,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Redoubt",
+    "id": 280373,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Redoubt",
+    "id": 280375,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Avenging Crusader",
+    "id": 281465,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Holy Shock",
+    "id": 289941,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Steed",
+    "id": 294133,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Toll (desc=Kyrian)",
+    "id": 304971,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Unbound Freedom",
+    "id": 305394,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Judgment (desc=Rank 3)",
+    "id": 315867,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Word of Glory (desc=Rank 2)",
+    "id": 315921,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hand of the Protector",
+    "id": 315924,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ashen Hallow (desc=Venthyr)",
+    "id": 316958,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Ashen Hallow",
+    "id": 317221,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ashen Hallow",
+    "id": 317223,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sanctified Wrath",
+    "id": 317866,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Avenging Wrath (desc=Rank 2)",
+    "id": 317872,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Retribution Aura (desc=Rank 2)",
+    "id": 317906,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mastery: Divine Bulwark (desc=Rank 2)",
+    "id": 317907,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Steed (desc=Rank 2)",
+    "id": 317911,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Concentration Aura",
+    "id": 317920,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Shining Light",
+    "id": 321136,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glimmer of Light",
+    "id": 325966,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glimmer of Light",
+    "id": 325983,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Toll",
+    "id": 326011,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Final Stand",
+    "id": 326329,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hammer of Wrath (desc=Rank 2)",
+    "id": 326730,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empyrean Power",
+    "id": 326732,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empyrean Power",
+    "id": 326733,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Healing Hands",
+    "id": 326734,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "First Avenger",
+    "id": 327225,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shining Light",
+    "id": 327510,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Judgment (desc=Rank 2)",
+    "id": 327977,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Consecration (desc=Rank 3)",
+    "id": 327980,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blessing of Summer (desc=Night Fae)",
+    "id": 328123,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vanquisher's Hammer (desc=Necrolord)",
+    "id": 328204,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Blessing of the Seasons (desc=Night Fae)",
+    "id": 328278,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blessing of Winter (desc=Night Fae)",
+    "id": 328281,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Blessing of Spring (desc=Night Fae)",
+    "id": 328282,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Blessing of Winter (desc=Night Fae)",
+    "id": 328506,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blessing of Summer (desc=Night Fae)",
+    "id": 328620,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Blessing of Autumn (desc=Night Fae)",
+    "id": 328622,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Blessing of the Seasons (desc=Night Fae)",
+    "id": 329720,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blessing of the Seasons (desc=Night Fae)",
+    "id": 329722,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ashen Hallow",
+    "id": 330382,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Final Verdict",
+    "id": 336872,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Final Verdict",
+    "id": 337228,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Final Verdict",
+    "id": 337247,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Relentless Inquisitor",
+    "id": 337297,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shock Barrier",
+    "id": 337824,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Guardian of Ancient Kings",
+    "id": 337851,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reign of Ancient Kings",
+    "id": 337852,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Avenging Wrath",
+    "id": 339044,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Golden Path",
+    "id": 339114,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Golden Path",
+    "id": 339119,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pure Concentration",
+    "id": 339124,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Truth's Wake",
+    "id": 339374,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Truth's Wake",
+    "id": 339376,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Virtuous Command",
+    "id": 339518,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Templar's Verdict",
+    "id": 339538,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Virtuous Command",
+    "id": 339664,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Virtuous Command",
+    "id": 339669,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Royal Decree",
+    "id": 340030,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blinded Fixation",
+    "id": 340032,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Royal Decree",
+    "id": 340147,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Righteous Might",
+    "id": 340192,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Righteous Might",
+    "id": 340193,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hallowed Discernment",
+    "id": 340203,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hallowed Discernment",
+    "id": 340214,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Maraad's Dying Breath",
+    "id": 340458,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crusader Strike (desc=Rank 2)",
+    "id": 342348,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Execution Sentence",
+    "id": 343527,
+    "gcd": 0.75,
+    "castTime": 0
+  },
+  {
+    "name": "Final Reckoning",
+    "id": 343721,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Reckoning",
+    "id": 343724,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Expurgation",
+    "id": 344067,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Retribution Aura",
+    "id": 344217,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Devotion Aura",
+    "id": 344218,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crusader Aura",
+    "id": 344219,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Concentration Aura",
+    "id": 344220,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pillars of the Dark Portal (desc=PvP Talent)",
+    "id": 346500,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Aegis of Light",
+    "id": 353367,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Luminescence (desc=PvP Talent)",
+    "id": 355575,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Judgments of the Pure (desc=PvP Talent)",
+    "id": 355858,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Judgments of the Pure (desc=PvP Talent)",
+    "id": 355867,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Judgments of the Pure (desc=PvP Talent)",
+    "id": 356047,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Infusion of Light",
+    "id": 356717,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Aegis of Light (desc=Rank 2)",
+    "id": 358934,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Steed",
+    "id": 363608,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Ashes to Ashes",
+    "id": 364371,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Time Spiral",
+    "id": 375253,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Toll",
+    "id": 375576,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Toll",
+    "id": 375609,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Seasoned Warhorse",
+    "id": 376996,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Seal of Reprisal",
+    "id": 377053,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Golden Path",
+    "id": 377128,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Golden Path",
+    "id": 377129,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gift of the Golden Val'kyr",
+    "id": 378279,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tyr's Enforcer",
+    "id": 378285,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tyr's Enforcer",
+    "id": 378286,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Light of the Titans",
+    "id": 378405,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Light of the Titans",
+    "id": 378412,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Uther's Counsel",
+    "id": 378425,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soaring Shield",
+    "id": 378457,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ferren Marcus's Fervor",
+    "id": 378762,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Focused Enmity",
+    "id": 378845,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Faith's Armor",
+    "id": 379017,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sanctuary",
+    "id": 379021,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Consecration in Flame",
+    "id": 379022,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Quickened Invocation",
+    "id": 379391,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crusader's Resolve",
+    "id": 380188,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Consecrated Blade",
+    "id": 382275,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Consecrated Blade",
+    "id": 382522,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sanctify",
+    "id": 382536,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sanctify",
+    "id": 382538,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Swift Justice",
+    "id": 383228,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ashes to Dust",
+    "id": 383283,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Virtuous Command",
+    "id": 383304,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Virtuous Command",
+    "id": 383305,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Virtuous Command",
+    "id": 383307,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Final Verdict",
+    "id": 383328,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Final Verdict",
+    "id": 383329,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Holy Blade",
+    "id": 383342,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Expurgation",
+    "id": 383344,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Expurgation",
+    "id": 383346,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Relentless Inquisitor",
+    "id": 383388,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Relentless Inquisitor",
+    "id": 383389,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tempest of the Lightbringer",
+    "id": 383396,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Radiant Decree",
+    "id": 383469,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Crusader's Resolve",
+    "id": 383843,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Highlord's Judgment",
+    "id": 383921,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Boundless Judgment",
+    "id": 383970,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Judgment",
+    "id": 383991,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Resonance",
+    "id": 384027,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Resonance",
+    "id": 384028,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Resonance",
+    "id": 384029,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Resonance",
+    "id": 384030,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Radiant Decree",
+    "id": 384052,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Avenging Wrath",
+    "id": 384376,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crusade",
+    "id": 384392,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Seal of Charity",
+    "id": 384815,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sacrifice of the Just",
+    "id": 384820,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Blessing of Protection",
+    "id": 384909,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Recompense",
+    "id": 384914,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Recompense",
+    "id": 384965,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Recompense",
+    "id": 385093,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Afterimage",
+    "id": 385414,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Obduracy",
+    "id": 385427,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sentinel",
+    "id": 385438,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Seal of Might",
+    "id": 385450,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Holy Aegis",
+    "id": 385515,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Auras of the Resolute",
+    "id": 385633,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Inner Light",
+    "id": 386553,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Inner Light",
+    "id": 386556,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Inner Light",
+    "id": 386568,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bulwark of Righteous Fury",
+    "id": 386652,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bulwark of Righteous Fury",
+    "id": 386653,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Resonance",
+    "id": 386731,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Resonance",
+    "id": 386732,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Resonance",
+    "id": 386738,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Execution Sentence",
+    "id": 387113,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empyrean Legacy",
+    "id": 387170,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empyrean Legacy",
+    "id": 387178,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Execution Sentence",
+    "id": 387200,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empyrean Legacy",
+    "id": 387441,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sealed Verdict",
+    "id": 387640,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sealed Verdict",
+    "id": 387643,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Commanding Light",
+    "id": 387781,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Moment of Compassion",
+    "id": 387786,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empyreal Ward",
+    "id": 387791,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empyreal Ward",
+    "id": 387792,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Echoing Blessings",
+    "id": 387801,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Echoing Protection",
+    "id": 387804,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Glimpse",
+    "id": 387805,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Revelations",
+    "id": 387808,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Revelations",
+    "id": 387810,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Revelations",
+    "id": 387812,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Breaking Dawn",
+    "id": 387879,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Consecration",
+    "id": 387881,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Resonance",
+    "id": 387896,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blessing of Winter (desc=Night Fae)",
+    "id": 388012,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sentinel",
+    "id": 389539,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Intercession",
+    "id": 391054,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Zealot's Paragon",
+    "id": 391142,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Afterimage",
+    "id": 391309,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Retribution Aura",
+    "id": 392503,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Resplendent Light",
+    "id": 392902,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Resplendent Light",
+    "id": 392903,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Inflorescence of the Sunwell",
+    "id": 392907,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unwavering Spirit",
+    "id": 392911,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tirion's Devotion",
+    "id": 392928,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Veneration",
+    "id": 392938,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Veneration",
+    "id": 392939,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Imbued Infusions",
+    "id": 392961,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Image",
+    "id": 392988,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Image",
+    "id": 392990,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Inspiring Vanguard",
+    "id": 393019,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Inspiring Vanguard",
+    "id": 393020,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Inspiring Vanguard",
+    "id": 393022,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Cleanse",
+    "id": 393024,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Strength in Adversity",
+    "id": 393038,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Strength in Adversity",
+    "id": 393071,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Guardian of Ancient Kings",
+    "id": 393108,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Ardent Defender",
+    "id": 393114,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gift of the Golden Val'kyr",
+    "id": 393879,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Avenging Crusader",
+    "id": 394088,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Echoing Freedom",
+    "id": 394454,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Recompense",
+    "id": 397191,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Inflorescence of the Sunwell",
+    "id": 398901,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Afterimage",
+    "id": 400745,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Righteous Cause",
+    "id": 402912,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Righteous Cause",
+    "id": 402916,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sanctified Plates",
+    "id": 402964,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jurisdiction",
+    "id": 402971,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blessed Champion",
+    "id": 403010,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Burning Crusade",
+    "id": 403026,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lightforged Blessing",
+    "id": 403460,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lightforged Blessing",
+    "id": 403479,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Judgment of Justice",
+    "id": 403495,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Zealot's Fervor",
+    "id": 403509,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Punishment",
+    "id": 403530,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blades of Light",
+    "id": 403664,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Holy Crusader",
+    "id": 403665,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Truth's Wake",
+    "id": 403695,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Truth's Wake",
+    "id": 403696,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Blade of Justice",
+    "id": 403745,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blade of Vengeance",
+    "id": 403826,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Protection",
+    "id": 403876,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blessed Hammers",
+    "id": 404139,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blessed Hammers",
+    "id": 404140,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Guided Prayer",
+    "id": 404357,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blade of Justice",
+    "id": 404358,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Light of Justice",
+    "id": 404436,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Highlord's Wrath",
+    "id": 404512,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crusading Strikes",
+    "id": 404542,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Instrument of Retribution",
+    "id": 404752,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Consecrated Blade",
+    "id": 404834,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Retribution Aura",
+    "id": 404996,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Image",
+    "id": 405216,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Boundless Judgment",
+    "id": 405278,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Burning Crusade",
+    "id": 405289,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wake of Ashes",
+    "id": 405345,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wake of Ashes",
+    "id": 405350,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Seething Flames",
+    "id": 405355,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Judgment",
+    "id": 405461,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Holy 10.1 Class Set 2pc",
+    "id": 405545,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Protection 10.1 Class Set 2pc",
+    "id": 405547,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Protection 10.1 Class Set 4pc",
+    "id": 405548,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Retribution 10.1 Class Set 2pc",
+    "id": 405549,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Retribution 10.1 Class Set 4pc",
+    "id": 405550,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Image",
+    "id": 405963,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Art of War",
+    "id": 406064,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Art of War",
+    "id": 406086,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Faith's Armor",
+    "id": 406101,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heart of the Crusader",
+    "id": 406154,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Judge, Jury and Executioner",
+    "id": 406157,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Auxiliary",
+    "id": 406158,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lightforged Blessing",
+    "id": 406468,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Holy Flames",
+    "id": 406545,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Templar Strikes",
+    "id": 406646,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Templar Slash",
+    "id": 406647,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Templar Strikes",
+    "id": 406648,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crusading Strikes",
+    "id": 406834,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Wrath",
+    "id": 406872,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Judgment",
+    "id": 406957,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Final Stand",
+    "id": 406984,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rush of Light",
+    "id": 407065,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rush of Light",
+    "id": 407067,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lightforged Blessing",
+    "id": 407467,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Consecrated Blade",
+    "id": 407475,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Templar Strike",
+    "id": 407480,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Judgment of Justice",
+    "id": 408383,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crusading Strikes",
+    "id": 408385,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Auxiliary",
+    "id": 408386,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heartfire",
+    "id": 408399,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heartfire",
+    "id": 408400,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Purpose",
+    "id": 408458,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Purpose",
+    "id": 408459,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heartfire",
+    "id": 408461,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Searing Light",
+    "id": 409469,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Earthen Tenacity",
+    "id": 410218,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Retribution Paladin",
+    "id": 412314,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Aura Mastery",
+    "id": 412629,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Consecration",
+    "id": 413267,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Greater Judgment",
+    "id": 414019,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unworthy",
+    "id": 414022,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Light's Conviction",
+    "id": 414073,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Righteous Judgment",
+    "id": 414113,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Awakening",
+    "id": 414193,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Awakening",
+    "id": 414195,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Awakening",
+    "id": 414196,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hand of Divinity",
+    "id": 414273,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Veneration",
+    "id": 414407,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Veneration",
+    "id": 414408,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Veneration",
+    "id": 414411,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shining Righteousness",
+    "id": 414443,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shining Righteousness",
+    "id": 414444,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shining Righteousness",
+    "id": 414445,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shining Righteousness",
+    "id": 414448,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shining Righteousness",
+    "id": 414450,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blessed Focus",
+    "id": 414708,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tirion's Devotion",
+    "id": 414720,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Final Verdict",
+    "id": 414949,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shield of the Righteous",
+    "id": 415091,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Tirion's Devotion",
+    "id": 415299,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reclamation",
+    "id": 415364,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reclamation",
+    "id": 415388,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glimmer of Light",
+    "id": 416619,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Light's Protection",
+    "id": 416799,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Initial Paladin",
+    "id": 417383,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Awestruck",
+    "id": 417855,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Consecration",
+    "id": 419810,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Holy 10.2 Class Set 2pc",
+    "id": 422893,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Holy 10.2 Class Set 4pc",
+    "id": 422894,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Protection 10.2 Class Set 2pc",
+    "id": 422895,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Protection 10.2 Class Set 4pc",
+    "id": 422896,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Holy Reverberation",
+    "id": 423377,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Holy Reverberation",
+    "id": 423379,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Echoes of Wrath",
+    "id": 423590,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Storm",
+    "id": 423593,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Retribution 10.2 Class Set 2pc",
+    "id": 424513,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Retribution 10.2 Class Set 4pc",
+    "id": 424572,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wrathful Sanction",
+    "id": 424590,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sanctification",
+    "id": 424616,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sanctification",
+    "id": 424622,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Light's Deliverance",
+    "id": 425518,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hammer of Light",
+    "id": 427441,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Light's Guidance",
+    "id": 427445,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hammer of Light",
+    "id": 427453,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Dash of Chaos",
+    "id": 427794,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Deflecting Dance",
+    "id": 427901,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "First Light",
+    "id": 427946,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Holy Paladin",
+    "id": 428076,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hammer of Light",
+    "id": 429826,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dawnlight",
+    "id": 431377,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dawnlight",
+    "id": 431380,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dawnlight",
+    "id": 431381,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dawnlight",
+    "id": 431382,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empyrean Hammer",
+    "id": 431398,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dawnlight",
+    "id": 431399,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Luminosity",
+    "id": 431402,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Solar Grace",
+    "id": 431404,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Will of the Dawn",
+    "id": 431406,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lingering Radiance",
+    "id": 431407,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sun Sear",
+    "id": 431413,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sun Sear",
+    "id": 431414,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sun Sear",
+    "id": 431415,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Illumine",
+    "id": 431423,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sun's Avatar",
+    "id": 431425,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dawnlight",
+    "id": 431460,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Will of the Dawn",
+    "id": 431462,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Zealous Vindication",
+    "id": 431463,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Will of the Dawn",
+    "id": 431467,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Second Sunrise",
+    "id": 431474,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gleaming Rays",
+    "id": 431480,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gleaming Rays",
+    "id": 431481,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Morning Star",
+    "id": 431482,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dawnlight",
+    "id": 431522,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shake the Heavens",
+    "id": 431533,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shake the Heavens",
+    "id": 431536,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Morning Star",
+    "id": 431539,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wrathful Descent",
+    "id": 431551,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Morning Star",
+    "id": 431568,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dawnlight",
+    "id": 431581,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empyrean Hammer",
+    "id": 431625,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sacrosanct Crusade",
+    "id": 431730,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Will of the Dawn",
+    "id": 431752,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sun's Avatar",
+    "id": 431907,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sun's Avatar",
+    "id": 431910,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sun's Avatar",
+    "id": 431911,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sun's Avatar",
+    "id": 431939,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Holy Bulwark",
+    "id": 432459,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Sacred Weapon",
+    "id": 432472,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Holy Armament Override",
+    "id": 432478,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Holy Bulwark",
+    "id": 432496,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sacred Weapon",
+    "id": 432502,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Holy Bulwark",
+    "id": 432607,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sacred Weapon",
+    "id": 432616,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Undisputed Ruling",
+    "id": 432629,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sacred Weapon",
+    "id": 432757,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Holy Bulwark",
+    "id": 432800,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Solidarity",
+    "id": 432802,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Forewarning",
+    "id": 432804,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shared Resolve",
+    "id": 432821,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Laying Down Arms",
+    "id": 432866,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Valiance",
+    "id": 432919,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Inspiration",
+    "id": 432964,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blessing of the Forge",
+    "id": 433011,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blessed Assurance",
+    "id": 433015,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blessed Assurance",
+    "id": 433019,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Guidance",
+    "id": 433106,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rite of Sanctification",
+    "id": 433550,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rite of Sanctification (desc=Weapon Imbue)",
+    "id": 433568,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Rite of Adjuration (desc=Weapon Imbue)",
+    "id": 433583,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Rite of Adjuration",
+    "id": 433584,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sanctification",
+    "id": 433671,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rite of Adjuration",
+    "id": 433682,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bonds of Fellowship",
+    "id": 433710,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hammer and Anvil",
+    "id": 433717,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hammer and Anvil",
+    "id": 433718,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hammer and Anvil",
+    "id": 433722,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Guidance",
+    "id": 433807,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Guidance",
+    "id": 433808,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blessing of the Forge",
+    "id": 434132,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blessing of the Forge",
+    "id": 434255,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Aurora",
+    "id": 439760,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cleanse Toxins",
+    "id": 440013,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Sacred Weapon",
+    "id": 441590,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Exorcise",
+    "id": 442179,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Unrelenting Charger",
+    "id": 442221,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unrelenting Charger",
+    "id": 442264,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blessing of An'she",
+    "id": 445200,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blessing of An'she",
+    "id": 445206,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Burn to Ash",
+    "id": 446663,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Templar Slash",
+    "id": 447142,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sacred Word",
+    "id": 447246,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Forge's Reckoning",
+    "id": 447258,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Light of the Martyr",
+    "id": 447985,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Light of the Martyr",
+    "id": 447988,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Light of the Martyr",
+    "id": 447998,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Light of the Martyr",
+    "id": 448005,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bestow Light",
+    "id": 448040,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bestow Light",
+    "id": 448086,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bestow Light",
+    "id": 448087,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bestow Light",
+    "id": 448088,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Highlord's Judgment",
+    "id": 449198,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Endless Wrath",
+    "id": 452244,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vanguard of Justice",
+    "id": 453451,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Retribution 11.0 Class Set 2pc",
+    "id": 453655,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Retribution 11.0 Class Set 4pc",
+    "id": 453656,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Protection 11.0 Class Set 2pc",
+    "id": 453657,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Holy 11.0 Class Set 2pc",
+    "id": 453658,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Holy 11.0 Class Set 4pc",
+    "id": 453659,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Protection 11.0 Class Set 4pc",
+    "id": 453662,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Steed",
+    "id": 453804,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Avenging Wrath",
+    "id": 454351,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Radiant Glory",
+    "id": 454353,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Avenging Wrath",
+    "id": 454373,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pure Light",
+    "id": 454653,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rise From Ash",
+    "id": 454693,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rising Wrath",
+    "id": 456700,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heightened Wrath",
+    "id": 456759,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Second Sunrise",
+    "id": 456766,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Will of the Dawn",
+    "id": 456779,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Infusion of Light",
+    "id": 458213,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Radiant Glory",
+    "id": 458359,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wrench Evil",
+    "id": 460720,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Guidance",
+    "id": 460822,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Light's Protection",
+    "id": 461243,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Overflowing Light",
+    "id": 461244,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glorious Dawn",
+    "id": 461246,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Truth Prevails",
+    "id": 461273,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Extrication",
+    "id": 461278,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Liberation",
+    "id": 461287,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Eternal Flame",
+    "id": 461432,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Liberation",
+    "id": 461471,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Overflowing Light",
+    "id": 461499,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Truth Prevails",
+    "id": 461529,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Truth Prevails",
+    "id": 461546,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Saved by the Light",
+    "id": 461578,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sacrosanct Crusade",
+    "id": 461867,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sacrosanct Crusade",
+    "id": 461885,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Radiant Glory",
+    "id": 462048,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin",
+    "id": 462092,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Holy Paladin",
+    "id": 462093,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Protection Paladin",
+    "id": 462095,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Retribution Paladin",
+    "id": 462096,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Consecrated Blade",
+    "id": 462970,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sun's Avatar",
+    "id": 463073,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sun's Avatar",
+    "id": 463074,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sun's Avatar",
+    "id": 463075,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Light's Beacon",
+    "id": 465402,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Worthy Sacrifice",
+    "id": 469279,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Worthy Sacrifice",
+    "id": 469283,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Steed of Liberty",
+    "id": 469304,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Eye for an Eye",
+    "id": 469309,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Eye for an Eye",
+    "id": 469311,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stoicism",
+    "id": 469316,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stand Against Evil",
+    "id": 469317,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Righteous Protection",
+    "id": 469321,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Light's Countenance",
+    "id": 469325,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sacred Strength",
+    "id": 469337,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Spurs",
+    "id": 469409,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "A Just Reward",
+    "id": 469411,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "A Just Reward",
+    "id": 469413,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lightbearer",
+    "id": 469416,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lightbearer",
+    "id": 469421,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Selfless Healer",
+    "id": 469434,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Selfless Healer",
+    "id": 469435,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Inspired Guard",
+    "id": 469439,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Holy Reprieve",
+    "id": 469445,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Reach",
+    "id": 469476,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tempered in Battle",
+    "id": 469701,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tempered in Battle",
+    "id": 469703,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tempered in Battle",
+    "id": 469704,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blessed Calling",
+    "id": 469770,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lead the Charge",
+    "id": 469780,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tempered in Battle",
+    "id": 469814,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tempered in Battle",
+    "id": 469822,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Refining Fire",
+    "id": 469882,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Refining Fire",
+    "id": 469883,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Authoritative Rebuke",
+    "id": 469886,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lay on Hands",
+    "id": 471195,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Holy 11.1 Class Set 2pc",
+    "id": 1215533,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Insurance!",
+    "id": 1215534,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Insurance!",
+    "id": 1215535,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Holy 11.1 Class Set 4pc",
+    "id": 1215613,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Retribution 11.1 Class Set 2pc",
+    "id": 1215707,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Retribution 11.1 Class Set 4pc",
+    "id": 1215709,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Protection 11.1 Class Set 2pc",
+    "id": 1215987,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Protection 11.1 Class Set 4pc",
+    "id": 1215989,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Winning Streak!",
+    "id": 1216828,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "All in!",
+    "id": 1216837,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "All in!",
+    "id": 1216841,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Winning Streak!",
+    "id": 1217003,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hammer of Light",
+    "id": 1217116,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Luck of the Draw!",
+    "id": 1218114,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Luck of the Draw!",
+    "id": 1218115,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Winning Streak!",
+    "id": 1224560,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Guidance",
+    "id": 1228455,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Single-Button Assistant",
+    "id": 1229376,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Pillars of Light",
+    "id": 1232616,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pillar of Lights",
+    "id": 1232617,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Execution Sentence",
+    "id": 1234189,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hammer of Light",
+    "id": 1235934,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Herald of the Sun 11.2 Class Set 2pc",
+    "id": 1236383,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Herald of the Sun 11.2 Class Set 4pc",
+    "id": 1236384,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Lightsmith 11.2 Class Set 4pc",
+    "id": 1236390,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Hammer",
+    "id": 1236942,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Solar Wrath",
+    "id": 1236972,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Masterwork",
+    "id": 1238903,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lesser Bulwark",
+    "id": 1239002,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lesser Weapon",
+    "id": 1239091,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lesser Weapon",
+    "id": 1239276,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lesser Weapon",
+    "id": 1239282,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tyr's Deliverance",
+    "id": 1241275,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hammer of Wrath",
+    "id": 1241288,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empyrean Legacy",
+    "id": 1241358,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hammer of Wrath",
+    "id": 1241410,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hammer of Wrath",
+    "id": 1241413,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Call of the Righteous",
+    "id": 1241511,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ringing of the Heavens",
+    "id": 1241542,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Seraphic Barrier",
+    "id": 1241714,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Seraphic Barrier",
+    "id": 1241717,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glistening Radiance",
+    "id": 1241805,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glistening Radiance",
+    "id": 1241866,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blessing of Dusk",
+    "id": 1241945,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vengeful Wrath",
+    "id": 1241958,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hand of Divinity",
+    "id": 1242008,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Liberation",
+    "id": 1242230,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Undying Embers",
+    "id": 1244019,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Undying Embers",
+    "id": 1244022,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Searing Sunlight",
+    "id": 1244070,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Beacon of the Savior",
+    "id": 1244878,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Beacon of the Savior",
+    "id": 1244893,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vision of Sanctity",
+    "id": 1245354,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Beacon of the Savior",
+    "id": 1245367,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Beacon of the Savior",
+    "id": 1245368,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Beacon of the Savior",
+    "id": 1245369,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Solace",
+    "id": 1245891,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Solace",
+    "id": 1245923,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Valiant Crusade",
+    "id": 1245979,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Valiant Crusade",
+    "id": 1246042,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Valiant Crusade",
+    "id": 1246142,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empyrean Authority",
+    "id": 1246481,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sweeping Verdict",
+    "id": 1246488,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hammer of Light",
+    "id": 1246643,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Judge, Jury and Executioner",
+    "id": 1253174,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Judge, Jury and Executioner",
+    "id": 1253175,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crusade",
+    "id": 1253598,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Protection Paladin",
+    "id": 1256936,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Retribution Paladin",
+    "id": 1258011,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Holy Paladin",
+    "id": 1258016,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Execution Sentence",
+    "id": 1260251,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Exaction",
+    "id": 1260429,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Light Within",
+    "id": 1261111,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Light Within",
+    "id": 1261113,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Light Within",
+    "id": 1261159,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Light Within",
+    "id": 1261160,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Light's Judicator",
+    "id": 1261525,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shield of Vengeance",
+    "id": 1261562,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Seal of the Templar",
+    "id": 1263252,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Walk Into Light",
+    "id": 1263782,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Endless Gleam",
+    "id": 1263787,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Born in Sunlight",
+    "id": 1263920,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Born in Sunlight",
+    "id": 1264050,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Holy 12.0 Class Set 2pc",
+    "id": 1264844,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Holy 12.0 Class Set 4pc",
+    "id": 1264845,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Protection 12.0 Class Set 2pc",
+    "id": 1264846,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Protection 12.0 Class Set 4pc",
+    "id": 1264847,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Retribution 12.0 Class Set 2pc",
+    "id": 1264848,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Retribution 12.0 Class Set 4pc",
+    "id": 1264849,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fear No Evil",
+    "id": 1265541,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Brought to Light",
+    "id": 1265549,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Brought to Light",
+    "id": 1265595,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blessing of Dawn",
+    "id": 1266116,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Resonance",
+    "id": 1266308,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Templar Strikes",
+    "id": 1266331,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glory of the Vanguard",
+    "id": 1267203,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glory of the Vanguard",
+    "id": 1267211,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glory of the Vanguard",
+    "id": 1267215,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glory of the Vanguard",
+    "id": 1267228,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vanguard",
+    "id": 1268810,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glory of the Vanguard",
+    "id": 1269142,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glory of the Vanguard",
+    "id": 1269175,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Valor",
+    "id": 1269179,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blaze of Glory",
+    "id": 1269224,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blaze of Glory",
+    "id": 1269225,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Beacon of the Savior",
+    "id": 1270083,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Beacon of the Savior",
+    "id": 1270102,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shield of the Righteous",
+    "id": 1270616,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shield of the Righteous",
+    "id": 1270617,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Favor",
+    "id": 1270916,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Seek Deliverance",
+    "id": 1271016,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Overload",
+    "id": 1271077,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unending Light",
+    "id": 1271221,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Masterwork: Bulwark",
+    "id": 1271383,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Masterwork",
+    "id": 1271387,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Masterwork: Weapon",
+    "id": 1271436,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reflection of Radiance",
+    "id": 1271466,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Resounding Strike",
+    "id": 1271553,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hammer and Anvil",
+    "id": 1271674,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blaze of Glory",
+    "id": 1271943,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Light-Blessed Shield",
+    "id": 1272298,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Imbued Shield",
+    "id": 1276945,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Adjudication",
+    "id": 1277005,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hammer of Wrath",
+    "id": 1277026,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Adjudication",
+    "id": 1277038,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Adjudication",
+    "id": 1277046,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Instrument of the Divine",
+    "id": 1277162,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Armory of Light",
+    "id": 1277443,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rising Sunlight",
+    "id": 1277651,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crusader Strike",
+    "id": 1279187,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Hammer of Wrath",
+    "id": 1279408,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Beacon of the Savior",
+    "id": 1280173,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin - Midnight PrePatch - 11.2 Class Set 2pc",
+    "id": 1283659,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin - Midnight PrePatch - 11.2 Class Set 4pc",
+    "id": 1283660,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin - Midnight PrePatch - 11.2 Class Set 2pc - Healing",
+    "id": 1283662,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin - Midnight PrePatch - 11.2 Class Set 4pc - Healing",
+    "id": 1283663,
+    "gcd": 0,
+    "castTime": 0
+  }
+]

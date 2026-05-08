@@ -1,0 +1,5498 @@
+﻿[
+  {
+    "name": "Incapacitating Roar",
+    "id": 99,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Entangling Roots",
+    "id": 339,
+    "gcd": 1.5,
+    "castTime": 1.7
+  },
+  {
+    "name": "Tranquility",
+    "id": 740,
+    "gcd": 1.5,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 6
+  },
+  {
+    "name": "Cat Form (desc=Shapeshift)",
+    "id": 768,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Rejuvenation",
+    "id": 774,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Travel Form (desc=Shapeshift)",
+    "id": 783,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Rip",
+    "id": 1079,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Mark of the Wild",
+    "id": 1126,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Bear Form Passive",
+    "id": 1178,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rake",
+    "id": 1822,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Dash",
+    "id": 1850,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Hibernate",
+    "id": 2637,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Remove Corruption",
+    "id": 2782,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Soothe",
+    "id": 2908,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Cat Form",
+    "id": 3025,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wrath",
+    "id": 5176,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Mighty Bash",
+    "id": 5211,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Prowl",
+    "id": 5215,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tiger's Fury",
+    "id": 5217,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shred",
+    "id": 5221,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Incarnation: Tree of Life (desc=Passive)",
+    "id": 5420,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Aquatic Form Passive",
+    "id": 5421,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bear Form (desc=Shapeshift)",
+    "id": 5487,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Growl",
+    "id": 6795,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Maul",
+    "id": 6807,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Moonfire",
+    "id": 8921,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Regrowth",
+    "id": 8936,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Omen of Clarity",
+    "id": 16864,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Clearcasting",
+    "id": 16870,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thick Hide",
+    "id": 16931,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feral Instinct",
+    "id": 16949,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Primal Fury",
+    "id": 16953,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Predatory Swiftness",
+    "id": 16974,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wild Charge (desc=Talent)",
+    "id": 16979,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bear Form",
+    "id": 17057,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Swiftmend",
+    "id": 18562,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Rebirth",
+    "id": 20484,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Feline Grace",
+    "id": 20719,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bear Form Passive 2",
+    "id": 21178,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ferocious Bite",
+    "id": 22568,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Maim",
+    "id": 22570,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Barkskin",
+    "id": 22812,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frenzied Regeneration",
+    "id": 22842,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Moonkin Form",
+    "id": 24858,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Innervate",
+    "id": 29166,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lifebloom",
+    "id": 33763,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Lifebloom",
+    "id": 33778,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cyclone",
+    "id": 33786,
+    "gcd": 1.5,
+    "castTime": 1.7
+  },
+  {
+    "name": "Nurturing Instinct",
+    "id": 33873,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Incarnation: Tree of Life (desc=Talent, Shapeshift)",
+    "id": 33891,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Mangle",
+    "id": 33917,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Flight Form (Passive) (desc=Passive)",
+    "id": 33948,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Force of Nature",
+    "id": 37846,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Immobilized",
+    "id": 45334,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wild Growth",
+    "id": 48438,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Infected Wounds",
+    "id": 48484,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Eclipse (Solar)",
+    "id": 48517,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Eclipse (Lunar)",
+    "id": 48518,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cat Form",
+    "id": 48629,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wild Charge (desc=Talent)",
+    "id": 49376,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dazed",
+    "id": 50259,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Starfall",
+    "id": 50286,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Survival Instincts",
+    "id": 50322,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Berserk",
+    "id": 50334,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "The Ursol Chameleon",
+    "id": 58158,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Infected Wounds",
+    "id": 58180,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Survival Instincts",
+    "id": 61336,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Typhoon",
+    "id": 61391,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stars",
+    "id": 62134,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Predatory Swiftness",
+    "id": 69369,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mastery: Razor Claws",
+    "id": 77493,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mastery: Harmony",
+    "id": 77495,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thrash",
+    "id": 77758,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Stampeding Roar",
+    "id": 77761,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Stampeding Roar",
+    "id": 77764,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Starsurge",
+    "id": 78674,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Solar Beam",
+    "id": 78675,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Incarnation: Tree of Life (desc=Passive)",
+    "id": 81097,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Incarnation: Tree of Life (desc=Passive)",
+    "id": 81098,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Efflorescence",
+    "id": 81262,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Efflorescence",
+    "id": 81269,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fungal Growth",
+    "id": 81281,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Leather Specialization",
+    "id": 86093,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Leather Specialization",
+    "id": 86096,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Leather Specialization",
+    "id": 86097,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Leather Specialization",
+    "id": 86104,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nature's Cure",
+    "id": 88423,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Wild Mushroom",
+    "id": 88747,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Wild Mushroom",
+    "id": 88751,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sunfire",
+    "id": 93402,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Gore",
+    "id": 93622,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Skull Bash",
+    "id": 93985,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Solar Beam",
+    "id": 97547,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ironbark",
+    "id": 102342,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cenarion Ward",
+    "id": 102352,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mass Entanglement",
+    "id": 102359,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Wild Charge (desc=Talent)",
+    "id": 102383,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wild Charge",
+    "id": 102401,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wild Charge (desc=Talent)",
+    "id": 102417,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Incarnation: Avatar of Ashamane (desc=Shapeshift)",
+    "id": 102543,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Prowl",
+    "id": 102547,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Incarnation: Guardian of Ursoc (desc=Shapeshift)",
+    "id": 102558,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Incarnation: Chosen of Elune (desc=Talent, Shapeshift)",
+    "id": 102560,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Grove Guardians",
+    "id": 102693,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ursol's Vortex",
+    "id": 102793,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Ursol's Vortex",
+    "id": 102794,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Swipe",
+    "id": 106785,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Bear Form (desc=Passive)",
+    "id": 106829,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thrash",
+    "id": 106830,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Skull Bash",
+    "id": 106839,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cat Form (desc=Passive)",
+    "id": 106840,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stampeding Roar",
+    "id": 106898,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Bear Form (desc=Passive)",
+    "id": 106899,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Berserk",
+    "id": 106951,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glyph of the Ursol Chameleon",
+    "id": 107059,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heart of the Wild (desc=Talent)",
+    "id": 108291,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Heart of the Wild (desc=Talent)",
+    "id": 108292,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Heart of the Wild (desc=Talent)",
+    "id": 108293,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Heart of the Wild (desc=Talent)",
+    "id": 108294,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Killer Instinct",
+    "id": 108299,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Omen of Clarity",
+    "id": 113043,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cat Form (desc=Passive)",
+    "id": 113636,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul of the Forest",
+    "id": 114107,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul of the Forest",
+    "id": 114108,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul of the Forest",
+    "id": 114113,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Treant Form (desc=Shapeshift)",
+    "id": 114282,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Glyph of Stars (desc=Balance)",
+    "id": 114301,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Incarnation (desc=Passive)",
+    "id": 117679,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feline Grace",
+    "id": 125972,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Charm Woodland Creature",
+    "id": 127757,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ursol's Vortex",
+    "id": 127797,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feline Swiftness",
+    "id": 131768,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nature's Swiftness",
+    "id": 132158,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Visual Effect: Tree of Life",
+    "id": 132213,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Typhoon",
+    "id": 132469,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Clearcasting",
+    "id": 135700,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid",
+    "id": 137009,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Guardian Druid",
+    "id": 137010,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feral Druid",
+    "id": 137011,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Restoration Druid",
+    "id": 137012,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Balance Druid",
+    "id": 137013,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ysera's Gift",
+    "id": 145108,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ysera's Gift",
+    "id": 145109,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ysera's Gift",
+    "id": 145110,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dream of Cenarius",
+    "id": 145153,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Efflorescence",
+    "id": 145205,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "One with Nature",
+    "id": 147420,
+    "gcd": 1.5,
+    "castTime": 3
+  },
+  {
+    "name": "Guardian of Elune",
+    "id": 155578,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lunar Inspiration",
+    "id": 155580,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Moonfire",
+    "id": 155625,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Lunar Inspiration",
+    "id": 155627,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Germination",
+    "id": 155675,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rake",
+    "id": 155722,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rejuvenation (Germination)",
+    "id": 155777,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mastery: Nature's Guardian",
+    "id": 155783,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bristling Fur",
+    "id": 155835,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Owlkin Frenzy",
+    "id": 157228,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Critical Strikes (desc=Passive)",
+    "id": 157447,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tranquility",
+    "id": 157982,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul of the Forest",
+    "id": 158476,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul of the Forest",
+    "id": 158477,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul of the Forest",
+    "id": 158478,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dream of Cenarius",
+    "id": 158504,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thrash",
+    "id": 158723,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mastery: Nature's Guardian",
+    "id": 159195,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Primal Fury",
+    "id": 159286,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Travel Form (desc=Rank 2)",
+    "id": 159456,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rake",
+    "id": 163505,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fungal Growth",
+    "id": 164717,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Moonfire",
+    "id": 164812,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sunfire",
+    "id": 164815,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flap",
+    "id": 164862,
+    "gcd": 0.5,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 15
+  },
+  {
+    "name": "Flight Form (desc=Shapeshift)",
+    "id": 165962,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Glyph of the Sun (desc=Balance)",
+    "id": 171803,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "The Sun",
+    "id": 171891,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Fey Missile",
+    "id": 188046,
+    "gcd": 0.5,
+    "castTime": 2
+  },
+  {
+    "name": "Lifebloom",
+    "id": 188550,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Memory of the Mother Tree",
+    "id": 189877,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wrath",
+    "id": 190984,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Starfall",
+    "id": 191034,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Starfall",
+    "id": 191037,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ironfur",
+    "id": 192081,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thrash",
+    "id": 192090,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dreamwalk",
+    "id": 193753,
+    "gcd": 1.5,
+    "castTime": 10
+  },
+  {
+    "name": "Starfire",
+    "id": 194153,
+    "gcd": 1.5,
+    "castTime": 2.25
+  },
+  {
+    "name": "Celestial Alignment",
+    "id": 194223,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stonebark",
+    "id": 197061,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Inner Peace",
+    "id": 197073,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feral Affinity",
+    "id": 197490,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Guardian Affinity",
+    "id": 197491,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Astral Influence",
+    "id": 197524,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Moonkin Form",
+    "id": 197625,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Starsurge",
+    "id": 197626,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Starfire",
+    "id": 197628,
+    "gcd": 1.5,
+    "castTime": 2.5
+  },
+  {
+    "name": "Feral Overrides Passive (desc=Passive)",
+    "id": 197692,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flourish",
+    "id": 197721,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Astral Power (desc=Passive)",
+    "id": 197911,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Prosperity",
+    "id": 200383,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cultivation",
+    "id": 200389,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cultivation",
+    "id": 200390,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Twin Moonfire",
+    "id": 200818,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Predator",
+    "id": 202021,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Brutal Slash",
+    "id": 202028,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Sabertooth",
+    "id": 202031,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sharpened Claws (desc=PvP Talent)",
+    "id": 202110,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feral Affinity",
+    "id": 202155,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shooting Stars",
+    "id": 202342,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Starlord",
+    "id": 202345,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stellar Flare",
+    "id": 202347,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Nature's Balance",
+    "id": 202430,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shooting Stars",
+    "id": 202497,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fury of Elune",
+    "id": 202770,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Reactive Resin (desc=PvP Talent)",
+    "id": 203399,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reactive Resin (desc=PvP Talent)",
+    "id": 203406,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reactive Resin (desc=PvP Talent)",
+    "id": 203407,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Brambles",
+    "id": 203953,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Brambles",
+    "id": 203958,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Frenzy",
+    "id": 203961,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Frenzy",
+    "id": 203962,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Galactic Guardian",
+    "id": 203964,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Survival of the Fittest",
+    "id": 203965,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bristling Fur",
+    "id": 204031,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rend and Tear",
+    "id": 204053,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lunar Beam",
+    "id": 204066,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Lunar Beam",
+    "id": 204069,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Force of Nature (desc=Talent)",
+    "id": 205636,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Abundance",
+    "id": 207383,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Abundance",
+    "id": 207640,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mount Form (desc=Shapeshift)",
+    "id": 210053,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Gore",
+    "id": 210706,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fury of Elune",
+    "id": 211545,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fury of Elune",
+    "id": 211547,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Revitalize",
+    "id": 212040,
+    "gcd": 1.5,
+    "castTime": 10
+  },
+  {
+    "name": "Guardian of Elune",
+    "id": 213680,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Galactic Guardian",
+    "id": 213708,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Brambles",
+    "id": 213709,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Swipe",
+    "id": 213764,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Swipe",
+    "id": 213771,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Nature's Guardian",
+    "id": 227034,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shapeshift Form (desc=Shapeshift)",
+    "id": 228545,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Regrowth",
+    "id": 231032,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lingering Healing",
+    "id": 231040,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Owlkin Frenzy",
+    "id": 231042,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Sunfire",
+    "id": 231050,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Prowl",
+    "id": 231052,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Merciless Claws",
+    "id": 231063,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mangle",
+    "id": 231064,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lightning Reflexes",
+    "id": 231065,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ironfur (desc=Rank 2)",
+    "id": 231070,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Archdruid's Lunarwing Form (desc=Shapeshift)",
+    "id": 231437,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thorns (desc=PvP Talent)",
+    "id": 232559,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Moment of Clarity",
+    "id": 236068,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Strength of the Wild (desc=PvP Talent)",
+    "id": 236716,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Scintillating Moonlight",
+    "id": 238049,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Force of Nature",
+    "id": 248280,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Incarnation: Avatar of Ashamane",
+    "id": 252071,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tiger Dash",
+    "id": 252216,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Bear Form (desc=Rank 2)",
+    "id": 270100,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "New Moon",
+    "id": 274281,
+    "gcd": 1,
+    "castTime": 1
+  },
+  {
+    "name": "Half Moon",
+    "id": 274282,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Full Moon",
+    "id": 274283,
+    "gcd": 1.5,
+    "castTime": 3
+  },
+  {
+    "name": "Feral Frenzy",
+    "id": 274837,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Feral Frenzy",
+    "id": 274838,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Photosynthesis",
+    "id": 274902,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Aquatic Form",
+    "id": 276012,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flight Form",
+    "id": 276029,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Berserk",
+    "id": 279526,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Twin Moons",
+    "id": 279620,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nature's Balance",
+    "id": 279649,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nature's Balance",
+    "id": 279652,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Starlord",
+    "id": 279709,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sharpened Claws (desc=PvP Talent)",
+    "id": 279943,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Twin Moons",
+    "id": 281847,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fury of Elune",
+    "id": 281871,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Primal Wrath",
+    "id": 285381,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Stampeding Roar",
+    "id": 288826,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Master Shapeshifter",
+    "id": 289237,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Master Shapeshifter (desc=PvP Talent)",
+    "id": 290640,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dreamwalk",
+    "id": 293887,
+    "gcd": 1.5,
+    "castTime": 10
+  },
+  {
+    "name": "Master Shapeshifter (desc=PvP Talent)",
+    "id": 295966,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ursine Adept",
+    "id": 300346,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feline Adept",
+    "id": 300349,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Verdant Heart",
+    "id": 301768,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thorns",
+    "id": 305496,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thorns (desc=PvP Talent)",
+    "id": 305497,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Skull Bash",
+    "id": 314330,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Call of the Elder Druid",
+    "id": 319454,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Ravenous Frenzy (desc=Venthyr)",
+    "id": 323546,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ravenous Frenzy (desc=Venthyr)",
+    "id": 323557,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Convoke the Spirits (desc=Night Fae)",
+    "id": 323764,
+    "gcd": 1.5,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 4
+  },
+  {
+    "name": "Adaptive Swarm (desc=Necrolord)",
+    "id": 325727,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Adaptive Swarm",
+    "id": 325733,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Adaptive Swarm",
+    "id": 325748,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Natural Wisdom",
+    "id": 326228,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Kindred Spirits (desc=Kyrian)",
+    "id": 326434,
+    "gcd": 1.5,
+    "castTime": 2.5
+  },
+  {
+    "name": "Moonfire (desc=Rank 2)",
+    "id": 326646,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Kindred Spirits (desc=Kyrian)",
+    "id": 326967,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Kindred Empowerment (desc=Kyrian)",
+    "id": 327022,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Kindred Protection (desc=Kyrian)",
+    "id": 327037,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Kindred Focus (desc=Kyrian)",
+    "id": 327071,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Kindred Spirits (desc=Kyrian)",
+    "id": 327097,
+    "gcd": 0,
+    "castTime": 2.5
+  },
+  {
+    "name": "Kindred Empowerment (desc=Kyrian)",
+    "id": 327139,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Kindred Focus (desc=Kyrian)",
+    "id": 327148,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Kindred Focus (desc=Kyrian)",
+    "id": 327149,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Aetherial Kindling",
+    "id": 327541,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Barkskin",
+    "id": 327993,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Wild Growth",
+    "id": 328025,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Kindred Empowerment (desc=Kyrian)",
+    "id": 338411,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Kindred Empowerment (desc=Kyrian)",
+    "id": 338525,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Oath of the Elder Druid",
+    "id": 338608,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Oath of the Elder Druid",
+    "id": 338643,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Circle of Life and Death",
+    "id": 338657,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Draught of Deep Focus",
+    "id": 338658,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Oneth's Clear Vision",
+    "id": 338661,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Primordial Arcanic Pulsar",
+    "id": 338668,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Primordial Arcanic Pulsar",
+    "id": 338825,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Primordial Arcanic Pulsar",
+    "id": 338828,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Verdant Infusion",
+    "id": 338829,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "The Dark Titan's Lesson",
+    "id": 338831,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vision of Unending Growth",
+    "id": 338832,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ursoc's Fury Remembered",
+    "id": 339056,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Luffa-Infused Embrace",
+    "id": 339060,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Legacy of the Sleeper",
+    "id": 339062,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "The Natural Order's Will",
+    "id": 339063,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Memory of the Mother Tree",
+    "id": 339064,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Apex Predator's Craving",
+    "id": 339139,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Apex Predator's Craving",
+    "id": 339140,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Eye of Fearful Symmetry",
+    "id": 339141,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Eye of Fearful Symmetry",
+    "id": 339142,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Eye of Fearful Symmetry",
+    "id": 339143,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cat-Eye Curio",
+    "id": 339144,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cat-Eye Curio",
+    "id": 339145,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Oneth's Clear Vision",
+    "id": 339797,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Oneth's Perception",
+    "id": 339800,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Balance of All Things",
+    "id": 339942,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Balance of All Things",
+    "id": 339943,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Balance of All Things",
+    "id": 339946,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Timeworn Dreambinder",
+    "id": 339949,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Timeworn Dreambinder",
+    "id": 340049,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frenzyband",
+    "id": 340053,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frenzied Assault",
+    "id": 340056,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lycara's Fleeting Glimpse",
+    "id": 340059,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lycara's Fleeting Glimpse",
+    "id": 340060,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ursine Vigor",
+    "id": 340540,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ursine Vigor",
+    "id": 340541,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Well-Honed Instincts",
+    "id": 340553,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Well-Honed Instincts",
+    "id": 340555,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Well-Honed Instincts",
+    "id": 340556,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Berserk",
+    "id": 343216,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Berserk",
+    "id": 343223,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Shred",
+    "id": 343232,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Entangling Roots (desc=Rank 2)",
+    "id": 343238,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Solstice",
+    "id": 343647,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Solstice",
+    "id": 343648,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soulshape (desc=Night Fae)",
+    "id": 344402,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Kindred Empowerment (desc=Kyrian)",
+    "id": 344991,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ursoc's Fury Remembered",
+    "id": 345048,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Infected Wounds",
+    "id": 345208,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Infected Wounds",
+    "id": 345209,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Owlkin Adept (desc=PvP Talent)",
+    "id": 354541,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Infected Wounds",
+    "id": 354571,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Star Burst",
+    "id": 356433,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Star Burst",
+    "id": 356468,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Star Burst",
+    "id": 356474,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Star Burst",
+    "id": 356517,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Star Burst",
+    "id": 356536,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Owlkin Adept",
+    "id": 357745,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Star Burst",
+    "id": 358124,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Star Burst",
+    "id": 358134,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Orbital Strike",
+    "id": 361237,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fury of Elune",
+    "id": 365640,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elune's Favored",
+    "id": 370586,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elune's Favored",
+    "id": 370588,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elune's Favored",
+    "id": 370602,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fury of Nature",
+    "id": 370695,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fury of Nature",
+    "id": 370701,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fury of Nature",
+    "id": 370704,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "After the Wildfire",
+    "id": 371905,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "After the Wildfire",
+    "id": 371982,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dream of Cenarius",
+    "id": 372119,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dream of Cenarius",
+    "id": 372152,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ursoc's Fury",
+    "id": 372505,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Twin Moonfire",
+    "id": 372567,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vulnerable Flesh",
+    "id": 372618,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Untamed Savagery",
+    "id": 372943,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reinvigoration",
+    "id": 372945,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Time Spiral",
+    "id": 375230,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ursoc's Fury",
+    "id": 377210,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Natural Recovery",
+    "id": 377796,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Innate Resolve",
+    "id": 377811,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Front of the Pack",
+    "id": 377835,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ursine Vigor",
+    "id": 377842,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Well-Honed Instincts",
+    "id": 377847,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lycara's Teachings",
+    "id": 378988,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lycara's Teachings",
+    "id": 378989,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lycara's Teachings",
+    "id": 378990,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lycara's Teachings",
+    "id": 378991,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lycara's Teachings",
+    "id": 378992,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Passing Seasons",
+    "id": 382550,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Ironbark",
+    "id": 382552,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unstoppable Growth",
+    "id": 382559,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Well-Honed Instincts",
+    "id": 382912,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Regenesis",
+    "id": 383191,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Umbral Intensity",
+    "id": 383195,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Orbit Breaker",
+    "id": 383197,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tireless Energy",
+    "id": 383352,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Celestial Alignment",
+    "id": 383410,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Taste for Blood",
+    "id": 384665,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sudden Ambush",
+    "id": 384667,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Berserk: Jungle Stalker",
+    "id": 384671,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Matted Fur",
+    "id": 385786,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Matted Fur",
+    "id": 385787,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Orbital Strike",
+    "id": 390378,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Incarnation: Chosen of Elune (desc=Talent, Shapeshift)",
+    "id": 390414,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Pouncing Strikes",
+    "id": 390772,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wild Slashes",
+    "id": 390864,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Carnivorous Instinct",
+    "id": 390902,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dreadful Bleeding",
+    "id": 391045,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Raging Fury",
+    "id": 391078,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Berserk: Heart of the Lion",
+    "id": 391174,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rip and Tear",
+    "id": 391347,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tear",
+    "id": 391356,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Convoke the Spirits",
+    "id": 391528,
+    "gcd": 1.5,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 4
+  },
+  {
+    "name": "Ashamane's Guidance",
+    "id": 391538,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ashamane's Guidance",
+    "id": 391548,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Double-Clawed Rake",
+    "id": 391700,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rampant Ferocity",
+    "id": 391709,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rampant Ferocity",
+    "id": 391710,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sabertooth",
+    "id": 391722,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tiger's Tenacity",
+    "id": 391872,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tiger's Tenacity",
+    "id": 391873,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tiger's Tenacity",
+    "id": 391874,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frantic Momentum",
+    "id": 391875,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frantic Momentum",
+    "id": 391876,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Apex Predator's Craving",
+    "id": 391881,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Apex Predator's Craving",
+    "id": 391882,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Veinripper",
+    "id": 391978,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nurturing Dormancy",
+    "id": 392099,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nurturing Dormancy",
+    "id": 392101,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nurturing Dormancy",
+    "id": 392103,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Regenerative Heartwood",
+    "id": 392116,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Regenerative Heartwood",
+    "id": 392117,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Embrace of the Dream",
+    "id": 392124,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Embrace of the Dream",
+    "id": 392146,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Embrace of the Dream",
+    "id": 392147,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Everbloom",
+    "id": 392167,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flash of Clarity",
+    "id": 392220,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Waking Dream",
+    "id": 392221,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Harmonious Blooming",
+    "id": 392256,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nature's Splendor",
+    "id": 392288,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Power of the Archdruid",
+    "id": 392302,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Verdancy",
+    "id": 392325,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Verdancy",
+    "id": 392329,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reforestation",
+    "id": 392356,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reforestation",
+    "id": 392360,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Nature's Cure",
+    "id": 392378,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Verdant Infusion",
+    "id": 392410,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Retribution Aura",
+    "id": 392503,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wild Mushroom",
+    "id": 392996,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mastery: Astral Invocation",
+    "id": 393014,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cenarius' Guidance",
+    "id": 393371,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cenarius' Guidance",
+    "id": 393374,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cenarius' Guidance",
+    "id": 393381,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ursoc's Guidance",
+    "id": 393414,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cenarius' Guidance",
+    "id": 393418,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flashing Claws",
+    "id": 393427,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ursoc's Endurance",
+    "id": 393611,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reinforced Fur",
+    "id": 393618,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Umbral Embrace",
+    "id": 393760,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Umbral Embrace",
+    "id": 393763,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ursine Vigor",
+    "id": 393903,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Starweaver",
+    "id": 393940,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Starweaver's Warp",
+    "id": 393942,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Starweaver's Weft",
+    "id": 393944,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rattle the Stars",
+    "id": 393954,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elune's Guidance",
+    "id": 393991,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Incarnation: Chosen of Elune",
+    "id": 394013,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Power of Goldrinn",
+    "id": 394046,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Goldrinn's Fang",
+    "id": 394047,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Balance of All Things",
+    "id": 394048,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Balance of All Things",
+    "id": 394049,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Balance of All Things",
+    "id": 394050,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Denizen of the Dream",
+    "id": 394065,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Denizen of the Dream",
+    "id": 394076,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sundered Firmament",
+    "id": 394094,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sundered Firmament",
+    "id": 394106,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sundered Firmament",
+    "id": 394108,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fury of Elune",
+    "id": 394111,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Radiant Moonlight",
+    "id": 394121,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Incarnation: Guardian of Ursoc",
+    "id": 394786,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Celestial Alignment",
+    "id": 395022,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Parting Skies",
+    "id": 395110,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Swiping Mangle",
+    "id": 395942,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Well-Honed Instincts",
+    "id": 396425,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cosmic Rapidity",
+    "id": 400059,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Forestwalk",
+    "id": 400126,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Forestwalk",
+    "id": 400129,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Incessant Tempest",
+    "id": 400140,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gale Winds",
+    "id": 400142,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Raze",
+    "id": 400254,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Moonless Night",
+    "id": 400278,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Circle of Life and Death",
+    "id": 400320,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Moonless Night",
+    "id": 400360,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wild Synthesis",
+    "id": 400533,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wild Synthesis",
+    "id": 400534,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "After the Wildfire",
+    "id": 400734,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tranquil Mind",
+    "id": 403521,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rampant Growth",
+    "id": 404521,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Overflowing Power",
+    "id": 405069,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Overflowing Power",
+    "id": 405189,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Overflowing Power",
+    "id": 405191,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thrash",
+    "id": 405233,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thrashing Claws",
+    "id": 405300,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Star Burst",
+    "id": 405389,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Balance 10.1 Class Set 2pc",
+    "id": 405510,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Balance 10.1 Class Set 4pc",
+    "id": 405511,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Feral 10.1 Class Set 2pc",
+    "id": 405512,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Feral 10.1 Class Set 4pc",
+    "id": 405513,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Guardian 10.1 Class Set 2pc",
+    "id": 405514,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Guardian 10.1 Class Set 4pc",
+    "id": 405515,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Restoration 10.1 Class Set 2pc",
+    "id": 405516,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Restoration 10.1 Class Set 4pc",
+    "id": 405517,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Prowl",
+    "id": 405834,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Star Burst",
+    "id": 406430,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wild Surges",
+    "id": 406890,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crashing Star",
+    "id": 408310,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Furious Regeneration",
+    "id": 408504,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Indomitable Guardian",
+    "id": 408522,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tenacious Flourishing",
+    "id": 408546,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blossoming Infusion",
+    "id": 408571,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Master Shapeshifter",
+    "id": 411143,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Master Shapeshifter",
+    "id": 411144,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Master Shapeshifter",
+    "id": 411146,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Master Shapeshifter",
+    "id": 411267,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Master Shapeshifter",
+    "id": 411269,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Master Shapeshifter",
+    "id": 411270,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Predator Revealed",
+    "id": 411344,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lunar Beam",
+    "id": 414613,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Initial Druid",
+    "id": 417382,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Star Burst",
+    "id": 421072,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Saber Jaws",
+    "id": 421432,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nourish",
+    "id": 422090,
+    "gcd": 0.5,
+    "castTime": 2
+  },
+  {
+    "name": "Druid Feral 10.2 Class Set 2pc",
+    "id": 422747,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Feral 10.2 Class Set 4pc",
+    "id": 422748,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Balance 10.2 Class Set 2pc",
+    "id": 422862,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Balance 10.2 Class Set 4pc",
+    "id": 422863,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Guardian 10.2 Class Set 2pc",
+    "id": 422864,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Guardian 10.2 Class Set 4pc",
+    "id": 422865,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Restoration 10.2 Class Set 2pc",
+    "id": 422866,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Restoration 10.2 Class Set 4pc",
+    "id": 422867,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nourish",
+    "id": 423618,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Boundless Moonlight",
+    "id": 424058,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "The Eternal Moon",
+    "id": 424113,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dreamstate",
+    "id": 424248,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Minor Moon",
+    "id": 424588,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Boundless Moonlight",
+    "id": 425206,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Boundless Moonlight",
+    "id": 425217,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dream Thorns",
+    "id": 425407,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blazing Thorns",
+    "id": 425441,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blazing Thorns",
+    "id": 425448,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Liveliness",
+    "id": 426702,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Call of the Elder Druid",
+    "id": 426784,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Call of the Elder Druid",
+    "id": 426790,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Treants of the Moon",
+    "id": 428544,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Moonfire",
+    "id": 428545,
+    "gcd": 0.5,
+    "castTime": 0
+  },
+  {
+    "name": "The Light of Elune",
+    "id": 428655,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Boundless Moonlight",
+    "id": 428682,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Harmony of the Grove",
+    "id": 428731,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Harmony of the Grove",
+    "id": 428735,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Harmony of the Grove",
+    "id": 428737,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Power of Nature",
+    "id": 428859,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Power of Nature",
+    "id": 428866,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Early Spring",
+    "id": 428937,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bounteous Bloom",
+    "id": 429215,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Durability of Nature",
+    "id": 429227,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Expansiveness",
+    "id": 429399,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Grove's Inspiration",
+    "id": 429402,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Potent Enchantments",
+    "id": 429420,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blooming Infusion",
+    "id": 429433,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blooming Infusion",
+    "id": 429438,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blooming Infusion",
+    "id": 429474,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Moon Guardian",
+    "id": 429520,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lunar Calling",
+    "id": 429523,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lunar Insight",
+    "id": 429530,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Atmospheric Exposure",
+    "id": 429532,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glistening Fur",
+    "id": 429533,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Astral Insight",
+    "id": 429536,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Moondust",
+    "id": 429538,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lunation",
+    "id": 429539,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Affinity",
+    "id": 429540,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stellar Command",
+    "id": 429668,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Moon Guardian",
+    "id": 430581,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Atmospheric Exposure",
+    "id": 430589,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Protective Growth",
+    "id": 433748,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dream Surge",
+    "id": 433831,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dream Burst",
+    "id": 433850,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dream Bloom",
+    "id": 434141,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Power of the Dream",
+    "id": 434220,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Control of the Dream",
+    "id": 434249,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thriving Growth",
+    "id": 439528,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Symbiotic Blooms",
+    "id": 439530,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bloodseeker Vines",
+    "id": 439531,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hunt Beneath the Open Skies",
+    "id": 439868,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Resilient Flourishing",
+    "id": 439880,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Root Network",
+    "id": 439882,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Root Network",
+    "id": 439887,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Root Network",
+    "id": 439888,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Strategic Infusion",
+    "id": 439890,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Strategic Infusion",
+    "id": 439891,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Entangling Vortex",
+    "id": 439895,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flower Walk",
+    "id": 439901,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flower Walk",
+    "id": 439902,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wildstalker's Power",
+    "id": 439926,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bond with Nature",
+    "id": 439929,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Remove Corruption",
+    "id": 440015,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Harmonious Constitution",
+    "id": 440116,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Twin Sprouts",
+    "id": 440117,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Implant",
+    "id": 440118,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vigorous Creepers",
+    "id": 440119,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bursting Growth",
+    "id": 440120,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bursting Growth",
+    "id": 440121,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bursting Growth",
+    "id": 440122,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ravage",
+    "id": 441583,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ravage",
+    "id": 441585,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ravage",
+    "id": 441591,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Ravage",
+    "id": 441602,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ravage",
+    "id": 441605,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Fount of Strength",
+    "id": 441675,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wildshape Mastery",
+    "id": 441678,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wildshape Mastery",
+    "id": 441685,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wildshape Mastery",
+    "id": 441686,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wildshape Mastery",
+    "id": 441688,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empowered Shapeshifting",
+    "id": 441689,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wildpower Surge",
+    "id": 441691,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ursine Potential",
+    "id": 441695,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ursine Potential",
+    "id": 441698,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feline Potential",
+    "id": 441701,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feline Potential",
+    "id": 441702,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wildpower Surge",
+    "id": 441704,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dreadful Wound",
+    "id": 441809,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dreadful Wound",
+    "id": 441812,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ruthless Aggression",
+    "id": 441814,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ruthless Aggression",
+    "id": 441817,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Killing Strikes",
+    "id": 441824,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Killing Strikes",
+    "id": 441825,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Killing Strikes",
+    "id": 441827,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Aggravate Wounds",
+    "id": 441829,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Claw Rampage",
+    "id": 441835,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bestial Strength",
+    "id": 441841,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pack's Endurance",
+    "id": 441844,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Strike for the Heart",
+    "id": 441845,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tear Down the Mighty",
+    "id": 441846,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wildpower Surge",
+    "id": 442562,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elune's Grace",
+    "id": 443046,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thriving Vegetation",
+    "id": 447131,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thriving Vegetation",
+    "id": 447132,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Power of Nature",
+    "id": 449001,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ursoc's Spirit",
+    "id": 449182,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Instincts of the Claw",
+    "id": 449184,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lore of the Grove",
+    "id": 449185,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Oakskin",
+    "id": 449191,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fluid Form",
+    "id": 449193,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Coiled to Spring",
+    "id": 449537,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Coiled to Spring",
+    "id": 449538,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Savage Fury",
+    "id": 449645,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Savage Fury",
+    "id": 449646,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Predator",
+    "id": 449864,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stellar Amplification",
+    "id": 450212,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stellar Amplification",
+    "id": 450214,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dreamstate",
+    "id": 450346,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nature's Grace",
+    "id": 450347,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Touch the Cosmos",
+    "id": 450356,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Touch the Cosmos",
+    "id": 450360,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Harmony of the Heavens",
+    "id": 450558,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Astral Communion",
+    "id": 450598,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Astral Communion",
+    "id": 450599,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dreadful Wound",
+    "id": 451177,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Starlight Conduit",
+    "id": 451211,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Guardian 11.0 Class Set 4pc",
+    "id": 453664,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Guardian 11.0 Class Set 2pc",
+    "id": 453665,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Balance 11.0 Class Set 2pc",
+    "id": 453666,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Balance 11.0 Class Set 4pc",
+    "id": 453667,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Restoration 11.0 Class Set 4pc",
+    "id": 453668,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Restoration 11.0 Class Set 2pc",
+    "id": 453669,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Feral 11.0 Class Set 2pc",
+    "id": 453670,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Feral 11.0 Class Set 4pc",
+    "id": 454839,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tiger's Strength",
+    "id": 454943,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fell Prey",
+    "id": 454957,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Guardian's Tenacity",
+    "id": 455011,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Power of the Forest",
+    "id": 455070,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lethal Preservation",
+    "id": 455461,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lethal Preservation",
+    "id": 455466,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lethal Preservation",
+    "id": 455470,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lethal Preservation",
+    "id": 455474,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Implant",
+    "id": 455496,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cenarius' Might",
+    "id": 455797,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Strike for the Heart",
+    "id": 458724,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Balance Druid",
+    "id": 462068,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid",
+    "id": 462069,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feral Druid",
+    "id": 462070,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Guardian Druid",
+    "id": 462071,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reactive Resin",
+    "id": 468146,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Whirling Stars",
+    "id": 468743,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sunseeker Mushroom",
+    "id": 468936,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sunseeker Mushroom",
+    "id": 468938,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hail of Stars",
+    "id": 469004,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Swiftmend",
+    "id": 470549,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Renewing Surge",
+    "id": 470562,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ursol's Warding",
+    "id": 471491,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ursol's Warding",
+    "id": 471492,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ancient of Lore (desc=PvP Talent, Shapeshift)",
+    "id": 473909,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Blossom Burst (desc=PvP Talent)",
+    "id": 473919,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Protective Bark",
+    "id": 473992,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mass Blooming (desc=PvP Talent)",
+    "id": 474149,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Grievous Wounds",
+    "id": 474526,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Circle of the Wild",
+    "id": 474530,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Circle of the Heavens",
+    "id": 474541,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Aessina's Renewal",
+    "id": 474678,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Aessina's Renewal",
+    "id": 474683,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Symbiotic Relationship",
+    "id": 474750,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Symbiotic Relationship",
+    "id": 474754,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Symbiotic Relationship",
+    "id": 474760,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Perfectly-Honed Instincts",
+    "id": 1213597,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Restoration 11.1 Class Set 2pc",
+    "id": 1215502,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Insurance!",
+    "id": 1215515,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Insurance!",
+    "id": 1215518,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Insurance!",
+    "id": 1215544,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Insurance!",
+    "id": 1215545,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Restoration 11.1 Class Set 4pc",
+    "id": 1215619,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Balance 11.1 Class Set 2pc",
+    "id": 1215695,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Balance 11.1 Class Set 4pc",
+    "id": 1215698,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Feral 11.1 Class Set 2pc",
+    "id": 1215734,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Feral 11.1 Class Set 4pc",
+    "id": 1215735,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Guardian 11.1 Class Set 2pc",
+    "id": 1215986,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Guardian 11.1 Class Set 4pc",
+    "id": 1215988,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Protection 11.1 Class Set 2pc",
+    "id": 1215994,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Control of the Dream - Reset Tracker",
+    "id": 1216895,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thorns (desc=PvP Talent)",
+    "id": 1217017,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Winning Streak!",
+    "id": 1217236,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Big Winner!!!",
+    "id": 1217245,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lifetreading",
+    "id": 1217941,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Luck of the Draw!",
+    "id": 1218163,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stacked Deck",
+    "id": 1218537,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Luck of the Draw!",
+    "id": 1218553,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Grove Guardians",
+    "id": 1226140,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Single-Button Assistant",
+    "id": 1229376,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Efflorescence",
+    "id": 1232285,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Lycara's Inspiration",
+    "id": 1232897,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lunar Eclipse",
+    "id": 1233272,
+    "gcd": 0.5,
+    "castTime": 0
+  },
+  {
+    "name": "Solar Eclipse",
+    "id": 1233346,
+    "gcd": 0.5,
+    "castTime": 0
+  },
+  {
+    "name": "Lunar Eclipse Override",
+    "id": 1233353,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tranquility",
+    "id": 1236573,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Starsurge",
+    "id": 1236917,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Eclipse",
+    "id": 1239669,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Celestial Fire",
+    "id": 1240185,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sculpt the Stars",
+    "id": 1240188,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Total Eclipse",
+    "id": 1240206,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meteor Storm",
+    "id": 1240262,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elune's Challenge",
+    "id": 1240283,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elune's Challenge",
+    "id": 1240285,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Eclipse",
+    "id": 1240906,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meteorites",
+    "id": 1240907,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meteorites",
+    "id": 1240913,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frantic Frenzy",
+    "id": 1243807,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Frantic Frenzy",
+    "id": 1243995,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frantic Frenzy",
+    "id": 1243996,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frantic Frenzy",
+    "id": 1244004,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frantic Frenzy",
+    "id": 1244023,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flicker Clone",
+    "id": 1244038,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flicker Clone",
+    "id": 1244046,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flicker Clone",
+    "id": 1244050,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frantic Frenzy",
+    "id": 1244079,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chomp",
+    "id": 1244258,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Chomp Controller",
+    "id": 1244292,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Everbloom",
+    "id": 1244331,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Everbloom",
+    "id": 1244341,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chomp Enabler",
+    "id": 1244393,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chomp Disabler",
+    "id": 1244394,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Everbloom",
+    "id": 1244470,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sudden Ambush",
+    "id": 1244483,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Spattered",
+    "id": 1244532,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Focused Frenzy",
+    "id": 1244544,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ashamane's Guidance",
+    "id": 1244546,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hunger for Battle",
+    "id": 1244547,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hunger for Battle",
+    "id": 1244550,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hunger for Battle",
+    "id": 1244553,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lacerating Claws",
+    "id": 1244632,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Skyfire Heel",
+    "id": 1248712,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ward of the Forest",
+    "id": 1250923,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Persistence",
+    "id": 1251406,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Persistence",
+    "id": 1251407,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gift of an Ancient Guardian",
+    "id": 1251876,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gift of an Ancient Guardian",
+    "id": 1251877,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Red Moon",
+    "id": 1252871,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Killing Blow",
+    "id": 1252994,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Harnessed Rage",
+    "id": 1253035,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Waking Nightmare",
+    "id": 1253461,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Waking Nightmare",
+    "id": 1253462,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Waking Nightmare",
+    "id": 1253488,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dire Echo",
+    "id": 1253489,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Waking Nightmare",
+    "id": 1253491,
+    "gcd": 0,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 12
+  },
+  {
+    "name": "Red Moon",
+    "id": 1253582,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lunar Wrath",
+    "id": 1253600,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lunar Wrath",
+    "id": 1253609,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sundering Roar",
+    "id": 1253799,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Sundering Roar",
+    "id": 1253982,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Waking Nightmare",
+    "id": 1254168,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feral Druid",
+    "id": 1256992,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Guardian Druid",
+    "id": 1256993,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Restoration Druid",
+    "id": 1256995,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Balance Druid",
+    "id": 1256996,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ascendant Eclipses",
+    "id": 1261564,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ascendant Eclipses",
+    "id": 1261565,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ascendant Eclipses",
+    "id": 1261566,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Solar Bolt",
+    "id": 1261573,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lunar Bolt",
+    "id": 1261700,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heart of the Wild",
+    "id": 1261867,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heart of the Wild",
+    "id": 1261868,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heart of the Wild",
+    "id": 1261870,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heart of the Wild",
+    "id": 1261872,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gift of the Wild",
+    "id": 1262034,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lunar Bolt",
+    "id": 1263137,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Astral Smolder",
+    "id": 1263250,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ascendant Fires",
+    "id": 1263363,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ascendant Stars",
+    "id": 1263382,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ascendant Stars",
+    "id": 1263401,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unseen Predator",
+    "id": 1263657,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unseen Predator",
+    "id": 1263658,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unseen Predator",
+    "id": 1263660,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unseen Slash",
+    "id": 1263827,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unseen Slash",
+    "id": 1263840,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nature's Bounty",
+    "id": 1263879,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unseen Slash",
+    "id": 1263884,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unseen Slash",
+    "id": 1263885,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unseen Slash",
+    "id": 1263890,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unseen Swipe",
+    "id": 1263902,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unseen Swipe",
+    "id": 1263903,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unseen Swipe",
+    "id": 1263904,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unseen Swipe",
+    "id": 1263906,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unseen Swipe",
+    "id": 1263908,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unseen Predator's Craving",
+    "id": 1263939,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stalking Predator",
+    "id": 1263962,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nature's Bounty",
+    "id": 1264376,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sylvan Beckoning",
+    "id": 1264614,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sylvan Beckoning",
+    "id": 1264618,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Intensity",
+    "id": 1264649,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Regrowth",
+    "id": 1264664,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Starfall",
+    "id": 1264671,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Starfall",
+    "id": 1264673,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Starfall",
+    "id": 1264676,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Starsurge",
+    "id": 1264677,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Sylvan Beckoning",
+    "id": 1264680,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dryad's Dance",
+    "id": 1264776,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Balance 12.0 Class Set 2pc",
+    "id": 1264810,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Feral 12.0 Class Set 2pc",
+    "id": 1264812,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Feral 12.0 Class Set 4pc",
+    "id": 1264813,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Guardian 12.0 Class Set 2pc",
+    "id": 1264815,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Guardian 12.0 Class Set 4pc",
+    "id": 1264816,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Restoration 12.0 Class Set 2pc",
+    "id": 1264817,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Restoration 12.0 Class Set 4pc",
+    "id": 1264818,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spirit of the Thicket",
+    "id": 1264899,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spirit of the Thicket",
+    "id": 1264905,
+    "gcd": 0,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 6
+  },
+  {
+    "name": "Spirit of the Thicket",
+    "id": 1264911,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unshapeshifted",
+    "id": 1269186,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wild Guardian",
+    "id": 1269614,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wild Guardian",
+    "id": 1269616,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wild Guardian",
+    "id": 1269617,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wild Guardian",
+    "id": 1269619,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Echo of Ironfur",
+    "id": 1269633,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Echo of Frenzied Regeneration",
+    "id": 1269645,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Echo of Maul",
+    "id": 1269648,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Wild Guardian",
+    "id": 1269658,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gift of Ironfur",
+    "id": 1269659,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gift of Maul",
+    "id": 1269660,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gift of Frenzied Regeneration",
+    "id": 1269661,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Echo of Raze",
+    "id": 1269972,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Echo of Ravage",
+    "id": 1269973,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vicious Brambles",
+    "id": 1270065,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wild Guardian",
+    "id": 1270277,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lunar Beam",
+    "id": 1270292,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Green Thumb",
+    "id": 1270565,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rampancy",
+    "id": 1270586,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Patient Custodian",
+    "id": 1270592,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Star Cascade",
+    "id": 1271206,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Starsurge",
+    "id": 1271222,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Penumbral Swell",
+    "id": 1271261,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bask in Moonlight",
+    "id": 1271305,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Limb from Limb",
+    "id": 1271540,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Twin Claw",
+    "id": 1271635,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Twin Claw",
+    "id": 1271636,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Twin Claw",
+    "id": 1271657,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Exacerbating Wounds",
+    "id": 1271839,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unseen Slash",
+    "id": 1271863,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mark of the Wild Highlight",
+    "id": 1271910,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flash of Clarity",
+    "id": 1272262,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shooting Stars",
+    "id": 1272339,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Celestial Might",
+    "id": 1272376,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Natural Resilience",
+    "id": 1278789,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Natural Resilience",
+    "id": 1278800,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dream Guide",
+    "id": 1278886,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dream Guide",
+    "id": 1278914,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frantic Frenzy",
+    "id": 1278969,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rake",
+    "id": 1280133,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sunseeker Mushroom",
+    "id": 1280212,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fungal Growth",
+    "id": 1280213,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Panther's Guile",
+    "id": 1280316,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Panther's Guile",
+    "id": 1280352,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid - Midnight PrePatch - 11.2 Class Set 2pc",
+    "id": 1283647,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid - Midnight PrePatch - 11.2 Class Set 4pc",
+    "id": 1283648,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid - Midnight PrePatch - 11.2 Class Set 2pc - Healing",
+    "id": 1283649,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid - Midnight PrePatch - 11.2 Class Set 4pc - Healing",
+    "id": 1283650,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Starfall",
+    "id": 1286243,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Starfall",
+    "id": 1286247,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dream Guide",
+    "id": 1292031,
+    "gcd": 0,
+    "castTime": 0
+  }
+]

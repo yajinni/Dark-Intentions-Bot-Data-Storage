@@ -1,0 +1,5276 @@
+﻿[
+  {
+    "name": "Growl (desc=Basic Ability)",
+    "id": 2649,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mystic Touch",
+    "id": 8647,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pet Damage",
+    "id": 8875,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Intimidation",
+    "id": 19577,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Pet Health",
+    "id": 19581,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Intimidation",
+    "id": 24394,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hunter Pet",
+    "id": 34902,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dash (desc=Basic Ability)",
+    "id": 61684,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Kindred Spirits",
+    "id": 88680,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tiger Palm",
+    "id": 100780,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Blackout Kick",
+    "id": 100784,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Flying Serpent Kick",
+    "id": 101545,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Spinning Crane Kick",
+    "id": 101546,
+    "gcd": 1.5,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 1.5
+  },
+  {
+    "name": "Transcendence",
+    "id": 101643,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Stance of the Fierce Tiger (desc=Stance)",
+    "id": 103985,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spinning Crane Kick",
+    "id": 107270,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rising Sun Kick",
+    "id": 107428,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "<DND> Monk Energy Driver (desc=Passive)",
+    "id": 107500,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Roll",
+    "id": 109132,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fists of Fury",
+    "id": 113656,
+    "gcd": 1,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 4
+  },
+  {
+    "name": "Mystic Touch",
+    "id": 113746,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Torpedo",
+    "id": 115008,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flying Serpent Kick",
+    "id": 115057,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stagger",
+    "id": 115069,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paralysis",
+    "id": 115078,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Wave",
+    "id": 115098,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Expel Harm",
+    "id": 115129,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Renewing Mist",
+    "id": 115151,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Celerity",
+    "id": 115173,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soothing Mist",
+    "id": 115175,
+    "gcd": 1,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 8
+  },
+  {
+    "name": "Breath of Fire",
+    "id": 115181,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Fortifying Brew",
+    "id": 115203,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mana Tea",
+    "id": 115294,
+    "gcd": 1.5,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 3
+  },
+  {
+    "name": "Ironskin Brew",
+    "id": 115308,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Revival",
+    "id": 115310,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Jade Serpent Statue",
+    "id": 115313,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Black Ox Statue",
+    "id": 115315,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Ascension",
+    "id": 115396,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Black Ox Brew",
+    "id": 115399,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Detox",
+    "id": 115450,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Provoke",
+    "id": 115546,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mastery: Combo Strikes",
+    "id": 115636,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mortal Wounds",
+    "id": 115804,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mana Tea",
+    "id": 115867,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mana Tea",
+    "id": 115869,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Afterlife",
+    "id": 116092,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Disable",
+    "id": 116095,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Provoke",
+    "id": 116189,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Teachings of the Monastery",
+    "id": 116645,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vivify",
+    "id": 116670,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Thunder Focus Tea",
+    "id": 116680,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spear Hand Strike",
+    "id": 116705,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Disable",
+    "id": 116706,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blackout Kick!",
+    "id": 116768,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Parry",
+    "id": 116812,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tiger's Lust",
+    "id": 116841,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Ring of Peace",
+    "id": 116844,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Rushing Jade Wind",
+    "id": 116847,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Life Cocoon",
+    "id": 116849,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fists of Fury",
+    "id": 117418,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mastery: Elusive Brawler",
+    "id": 117906,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mastery: Gust of Mists",
+    "id": 117907,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crackling Jade Lightning",
+    "id": 117952,
+    "gcd": 1.5,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 4
+  },
+  {
+    "name": "Crackling Jade Lightning",
+    "id": 117959,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crackling Jade Shock",
+    "id": 117962,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blackout Kick",
+    "id": 118166,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Provoke",
+    "id": 118635,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Torpedo",
+    "id": 119085,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Leg Sweep",
+    "id": 119381,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Purifying Brew",
+    "id": 119582,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Renewing Mist",
+    "id": 119607,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Renewing Mist",
+    "id": 119611,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Energy Usage",
+    "id": 119650,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fists of Fury",
+    "id": 120086,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Leather Specialization (desc=Passive)",
+    "id": 120224,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Leather Specialization (desc=Passive)",
+    "id": 120225,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Leather Specialization (desc=Passive)",
+    "id": 120227,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fortifying Brew",
+    "id": 120954,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Touch of Death Notification Driver (desc=Passive)",
+    "id": 121128,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Keg Smash",
+    "id": 121253,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Power Strikes",
+    "id": 121283,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Combat Wisdom",
+    "id": 121817,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Healing Elixir",
+    "id": 122280,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Touch of Karma",
+    "id": 122470,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fists of Fury Visual Target",
+    "id": 123154,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crackling Jade Lightning",
+    "id": 123333,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flying Serpent Kick",
+    "id": 123586,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Breath of Fire",
+    "id": 123725,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "+1 Mana Tea",
+    "id": 123760,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Invoke Xuen, the White Tiger",
+    "id": 123904,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Burst",
+    "id": 123986,
+    "gcd": 1.5,
+    "castTime": 1
+  },
+  {
+    "name": "Crackling Tiger Lightning",
+    "id": 123996,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crackling Tiger Lightning Driver",
+    "id": 123999,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tiger Lust",
+    "id": 124009,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Zen Pulse",
+    "id": 124081,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Dual Wield",
+    "id": 124146,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stagger",
+    "id": 124255,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heavy Stagger",
+    "id": 124273,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Moderate Stagger",
+    "id": 124274,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Light Stagger",
+    "id": 124275,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Touch of Karma",
+    "id": 124280,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gift of the Ox",
+    "id": 124502,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gift of the Ox",
+    "id": 124503,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gift of the Ox",
+    "id": 124506,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gift of the Ox",
+    "id": 124507,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Enveloping Mist",
+    "id": 124682,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Glyph of Rising Tiger Kick (desc=Mistweaver, Windwalker)",
+    "id": 125151,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rising Tiger Kick",
+    "id": 125152,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Touch of Karma",
+    "id": 125174,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Healing Sphere",
+    "id": 125355,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glyph of Honor",
+    "id": 125732,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Honorable Bow",
+    "id": 125735,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Honor",
+    "id": 125739,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Glyph of Fighting Pose",
+    "id": 125872,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fighting Pose",
+    "id": 125874,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Zen Flight",
+    "id": 125883,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Glyph of Crackling Tiger Lightning",
+    "id": 125931,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crackling Tiger Lightning",
+    "id": 125932,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Ancient Teachings of the Monastery",
+    "id": 126890,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Combat Conditioning",
+    "id": 128595,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Combat Wisdom",
+    "id": 129914,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk",
+    "id": 130610,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Burst",
+    "id": 130654,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Wave",
+    "id": 132463,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Wave",
+    "id": 132466,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Wave",
+    "id": 132467,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Invoke Niuzao, the Black Ox",
+    "id": 132578,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Monk",
+    "id": 137022,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Brewmaster Monk",
+    "id": 137023,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mistweaver Monk",
+    "id": 137024,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Windwalker Monk",
+    "id": 137025,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Combo Breaker",
+    "id": 137384,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Ring of Peace",
+    "id": 142895,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Burst",
+    "id": 148135,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rushing Jade Wind",
+    "id": 148187,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Whirling Dragon Punch",
+    "id": 152175,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Roll Speed Controls",
+    "id": 157361,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Windwalking",
+    "id": 157411,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Critical Strikes (desc=Passive)",
+    "id": 157445,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Whirling Dragon Punch",
+    "id": 158221,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Combo Breaker: Chi Explosion",
+    "id": 159407,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Summon Black Ox Statue",
+    "id": 163178,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Healing Sphere",
+    "id": 163212,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Sphere",
+    "id": 163272,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pool of Mists",
+    "id": 173841,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gift of the Ox",
+    "id": 178173,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rising Sun Kick",
+    "id": 185099,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gust of Mists",
+    "id": 191894,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elusive Brawler",
+    "id": 195630,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Special Delivery",
+    "id": 196730,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Special Delivery",
+    "id": 196732,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Special Delivery",
+    "id": 196733,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Special Delivery",
+    "id": 196734,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blackout Combo",
+    "id": 196736,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "High Tolerance",
+    "id": 196737,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hit Combo",
+    "id": 196740,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hit Combo",
+    "id": 196741,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Whirling Dragon Punch",
+    "id": 196742,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Focused Thunder",
+    "id": 197895,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mist Wrap",
+    "id": 197900,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lifecycles",
+    "id": 197915,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lifecycles",
+    "id": 197916,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lifecycles",
+    "id": 197919,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Zen Pulse",
+    "id": 198487,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Soothing Mist",
+    "id": 198533,
+    "gcd": 0,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 8
+  },
+  {
+    "name": "Song of Chi-Ji",
+    "id": 198898,
+    "gcd": 1.5,
+    "castTime": 1.8
+  },
+  {
+    "name": "Song of Chi-Ji",
+    "id": 198909,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Teachings of the Monastery",
+    "id": 202090,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hot Trub (desc=PvP Talent)",
+    "id": 202126,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hot Trub (desc=PvP Talent)",
+    "id": 202127,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chrysalis",
+    "id": 202424,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dome of Mist",
+    "id": 202577,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blackout Kick",
+    "id": 205523,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Dome of Mist",
+    "id": 205655,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soothing Mist (desc=PvP Talent)",
+    "id": 209525,
+    "gcd": 0.5,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 20
+  },
+  {
+    "name": "Reawaken",
+    "id": 212051,
+    "gcd": 1.5,
+    "castTime": 10
+  },
+  {
+    "name": "Shuffle",
+    "id": 215479,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Celestial Fortune",
+    "id": 216519,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Celestial Fortune",
+    "id": 216521,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Detox",
+    "id": 218164,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Gift of the Ox",
+    "id": 219556,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mark of the Crane",
+    "id": 220357,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cyclone Strikes",
+    "id": 220358,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Healing Sphere",
+    "id": 224863,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stomp",
+    "id": 227291,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Surging Mist (desc=PvP Talent)",
+    "id": 227344,
+    "gcd": 1,
+    "castTime": 1.5
+  },
+  {
+    "name": "Dragonfire Brew",
+    "id": 227681,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mark of the Crane",
+    "id": 228287,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blackout Combo",
+    "id": 228563,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blackout Kick",
+    "id": 228649,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Vivify",
+    "id": 231602,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fists of Fury",
+    "id": 232055,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ring of Peace",
+    "id": 237371,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Brewmaster's Balance",
+    "id": 245013,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Burst",
+    "id": 261682,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blackout Kick (desc=Rank 2)",
+    "id": 261916,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sharp Reflexes",
+    "id": 261917,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tiger Tail Sweep",
+    "id": 264348,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Enveloping Mist",
+    "id": 274062,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Invigorating Mists",
+    "id": 274586,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rising Mist (desc=Way of the Crane)",
+    "id": 274909,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rising Mist",
+    "id": 274912,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Good Karma",
+    "id": 280195,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spiritual Focus",
+    "id": 280197,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bob and Weave",
+    "id": 280515,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reverse Harm",
+    "id": 287771,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Glory of the Dawn",
+    "id": 288636,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reverse Harm",
+    "id": 290461,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Revival",
+    "id": 297850,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Weapons of Order (desc=Kyrian)",
+    "id": 310454,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Weapons of Order (desc=Kyrian)",
+    "id": 311054,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Weapons of Order (desc=Kyrian)",
+    "id": 311123,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Expel Harm",
+    "id": 322101,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Expel Harm (desc=Rank 2)",
+    "id": 322102,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Touch of Death",
+    "id": 322109,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Touch of Death",
+    "id": 322111,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Touch of Death",
+    "id": 322113,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Invoke Yu'lon, the Jade Serpent",
+    "id": 322118,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Ironskin Brew",
+    "id": 322119,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shuffle",
+    "id": 322120,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Celestial Brew",
+    "id": 322507,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Spinning Crane Kick (desc=Rank 2)",
+    "id": 322700,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Afterlife (desc=Rank 2)",
+    "id": 322719,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spinning Crane Kick",
+    "id": 322729,
+    "gcd": 1.5,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 1.5
+  },
+  {
+    "name": "Mighty Stomp",
+    "id": 322740,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fortifying Brew: Determination",
+    "id": 322960,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empowered Tiger Lightning",
+    "id": 323999,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stagger",
+    "id": 324393,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Purified Chi",
+    "id": 325092,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Light Brewing",
+    "id": 325093,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Touch of Death (desc=Rank 3)",
+    "id": 325095,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Exploding Keg",
+    "id": 325153,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Celestial Flames",
+    "id": 325177,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Celestial Flames",
+    "id": 325190,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Invoke Chi-Ji, the Red Crane",
+    "id": 325197,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Dance of Chi-Ji",
+    "id": 325201,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Invoke Chi-Ji, the Red Crane",
+    "id": 325211,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Touch of Death (desc=Rank 3)",
+    "id": 325215,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bonedust Brew (desc=Necrolord)",
+    "id": 325216,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Bonedust Brew",
+    "id": 325217,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bonedust Brew",
+    "id": 325218,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fallen Order (desc=Venthyr)",
+    "id": 326860,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Fallen Order",
+    "id": 327004,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fallen Order",
+    "id": 327005,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fallen Order",
+    "id": 327006,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Faeline Stomp (desc=Night Fae)",
+    "id": 327104,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Faeline Stomp (desc=Night Fae)",
+    "id": 327195,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Faeline Stomp (desc=Night Fae)",
+    "id": 327257,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Faeline Stomp (desc=Night Fae)",
+    "id": 327264,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Faeline Stomp (desc=Night Fae)",
+    "id": 327276,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bonedust Brew",
+    "id": 328296,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hasty Provocation",
+    "id": 328670,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gust of Mists",
+    "id": 328748,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Faeline Stomp",
+    "id": 329578,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Faeline Stomp (desc=Night Fae)",
+    "id": 329604,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spinning Crane Kick",
+    "id": 330903,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Keg Smash",
+    "id": 330911,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Tiger Palm",
+    "id": 331433,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mystic Touch",
+    "id": 331653,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Faeline Stomp",
+    "id": 331840,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empowered Tiger Lightning",
+    "id": 335913,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reverse Harm",
+    "id": 342928,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Escape from Reality",
+    "id": 343539,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Escape from Reality",
+    "id": 343543,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Celestial Harmony",
+    "id": 343655,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spinning Crane Kick (desc=Rank 2)",
+    "id": 343730,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Disable (desc=Rank 2)",
+    "id": 343731,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soothing Breath",
+    "id": 343737,
+    "gcd": 0,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 4.5
+  },
+  {
+    "name": "Invoke Chi-Ji, the Red Crane",
+    "id": 343818,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gust of Mists",
+    "id": 343819,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Invoke Chi-Ji, the Red Crane",
+    "id": 343820,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Invoke Chi-Ji, the Red Crane",
+    "id": 344035,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ancient Arts",
+    "id": 344359,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Touch of Death (desc=Rank 3)",
+    "id": 344360,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Faeline Stomp (desc=Night Fae)",
+    "id": 345727,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Windwalker Monk Two-Hand Adjustment (desc=Passive)",
+    "id": 346104,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Faeline Stomp (desc=Night Fae)",
+    "id": 347480,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Renewing Mist",
+    "id": 347561,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ancient Teachings of the Monastery",
+    "id": 347572,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gust of Mists",
+    "id": 347647,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thunderous Focus Tea (desc=PvP Talent)",
+    "id": 353936,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Essence Font",
+    "id": 353937,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fae Exposure",
+    "id": 356773,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fae Exposure",
+    "id": 356774,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empowered Tiger Lightning",
+    "id": 360829,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Windwalking",
+    "id": 364944,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Windwalking",
+    "id": 365080,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Time Spiral",
+    "id": 375252,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Blackout Kick",
+    "id": 383695,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hit Scheme",
+    "id": 383696,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sal'salabim's Strength",
+    "id": 383697,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Scalding Brew",
+    "id": 383698,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gai Plin's Imperial Brew",
+    "id": 383700,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gai Plin's Imperial Brew",
+    "id": 383701,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stormstout's Last Keg",
+    "id": 383707,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Training of Niuzao",
+    "id": 383714,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Training of Niuzao",
+    "id": 383733,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Quick Sip",
+    "id": 383764,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Counterstrike",
+    "id": 383800,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dragonfire Brew",
+    "id": 383994,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bonedust Brew",
+    "id": 386274,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bonedust Brew",
+    "id": 386275,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Anvil and Stave",
+    "id": 386937,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Charred Passions",
+    "id": 386954,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Charred Passions",
+    "id": 386956,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Charred Passions",
+    "id": 386959,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Charred Passions",
+    "id": 386963,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Charred Passions",
+    "id": 386965,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elusive Footwork",
+    "id": 387046,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elusive Footwork",
+    "id": 387047,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Weapons of Order (desc=Kyrian)",
+    "id": 387179,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Walk with the Ox",
+    "id": 387219,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fluidity of Motion",
+    "id": 387230,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Strength of Spirit",
+    "id": 387276,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dragonfire Brew",
+    "id": 387621,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Staggering Strikes",
+    "id": 387624,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Staggering Strikes",
+    "id": 387625,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadowboxing Treads",
+    "id": 387638,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tear of Morning (desc=Way of the Serpent)",
+    "id": 387991,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tear of Morning",
+    "id": 387994,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tear of Morning",
+    "id": 387995,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Renewing Mist",
+    "id": 387999,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Resplendent Mist",
+    "id": 388020,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ancient Teachings",
+    "id": 388023,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ancient Teachings",
+    "id": 388024,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ancient Teachings",
+    "id": 388025,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jadefire Teachings",
+    "id": 388026,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jade Bond",
+    "id": 388031,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Yu'lon's Whisper",
+    "id": 388038,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Yu'lon's Whisper",
+    "id": 388040,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Yu'lon's Whisper",
+    "id": 388044,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jadefire Stomp",
+    "id": 388193,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Jadefire Stomp",
+    "id": 388195,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jadefire Stomp",
+    "id": 388197,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jadefire Stomp",
+    "id": 388199,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jadefire Stomp",
+    "id": 388201,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jadefire Stomp",
+    "id": 388203,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jadefire Stomp",
+    "id": 388204,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jadefire Stomp",
+    "id": 388205,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jadefire Stomp",
+    "id": 388207,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gift of the Celestials",
+    "id": 388212,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Calming Coalescence",
+    "id": 388218,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Calming Coalescence",
+    "id": 388220,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Secret Infusion",
+    "id": 388491,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Secret Infusion",
+    "id": 388496,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Secret Infusion",
+    "id": 388497,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Secret Infusion",
+    "id": 388498,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Secret Infusion",
+    "id": 388499,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Secret Infusion",
+    "id": 388500,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Quick Sip",
+    "id": 388505,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Overflowing Mists",
+    "id": 388511,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Overflowing Mists",
+    "id": 388512,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Overflowing Mists",
+    "id": 388513,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Overflowing Mists",
+    "id": 388514,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mists of Life",
+    "id": 388548,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Uplifted Spirits",
+    "id": 388551,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Uplifted Spirits",
+    "id": 388555,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Peaceful Mending",
+    "id": 388593,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Zen Pulse",
+    "id": 388609,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Restoral",
+    "id": 388615,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Calming Presence",
+    "id": 388664,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Zen Pulse",
+    "id": 388668,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Ferocity of Xuen",
+    "id": 388674,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elusive Mists",
+    "id": 388681,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Misty Peaks",
+    "id": 388682,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dancing Mists",
+    "id": 388701,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Way of the Crane",
+    "id": 388779,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fast Feet",
+    "id": 388809,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Grace of the Crane",
+    "id": 388811,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vivacious Vivification",
+    "id": 388812,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Expeditious Fortification",
+    "id": 388813,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ironshell Brew",
+    "id": 388814,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rapid Diffusion",
+    "id": 388847,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Touch of the Tiger",
+    "id": 388856,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Exploding Keg",
+    "id": 388867,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Detox",
+    "id": 388874,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fortifying Brew",
+    "id": 388917,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Way of the Crane",
+    "id": 389325,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Way of the Crane",
+    "id": 389328,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Close to Heart",
+    "id": 389574,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Generous Pour",
+    "id": 389575,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Save Them All",
+    "id": 389579,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Close to Heart",
+    "id": 389684,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Generous Pour",
+    "id": 389685,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Face Palm",
+    "id": 389942,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Drinking Horn Cover",
+    "id": 391370,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hardened Soles",
+    "id": 391383,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vivacious Vivification",
+    "id": 392883,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vigorous Expulsion",
+    "id": 392900,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Profound Rebuttal",
+    "id": 392910,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glory of the Dawn",
+    "id": 392958,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glory of the Dawn",
+    "id": 392959,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Open Palm Strikes",
+    "id": 392972,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Open Palm Strikes",
+    "id": 392973,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jade Ignition",
+    "id": 392979,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadowboxing Treads",
+    "id": 392982,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Strike of the Windlord",
+    "id": 392983,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Thunderfist",
+    "id": 392985,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Xuen's Bond",
+    "id": 392986,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Skyreach",
+    "id": 392991,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Xuen's Battlegear",
+    "id": 392993,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Path of Jade",
+    "id": 392994,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "The Emperor's Capacitor",
+    "id": 393039,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Skytouch",
+    "id": 393047,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Skyreach",
+    "id": 393048,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Skytouch Exhaustion",
+    "id": 393050,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pressure Point",
+    "id": 393053,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Explosion",
+    "id": 393056,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Energy",
+    "id": 393057,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Xuen's Bond",
+    "id": 393058,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tranquil Spirit",
+    "id": 393357,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pretense of Instability",
+    "id": 393515,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pretense of Instability",
+    "id": 393516,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thunderfist",
+    "id": 393566,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Escape from Reality",
+    "id": 394112,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fatal Touch",
+    "id": 394123,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Call to Arms",
+    "id": 395266,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Invoke Niuzao, the Black Ox",
+    "id": 395267,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Call to Arms",
+    "id": 395268,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jadefire Brand",
+    "id": 395413,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jadefire Brand",
+    "id": 395414,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Strike of the Windlord",
+    "id": 395519,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Strike of the Windlord",
+    "id": 395521,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fury of Xuen",
+    "id": 396166,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fury of Xuen",
+    "id": 396167,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fury of Xuen",
+    "id": 396168,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Inner Peace",
+    "id": 397768,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Burst of Life",
+    "id": 399226,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Burst of Life",
+    "id": 399230,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sheilun's Gift",
+    "id": 399491,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Sheilun's Gift",
+    "id": 399494,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sheilun's Gift",
+    "id": 399496,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Sheilun's Gift",
+    "id": 399497,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Sheilun's Gift",
+    "id": 399510,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Veil of Pride",
+    "id": 400053,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spirit of the Ox",
+    "id": 400629,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Brewmaster 10.1 Class Set 2pc",
+    "id": 405539,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Brewmaster 10.1 Class Set 4pc",
+    "id": 405540,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Mistweaver 10.1 Class Set 2pc",
+    "id": 405541,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Mistweaver 10.1 Class Set 4pc",
+    "id": 405542,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Windwalker 10.1 Class Set 2pc",
+    "id": 405543,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Cocoon",
+    "id": 406139,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thunderous Focus Tea",
+    "id": 407058,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Leverage",
+    "id": 408503,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soulfang Vitality",
+    "id": 410082,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadowflame Nova",
+    "id": 410139,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Windwalker 10.1 Class Set 4pc",
+    "id": 411375,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadowflame Vulnerability",
+    "id": 411376,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Yu'lon's Grace",
+    "id": 414131,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dance of the Wind",
+    "id": 414132,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Yu'lon's Grace",
+    "id": 414143,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Press the Advantage",
+    "id": 418359,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Press the Advantage",
+    "id": 418360,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Press the Advantage",
+    "id": 418361,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Energizing Brew",
+    "id": 422031,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Brewmaster 10.2 Class Set 2pc",
+    "id": 422886,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Brewmaster 10.2 Class Set 4pc",
+    "id": 422887,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Mistweaver 10.2 Class Set 2pc",
+    "id": 422889,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Mistweaver 10.2 Class Set 4pc",
+    "id": 422890,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Windwalker 10.2 Class Set 2pc",
+    "id": 422891,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Windwalker 10.2 Class Set 4pc",
+    "id": 422892,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Harmony",
+    "id": 423439,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Harmony",
+    "id": 423458,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blackout Reinforcement",
+    "id": 424454,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Charred Dreams",
+    "id": 425298,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Charred Dreams",
+    "id": 425299,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Invigorating Mists",
+    "id": 425804,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Celestial Brew",
+    "id": 425965,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Healing Elixir",
+    "id": 427296,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mistweaver Monk",
+    "id": 428200,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Healing Elixir",
+    "id": 428439,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Will of the Dawn",
+    "id": 431467,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dance of the Wind",
+    "id": 432180,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dance of the Wind",
+    "id": 432181,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Cocoon",
+    "id": 432772,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Transcendence: Linked Spirits",
+    "id": 434774,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Dance of Chi-Ji",
+    "id": 438439,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dance of Chi-Ji",
+    "id": 438443,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flower Walk",
+    "id": 439902,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Peer Into Peace",
+    "id": 440008,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Peer Into Peace",
+    "id": 440016,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Xuen's Guidance",
+    "id": 442687,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Restore Balance",
+    "id": 442719,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Temple Training",
+    "id": 442743,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Niuzao's Protection",
+    "id": 442747,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Niuzao's Protection",
+    "id": 442749,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Celestial Conduit",
+    "id": 443028,
+    "gcd": 0.75,
+    "castTime": 0
+  },
+  {
+    "name": "Celestial Conduit",
+    "id": 443038,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Celestial Conduit",
+    "id": 443039,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jade Sanctuary",
+    "id": 443059,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Courage of the White Tiger",
+    "id": 443087,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Courage of the White Tiger",
+    "id": 443088,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Courage of the White Tiger",
+    "id": 443106,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Strength of the Black Ox",
+    "id": 443110,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Strength of the Black Ox",
+    "id": 443112,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Strength of the Black Ox",
+    "id": 443113,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Strength of the Black Ox",
+    "id": 443127,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heart of the Jade Serpent",
+    "id": 443294,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heart of the Jade Serpent",
+    "id": 443421,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heart of the Jade Serpent",
+    "id": 443424,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heart of the Jade Serpent",
+    "id": 443506,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi-Ji's Swiftness",
+    "id": 443566,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi-Ji's Swiftness",
+    "id": 443569,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Inner Compass",
+    "id": 443571,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crane Stance",
+    "id": 443572,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ox Stance",
+    "id": 443574,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tiger Stance",
+    "id": 443575,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Serpent Stance",
+    "id": 443576,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unity Within",
+    "id": 443589,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unity Within",
+    "id": 443591,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unity Within",
+    "id": 443592,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flight of the Red Crane",
+    "id": 443611,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heart of the Jade Serpent",
+    "id": 443616,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Yu'lon's Knowledge",
+    "id": 443625,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crane Style",
+    "id": 446260,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crane Style",
+    "id": 446264,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Zen Pulse",
+    "id": 446326,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Zen Pulse",
+    "id": 446334,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Deep Clarity",
+    "id": 446345,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Celestial Conduit",
+    "id": 448380,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Harmony",
+    "id": 448392,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Renewing Mist",
+    "id": 448430,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jade Sanctuary",
+    "id": 448508,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lighter Than Air",
+    "id": 449582,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lighter Than Air",
+    "id": 449586,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lighter Than Air",
+    "id": 449609,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crackling Jade Shock",
+    "id": 449891,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rushing Reflexes",
+    "id": 450154,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rushing Reflexes",
+    "id": 450156,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crashing Momentum",
+    "id": 450334,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crashing Momentum",
+    "id": 450335,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crashing Momentum",
+    "id": 450342,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Wave",
+    "id": 450380,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Wave",
+    "id": 450391,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Proficiency",
+    "id": 450426,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Martial Instincts",
+    "id": 450427,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pressure Points",
+    "id": 450432,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Peace and Prosperity",
+    "id": 450448,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Quick Footed",
+    "id": 450503,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Aspect of Harmony",
+    "id": 450508,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wind's Reach",
+    "id": 450514,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bounding Agility",
+    "id": 450520,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Aspect of Harmony",
+    "id": 450521,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Aspect of Harmony",
+    "id": 450526,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Coalescence",
+    "id": 450529,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Aspect of Harmony",
+    "id": 450531,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jade Walk",
+    "id": 450552,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jade Walk",
+    "id": 450553,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Healing Winds",
+    "id": 450559,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Healing Winds",
+    "id": 450560,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Aspect of Harmony",
+    "id": 450567,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flow of Chi",
+    "id": 450569,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flow of Chi",
+    "id": 450571,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flow of Chi",
+    "id": 450572,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flow of Chi",
+    "id": 450574,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flow of Chi",
+    "id": 450581,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flow of Chi",
+    "id": 450584,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flow of Chi",
+    "id": 450586,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spirit's Essence",
+    "id": 450595,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spirit's Essence",
+    "id": 450596,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flurry Strikes",
+    "id": 450615,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flurry Strike",
+    "id": 450617,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Swift Art",
+    "id": 450622,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Swift Art",
+    "id": 450627,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Energy Transfer",
+    "id": 450631,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Celestial Determination",
+    "id": 450638,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Aspect of Harmony",
+    "id": 450711,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Aspect of Harmony",
+    "id": 450763,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Aspect of Harmony",
+    "id": 450769,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Purified Spirit",
+    "id": 450805,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Purified Spirit",
+    "id": 450820,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fatal Touch",
+    "id": 450832,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Purified Spirit",
+    "id": 450867,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Harmonic Gambit",
+    "id": 450870,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Manifestation",
+    "id": 450875,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Balanced Stratagem",
+    "id": 450889,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Endless Draught",
+    "id": 450892,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Path of Resurgence",
+    "id": 450912,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Way of a Thousand Strikes",
+    "id": 450965,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pride of Pandaria",
+    "id": 450979,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "High Impact",
+    "id": 450982,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Against All Odds",
+    "id": 450986,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Veteran's Eye",
+    "id": 450987,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "One Versus Many",
+    "id": 450988,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Efficient Training",
+    "id": 450989,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Martial Precision",
+    "id": 450990,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Whirling Steel",
+    "id": 450991,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Predictive Training",
+    "id": 450992,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vigilant Watch",
+    "id": 450993,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Clarity of Purpose",
+    "id": 451017,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flurry Charge",
+    "id": 451021,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Overwhelming Force",
+    "id": 451024,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mantra of Tenacity",
+    "id": 451029,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mantra of Purity",
+    "id": 451036,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "High Impact",
+    "id": 451037,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "High Impact",
+    "id": 451039,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tiger's Vigor",
+    "id": 451041,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Roar from the Heavens",
+    "id": 451043,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Against All Odds",
+    "id": 451061,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Path of Resurgence",
+    "id": 451084,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Clarity of Purpose",
+    "id": 451181,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Whirling Steel",
+    "id": 451214,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Predictive Training",
+    "id": 451230,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vigilant Watch",
+    "id": 451233,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flurry Strike",
+    "id": 451250,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mantra of Purity",
+    "id": 451253,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Momentum Boost",
+    "id": 451294,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Momentum Boost",
+    "id": 451297,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Momentum Boost",
+    "id": 451298,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Cocoon",
+    "id": 451299,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mantra of Purity",
+    "id": 451452,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Brawler's Intensity",
+    "id": 451485,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Courageous Impulse",
+    "id": 451495,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Energy Burst",
+    "id": 451498,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Energy Burst",
+    "id": 451500,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Balanced Stratagem",
+    "id": 451508,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Balanced Stratagem",
+    "id": 451514,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sequenced Strikes",
+    "id": 451515,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Revolving Whirl",
+    "id": 451524,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Knowledge of the Broken Temple",
+    "id": 451529,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Singularly Focused Jade",
+    "id": 451573,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Communion With Wind",
+    "id": 451576,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Whirling Dragon Punch",
+    "id": 451767,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dual Threat",
+    "id": 451823,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dual Threat",
+    "id": 451835,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dual Threat",
+    "id": 451839,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Knowledge of the Broken Temple",
+    "id": 451859,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jade Swiftness",
+    "id": 451943,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Expel Harm",
+    "id": 451968,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Coalescence",
+    "id": 452058,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flurry of Xuen",
+    "id": 452117,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flurry of Xuen",
+    "id": 452130,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flurry of Xuen",
+    "id": 452137,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Coalescence",
+    "id": 452168,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Overwhelming Force",
+    "id": 452225,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Overwhelming Force",
+    "id": 452333,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Roar from the Heavens",
+    "id": 452701,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Combat Wisdom",
+    "id": 453327,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Combat Wisdom",
+    "id": 453328,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Combat Wisdom",
+    "id": 453334,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Brewmaster 11.0 Class Set 2pc",
+    "id": 453623,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Brewmaster 11.0 Class Set 4pc",
+    "id": 453624,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Windwalker 11.0 Class Set 4pc",
+    "id": 453625,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Windwalker 11.0 Class Set 2pc",
+    "id": 453626,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Mistweaver 11.0 Class Set 4pc",
+    "id": 453627,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Mistweaver 11.0 Class Set 2pc",
+    "id": 453628,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "August Blessing",
+    "id": 454483,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "One With the Wind",
+    "id": 454484,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tiger Strikes",
+    "id": 454485,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "August Blessing",
+    "id": 454494,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tiger's Ferocity",
+    "id": 454502,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Windwalker 11.0 Class Set 4pc",
+    "id": 454505,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tiger's Ferocity",
+    "id": 454508,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mighty Stomp",
+    "id": 454523,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Memory of the Monastery",
+    "id": 454969,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Memory of the Monastery",
+    "id": 454970,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ox Stance",
+    "id": 455068,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ox Stance",
+    "id": 455071,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elixir of Determination",
+    "id": 455139,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elixir of Determination",
+    "id": 455179,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elixir of Determination",
+    "id": 455180,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heart of the Jade Serpent",
+    "id": 456368,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Harmony",
+    "id": 457013,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Harmony",
+    "id": 457110,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flow of Battle",
+    "id": 457257,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flow of Battle",
+    "id": 457271,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pressure Points",
+    "id": 457389,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Courage of the White Tiger",
+    "id": 457917,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jadefire Stomp",
+    "id": 457974,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lotus Infusion",
+    "id": 458431,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ferociousness",
+    "id": 458623,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mana Tea",
+    "id": 459636,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Courage of the White Tiger",
+    "id": 460127,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Burst",
+    "id": 460485,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Burst",
+    "id": 460490,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Burst",
+    "id": 461404,
+    "gcd": 1.5,
+    "castTime": 1
+  },
+  {
+    "name": "Brewmaster Monk",
+    "id": 462087,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk",
+    "id": 462088,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mistweaver Monk",
+    "id": 462090,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Windwalker Monk",
+    "id": 462091,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Refreshment",
+    "id": 467270,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Healing Elixir",
+    "id": 467281,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jadefire Teachings (desc=Way of the Crane)",
+    "id": 467293,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rushing Wind Kick",
+    "id": 467307,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Jade Empowerment",
+    "id": 467316,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jade Empowerment",
+    "id": 467317,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rushing Winds",
+    "id": 467341,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rushing Wind Kick",
+    "id": 468179,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glyph of Tiger Palm",
+    "id": 468605,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Flurry Strikes",
+    "id": 470670,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feather Feet (desc=PvP Talent)",
+    "id": 474441,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Restoration 11.1 Class Set 2pc",
+    "id": 1215502,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Insurance!",
+    "id": 1215515,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Insurance!",
+    "id": 1215518,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Mistweaver 11.1 Class Set 2pc",
+    "id": 1215543,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Insurance!",
+    "id": 1215544,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Insurance!",
+    "id": 1215545,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Mistweaver 11.1 Class Set 4pc",
+    "id": 1215609,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Windwalker 11.1 Class Set 2pc",
+    "id": 1215717,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Windwalker 11.1 Class Set 4pc",
+    "id": 1215718,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Brewmaster 11.1 Class Set 2pc",
+    "id": 1215996,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Brewmaster 11.1 Class Set 4pc",
+    "id": 1215997,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Winning Streak!",
+    "id": 1216182,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cashout!",
+    "id": 1216498,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Slicing Winds",
+    "id": 1217407,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Slicing Winds",
+    "id": 1217408,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Slicing Winds",
+    "id": 1217409,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Slicing Winds",
+    "id": 1217410,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Slicing Winds",
+    "id": 1217411,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Slicing Winds",
+    "id": 1217412,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Slicing Winds",
+    "id": 1217413,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Luck of the Draw!",
+    "id": 1217990,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Opportunistic Strike",
+    "id": 1217999,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Luck of the Draw!",
+    "id": 1218553,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Windwalker Monk",
+    "id": 1222923,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Luck of the Draw!",
+    "id": 1226058,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Single-Button Assistant",
+    "id": 1229376,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Monk Master of Harmony 11.2 Class Set 2pc",
+    "id": 1236377,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Conduit of the Celestials 11.2 Class Set 4pc",
+    "id": 1236382,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flurry Charge",
+    "id": 1237196,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Renewing Mist",
+    "id": 1238851,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jade Serpent's Blessing",
+    "id": 1238901,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heart of the Jade Serpent",
+    "id": 1238904,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Harmonic Surge",
+    "id": 1239442,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Harmonic Surge",
+    "id": 1239443,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Potential Energy",
+    "id": 1239483,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Celestial Infusion",
+    "id": 1241059,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Niuzao's Resolve",
+    "id": 1241097,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Niuzao's Resolve",
+    "id": 1241109,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Zen State",
+    "id": 1241136,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mighty Stomp",
+    "id": 1242270,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stomp",
+    "id": 1242352,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stomp",
+    "id": 1242373,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Celestial Harmony",
+    "id": 1242405,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Serene Vitality",
+    "id": 1242468,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jade Infusion",
+    "id": 1242910,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Way of the Serpent",
+    "id": 1243155,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Diffuse Magic",
+    "id": 1243287,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Skyfire Heel",
+    "id": 1248704,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Skyfire Heel",
+    "id": 1248705,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Skyfire Heel",
+    "id": 1248712,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crashing Fists",
+    "id": 1248747,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cyclone's Drift",
+    "id": 1248749,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jadefire Stomp",
+    "id": 1248812,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jadefire Stomp",
+    "id": 1248815,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Airborne Rhythm",
+    "id": 1248833,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Airborne Rhythm",
+    "id": 1248835,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hurricane's Vault",
+    "id": 1248837,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Slicing Winds",
+    "id": 1248946,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Celestial Conduit",
+    "id": 1248989,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Celestial Conduit",
+    "id": 1248992,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Zenith",
+    "id": 1249625,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Combo Strikes: Rising Sun Kick",
+    "id": 1249753,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Combo Strikes: Spinning Crane Kick",
+    "id": 1249754,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Combo Strikes: Tiger Palm",
+    "id": 1249756,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Combo Strikes: Blackout Kick",
+    "id": 1249757,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Combo Strikes: Fists of Fury",
+    "id": 1249758,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Combo Strikes: Slicing Winds",
+    "id": 1249759,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Combo Strikes: Storm, Earth, and Fire",
+    "id": 1249762,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Combo Strikes: Zenith",
+    "id": 1249763,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Combo Strikes: Crackling Jade Lightning",
+    "id": 1249764,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Combo Strikes: Whirling Dragon Punch",
+    "id": 1249765,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Combo Strikes: Strike of the Windlord",
+    "id": 1249766,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Combo Strikes: Celestial Conduit",
+    "id": 1249790,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Combo Strikes: Touch of Death",
+    "id": 1249791,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Obsidian Spiral",
+    "id": 1249832,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Obsidian Spiral",
+    "id": 1249833,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Harmonic Combo",
+    "id": 1250041,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Echo Technique",
+    "id": 1250042,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rushing Wind Kick",
+    "id": 1250566,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spinning Crane Kick",
+    "id": 1250999,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Brewmaster Monk",
+    "id": 1256978,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Windwalker Monk",
+    "id": 1258122,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mistweaver Monk",
+    "id": 1258138,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Brewmaster Monk",
+    "id": 1258153,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Intimidation",
+    "id": 1258508,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Guttural Roar",
+    "id": 1258509,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spiritfont",
+    "id": 1260511,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spiritfont",
+    "id": 1260565,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elevated Stagger",
+    "id": 1260619,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spiritfont",
+    "id": 1260670,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spiritfont",
+    "id": 1260677,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spiritfont",
+    "id": 1260680,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fast Feet",
+    "id": 1261543,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tigereye Brew",
+    "id": 1261703,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tigereye Brew",
+    "id": 1261724,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tigereye Brew",
+    "id": 1261844,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tigereye Brew",
+    "id": 1261849,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fuel on the Fire",
+    "id": 1262017,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fuel on the Fire",
+    "id": 1262035,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fuel on the Fire",
+    "id": 1262040,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tigereye Brew",
+    "id": 1262042,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fuel on the Fire",
+    "id": 1262159,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empty the Cellar",
+    "id": 1262329,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Jade Flash",
+    "id": 1262334,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stand Ready",
+    "id": 1262603,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flurry Charge",
+    "id": 1262605,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Weapons of the Wall",
+    "id": 1262610,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shado Over the Battlefield",
+    "id": 1262612,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Awakening Spirit",
+    "id": 1262628,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vital Flame",
+    "id": 1262659,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Yu'lon's Avatar",
+    "id": 1262667,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flowing Wisdom",
+    "id": 1262672,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flowing Wisdom",
+    "id": 1262682,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stampede of the Ancients",
+    "id": 1262756,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empty the Cellar",
+    "id": 1262765,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Empty the Cellar",
+    "id": 1262768,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heart of the Ox",
+    "id": 1263245,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Swift as a Coursing River",
+    "id": 1263345,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Swift as a Coursing River",
+    "id": 1263346,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Celestial Flames",
+    "id": 1263353,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vital Flame",
+    "id": 1263408,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empty the Cellar",
+    "id": 1263438,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Awakening Spirit",
+    "id": 1263631,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Celestial Flames",
+    "id": 1263641,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Celestial Flames",
+    "id": 1263661,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Celestial Flames",
+    "id": 1263667,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Brewmaster 12.0 Class Set 2pc",
+    "id": 1264838,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Brewmaster 12.0 Class Set 4pc",
+    "id": 1264839,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Mistweaver 12.0 Class Set 2pc",
+    "id": 1264840,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Mistweaver 12.0 Class Set 4pc",
+    "id": 1264841,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Windwalker12.0 Class Set 2pc",
+    "id": 1264842,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Windwalker12.0 Class Set 4pc",
+    "id": 1264843,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bring Me Another",
+    "id": 1265129,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empty Barrel",
+    "id": 1265133,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bring Me Another",
+    "id": 1265138,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Refreshing Drink",
+    "id": 1265140,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bring Me Another",
+    "id": 1265141,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Refreshing Drink",
+    "id": 1265145,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empty Barrel",
+    "id": 1265307,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Empty Barrel",
+    "id": 1265351,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Silent Sanctuary",
+    "id": 1266719,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Silent Sanctuary",
+    "id": 1266720,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stillstep Coil",
+    "id": 1266733,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Serene Surge",
+    "id": 1266734,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Serene Surge",
+    "id": 1266735,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reinvigoration",
+    "id": 1266740,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reinvigoration",
+    "id": 1266743,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vital Clarity",
+    "id": 1266748,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mist Caller",
+    "id": 1266811,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Emperor's Elixir",
+    "id": 1268807,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Misty Coalescence",
+    "id": 1268817,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soothing Mist",
+    "id": 1268958,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rushing Wind Kick",
+    "id": 1269159,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tranquil Tea",
+    "id": 1270621,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Harmonic Surge",
+    "id": 1270958,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Harmonic Surge",
+    "id": 1270990,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Harmonic Surge",
+    "id": 1271011,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Harmonic Surge",
+    "id": 1271045,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Potential Energy",
+    "id": 1271048,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meditative Focus",
+    "id": 1271105,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Amplified Rush",
+    "id": 1271431,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Universal Energy",
+    "id": 1272175,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sunfire Spiral",
+    "id": 1272415,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Transfer",
+    "id": 1272452,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Transfer",
+    "id": 1272454,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Extra Kick",
+    "id": 1272464,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Weapon of Wind",
+    "id": 1272678,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Martial Agility",
+    "id": 1272685,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Zenith Stomp",
+    "id": 1272694,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Zenith Stomp",
+    "id": 1272696,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tiger Fang",
+    "id": 1272781,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wisdom of the Wall",
+    "id": 1272821,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Combat Stance",
+    "id": 1272844,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Initiator's Edge",
+    "id": 1272849,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Initiator's Edge",
+    "id": 1272850,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Path of the Falling Star",
+    "id": 1273154,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Morning Breeze",
+    "id": 1277302,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Warding",
+    "id": 1277444,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chi Warding",
+    "id": 1277446,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mistline",
+    "id": 1280297,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk - Midnight PrePatch - 11.2 Class Set 2pc",
+    "id": 1283664,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk - Midnight PrePatch - 11.2 Class Set 4pc",
+    "id": 1283665,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk - Midnight PrePatch - 11.2 Class Set 2pc - Healing",
+    "id": 1283666,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk - Midnight PrePatch - 11.2 Class Set 4pc - Healing",
+    "id": 1283667,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Serene Vitality",
+    "id": 1285660,
+    "gcd": 0,
+    "castTime": 0
+  }
+]

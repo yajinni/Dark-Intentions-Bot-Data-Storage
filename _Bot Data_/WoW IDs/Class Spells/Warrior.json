@@ -1,0 +1,3766 @@
+﻿[
+  {
+    "name": "Vanguard",
+    "id": 71,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Charge",
+    "id": 100,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Taunt",
+    "id": 355,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rend",
+    "id": 772,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Cleave",
+    "id": 845,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Shield Wall",
+    "id": 871,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demoralizing Shout",
+    "id": 1160,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Challenging Shout",
+    "id": 1161,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Slam",
+    "id": 1464,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Whirlwind",
+    "id": 1680,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Hamstring",
+    "id": 1715,
+    "gcd": 0.75,
+    "castTime": 0
+  },
+  {
+    "name": "Recklessness",
+    "id": 1719,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shield Block",
+    "id": 2565,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Parry",
+    "id": 3127,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Intervene",
+    "id": 3411,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Intimidating Shout",
+    "id": 5246,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Revenge Trigger",
+    "id": 5301,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Revenge!",
+    "id": 5302,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Execute",
+    "id": 5308,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Thunder Clap",
+    "id": 6343,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Heroic Leap",
+    "id": 6544,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pummel",
+    "id": 6552,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Revenge",
+    "id": 6572,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Battle Shout",
+    "id": 6673,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Overpower",
+    "id": 7384,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Mortal Strike",
+    "id": 12294,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Piercing Howl",
+    "id": 12323,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Whirlwind",
+    "id": 12950,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Last Stand",
+    "id": 12975,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Berserker Rage",
+    "id": 18499,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Devastate",
+    "id": 20243,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Bloodthirst",
+    "id": 23881,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Spell Reflection",
+    "id": 23920,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shield Slam",
+    "id": 23922,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Sudden Death",
+    "id": 29725,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Second Wind",
+    "id": 29838,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Victorious State",
+    "id": 32215,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Victorious",
+    "id": 32216,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Victory Rush",
+    "id": 34428,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Whirlwind Off-Hand",
+    "id": 44949,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Titan's Grip",
+    "id": 46917,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shockwave",
+    "id": 46968,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Bladestorm",
+    "id": 50622,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heroic Leap",
+    "id": 52174,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sudden Death",
+    "id": 52437,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heroic Throw",
+    "id": 57755,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Glyph of Gushing Wound (desc=Protection)",
+    "id": 58099,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glyph of Mighty Victory",
+    "id": 58104,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gushing Wound",
+    "id": 58279,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Mighty Victory",
+    "id": 58281,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Shattering Throw",
+    "id": 64380,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shattering Throw",
+    "id": 64382,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Thunder Strike",
+    "id": 68163,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Glyph of Thunder Strike (desc=Arms, Protection)",
+    "id": 68164,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mastery: Unshackled Fury",
+    "id": 76856,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mastery: Critical Block",
+    "id": 76857,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Titan's Grip: Single-Minded Fury",
+    "id": 81099,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Raging Blow",
+    "id": 85288,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Raging Blow",
+    "id": 85384,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Whirlwind",
+    "id": 85739,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Plate Specialization",
+    "id": 86101,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Plate Specialization",
+    "id": 86110,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Plate Specialization",
+    "id": 86535,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Attack",
+    "id": 88163,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bladestorm Off-Hand",
+    "id": 95738,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Raging Blow",
+    "id": 96103,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rallying Cry",
+    "id": 97462,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Rallying Cry",
+    "id": 97463,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Double Time",
+    "id": 103827,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warbringer",
+    "id": 103828,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Charge",
+    "id": 105771,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Storm Bolt",
+    "id": 107570,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Avatar",
+    "id": 107574,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hawk Feast",
+    "id": 112792,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Burning Anger",
+    "id": 112793,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Bloodbath",
+    "id": 113344,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mortal Wounds",
+    "id": 115804,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glyph of Thunder Strike",
+    "id": 115942,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glyph of Hawk Feast",
+    "id": 115943,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hawk Feast",
+    "id": 115944,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glyph of Burning Anger (desc=Fury, Protection)",
+    "id": 115946,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Burning Anger",
+    "id": 115993,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bloodthirst Heal",
+    "id": 117313,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Die by the Sword",
+    "id": 118038,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Victory Rush",
+    "id": 118779,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Glyph of the Blazing Trail",
+    "id": 123779,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blazing Trail",
+    "id": 123780,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Block",
+    "id": 123829,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Charge",
+    "id": 126664,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shockwave",
+    "id": 132168,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Storm Bolt",
+    "id": 132169,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shield Block",
+    "id": 132404,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior",
+    "id": 137047,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Protection Warrior",
+    "id": 137048,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arms Warrior",
+    "id": 137049,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fury Warrior",
+    "id": 137050,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glyph of the Weaponmaster",
+    "id": 146974,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Weaponmaster",
+    "id": 147367,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Intervene",
+    "id": 147833,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Weaponmaster",
+    "id": 148114,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Anger Management",
+    "id": 152278,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ravager",
+    "id": 156287,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Riposte",
+    "id": 161798,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Execute",
+    "id": 163201,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Execute Off-Hand",
+    "id": 163558,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Colossus Smash",
+    "id": 167105,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Enrage",
+    "id": 184361,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Enrage",
+    "id": 184362,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Enraged Regeneration",
+    "id": 184364,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rampage",
+    "id": 184367,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Rampage",
+    "id": 184707,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rampage",
+    "id": 184709,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tactician",
+    "id": 184783,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Whirlwind",
+    "id": 190411,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Ignore Pain",
+    "id": 190456,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Intercept",
+    "id": 198304,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Charge",
+    "id": 198337,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sharpen Blade (desc=PvP Talent)",
+    "id": 198817,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Morale Killer (desc=PvP Talent)",
+    "id": 199023,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thunderstruck (desc=PvP Talent)",
+    "id": 199042,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thunderstruck (desc=PvP Talent)",
+    "id": 199045,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Intervene",
+    "id": 199114,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Whirlwind",
+    "id": 199658,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Whirlwind",
+    "id": 199667,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Whirlwind",
+    "id": 199850,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Whirlwind Off-Hand",
+    "id": 199851,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Whirlwind",
+    "id": 199852,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tactician",
+    "id": 199854,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rampage",
+    "id": 201363,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rampage",
+    "id": 201364,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Indomitable",
+    "id": 202095,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Second Wind",
+    "id": 202147,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bounding Stride",
+    "id": 202163,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bounding Stride",
+    "id": 202164,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Impending Victory",
+    "id": 202166,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Impending Victory",
+    "id": 202168,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Fervor of Battle",
+    "id": 202316,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Best Served Cold",
+    "id": 202560,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Into the Fray",
+    "id": 202602,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Into the Fray",
+    "id": 202603,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Booming Voice",
+    "id": 202743,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heavy Repercussions",
+    "id": 203177,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crackling Thunder",
+    "id": 203201,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Massacre",
+    "id": 206315,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Colossus Smash",
+    "id": 208086,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warpaint",
+    "id": 208154,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Battle Trance (desc=PvP Talent)",
+    "id": 213857,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Battle Trance (desc=PvP Talent)",
+    "id": 213858,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thunderstruck (desc=PvP Talent)",
+    "id": 213913,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rebound (desc=PvP Talent)",
+    "id": 213915,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Trauma",
+    "id": 215537,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Trauma",
+    "id": 215538,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fresh Meat",
+    "id": 215568,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Inner Rage",
+    "id": 215573,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rampage",
+    "id": 218617,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bladestorm",
+    "id": 227847,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Ravager",
+    "id": 228920,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Shield Slam (desc=Rank 3)",
+    "id": 231834,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dual Wield",
+    "id": 231842,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shield Block",
+    "id": 231847,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Charge",
+    "id": 236027,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Devastator",
+    "id": 236279,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Devastator",
+    "id": 236282,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warbringer",
+    "id": 237744,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sweeping Strikes",
+    "id": 260708,
+    "gcd": 0.75,
+    "castTime": 0
+  },
+  {
+    "name": "Execute",
+    "id": 260798,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Deep Wounds",
+    "id": 262115,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Executioner's Precision",
+    "id": 262128,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dreadnaught",
+    "id": 262150,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warbreaker",
+    "id": 262161,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "War Machine",
+    "id": 262231,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "War Machine",
+    "id": 262232,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Punish",
+    "id": 275334,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Punish",
+    "id": 275335,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Storm Surge",
+    "id": 275336,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rumbling Earth",
+    "id": 275339,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Seasoned Soldier",
+    "id": 279423,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meat Cleaver",
+    "id": 280392,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Whirlwind",
+    "id": 280715,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sudden Death",
+    "id": 280721,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Execute",
+    "id": 280735,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Sudden Death",
+    "id": 280776,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Execute",
+    "id": 280849,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Execute",
+    "id": 281000,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Massacre",
+    "id": 281001,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spear of Bastion (desc=Kyrian)",
+    "id": 307865,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Spear of Bastion (desc=Kyrian)",
+    "id": 307961,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spear of Bastion (desc=Kyrian)",
+    "id": 307963,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spear of Bastion Visual (desc=Kyrian)",
+    "id": 308062,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elysian Might",
+    "id": 311193,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cleave",
+    "id": 315955,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dreadnaught",
+    "id": 315961,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dreadnaught",
+    "id": 315962,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fresh Meat",
+    "id": 316044,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Execute",
+    "id": 316402,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Execute",
+    "id": 316405,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Martial Prowess",
+    "id": 316440,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Intervene",
+    "id": 316531,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Indomitable",
+    "id": 316643,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Execute",
+    "id": 317073,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Condemn (desc=Venthyr)",
+    "id": 317320,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Condemn (desc=Venthyr)",
+    "id": 317349,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Condemn (desc=Venthyr)",
+    "id": 317483,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Condemn (desc=Venthyr)",
+    "id": 317485,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Condemn (desc=Venthyr)",
+    "id": 317488,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Condemn Off-Hand (desc=Venthyr)",
+    "id": 317489,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Condemned (desc=Venthyr)",
+    "id": 317491,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Condemn (desc=Venthyr)",
+    "id": 317497,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Victory Rush (desc=Rank 2)",
+    "id": 319158,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Conqueror's Banner (desc=Necrolord)",
+    "id": 324143,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Glory (desc=Necrolord)",
+    "id": 325787,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Conqueror's Banner",
+    "id": 325788,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Conqueror's Banner (desc=Necrolord)",
+    "id": 325862,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ancient Aftershock (desc=Night Fae)",
+    "id": 325886,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Ancient Aftershock",
+    "id": 326062,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glory (desc=Necrolord)",
+    "id": 326068,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ancient Aftershock",
+    "id": 326076,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ancient Aftershock",
+    "id": 326083,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Condemn (desc=Venthyr)",
+    "id": 330325,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Condemn (desc=Venthyr)",
+    "id": 330334,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Hateful Fetish",
+    "id": 333892,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Collateral Damage",
+    "id": 334779,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Collateral Damage",
+    "id": 334783,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ravager",
+    "id": 334934,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frenzy",
+    "id": 335077,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frenzy",
+    "id": 335082,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bloodbath",
+    "id": 335096,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Crushing Blow",
+    "id": 335097,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Crushing Blow",
+    "id": 335098,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crushing Blow",
+    "id": 335100,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Leaper",
+    "id": 335214,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thunderlord",
+    "id": 335229,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "The Wall",
+    "id": 335239,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Misshapen Mirror",
+    "id": 335253,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spell Reflection",
+    "id": 335255,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Signet of Tormented Kings",
+    "id": 335266,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Battlelord",
+    "id": 335274,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unhinged",
+    "id": 335282,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Exploiter",
+    "id": 335451,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Exploiter",
+    "id": 335452,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Enduring Blow",
+    "id": 335458,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cadence of Fujieda",
+    "id": 335555,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cadence of Fujieda",
+    "id": 335558,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Deathmaker",
+    "id": 335567,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reckless Defense",
+    "id": 335582,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Will of the Berserker",
+    "id": 335594,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Will of the Berserker",
+    "id": 335597,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unbreakable Will",
+    "id": 335629,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unbreakable Will",
+    "id": 335635,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reprisal",
+    "id": 335718,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reprisal",
+    "id": 335734,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Seismic Reverberation",
+    "id": 335758,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Seismic Reverberation",
+    "id": 335759,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Seismic Reverberation",
+    "id": 335760,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mortal Strike",
+    "id": 339385,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ancient Aftershock",
+    "id": 343607,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ancient Aftershock",
+    "id": 343626,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Raise Banner (desc=Necrolord)",
+    "id": 343666,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Conqueror's Frenzy (desc=Necrolord)",
+    "id": 343672,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Conqueror's Banner (desc=Necrolord)",
+    "id": 343714,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Battlelord",
+    "id": 346369,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Battlelord",
+    "id": 346370,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Whirlwind",
+    "id": 347360,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Whirlwind Off-Hand",
+    "id": 347362,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Whirlwind",
+    "id": 347363,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Grisly Icicle",
+    "id": 348007,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Repulsive Pennant",
+    "id": 350605,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glory",
+    "id": 353577,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sinful Surge",
+    "id": 354131,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nature's Fury",
+    "id": 354161,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elysian Might",
+    "id": 357996,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spear of Bastion Visual (desc=Kyrian)",
+    "id": 358785,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spear of Bastion Visual (desc=Kyrian)",
+    "id": 358789,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elysian Might",
+    "id": 364930,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nature's Fury",
+    "id": 364931,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sinful Surge",
+    "id": 364933,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Glory",
+    "id": 364934,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Time Spiral",
+    "id": 375258,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Champion's Spear",
+    "id": 376079,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Champion's Spear",
+    "id": 376080,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Champion's Spear",
+    "id": 376081,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Champion's Spear",
+    "id": 376083,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Champion's Spear",
+    "id": 376084,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Champion's Spear Chain",
+    "id": 376085,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Leeching Strikes",
+    "id": 382258,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fast Footwork",
+    "id": 382260,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pain and Gain",
+    "id": 382549,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pain and Gain",
+    "id": 382551,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crushing Force",
+    "id": 382764,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Overwhelming Rage",
+    "id": 382767,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "One-Handed Weapon Specialization",
+    "id": 382895,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Two-Handed Weapon Specialization",
+    "id": 382896,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dual Wield Specialization",
+    "id": 382900,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reinforced Plates",
+    "id": 382939,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wild Strikes",
+    "id": 382946,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Barbaric Training",
+    "id": 383082,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fueled by Violence",
+    "id": 383103,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fueled by Violence",
+    "id": 383104,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Concussive Blows",
+    "id": 383115,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Concussive Blows",
+    "id": 383116,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Concussive Blows",
+    "id": 383124,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bloodletting",
+    "id": 383154,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Sweeping Strikes",
+    "id": 383155,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bloodborne",
+    "id": 383287,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Deft Experience",
+    "id": 383295,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Critical Thinking",
+    "id": 383297,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sharpened Blades",
+    "id": 383341,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Impale",
+    "id": 383430,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Invigorating Fury",
+    "id": 383468,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fatality",
+    "id": 383703,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fatal Mark",
+    "id": 383704,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fatal Mark",
+    "id": 383706,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frenzied Enrage",
+    "id": 383848,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spite",
+    "id": 383852,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Raging Blow",
+    "id": 383854,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hack and Slash",
+    "id": 383873,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hack and Slash",
+    "id": 383877,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vicious Contempt",
+    "id": 383885,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Annihilator",
+    "id": 383915,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Annihilator",
+    "id": 383916,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cold Steel, Hot Blood",
+    "id": 383959,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cold Steel, Hot Blood",
+    "id": 383978,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Brutal Vitality",
+    "id": 384036,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Strategist",
+    "id": 384041,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Enduring Alacrity",
+    "id": 384063,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Focused Vigor",
+    "id": 384067,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Impenetrable Wall",
+    "id": 384072,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Berserker Shout",
+    "id": 384100,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Berserker Shout",
+    "id": 384102,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wrecking Throw",
+    "id": 384110,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Armored to the Teeth",
+    "id": 384124,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bloodsurge",
+    "id": 384361,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bloodsurge",
+    "id": 384362,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gushing Wound",
+    "id": 385042,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Odyn's Fury",
+    "id": 385059,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Odyn's Fury",
+    "id": 385060,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Odyn's Fury Off-Hand",
+    "id": 385061,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Odyn's Fury",
+    "id": 385062,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Whirlwind",
+    "id": 385228,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Whirlwind",
+    "id": 385233,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Whirlwind Off-Hand",
+    "id": 385234,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spell Reflection",
+    "id": 385391,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Overpower",
+    "id": 385571,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bloodborne",
+    "id": 385703,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bloodborne",
+    "id": 385704,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thunderlord",
+    "id": 385840,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tough as Nails",
+    "id": 385888,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tough as Nails",
+    "id": 385890,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shield Charge",
+    "id": 385952,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Shield Charge",
+    "id": 385953,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shield Charge",
+    "id": 385954,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Enduring Defenses",
+    "id": 386027,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Brace For Impact",
+    "id": 386029,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Brace For Impact",
+    "id": 386030,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wrath and Fury",
+    "id": 386045,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Disrupting Shout",
+    "id": 386071,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Battle Stance",
+    "id": 386164,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Berserker Stance",
+    "id": 386196,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Defensive Stance",
+    "id": 386208,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Battle-Scarred Veteran",
+    "id": 386394,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Battle-Scarred Veteran",
+    "id": 386397,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unhinged",
+    "id": 386628,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Battlelord",
+    "id": 386630,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Battlelord",
+    "id": 386631,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Battlelord",
+    "id": 386632,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Executioner's Precision",
+    "id": 386633,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Executioner's Precision",
+    "id": 386634,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rend",
+    "id": 388539,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Storm Wall",
+    "id": 388808,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Storm of Swords",
+    "id": 388903,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Critical Thinking",
+    "id": 389306,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Honed Reflexes",
+    "id": 391271,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Critical Thinking",
+    "id": 392776,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cruel Strikes",
+    "id": 392777,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wild Strikes",
+    "id": 392778,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frothing Berserker",
+    "id": 392792,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frothing Berserker",
+    "id": 392793,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cruelty",
+    "id": 392931,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wrath and Fury",
+    "id": 392936,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bloodcraze",
+    "id": 393950,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bloodcraze",
+    "id": 393951,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Instigate",
+    "id": 394311,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shattering Throw",
+    "id": 394352,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wrecking Throw",
+    "id": 394354,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reckless Abandon",
+    "id": 396749,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crushing Blow",
+    "id": 396752,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Defender's Aegis",
+    "id": 397103,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Execute",
+    "id": 397708,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Overpowering Finish",
+    "id": 400205,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Strength of Arms",
+    "id": 400803,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heaved Armament",
+    "id": 401772,
+    "gcd": 0,
+    "castTime": 1.5
+  },
+  {
+    "name": "Glyph of the Heaved Armament",
+    "id": 401773,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Truth's Wake",
+    "id": 403695,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Arms 10.1 Class Set 2pc",
+    "id": 405577,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Arms 10.1 Class Set 4pc",
+    "id": 405578,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Fury 10.1 Class Set 2pc",
+    "id": 405579,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Fury 10.1 Class Set 4pc",
+    "id": 405580,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Protection 10.1 Class Set 2pc",
+    "id": 405581,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Protection 10.1 Class Set 4pc",
+    "id": 405582,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Merciless Assault",
+    "id": 409983,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crushing Advance",
+    "id": 410138,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Arms 10.1 Class Set 4pc",
+    "id": 410191,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Earthen Tenacity",
+    "id": 410218,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Earthen Smash",
+    "id": 410219,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Whirlwind",
+    "id": 411547,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crushing Advance",
+    "id": 411703,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Arms 10.2 Class Set 2pc",
+    "id": 422923,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Arms 10.2 Class Set 4pc",
+    "id": 422924,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Fury 10.2 Class Set 2pc",
+    "id": 422925,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Fury 10.2 Class Set 4pc",
+    "id": 422926,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Protection 10.2 Class Set 2pc",
+    "id": 422927,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Protection 10.2 Class Set 4pc",
+    "id": 422928,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Furious Bloodthirst",
+    "id": 423211,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Battlefield Commander",
+    "id": 424742,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Battlefield Commander (desc=PvP Talent)",
+    "id": 424840,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fervid",
+    "id": 425517,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fervid Bite",
+    "id": 425534,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Finishing Wound",
+    "id": 426284,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fervid Opposition",
+    "id": 427413,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Colossal Might",
+    "id": 429634,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dominance of the Colossus",
+    "id": 429636,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "One Against Many",
+    "id": 429637,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Martial Expert",
+    "id": 429638,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Boneshaker",
+    "id": 429639,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tide of Battle",
+    "id": 429641,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mountain of Muscle and Scars",
+    "id": 429642,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "No Stranger to Pain",
+    "id": 429644,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Practiced Strikes",
+    "id": 429647,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Precise Might",
+    "id": 431548,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lightning Strikes",
+    "id": 434969,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Steadfast as the Peaks",
+    "id": 434970,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thunder Clap",
+    "id": 435203,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thunder Blast",
+    "id": 435222,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Thunder Blast",
+    "id": 435607,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thunder Blast",
+    "id": 435615,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lightning Strike",
+    "id": 435791,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ground Current",
+    "id": 436148,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thorim's Might",
+    "id": 436152,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Storm Bolts",
+    "id": 436162,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gathering Clouds",
+    "id": 436201,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demolish",
+    "id": 436358,
+    "gcd": 1.5,
+    "castTime": 0,
+    "isChanneled": true,
+    "channelTime": 2
+  },
+  {
+    "name": "Crashing Thunder",
+    "id": 436707,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Strength of the Mountain",
+    "id": 437068,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flashing Skies",
+    "id": 437079,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Burst of Power",
+    "id": 437118,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Burst of Power",
+    "id": 437121,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Avatar of the Storm",
+    "id": 437134,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Steadfast as the Peaks",
+    "id": 437152,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Keep Your Feet on the Ground",
+    "id": 438590,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Keep Your Feet on the Ground",
+    "id": 438591,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Storm Shield",
+    "id": 438597,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Storm Shield",
+    "id": 438598,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Powerful Enrage",
+    "id": 440277,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demolish",
+    "id": 440884,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demolish",
+    "id": 440886,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demolish",
+    "id": 440888,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Colossal Might",
+    "id": 440989,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Earthquaker",
+    "id": 440992,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Veteran Vitality",
+    "id": 440993,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arterial Bleed",
+    "id": 440995,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Second Wind",
+    "id": 441387,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shockwave",
+    "id": 441668,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Slayer's Dominance",
+    "id": 444767,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Imminent Demise",
+    "id": 444769,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Drive",
+    "id": 444770,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Show No Mercy",
+    "id": 444771,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Overwhelming Blades",
+    "id": 444772,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fierce Followthrough",
+    "id": 444773,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Opportunist",
+    "id": 444774,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reap the Storm",
+    "id": 444775,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Relentless Pursuit",
+    "id": 444776,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vicious Agility",
+    "id": 444777,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Culling Cyclone",
+    "id": 444778,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Slayer's Malice",
+    "id": 444779,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unrelenting Onslaught",
+    "id": 444780,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Slayer's Strike",
+    "id": 445579,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Executioner",
+    "id": 445584,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Imminent Demise",
+    "id": 445606,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Drive",
+    "id": 445630,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Overwhelmed",
+    "id": 445836,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Reap the Storm",
+    "id": 446005,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bladestorm",
+    "id": 446035,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Relentless Pursuit",
+    "id": 446040,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Relentless Pursuit",
+    "id": 446044,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tunneling",
+    "id": 446077,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Brutal Finish",
+    "id": 446085,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Brutal Finish",
+    "id": 446918,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wrecked",
+    "id": 447513,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fight Through the Flames",
+    "id": 452494,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Arms 11.0 Class Set 2pc",
+    "id": 453636,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Arms 11.0 Class Set 4pc",
+    "id": 453637,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Fury 11.0 Class Set 4pc",
+    "id": 453638,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Fury 11.0 Class Set 2pc",
+    "id": 453639,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Protection 11.0 Class Set 2pc",
+    "id": 453640,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Protection 11.0 Class Set 4pc",
+    "id": 453641,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Overpowering Might",
+    "id": 455483,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lethal Blows",
+    "id": 455485,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bloody Rampage",
+    "id": 455490,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Deep Thirst",
+    "id": 455495,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Expert Strategist",
+    "id": 455499,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Brutal Follow-Up",
+    "id": 455501,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Opportunist",
+    "id": 456120,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Snap Induction",
+    "id": 456270,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Steadfast as the Peaks",
+    "id": 456303,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Battle-Scarred Veteran",
+    "id": 456447,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Second Wind",
+    "id": 458245,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Even You Have Limits",
+    "id": 458386,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cleave",
+    "id": 458459,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Boneshaker",
+    "id": 458480,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fierce Followthrough",
+    "id": 458689,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lightning Strike Ground Current",
+    "id": 460670,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bloodbath",
+    "id": 461288,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arms Warrior",
+    "id": 462115,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior",
+    "id": 462116,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fury Warrior",
+    "id": 462117,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Protection Warrior",
+    "id": 462119,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arms Execute FX Test",
+    "id": 463815,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fury Execute FX Test",
+    "id": 463816,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fury Execute Off-Hand FX Test",
+    "id": 463817,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Revenge",
+    "id": 1215174,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Arms 11.1 Class Set 2pc",
+    "id": 1215713,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Fury 11.1 Class Set 2pc",
+    "id": 1215714,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Fury 11.1 Class Set 4pc",
+    "id": 1215715,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Arms 11.1 Class Set 4pc",
+    "id": 1215716,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Protection 11.1 Class Set 2pc",
+    "id": 1215994,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Protection 11.1 Class Set 4pc",
+    "id": 1215995,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Winning Streak!",
+    "id": 1216552,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pay Them Back",
+    "id": 1216556,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Winning Streak!",
+    "id": 1216561,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Double Down",
+    "id": 1216565,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Double Down",
+    "id": 1216569,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Luck of the Draw!",
+    "id": 1218163,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Berserker Roar (desc=PvP Talent)",
+    "id": 1219209,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Berserker Roar (desc=PvP Talent)",
+    "id": 1227751,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Single-Button Assistant",
+    "id": 1229376,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Armor Specialization",
+    "id": 1234769,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Best Served Cold",
+    "id": 1234772,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hunker Down",
+    "id": 1235022,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spellbreaker",
+    "id": 1235023,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unyielding Stance",
+    "id": 1235047,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heavy Handed",
+    "id": 1235088,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Whirling Blade",
+    "id": 1235113,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thunderstruck (desc=PvP Talent)",
+    "id": 1235657,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Last Stand",
+    "id": 1243659,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Resonant Voice",
+    "id": 1243660,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Interpose",
+    "id": 1244088,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Interpose",
+    "id": 1244091,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Piercing Howl",
+    "id": 1244157,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arms Warrior",
+    "id": 1256919,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Protection Warrior",
+    "id": 1256935,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fury Warrior",
+    "id": 1257520,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Protection Warrior",
+    "id": 1258163,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mastery: Master of Arms",
+    "id": 1258398,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Brute Force",
+    "id": 1261046,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Efficiency",
+    "id": 1261047,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Just Warming Up",
+    "id": 1261048,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Broad Strokes",
+    "id": 1261049,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Powerful Momentum",
+    "id": 1261050,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tactical Edge",
+    "id": 1261051,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crushing Combo",
+    "id": 1261056,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Master Tactician",
+    "id": 1261057,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Deep Wounds",
+    "id": 1261060,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mortal Wounds",
+    "id": 1261062,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Brute Force",
+    "id": 1261148,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tactical Edge",
+    "id": 1261185,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crushing Combo",
+    "id": 1261189,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Master Tactician",
+    "id": 1261216,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Champion's Spear",
+    "id": 1261759,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Devastating Focus",
+    "id": 1264330,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Arms 12.0 Class Set 2pc",
+    "id": 1264875,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Arms 12.0 Class Set 4pc",
+    "id": 1264876,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Fury 12.0 Class Set 2pc",
+    "id": 1264877,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Fury 12.0 Class Set 4pc",
+    "id": 1264878,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Protection 12.0 Class Set 2pc",
+    "id": 1264879,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Protection 12.0 Class Set 4pc",
+    "id": 1264880,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bloodborne",
+    "id": 1265406,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rampaging Ruin",
+    "id": 1265579,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rampaging Ruin",
+    "id": 1265580,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rampaging Ruin",
+    "id": 1265581,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rampaging Ruin",
+    "id": 1265582,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Master of Warfare",
+    "id": 1269306,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Master of Warfare",
+    "id": 1269307,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rampaging Berserker",
+    "id": 1269308,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rampaging Berserker",
+    "id": 1269309,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rampaging Berserker",
+    "id": 1269310,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Phalanx",
+    "id": 1269311,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Phalanx",
+    "id": 1269312,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Phalanx",
+    "id": 1269313,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Master of Warfare",
+    "id": 1269314,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Berserk",
+    "id": 1269349,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heroic Strike",
+    "id": 1269383,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Master of Warfare",
+    "id": 1269391,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Master of Warfare",
+    "id": 1269394,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Phalanx",
+    "id": 1270116,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Decimator",
+    "id": 1270704,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cut to the Bone",
+    "id": 1270709,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Celeritous Conclusion",
+    "id": 1270710,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Violent Euphoria",
+    "id": 1270717,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Deadly Focus",
+    "id": 1270718,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Conductivity",
+    "id": 1270723,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Capacitance",
+    "id": 1270724,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Violent Euphoria",
+    "id": 1270731,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cut to the Bone",
+    "id": 1270840,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Celeritous Conclusion",
+    "id": 1270843,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Celeritous Conclusion",
+    "id": 1270846,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Battle Shout Highlight",
+    "id": 1271909,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fearless",
+    "id": 1271925,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Field Dressing",
+    "id": 1271926,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Javelineer",
+    "id": 1271948,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Honed Reflexes",
+    "id": 1271964,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Champion's Spear",
+    "id": 1271980,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Champion's Spear",
+    "id": 1271981,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Champion's Spear",
+    "id": 1271982,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Champion's Leap",
+    "id": 1271985,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Martial Prowess",
+    "id": 1273062,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mass Execution",
+    "id": 1273075,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Javelineer",
+    "id": 1277104,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Javelineer",
+    "id": 1277108,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ignore Pain",
+    "id": 1277297,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Devastating Focus",
+    "id": 1277983,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Phalanx",
+    "id": 1278009,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stance Mastery",
+    "id": 1280961,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bloodthirst Heal",
+    "id": 1283442,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior - Midnight PrePatch - 11.2 Class Set 2pc",
+    "id": 1283642,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior - Midnight PrePatch - 11.2 Class Set 4pc",
+    "id": 1283643,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heroic Might",
+    "id": 1292058,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Phalanx",
+    "id": 1292071,
+    "gcd": 0,
+    "castTime": 0
+  }
+]
