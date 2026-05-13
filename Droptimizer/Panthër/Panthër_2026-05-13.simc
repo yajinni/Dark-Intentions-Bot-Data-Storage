@@ -1,0 +1,200 @@
+# Panthër - Feral - 2026-05-13 08:13 - US/Moon Guard
+# SimC Addon 12.0.5-02
+# WoW 12.0.5.67451, TOC 120005
+# Requires SimulationCraft 1000-01 or newer
+
+druid="Panthër"
+level=90
+race=worgen
+region=us
+server=moon_guard
+role=attack
+professions=leatherworking=74/skinning=105
+spec=feral
+# loot_spec=feral
+
+talents=CcGA8cL7tpvige+kkmGM9zUPWDAAAAAAjZwMzMzMmtl5BWGbzYm5BmZAAAAYJY2MMmZUzYWYmZGjZGDAAAAAAwAAAAIAY2mZpZbmlNwMDwiZwAAYmBAD
+
+# Saved Loadout: Single Target
+# talents=CcGA8cL7tpvige+kkmGM9zUPWDAAAAAAjZwMzMzMmtl5BWGbzYm5BmZAAAAYBMbGGzMYGzCzMzYMzYAAAAAAAGAAAAAgZbmFz2MLbgZGgFzgBAwMDAG
+# Saved Loadout: Vanguard
+# talents=CcGA8cL7tpvige+kkmGM9zUPWDAAAAAgZMzGjZmxY2WGbjtZmZmHYmBAAAgFwsxYMzgZMLMzMjxMzAAAAAAAYAAAAAAmlZWMLzstBmZAWMDGAAzMAYA
+# Saved Loadout: Aven
+# talents=CcGA8cL7tpvige+kkmGM9zUPWDAAAAAAjZwMzMjxstMPw2YbmZm5BmZAAAAYBMbMGzMYGzyYmZGjZGAAAAAAAGAAAAAgZZmFz2MLbgZGgFzgBAwMDAG
+# Saved Loadout: Saladbar
+# talents=CcGA8cL7tpvige+kkmGM9zUPWDAAAAAAjZwMzMzMmtlx2MbzYm5BmZAAAAYBMbMGzMYGzCzMzYMzMAAAAAAAGAAAAAgZZmFz2MLbgZGgFzgBAwMDAG
+# Saved Loadout: M+
+# talents=CcGA8cL7tpvige+kkmGM9zUPWDAAAAAAmZ2MzMzMmZ2M2GbzMzMPwMDAAAALgZzYYmBzYWMzMzsMmZAAAAAAwAAAAAYmlZbmZGAwCYmBYhBDAAgZ2wA
+# Saved Loadout: Dragons
+# talents=CcGA8cL7tpvige+kkmGM9zUPWDAAAAAAjZwMzMjxstM2mZbmZm5BmZAAAAYBMbMGzMYGzyYmZGjZGAAAAAAAGAAAAAgZZmFz2MLbgZGgFzgBAwMDAG
+# Saved Loadout: Chimney
+# talents=CcGA8cL7tpvige+kkmGM9zUPWDAAAAAAjZwMzMjxstMPw2YbmZm5BmZAAAAYBMbMGzMYGziZmZGjZGAAAAAAAGAAAAAgZbmFz2MLbgZGgFzgBAwMDAG
+
+# Branches of the Luminous Bloom (289)
+head=,id=250024,enchant_id=8017,gem_id=240892,bonus_id=6652/13534/13440/13338/13575/12806
+# Masterwork Sin'dorei Amulet (285)
+neck=,id=240950,gem_id=240983,bonus_id=12214/13667/12497/12066/8791/13622,crafted_stats=40/49,crafting_quality=5
+# Seedpods of the Luminous Bloom (276)
+shoulder=,id=250022,enchant_id=8001,bonus_id=13340/6652/13574/12798
+# Fluxweave Cloak (289)
+back=,id=251206,bonus_id=13440/6652/13577/12699/12806
+# Vest of the Void's Embrace (289)
+chest=,id=151313,enchant_id=7987,bonus_id=13440/6652/13577/12699/12806
+# Precious's Ribbon (1)
+shirt=,id=52019
+# Tabard of Brute Force (1)
+tabard=,id=43349
+# Silvermoon Agent's Deflectors (285)
+wrist=,id=244576,bonus_id=12214/13667/12497/12066/8960/12384/8791/13622/12667,crafted_stats=40/32,crafting_quality=5
+# Arbortenders of the Luminous Bloom (276)
+hands=,id=250025,bonus_id=6652/13337/13574/12798
+# Snapvine Cinch (289)
+waist=,id=251082,bonus_id=13440/6652/12667/13577/12699/12806
+# Phloemwraps of the Luminous Bloom (276)
+legs=,id=250023,enchant_id=8159,bonus_id=6652/13440/13339/13575/12798
+# Rootslippers of the Luminous Bloom (289)
+feet=,id=250026,enchant_id=7963,bonus_id=6652/13440/12806
+# Omission of Light (289)
+finger1=,id=251093,enchant_id=7967,gem_id=240892,bonus_id=13440/6652/13668/12699/12806
+# Occlusion of Void (276)
+finger2=,id=251217,enchant_id=7967,gem_id=240892,bonus_id=13440/6652/13668/12699/12798
+# Algeth'ar Puzzle Box (289)
+trinket1=,id=193701,bonus_id=13440/6652/12699/12806
+# Gaze of the Alnseer (276)
+trinket2=,id=249343,bonus_id=6652/13334/12798
+# Blood Knight's Impetus (285)
+main_hand=,id=237847,enchant_id=8039,bonus_id=12214/13667/12497/12066/12693/8960/8791/13622,crafted_stats=36/49,crafting_quality=5
+
+### Gear from Bags
+#
+# Necklace of the Twisting Void (266)
+# neck=,id=151309,gem_id=240983,bonus_id=12795/13440/6652/13668/12699
+#
+# Enthralled Bonespines (266)
+# shoulder=,id=251171,bonus_id=12795/13440/6652/13577/12699
+#
+# Fallen Grunt's Mantle (259)
+# shoulder=,id=251092,bonus_id=12793/13440/6652/13577/12699
+#
+# Potion-Stained Cloak (266)
+# back=,id=193712,bonus_id=12795/13440/6652/13577/12699
+#
+# Cloak of the Fallen Cardinal (266)
+# back=,id=49823,bonus_id=12795/13440/6652/13577/12699
+#
+# Wings of Flame (276)
+# back=,id=171670,bonus_id=8902/7756/13577/12699/12798
+#
+# Cloak of Coordination (13)
+# back=,id=65360
+#
+# Rigid Scale Greatcloak (266)
+# back=,id=258575,bonus_id=12795/13440/42/13577/12699
+#
+# Radiant Clutchtender's Jerkin (276)
+# chest=,id=249322,enchant_id=7987,bonus_id=6652/13577/13334/12798
+#
+# Trunk of the Luminous Bloom (263)
+# chest=,id=250027,bonus_id=12794/13334/13336/41/13575
+#
+# Maledict Vest (266)
+# chest=,id=251216,bonus_id=12795/13440/6652/13577/12699
+#
+# Blinky's Collar (1)
+# shirt=,id=268274
+#
+# Argent Crusader's Tabard (1)
+# tabard=,id=46874
+#
+# Frenzyroot Cuffs (266)
+# wrist=,id=193714,bonus_id=12795/13440/6652/12667/13577/12699
+#
+# Custodial Cuffs (272)
+# wrist=,id=251103,bonus_id=12801/13440/6652/12667/13577/12699
+#
+# Void-Skinned Bracers (263)
+# wrist=,id=249327,bonus_id=6652/12667/13577/13334/12794
+#
+# Corewright's Zappers (272)
+# hands=,id=251204,bonus_id=12801/13440/6652/13577/12699
+#
+# Gloves of Viscous Goo (266)
+# hands=,id=251113,bonus_id=12795/13440/6652/13577/12699
+#
+# Gloves of the Dark Shroud (266)
+# hands=,id=151318,bonus_id=12795/13440/6652/13577/12699
+#
+# Endless March Waistwrap (233)
+# waist=,id=249319,bonus_id=6652/12667/13577/13332/12777/11215
+#
+# Nightblade's Pantaloons (269)
+# legs=,id=249312,bonus_id=6652/13577/13334/12796
+#
+# Shaggy Wyrmleather Leggings (266)
+# legs=,id=49817,bonus_id=12795/13440/6652/13577/12699
+#
+# Canopy Walker's Footwraps (269)
+# feet=,id=249382,bonus_id=6652/13577/13334/12796
+#
+# Eclipse Espadrilles (266)
+# feet=,id=251210,bonus_id=12795/13440/6652/13577/12699
+#
+# Boots of Burning Focus (269)
+# feet=,id=258577,enchant_id=7963,bonus_id=13440/6652/13577/12699/12796
+#
+# Canopy Walker's Footwraps (243)
+# feet=,id=249382,bonus_id=6652/13577/13332/12780/11215
+#
+# Footpads of Seeping Dread (266)
+# feet=,id=151317,bonus_id=12795/13440/6652/13577/12699
+#
+# Omission of Light (276)
+# finger1=,id=251093,enchant_id=7967,gem_id=240892,bonus_id=13440/6652/13668/12699/12798
+#
+# Band of the Kirin Tor (15)
+# finger1=,id=40586
+#
+# Purloined Wedding Ring (266)
+# finger1=,id=49812,bonus_id=12795/13440/6652/13668/12699
+#
+# Novice Combatant's Ring (263)
+# finger1=,id=266317,bonus_id=13447/12794
+#
+# Platinum Star Band (276)
+# finger1=,id=193708,enchant_id=7967,gem_id=240906,bonus_id=13440/6652/13668/12699/12798
+#
+# Time-Lost Artifact (15)
+# trinket1=,id=103678
+#
+# Undreamt God's Oozing Vestige (276)
+# trinket1=,id=249805,bonus_id=6652/13334/12798
+#
+# Emberwing Feather (276)
+# trinket1=,id=250144,bonus_id=13440/6652/12699/12798
+#
+# Eye of the Drowning Void (276)
+# trinket1=,id=250257,bonus_id=13440/6652/12699/12802
+#
+# Tangle of Vibrant Vines (263)
+# trinket1=,id=252957,bonus_id=6652/12794
+#
+# Solarflare Prism (276)
+# trinket1=,id=252420,bonus_id=13440/6652/12699/12798
+#
+# Weight of Command (285)
+# main_hand=,id=249293,bonus_id=6652/13335/12805
+#
+# Tome of Alnscorned Regret (276)
+# off_hand=,id=249922,bonus_id=6652/13334/12798
+
+### Additional Character Info
+#
+# catalyst_currencies=3269:8/3378:8/2813:8/3116:8
+#
+# upgrade_currencies=c:3347:17/c:3383:56/c:1813:253/c:3341:67/c:3343:34/c:1792:1418/c:1931:36762/c:2122:9/c:3345:57/i:232875:4
+#
+# slot_high_watermarks=0:289:289/1:285:285/2:276:276/3:289:289/4:289:289/5:276:289/6:289:289/7:285:285/8:276:289/9:276:276/10:276:289/11:289:289/12:285:289/13:285:285/14:0:272/15:0:266/16:276:276
+#
+# upgrade_achievements=19326/19397/19398/19577/19578/19579/40107/40115/40118/40942/40943/40944/40945/41886/41887/41888/41892/42767/42768/42769/61809
+
+# Checksum: 2e000eb6
