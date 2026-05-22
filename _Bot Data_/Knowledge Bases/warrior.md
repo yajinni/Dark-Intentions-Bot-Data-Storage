@@ -79,12 +79,10 @@ Focus: **Colossus Smash Windows** and **Execute Priority**.
 
 ---
 
-#### 6. Spec-Specific Audit Instructions (Report Section 4)
+#### 6. Spec-Specific Audit Instructions
 Track Resources: [2] // 2 = Rage (ID 101)
 
-*AI Instruction:* Include the following tables as sub-sections (4.1, 4.2) within **4. Rotational Efficiency & Spell Priority**.
-
-##### **4.1 Resource Management & Overcapping**
+##### **Resource Management & Overcapping**
 - **Trigger:** Only create this table if `<RESOURCE_WASTE_DATA>` is provided.
 - **Table Headers:** | Resource | The Player | The Reference | Overcapping Analysis |
 - **Formatting Rule:** For each resource, you MUST show `Generated: [Total] • Wasted: [Wasted] ([Waste%]%)`.
@@ -184,12 +182,10 @@ Focus: **Rage Management** and **Enrage Uptime**.
 
 ---
 
-#### 6. Spec-Specific Audit Instructions (Report Section 4)
+#### 6. Spec-Specific Audit Instructions
 Track Resources: [2] // 2 = Rage (ID 101)
 
-*AI Instruction:* Include the following tables as sub-sections (4.1, 4.2) within **4. Rotational Efficiency & Spell Priority**.
-
-##### **4.1 Resource Management & Overcapping**
+##### **Resource Management & Overcapping**
 - **Trigger:** Only create this table if `<RESOURCE_WASTE_DATA>` is provided.
 - **Table Headers:** | Resource | The Player | The Reference | Overcapping Analysis |
 - **Formatting Rule:** For each resource, you MUST show `Generated: [Total] • Wasted: [Wasted] ([Waste%]%)`.
@@ -290,12 +286,10 @@ Focus: **Shield Block Uptime** and **Rage Efficiency**.
 
 ---
 
-#### 6. Spec-Specific Audit Instructions (Report Section 4)
+#### 6. Spec-Specific Audit Instructions
 Track Resources: [2] // 2 = Rage (ID 101)
 
-*AI Instruction:* Include the following tables as sub-sections (4.1, 4.2) within **4. Rotational Efficiency & Spell Priority**.
-
-##### **4.1 Resource Management & Overcapping**
+##### **Resource Management & Overcapping**
 - **Trigger:** Only create this table if `<RESOURCE_WASTE_DATA>` is provided.
 - **Table Headers:** | Resource | The Player | The Reference | Overcapping Analysis |
 - **Formatting Rule:** For each resource, you MUST show `Generated: [Total] • Wasted: [Wasted] ([Waste%]%)`.

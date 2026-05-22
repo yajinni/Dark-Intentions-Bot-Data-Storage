@@ -252,12 +252,10 @@ Focus: **Entropic Rift Alignment** and **Insanity Management**.
 
 ---
 
-#### 7. Spec-Specific Audit Instructions (Report Section 5)
+#### 7. Spec-Specific Audit Instructions
 Track Resources: [13] // 13 = Insanity (ID 113)
 
-*AI Instruction:* Include the following tables as sub-sections (5.1) within **5. Resource Management (Energy/Combo Points/Mana/Insanity)**.
-
-##### **5.1 Resource Management & Overcapping**
+##### **Resource Management & Overcapping**
 - **Trigger:** Only create this table if `<RESOURCE_WASTE_DATA>` is provided.
 - **Table Headers:** | Resource | The Player | The Reference | Overcapping Analysis |
 - **Formatting Rule:** For each resource, you MUST show `Generated: [Total] • Wasted: [Wasted] ([Waste%]%)`.

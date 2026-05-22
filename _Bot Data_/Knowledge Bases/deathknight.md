@@ -100,12 +100,10 @@ The bot must switch audit logic based on the active Hero Spec.
 
 ---
 
-#### 6. Spec-Specific Audit Instructions (Report Section 4)
+#### 6. Spec-Specific Audit Instructions
 Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
 
-*AI Instruction:* Include the following tables as sub-sections (4.1, 4.2) within **4. Rotational Efficiency & Spell Priority**.
-
-##### **4.1 Resource Management & Overcapping**
+##### **Resource Management & Overcapping**
 - **Trigger:** Only create this table if `<RESOURCE_WASTE_DATA>` is provided.
 - **Table Headers:** | Resource | The Player | The Reference | Overcapping Analysis |
 - **Formatting Rule:** For each resource, you MUST show `Generated: [Total] • Wasted: [Wasted] ([Waste%]%)`.
@@ -115,7 +113,7 @@ Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
         - **Audit Rule:** If the player's Spending Discipline is **> 10% lower** than the reference, mention this as a rotational efficiency failure. Explain that they are waiting too long to spend runes, causing regeneration stalls.
     2.  **Runic Power (Type 6 / ID 106):** Spent on Death Strike for survival. Overcapping RP (> 75-80) is a survival error as it represents missed healing and potential death.
 
-##### **4.2 Spec-Specific Efficiency Audit**
+##### **Spec-Specific Efficiency Audit**
 - **Trigger:** Compare `Marrowrend` casts in the `<PLAYER_DATA>` targets table.
 - **Table Headers:** | Metric | The Player | The Reference | Efficiency Analysis |
 - **Logic:**
@@ -212,12 +210,10 @@ The bot must switch audit logic based on whether **Breath of Sindragosa** is act
 
 ---
 
-#### 6. Spec-Specific Audit Instructions (Report Section 4)
+#### 6. Spec-Specific Audit Instructions
 Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
 
-*AI Instruction:* Include the following tables as sub-sections (4.1, 4.2) within **4. Rotational Efficiency & Spell Priority**.
-
-##### **4.1 Resource Management & Overcapping**
+##### **Resource Management & Overcapping**
 - **Trigger:** Only create this table if `<RESOURCE_WASTE_DATA>` is provided.
 - **Table Headers:** | Resource | The Player | The Reference | Overcapping Analysis |
 - **Formatting Rule:** For each resource, you MUST show `Generated: [Total] • Wasted: [Wasted] ([Waste%]%)`.
@@ -227,7 +223,7 @@ Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
         - **Audit Rule:** If the player's Spending Discipline is **> 10% lower** than the reference, mention this as a rotational efficiency failure. Explain that they are waiting too long to spend runes, causing regeneration stalls.
     2.  **Runic Power (Type 6 / ID 106):** Critical for **Breath of Sindragosa** uptime. Overcapping RP outside of Breath is less severe than starving during Breath. 
 
-##### **4.2 Breath of Sindragosa Audit**
+##### **Breath of Sindragosa Audit**
 - **Trigger:** Check for `Breath of Sindragosa` casts.
 - **Logic:**
     1.  **RP Waste (During Breath):** Casting **Frost Strike** or **Death Coil** while Breath is active is a catastrophic failure (waste of RP that should sustain the Breath).
@@ -326,12 +322,10 @@ Focus: **Festering Wound** and **Lesser Ghoul** management.
 
 ---
 
-#### 6. Spec-Specific Audit Instructions (Report Section 4)
+#### 6. Spec-Specific Audit Instructions
 Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
 
-*AI Instruction:* Include the following tables as sub-sections (4.1, 4.2) within **4. Rotational Efficiency & Spell Priority**.
-
-##### **4.1 Resource Management & Overcapping**
+##### **Resource Management & Overcapping**
 - **Trigger:** Only create this table if `<RESOURCE_WASTE_DATA>` is provided.
 - **Table Headers:** | Resource | The Player | The Reference | Overcapping Analysis |
 - **Formatting Rule:** For each resource, you MUST show `Generated: [Total] • Wasted: [Wasted] ([Waste%]%)`.
@@ -341,7 +335,7 @@ Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
         - **Audit Rule:** If the player's Spending Discipline is **> 10% lower** than the reference, mention this as a rotational efficiency failure. Explain that they are waiting too long to spend runes, causing regeneration stalls.
     2.  **Runic Power (Type 6 / ID 106):** Spent on **Death Coil** to trigger **Runic Corruption** (which increases rune recharge speed). Overcapping RP (> 80) means lost Runic Corruption uptime.
 
-##### **4.2 Festering Wound Audit**
+##### **Festering Wound Audit**
 - **Trigger:** Check for `Festering Strike` and `Scourge Strike` / `Clawing Shadows` casts.
 - **Logic:**
     1.  **Wound Overcapping:** Casting **Festering Strike** when the target already has 6+ Festering Wounds is a significant waste of Runes.

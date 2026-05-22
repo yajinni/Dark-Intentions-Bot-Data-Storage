@@ -155,16 +155,14 @@ Focus: **Bleed Snapshotting** and **Tiger's Fury** alignment.
 
 ---
 
-#### 6. Spec-Specific Audit Instructions (Report Section 4)
+#### 6. Spec-Specific Audit Instructions
 Audit Resource: 22568 { "minCP": 5, "minEnergy": 50 } // Ferocious Bite
 Audit Resource: 441591 { "minCP": 5, "minEnergy": 50 } // Ravage (Hero Talent FB)
 Audit Resource: 1079 { "minCP": 5 } // Rip
 Track Resources: [3, 4] // 3 = Energy (ID 103), 4 = Combo Points (ID 104)
 Ignore from Energy: ["Ferocious Bite"]
 
-*AI Instruction:* Include the following tables as sub-sections (4.1, 4.2) within **4. Rotational Efficiency & Spell Priority**.
-
-##### **4.1 Resource Management & Overcapping**
+##### **Resource Management & Overcapping**
 - **Trigger:** Only create this table if `<RESOURCE_WASTE_DATA>` is provided.
 - **Table Headers:** | Resource | The Player | The Reference | Overcapping Analysis |
 - **Formatting Rule:** For each resource, you MUST show `Generated: [Total] • Wasted: [Wasted] ([Waste%]%)`.
@@ -173,7 +171,7 @@ Ignore from Energy: ["Ferocious Bite"]
         - **IMPORTANT:** Ignore "Ferocious Bite" in energy gain/waste totals as it is a consumer that behaves uniquely.
     2.  **Combo Points (Type 4 / ID 104):** Wasting CP (generating at 5 CP) is a severe error. 
 
-##### **4.2 Finisher Quality Audit**
+##### **Finisher Quality Audit**
 - **Trigger:** Only create this table if `<RESOURCE_AUDIT_DATA>` is provided.
 - **Table Headers:** | Metric | The Player | The Reference | Analysis |
 - **Formatting Rule:** For metrics provided (Low CP %, Under-Energized %), format as `X / Total (Y%)`.
