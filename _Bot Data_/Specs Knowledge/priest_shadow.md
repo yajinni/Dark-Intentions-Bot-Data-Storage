@@ -77,3 +77,4 @@ Focus: **Entropic Rift Alignment** and **Insanity Management**.
 * Incessant Screams = Psychic Scream casts
 * Void Bolt = Void Bolt hits
 * Shadow Word: Pain = Shadow Word: Pain hits
+* Thing from Beyond = Thing from Beyond hits
