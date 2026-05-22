@@ -1,6 +1,7 @@
 # Warrior
 
-## Arms
+<details open>
+<summary>## Arms (Click to Colapse)</summary>
 
 ### Arms Warrior Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -89,9 +90,10 @@ Track Resources: [2] // 2 = Rage (ID 101)
 - **Formatting Rule:** For each resource, you MUST show `Generated: [Total] • Wasted: [Wasted] ([Waste%]%)`.
 - **Logic:**
     1.  **Rage (Type 2 / ID 101):** Arms Warriors must balance Rage generation from auto-attacks and Overpower with consumption from Mortal Strike, Execute, and Slam. Wasting Rage (capping at 100) indicates missed casts or excessive pooling.
+</details>
 
-
-## Fury
+<details open>
+<summary>## Fury (Click to Colapse)</summary>
 
 ### Fury Warrior Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -179,9 +181,10 @@ Track Resources: [2] // 2 = Rage (ID 101)
 - **Formatting Rule:** For each resource, you MUST show `Generated: [Total] • Wasted: [Wasted] ([Waste%]%)`.
 - **Logic:**
     1.  **Rage (Type 2 / ID 101):** Fury Warriors generate Rage extremely fast via Bloodthirst and Raging Blow. Capping at 100 Rage is a severe error that delays Rampage casts and reduces Enrage uptime.
+</details>
 
-
-## Protection
+<details open>
+<summary>## Protection (Click to Colapse)</summary>
 
 ### Protection Warrior Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -271,6 +274,7 @@ Track Resources: [2] // 2 = Rage (ID 101)
 - **Formatting Rule:** For each resource, you MUST show `Generated: [Total] • Wasted: [Wasted] ([Waste%]%)`.
 - **Logic:**
     1.  **Rage (Type 2 / ID 101):** Protection Warriors use Rage for Active Mitigation (Shield Block) and survival (Ignore Pain). Wasting Rage at 100 is a critical survival error, as it indicates the player is not maintaining their defensive shell properly.
+</details>
 
 ## Utility
 

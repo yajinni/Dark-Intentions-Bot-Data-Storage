@@ -1,6 +1,7 @@
 # Druid
 
-## Balance
+<details open>
+<summary>## Balance (Click to Colapse)</summary>
 
 ### Balance Druid Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -71,9 +72,10 @@ Focus: **Eclipse Uptime** and **Astral Power Management**.
 *   **Force of Nature:** 1-minute CD. Summons Treants (primary Keeper engine).
 *   **Warrior of Elune:** 45s CD. Empowers next 3 Starfires to be instant.
 *   **Starfall:** Primary AoE Astral Power spender.
+</details>
 
-
-## Feral
+<details open>
+<summary>## Feral (Click to Colapse)</summary>
 
 ### Feral Druid Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -170,7 +172,6 @@ Ignore from Energy: ["Ferocious Bite"]
     2.  **Rip:**
         - **CP Limit (5):** Must be cast at 5 Combo Points.
 
-
 ##### **Data Interpretation Rules:**
 1.  **Apex Predator's Craving:** These are free Ferocious Bite procs. The data excludes these from "Low CP" counts automatically. You should mention the proc count as a sign of rotational benefit, but do not audit them for energy/CP efficiency.
 2.  **The 50 Energy Rule (Ferocious Bite):** Ferocious Bite drains up to 50 *additional* energy for 100% bonus damage. Casting at < 50 energy is a direct DPS loss.
@@ -189,9 +190,10 @@ Ignore from Energy: ["Ferocious Bite"]
 *   **Tiger's Fury:** 30s CD. Core damage buff and Energy generator.
 *   **Convoke the Spirits:** 1-minute CD (if talented). Rapid-fire burst.
 *   **Feral Frenzy:** 45s CD. Generates 5 Combo Points and applies a heavy bleed.
+</details>
 
-
-## Guardian
+<details open>
+<summary>## Guardian (Click to Colapse)</summary>
 
 ### Guardian Druid Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -261,9 +263,10 @@ Focus: **Active Mitigation** and **Rage Efficiency**.
 *   **Barkskin:** 1-minute CD. 20% Damage Reduction. Use proactively for medium damage.
 *   **Rage of the Sleeper:** Increases damage and provides a shield based on damage dealt.
 *   **Lunar Beam (Elune's Chosen):** Massive self-healing and threat area.
+</details>
 
-
-## Restoration
+<details open>
+<summary>## Restoration (Click to Colapse)</summary>
 
 ### Restoration Druid Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -334,6 +337,7 @@ Focus: **HoT Maintenance** and **Ramp Efficiency**.
 *   **Incarnation: Tree of Life:** Massive healing buff and instant Regrowths.
 *   **Grove Guardians:** Your primary rotational treants for consistent HPS.
 *   **Ironbark:** Primary single-target external for tanks or low-health allies.
+</details>
 
 ## Utility
 

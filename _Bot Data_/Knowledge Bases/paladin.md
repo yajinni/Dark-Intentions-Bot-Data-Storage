@@ -1,6 +1,7 @@
 # Paladin
 
-## Holy
+<details open>
+<summary>## Holy (Click to Colapse)</summary>
 
 ### Holy Paladin Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -72,9 +73,10 @@ Focus: **Holy Power Management** and **Glimmer Maintenance**.
 *   **Divine Toll:** 1-minute CD. High-impact burst healing and resource generator.
 *   **Blessing of Sacrifice:** Primary external for tanks or low-health allies.
 *   **Lay on Hands:** Ultimate emergency heal.
+</details>
 
-
-## Protection
+<details open>
+<summary>## Protection (Click to Colapse)</summary>
 
 ### Protection Paladin Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -148,9 +150,10 @@ Focus: **Consecration Uptime** and **Active Mitigation**.
 *   **Avenging Wrath:** 2-minute CD. Increases all damage and healing.
 *   **Divine Toll:** 1-minute CD. Instant high threat and resource generator.
 *   **Eye of Tyr:** 1-minute CD. Reduces damage taken from nearby enemies.
+</details>
 
-
-## Retribution
+<details open>
+<summary>## Retribution (Click to Colapse)</summary>
 
 ### Retribution Paladin Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -223,6 +226,7 @@ Focus: **Execution Sentence Window** and **Holy Power Efficiency**.
 *   **Execution Sentence:** 30s CD. Increases damage taken by the target.
 *   **Divine Toll:** 1-minute CD. Instant high threat/damage and resource generator.
 *   **Shield of Vengeance:** Primary defensive absorb.
+</details>
 
 ## Utility
 

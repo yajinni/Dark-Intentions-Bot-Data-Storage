@@ -1,6 +1,7 @@
 # Evoker
 
-## Augmentation
+<details open>
+<summary>## Augmentation (Click to Colapse)</summary>
 
 ### Augmentation Evoker Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -70,9 +71,10 @@ Focus: **Ebon Might Uptime** and **Breath of Eons** alignment.
 *   **Ebon Might:** 30s base CD. The core engine of the specialization.
 *   **Tip the Scales:** Used for instant Max-Rank Fire Breath during burst windows.
 *   **Time Spiral:** Raid-wide utility for mobility.
+</details>
 
-
-## Devastation
+<details open>
+<summary>## Devastation (Click to Colapse)</summary>
 
 ### Devastation Evoker Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -142,9 +144,10 @@ Focus: **Dragonrage Uptime** and **Empower Efficiency**.
 *   **Deep Breath:** 2-minute CD. High damage and mobility (reset frequently by *Scalecommander*).
 *   **Shattering Star:** 15s CD. Increases damage taken by the target by 20%.
 *   **Tip the Scales:** Used for instant Max-Rank Eternity Surge in multi-target scenarios.
+</details>
 
-
-## Preservation
+<details open>
+<summary>## Preservation (Click to Colapse)</summary>
 
 ### Preservation Evoker Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -217,6 +220,7 @@ Focus: **Echo Management** and **Stasis Combo** efficiency.
 *   **Emerald Communion:** 3-minute CD. Massive self-healing and mana return.
 *   **Dream Flight:** 2-minute CD. Large area-of-effect heal and mobility.
 *   **Life-Bind:** Linked to *Emerald Communion* (if talented), shares healing with the raid.
+</details>
 
 ## Utility
 

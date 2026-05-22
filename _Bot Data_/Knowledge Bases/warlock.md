@@ -1,6 +1,7 @@
 # Warlock
 
-## Affliction
+<details open>
+<summary>## Affliction (Click to Colapse)</summary>
 
 ### Affliction Warlock Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -73,9 +74,10 @@ Focus: **DoT Maintenance** and **Shard Efficiency**.
 *   **Dark Harvest:** 1-minute CD. Increases shadow damage and summons spirits.
 *   **Haunt:** 15s CD. Essential for throughput.
 *   **Vile Taint / Phantom Singularity:** AoE DoT application/burst.
+</details>
 
-
-## Demonology
+<details open>
+<summary>## Demonology (Click to Colapse)</summary>
 
 ### Demonology Warlock Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -147,9 +149,10 @@ Focus: **Shard Management** and **Tyrant Windows**.
 *   **Power Siphon:** Used to generate Demonic Core stacks.
 *   **Soul Strike:** Primary generator and damage source for your Felguard.
 *   **Implosion:** (Cleave only) Consumes Imps for AoE damage.
+</details>
 
-
-## Destruction
+<details open>
+<summary>## Destruction (Click to Colapse)</summary>
 
 ### Destruction Warlock Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -223,6 +226,7 @@ Focus: **Shard Management** and **Chaos Bolt** efficiency.
 *   **Havoc:** 30s CD. Causes spells to hit a secondary target.
 *   **Cataclysm:** (If talented) Instant Immolate application and burst.
 *   **Burn to Ashes:** (Diabolist only) Increases the damage of your next Incinerate/Chaos Bolt.
+</details>
 
 ## Utility
 

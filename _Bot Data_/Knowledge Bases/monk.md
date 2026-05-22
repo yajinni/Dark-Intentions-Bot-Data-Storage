@@ -1,6 +1,7 @@
 # Monk
 
-## Brewmaster
+<details open>
+<summary>## Brewmaster (Click to Colapse)</summary>
 
 ### Brewmaster Monk Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -70,9 +71,10 @@ Focus: **Stagger Efficiency** and **Brew Recharge**.
 *   **Exploding Barrel:** (If talented) Massive physical mitigation and damage.
 *   **Invoke Niuzao, the Black Ox:** Summons a pet to taunt and soak damage.
 *   **Zen Meditation:** 5-minute CD. 90% Damage Reduction (interrupted by movement/attacks).
+</details>
 
-
-## Mistweaver
+<details open>
+<summary>## Mistweaver (Click to Colapse)</summary>
 
 ### Mistweaver Monk Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -142,9 +144,10 @@ Focus: **Ancient Teachings** maintenance and **Rising Sun Kick** priority.
 *   **Sheilun's Gift:** Massive burst heal based on generated clouds.
 *   **Life Cocoon:** Primary single-target external for tanks or low-health allies.
 *   **Essence Font:** (If talented) Channeled raid heal to apply HoTs.
+</details>
 
-
-## Windwalker
+<details open>
+<summary>## Windwalker (Click to Colapse)</summary>
 
 ### Windwalker Monk Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -216,6 +219,7 @@ Focus: **Combo Strikes** and **Chi Efficiency**.
 *   **Touch of Death:** Use on targets at **< 15% HP**.
 *   **Strike of the Windlord:** 40s CD. Massive AoE and single-target damage.
 *   **Fists of Fury:** 20s CD. Channeled physical damage.
+</details>
 
 ## Utility
 

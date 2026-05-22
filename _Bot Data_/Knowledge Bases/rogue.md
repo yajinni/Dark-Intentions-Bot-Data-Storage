@@ -1,6 +1,7 @@
 # Rogue
 
-## Assassination
+<details open>
+<summary>## Assassination (Click to Colapse)</summary>
 
 ### Assassination Rogue Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -71,9 +72,10 @@ Focus: **Bleed Uptime** and **Kingsbane** windows.
 *   **Vanish:** Used offensively to reset Garrote or trigger *Master Assassin*.
 *   **Thistle Tea:** Used to generate Energy during high-burst windows.
 *   **Cold Blood:** Use before your highest-impact finisher.
+</details>
 
-
-## Outlaw
+<details open>
+<summary>## Outlaw (Click to Colapse)</summary>
 
 ### Outlaw Rogue Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -150,9 +152,10 @@ Focus: **Adrenaline Rush Uptime** and **Roll the Bones** management.
 *   **Blade Rush:** 45s CD. Generates Energy and damage.
 *   **Keep It Rolling:** 7-minute CD. Extends the duration of current Roll the Bones buffs.
 *   **Preparation:** Resets utility cooldowns.
+</details>
 
-
-## Subtlety
+<details open>
+<summary>## Subtlety (Click to Colapse)</summary>
 
 ### Subtlety Rogue Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -223,6 +226,7 @@ Focus: **Shadow Dance Windows** and **Secret Technique** alignment.
 *   **Secret Technique:** 45s CD. Your highest-impact finisher.
 *   **Vanish:** Used offensively to reset Shadowstrike or trigger *Master Assassin*.
 *   **Symbols of Death:** 30s CD. Increases damage and restores Energy.
+</details>
 
 ## Utility
 

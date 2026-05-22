@@ -1,6 +1,7 @@
 # Death Knight
 
-## Blood
+<details open>
+<summary>## Blood (Click to Colapse)</summary>
 
 ### Blood Death Knight Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -108,9 +109,10 @@ Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
 - **Table Headers:** | Metric | The Player | The Reference | Efficiency Analysis |
 - **Logic:**
     1.  **Bone Shield Waste:** Marrowrend should only be cast when Bone Shield is < 7 stacks. Casting at 7+ stacks is a significant waste of 2 Runes that should have been Heart Strike or Vampiric Strike.
+</details>
 
-
-## Frost
+<details open>
+<summary>## Frost (Click to Colapse)</summary>
 
 ### Frost Death Knight Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -204,9 +206,10 @@ Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
 - **Logic:**
     1.  **RP Waste (During Breath):** Casting **Frost Strike** or **Death Coil** while Breath is active is a catastrophic failure (waste of RP that should sustain the Breath).
     2.  **Starvation:** Ending a Breath with > 40 RP indicates the player likely stopped spending Runes on Obliterate, which is a rotational error.
+</details>
 
-
-## Unholy
+<details open>
+<summary>## Unholy (Click to Colapse)</summary>
 
 ### Unholy Death Knight Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -302,6 +305,7 @@ Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
 - **Logic:**
     1.  **Wound Overcapping:** Casting **Festering Strike** when the target already has 6+ Festering Wounds is a significant waste of Runes.
     2.  **Sudden Doom Efficiency:** Ensure **Death Coil** is used on procs to avoid wasting free RP spenders.
+</details>
 
 ## Utility
 

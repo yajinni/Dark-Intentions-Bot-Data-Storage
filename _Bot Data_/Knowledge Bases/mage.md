@@ -1,6 +1,7 @@
 # Mage
 
-## Arcane
+<details open>
+<summary>## Arcane (Click to Colapse)</summary>
 
 ### Arcane Mage Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -71,9 +72,10 @@ Focus: **Burn Phase** efficiency and **Clearcasting** management.
 *   **Touch of the Magi:** 45s CD. Stores damage and explodes for 25% of the total.
 *   **Shifting Power:** 1-minute CD. Reduces all ability cooldowns.
 *   **Time Warp:** Raid-wide Haste buff.
+</details>
 
-
-## Fire
+<details open>
+<summary>## Fire (Click to Colapse)</summary>
 
 ### Fire Mage Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -146,9 +148,10 @@ Focus: **Combustion Efficiency** and **Hot Streak** management.
 *   **Fire Blast:** 12s recharge. Essential for proc management.
 *   **Meteor:** (If talented) High priority burst CD.
 *   **Dragon's Breath:** Used for utility and specific cleave requirements.
+</details>
 
-
-## Frost
+<details open>
+<summary>## Frost (Click to Colapse)</summary>
 
 ### Frost Mage Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -221,6 +224,7 @@ Focus: **Shatter Combo** efficiency and **Icy Veins** uptime.
 *   **Shifting Power:** 1-minute CD. Reduces all ability cooldowns.
 *   **Ice Nova:** Used for instant shatter utility.
 *   **Time Warp:** Raid-wide Haste buff.
+</details>
 
 ## Utility
 

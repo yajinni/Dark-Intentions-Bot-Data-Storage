@@ -1,6 +1,7 @@
 # Shaman
 
-## Elemental
+<details open>
+<summary>## Elemental (Click to Colapse)</summary>
 
 ### Elemental Shaman Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -72,9 +73,10 @@ Focus: **Maelstrom Efficiency** and **Stormkeeper** alignment.
 *   **Stormkeeper:** 1-minute CD. Empowers the next 2 Lightning Bolt/Chain Lightning casts.
 *   **Ancestral Guidance:** (If talented) Heals allies based on damage dealt.
 *   **Spiritwalker's Grace:** Allows casting while moving.
+</details>
 
-
-## Enhancement
+<details open>
+<summary>## Enhancement (Click to Colapse)</summary>
 
 ### Enhancement Shaman Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -148,9 +150,10 @@ Focus: **Maelstrom Weapon Stacking** and **Totem Maintenance**.
 *   **Primordial Wave:** 45s CD. Causes your next Lightning Bolt to hit all Flame Shocked targets.
 *   **Sundering:** Massive physical damage and interrupt.
 *   **Ascendance:** (If talented) Massive burst window.
+</details>
 
-
-## Restoration
+<details open>
+<summary>## Restoration (Click to Colapse)</summary>
 
 ### Restoration Shaman Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -225,6 +228,7 @@ Focus: **Cloudburst Management** and **Healing Rain** uptime.
 *   **Mana Tide Totem:** 3-minute CD. Increases mana regeneration for the raid.
 *   **Ascendance:** 3-minute CD. Mimics and distributes all healing.
 *   **Ancestral Protection Totem:** (If talented) Provides a health buff and combat res.
+</details>
 
 ## Utility
 

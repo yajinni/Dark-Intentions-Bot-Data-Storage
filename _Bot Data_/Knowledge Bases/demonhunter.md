@@ -1,6 +1,7 @@
 # Demon Hunter
 
-## Devourer
+<details open>
+<summary>## Devourer (Click to Colapse)</summary>
 
 ### Devourer Demon Hunter Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -77,9 +78,10 @@ Focus: **Void Ray Efficiency** and **Drain Pausing**.
 *   **Blade Dance / Death Sweep:** (If talented) High physical damage spender.
 *   **Chaos Nova:** Primary AoE stun/utility.
 *   **Darkness:** Raid-wide defensive utility.
+</details>
 
-
-## Havoc
+<details open>
+<summary>## Havoc (Click to Colapse)</summary>
 
 ### Havoc Demon Hunter Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -151,9 +153,10 @@ Focus: **Inertia Windows** and **Fury Management**.
 *   **Eye Beam:** 30s CD. 
 *   **Vengeful Retreat:** (If talented for Initiative) Used to trigger crit windows.
 *   **Fel Barrage:** (If talented) High-intensity AoE burst.
+</details>
 
-
-## Vengeance
+<details open>
+<summary>## Vengeance (Click to Colapse)</summary>
 
 ### Vengeance Demon Hunter Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -226,6 +229,7 @@ Focus: **Soul Fragment** consumption and **Sigil** uptime.
 *   **Sigil of Silence:** Utility/Crowd control.
 *   **Sigil of Spite:** Core offensive/defensive hybrid cooldown.
 *   **Fel Devastation:** 1-minute CD. Massive self-healing burst.
+</details>
 
 ## Utility
 

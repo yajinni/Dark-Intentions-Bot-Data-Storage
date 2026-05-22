@@ -1,6 +1,7 @@
 # Priest
 
-## Discipline
+<details open>
+<summary>## Discipline (Click to Colapse)</summary>
 
 ### Discipline Priest Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -73,9 +74,10 @@ Discipline is audited based on the **Evangelism Ramp** sequence.
 *   **Power Word: Barrier:** Massive damage reduction field.
 *   **Pain Suppression:** Primary single-target external.
 *   **Power Infusion:** Haste buff for top DPS.
+</details>
 
-
-## Holy
+<details open>
+<summary>## Holy (Click to Colapse)</summary>
 
 ### Holy Priest Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -165,9 +167,10 @@ The bot must switch audit logic based on the active Hero Spec.
 
 #### 6. Passive Spell Cast Mappings
 * Incessant Screams = Psychic Scream casts
+</details>
 
-
-## Shadow
+<details open>
+<summary>## Shadow (Click to Colapse)</summary>
 
 ### Shadow Priest Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
@@ -260,6 +263,7 @@ Track Resources: [13] // 13 = Insanity (ID 113)
 - **Formatting Rule:** For each resource, you MUST show `Generated: [Total] • Wasted: [Wasted] ([Waste%]%)`.
 - **Logic:**
     1.  **Insanity (Type 13 / ID 113):** Shadow Priests generate Insanity primarily from Mind Blast, Mind Spike/Mind Flay, Shadow Word: Death, and passive traits (like Void Tendrils or Idol of C'Thun). Wasting Insanity (capping at 100) indicates delayed or missed Devouring Plague casts, directly reducing uptime on the Mastery: Shadow Weaving damage bonus.
+</details>
 
 ## Utility
 
