@@ -339,19 +339,28 @@ Focus: **HoT Maintenance** and **Ramp Efficiency**.
 
 The following spells are classified as Utility for the druid class and should be grouped under the **3.2 Utility** section in performance reports:
 
-- Skull Bash
-- Solar Beam
-- Typhoon
-- Ursol's Vortex
-- Cyclone
-- Entangling Roots
-- Mass Entanglement
-- Hibernate
-- Soothe
-- Remove Corruption
-- Rebirth
-- Stampeding Roar
-- Wild Charge
-- Innervate
-- Barkskin
-- Survival Instincts
+- [Skull Bash](https://www.wowhead.com/spell=106839)
+- [Solar Beam](https://www.wowhead.com/spell=78675)
+- [Typhoon](https://www.wowhead.com/spell=132469)
+- [Ursol's Vortex](https://www.wowhead.com/spell=102793)
+- [Cyclone](https://www.wowhead.com/spell=33786)
+- [Entangling Roots](https://www.wowhead.com/spell=339)
+- [Mass Entanglement](https://www.wowhead.com/spell=102359)
+- [Hibernate](https://www.wowhead.com/spell=2637)
+- [Soothe](https://www.wowhead.com/spell=2908)
+- [Remove Corruption](https://www.wowhead.com/spell=2782)
+- [Rebirth](https://www.wowhead.com/spell=20484)
+- [Stampeding Roar](https://www.wowhead.com/spell=106898)
+- [Wild Charge](https://www.wowhead.com/spell=102401)
+- [Innervate](https://www.wowhead.com/spell=29166)
+
+## Defensive
+
+The following spells are classified as Defensive for the druid class and should be grouped under the **3.4 Defensive Usage** section in performance reports:
+
+- [Barkskin](https://www.wowhead.com/spell=22812)
+- [Survival Instincts](https://www.wowhead.com/spell=61336)
+- [Frenzied Regeneration](https://www.wowhead.com/spell=22842)
+- [Ironbark](https://www.wowhead.com/spell=102342)
+- [Heart of the Wild](https://www.wowhead.com/spell=319454)
+- [Renewal](https://www.wowhead.com/spell=108238)

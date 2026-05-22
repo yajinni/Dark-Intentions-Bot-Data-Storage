@@ -225,17 +225,24 @@ Focus: **Tip of the Spear** stacks and **Mongoose Fury** windows.
 
 The following spells are classified as Utility for the hunter class and should be grouped under the **3.2 Utility** section in performance reports:
 
-- Counter Shot
-- Muzzle
-- Freezing Trap
-- Tar Trap
-- Binding Trap
-- Steel Trap
-- Intimidation
-- Scare Beast
-- Master's Call
-- Tranquilizing Shot
-- Aspect of the Turtle
-- Exhilaration
-- Flare
-- Feign Death
+- [Counter Shot](https://www.wowhead.com/spell=147362)
+- [Muzzle](https://www.wowhead.com/spell=187707)
+- [Freezing Trap](https://www.wowhead.com/spell=187650)
+- [Tar Trap](https://www.wowhead.com/spell=187698)
+- [Binding Trap](https://www.wowhead.com/spell=109248)
+- [Steel Trap](https://www.wowhead.com/spell=162488)
+- [Intimidation](https://www.wowhead.com/spell=19577)
+- [Scare Beast](https://www.wowhead.com/spell=1513)
+- [Master's Call](https://www.wowhead.com/spell=53271)
+- [Tranquilizing Shot](https://www.wowhead.com/spell=19801)
+- [Flare](https://www.wowhead.com/spell=1543)
+- [Feign Death](https://www.wowhead.com/spell=5384)
+
+## Defensive
+
+The following spells are classified as Defensive for the hunter class and should be grouped under the **3.4 Defensive Usage** section in performance reports:
+
+- [Aspect of the Turtle](https://www.wowhead.com/spell=186265)
+- [Exhilaration](https://www.wowhead.com/spell=109304)
+- [Survival of the Fittest](https://www.wowhead.com/spell=264735)
+- [Fortitude of the Bear](https://www.wowhead.com/spell=272679)

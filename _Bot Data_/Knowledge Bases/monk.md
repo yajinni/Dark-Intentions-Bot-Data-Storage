@@ -221,17 +221,24 @@ Focus: **Combo Strikes** and **Chi Efficiency**.
 
 The following spells are classified as Utility for the monk class and should be grouped under the **3.2 Utility** section in performance reports:
 
-- Spear Hand Strike
-- Leg Sweep
-- Paralysis
-- Ring of Peace
-- Disable
-- Detox
-- Resuscitate
-- Roll
-- Chi Torpedo
-- Transcendence
-- Fortifying Brew
-- Diffuse Magic
-- Dampen Harm
-- Tiger's Lust
+- [Spear Hand Strike](https://www.wowhead.com/spell=116705)
+- [Leg Sweep](https://www.wowhead.com/spell=119381)
+- [Paralysis](https://www.wowhead.com/spell=115078)
+- [Ring of Peace](https://www.wowhead.com/spell=116844)
+- [Disable](https://www.wowhead.com/spell=116095)
+- [Detox](https://www.wowhead.com/spell=115450)
+- [Resuscitate](https://www.wowhead.com/spell=115178)
+- [Roll](https://www.wowhead.com/spell=109132)
+- [Chi Torpedo](https://www.wowhead.com/spell=115008)
+- [Transcendence](https://www.wowhead.com/spell=101643)
+- [Tiger's Lust](https://www.wowhead.com/spell=116841)
+
+## Defensive
+
+The following spells are classified as Defensive for the monk class and should be grouped under the **3.4 Defensive Usage** section in performance reports:
+
+- [Fortifying Brew](https://www.wowhead.com/spell=115203)
+- [Diffuse Magic](https://www.wowhead.com/spell=122783)
+- [Dampen Harm](https://www.wowhead.com/spell=122278)
+- [Zen Meditation](https://www.wowhead.com/spell=115176)
+- [Life Cocoon](https://www.wowhead.com/spell=116849)

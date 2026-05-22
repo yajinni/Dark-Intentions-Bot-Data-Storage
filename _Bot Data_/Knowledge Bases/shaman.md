@@ -230,17 +230,26 @@ Focus: **Cloudburst Management** and **Healing Rain** uptime.
 
 The following spells are classified as Utility for the shaman class and should be grouped under the **3.2 Utility** section in performance reports:
 
-- Wind Shear
-- Hex
-- Capacitor Trap
-- Earthgrab Trap
-- Wind Rush Totem
-- Tremor Totem
-- Poison Cleansing Totem
-- Cleanse Spirit
-- Purge
-- Ancestral Spirit
-- Reincarnation
-- Ghost Wolf
-- Astral Shift
-- Gust of Wind
+- [Wind Shear](https://www.wowhead.com/spell=57994)
+- [Hex](https://www.wowhead.com/spell=51514)
+- [Capacitor Trap](https://www.wowhead.com/spell=192058)
+- [Earthgrab Trap](https://www.wowhead.com/spell=51485)
+- [Wind Rush Totem](https://www.wowhead.com/spell=192077)
+- [Tremor Totem](https://www.wowhead.com/spell=8143)
+- [Poison Cleansing Totem](https://www.wowhead.com/spell=383013)
+- [Cleanse Spirit](https://www.wowhead.com/spell=51886)
+- [Purge](https://www.wowhead.com/spell=370)
+- [Ancestral Spirit](https://www.wowhead.com/spell=2008)
+- [Reincarnation](https://www.wowhead.com/spell=20608)
+- [Ghost Wolf](https://www.wowhead.com/spell=2645)
+- [Gust of Wind](https://www.wowhead.com/spell=108273)
+
+## Defensive
+
+The following spells are classified as Defensive for the shaman class and should be grouped under the **3.4 Defensive Usage** section in performance reports:
+
+- [Astral Shift](https://www.wowhead.com/spell=108271)
+- [Earth Elemental](https://www.wowhead.com/spell=198103)
+- [Stone Bulwark Totem](https://www.wowhead.com/spell=108270)
+- [Ancestral Guidance](https://www.wowhead.com/spell=108281)
+- [Nature's Swiftness](https://www.wowhead.com/spell=378081)

@@ -228,17 +228,26 @@ Focus: **Execution Sentence Window** and **Holy Power Efficiency**.
 
 The following spells are classified as Utility for the paladin class and should be grouped under the **3.2 Utility** section in performance reports:
 
-- Rebuke
-- Hammer of Justice
-- Blinding Light
-- Repentance
-- Cleanse
-- Cleanse Toxins
-- Blessing of Protection
-- Blessing of Sacrifice
-- Blessing of Freedom
-- Divine Shield
-- Divine Protection
-- Lay on Hands
-- Intercession
-- Turn Evil
+- [Rebuke](https://www.wowhead.com/spell=96231)
+- [Hammer of Justice](https://www.wowhead.com/spell=853)
+- [Blinding Light](https://www.wowhead.com/spell=115750)
+- [Repentance](https://www.wowhead.com/spell=20066)
+- [Cleanse](https://www.wowhead.com/spell=4987)
+- [Cleanse Toxins](https://www.wowhead.com/spell=213634)
+- [Blessing of Freedom](https://www.wowhead.com/spell=1044)
+- [Intercession](https://www.wowhead.com/spell=391391)
+- [Turn Evil](https://www.wowhead.com/spell=10326)
+
+## Defensive
+
+The following spells are classified as Defensive for the paladin class and should be grouped under the **3.4 Defensive Usage** section in performance reports:
+
+- [Divine Shield](https://www.wowhead.com/spell=642)
+- [Blessing of Protection](https://www.wowhead.com/spell=1022)
+- [Blessing of Sacrifice](https://www.wowhead.com/spell=6940)
+- [Shield of Vengeance](https://www.wowhead.com/spell=184662)
+- [Divine Protection](https://www.wowhead.com/spell=498)
+- [Lay on Hands](https://www.wowhead.com/spell=633)
+- [Guardian of Ancient Kings](https://www.wowhead.com/spell=86659)
+- [Ardent Defender](https://www.wowhead.com/spell=31850)
+- [Eye for an Eye](https://www.wowhead.com/spell=205191)

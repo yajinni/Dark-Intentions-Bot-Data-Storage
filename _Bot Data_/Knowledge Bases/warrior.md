@@ -276,14 +276,24 @@ Track Resources: [2] // 2 = Rage (ID 101)
 
 The following spells are classified as Utility for the warrior class and should be grouped under the **3.2 Utility** section in performance reports:
 
-- Pummel
-- Shockwave
-- Storm Bolt
-- Intimidating Shout
-- Spell Reflection
-- Shield Block
-- Berserker Rage
-- Rallying Cry
-- Intervene
-- Heroic Leap
-- Charge
+- [Pummel](https://www.wowhead.com/spell=6552)
+- [Shockwave](https://www.wowhead.com/spell=46968)
+- [Storm Bolt](https://www.wowhead.com/spell=107570)
+- [Intimidating Shout](https://www.wowhead.com/spell=5246)
+- [Berserker Rage](https://www.wowhead.com/spell=18499)
+- [Intervene](https://www.wowhead.com/spell=3411)
+- [Heroic Leap](https://www.wowhead.com/spell=6544)
+- [Charge](https://www.wowhead.com/spell=100)
+
+## Defensive
+
+The following spells are classified as Defensive for the warrior class and should be grouped under the **3.4 Defensive Usage** section in performance reports:
+
+- [Shield Wall](https://www.wowhead.com/spell=871)
+- [Last Stand](https://www.wowhead.com/spell=12975)
+- [Spell Reflection](https://www.wowhead.com/spell=23920)
+- [Enraged Regeneration](https://www.wowhead.com/spell=184364)
+- [Die by the Sword](https://www.wowhead.com/spell=118038)
+- [Rallying Cry](https://www.wowhead.com/spell=97462)
+- [Ignore Pain](https://www.wowhead.com/spell=190456)
+- [Shield Block](https://www.wowhead.com/spell=2565)

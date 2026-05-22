@@ -222,16 +222,23 @@ Focus: **Echo Management** and **Stasis Combo** efficiency.
 
 The following spells are classified as Utility for the evoker class and should be grouped under the **3.2 Utility** section in performance reports:
 
-- Quell
-- Landslide
-- Tail Swipe
-- Wing Buffet
-- Oppressing Roar
-- Obsidian Scales
-- Zephyr
-- Rescue
-- Cauterizing Flame
-- Expunge
-- Emerald Blossom
-- Time Spiral
-- Sleep Walk
+- [Quell](https://www.wowhead.com/spell=351338)
+- [Landslide](https://www.wowhead.com/spell=358385)
+- [Tail Swipe](https://www.wowhead.com/spell=368970)
+- [Wing Buffet](https://www.wowhead.com/spell=357214)
+- [Oppressing Roar](https://www.wowhead.com/spell=372048)
+- [Cauterizing Flame](https://www.wowhead.com/spell=374251)
+- [Expunge](https://www.wowhead.com/spell=360823)
+- [Emerald Blossom](https://www.wowhead.com/spell=355936)
+- [Time Spiral](https://www.wowhead.com/spell=374968)
+- [Sleep Walk](https://www.wowhead.com/spell=360806)
+
+## Defensive
+
+The following spells are classified as Defensive for the evoker class and should be grouped under the **3.4 Defensive Usage** section in performance reports:
+
+- [Obsidian Scales](https://www.wowhead.com/spell=363916)
+- [Renewing Blaze](https://www.wowhead.com/spell=374348)
+- [Zephyr](https://www.wowhead.com/spell=374227)
+- [Rescue](https://www.wowhead.com/spell=370665)
+- [Twin Guardian](https://www.wowhead.com/spell=373634)

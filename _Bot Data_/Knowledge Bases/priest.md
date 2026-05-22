@@ -265,17 +265,26 @@ Track Resources: [13] // 13 = Insanity (ID 113)
 
 The following spells are classified as Utility for the priest class and should be grouped under the **3.2 Utility** section in performance reports:
 
-- Silence
-- Psychic Scream
-- Psychic Horror
-- Dominate Mind
-- Shackle Undead
-- Mass Dispel
-- Purify
-- Purify Disease
-- Leap of Faith
-- Power Infusion
-- Desperate Prayer
-- Fade
-- Power Word: Life
-- Symbol of Hope
+- [Silence](https://www.wowhead.com/spell=15487)
+- [Psychic Scream](https://www.wowhead.com/spell=8122)
+- [Psychic Horror](https://www.wowhead.com/spell=64044)
+- [Dominate Mind](https://www.wowhead.com/spell=605)
+- [Shackle Undead](https://www.wowhead.com/spell=9484)
+- [Mass Dispel](https://www.wowhead.com/spell=527)
+- [Purify](https://www.wowhead.com/spell=527)
+- [Purify Disease](https://www.wowhead.com/spell=213634)
+- [Leap of Faith](https://www.wowhead.com/spell=73325)
+- [Power Infusion](https://www.wowhead.com/spell=10060)
+- [Power Word: Life](https://www.wowhead.com/spell=373481)
+- [Symbol of Hope](https://www.wowhead.com/spell=64901)
+
+## Defensive
+
+The following spells are classified as Defensive for the priest class and should be grouped under the **3.4 Defensive Usage** section in performance reports:
+
+- [Desperate Prayer](https://www.wowhead.com/spell=19236)
+- [Fade](https://www.wowhead.com/spell=586)
+- [Pain Suppression](https://www.wowhead.com/spell=33206)
+- [Guardian Spirit](https://www.wowhead.com/spell=47788)
+- [Power Word: Barrier](https://www.wowhead.com/spell=62618)
+- [Vampiric Embrace](https://www.wowhead.com/spell=15286)

@@ -226,19 +226,29 @@ Focus: **Shatter Combo** efficiency and **Icy Veins** uptime.
 
 The following spells are classified as Utility for the mage class and should be grouped under the **3.2 Utility** section in performance reports:
 
-- Counterspell
-- Spellsteal
-- Polymorph
-- Remove Curse
-- Slow
-- Ring of Frost
-- Ice Nova
-- Frost Nova
-- Blast Wave
-- Dragon's Breath
-- Blink
-- Shimmer
-- Ice Block
-- Alter Time
-- Mirror Image
-- Time Warp
+- [Counterspell](https://www.wowhead.com/spell=2139)
+- [Spellsteal](https://www.wowhead.com/spell=30449)
+- [Polymorph](https://www.wowhead.com/spell=118)
+- [Remove Curse](https://www.wowhead.com/spell=475)
+- [Slow](https://www.wowhead.com/spell=31589)
+- [Ring of Frost](https://www.wowhead.com/spell=113724)
+- [Ice Nova](https://www.wowhead.com/spell=157997)
+- [Frost Nova](https://www.wowhead.com/spell=122)
+- [Blast Wave](https://www.wowhead.com/spell=157981)
+- [Dragon's Breath](https://www.wowhead.com/spell=31661)
+- [Blink](https://www.wowhead.com/spell=1953)
+- [Shimmer](https://www.wowhead.com/spell=212653)
+- [Time Warp](https://www.wowhead.com/spell=80353)
+
+## Defensive
+
+The following spells are classified as Defensive for the mage class and should be grouped under the **3.4 Defensive Usage** section in performance reports:
+
+- [Ice Block](https://www.wowhead.com/spell=45438)
+- [Ice Cold](https://www.wowhead.com/spell=414658)
+- [Greater Invisibility](https://www.wowhead.com/spell=110959)
+- [Mirror Image](https://www.wowhead.com/spell=55342)
+- [Alter Time](https://www.wowhead.com/spell=108920)
+- [Prismatic Barrier](https://www.wowhead.com/spell=235450)
+- [Blazing Barrier](https://www.wowhead.com/spell=235313)
+- [Ice Barrier](https://www.wowhead.com/spell=11426)

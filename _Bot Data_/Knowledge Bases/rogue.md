@@ -228,17 +228,23 @@ Focus: **Shadow Dance Windows** and **Secret Technique** alignment.
 
 The following spells are classified as Utility for the rogue class and should be grouped under the **3.2 Utility** section in performance reports:
 
-- Kick
-- Kidney Shot
-- Cheap Shot
-- Blind
-- Sap
-- Gouge
-- Distract
-- Cloak of Shadows
-- Evasion
-- Feint
-- Vanish
-- Crimson Vial
-- Shadowstep
-- Grappling Hook
+- [Kick](https://www.wowhead.com/spell=1766)
+- [Kidney Shot](https://www.wowhead.com/spell=408)
+- [Cheap Shot](https://www.wowhead.com/spell=1833)
+- [Blind](https://www.wowhead.com/spell=2094)
+- [Sap](https://www.wowhead.com/spell=6770)
+- [Gouge](https://www.wowhead.com/spell=1776)
+- [Distract](https://www.wowhead.com/spell=1725)
+- [Vanish](https://www.wowhead.com/spell=1856)
+- [Shadowstep](https://www.wowhead.com/spell=36554)
+- [Grappling Hook](https://www.wowhead.com/spell=195457)
+
+## Defensive
+
+The following spells are classified as Defensive for the rogue class and should be grouped under the **3.4 Defensive Usage** section in performance reports:
+
+- [Cloak of Shadows](https://www.wowhead.com/spell=31224)
+- [Evasion](https://www.wowhead.com/spell=5277)
+- [Feint](https://www.wowhead.com/spell=1966)
+- [Crimson Vial](https://www.wowhead.com/spell=185311)
+- [Cheat Death](https://www.wowhead.com/spell=31230)

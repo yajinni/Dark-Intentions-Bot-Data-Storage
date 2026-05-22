@@ -231,14 +231,21 @@ Focus: **Soul Fragment** consumption and **Sigil** uptime.
 
 The following spells are classified as Utility for the demonhunter class and should be grouped under the **3.2 Utility** section in performance reports:
 
-- Disrupt
-- Sigil of Silence
-- Sigil of Misery
-- Sigil of Flame
-- Sigil of Chains
-- Chaos Nova
-- Imprison
-- Darkness
-- Blur
-- Netherwalk
-- Spectral Sight
+- [Disrupt](https://www.wowhead.com/spell=183752)
+- [Sigil of Silence](https://www.wowhead.com/spell=202137)
+- [Sigil of Misery](https://www.wowhead.com/spell=207684)
+- [Sigil of Flame](https://www.wowhead.com/spell=204596)
+- [Sigil of Chains](https://www.wowhead.com/spell=202138)
+- [Chaos Nova](https://www.wowhead.com/spell=179057)
+- [Imprison](https://www.wowhead.com/spell=217832)
+- [Spectral Sight](https://www.wowhead.com/spell=188501)
+
+## Defensive
+
+The following spells are classified as Defensive for the demonhunter class and should be grouped under the **3.4 Defensive Usage** section in performance reports:
+
+- [Blur](https://www.wowhead.com/spell=198589)
+- [Netherwalk](https://www.wowhead.com/spell=196555)
+- [Darkness](https://www.wowhead.com/spell=196718)
+- [Fiery Brand](https://www.wowhead.com/spell=204021)
+- [Metamorphosis](https://www.wowhead.com/spell=187827)

@@ -307,15 +307,25 @@ Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
 
 The following spells are classified as Utility for the deathknight class and should be grouped under the **3.2 Utility** section in performance reports:
 
-- Mind Freeze
-- Death Grip
-- Asphyxiate
-- Anti-Magic Zone
-- Anti-Magic Shell
-- Icebound Fortitude
-- Death's Advance
-- Raise Allied Undead
-- Control Undead
-- Chains of Ice
-- Abomination Limb
-- Blinding Sleet
+- [Mind Freeze](https://www.wowhead.com/spell=47528)
+- [Death Grip](https://www.wowhead.com/spell=49576)
+- [Asphyxiate](https://www.wowhead.com/spell=108194)
+- [Death's Advance](https://www.wowhead.com/spell=96268)
+- [Raise Allied Undead](https://www.wowhead.com/spell=61999)
+- [Control Undead](https://www.wowhead.com/spell=111673)
+- [Chains of Ice](https://www.wowhead.com/spell=45524)
+- [Abomination Limb](https://www.wowhead.com/spell=383005)
+- [Blinding Sleet](https://www.wowhead.com/spell=108199)
+
+## Defensive
+
+The following spells are classified as Defensive for the deathknight class and should be grouped under the **3.4 Defensive Usage** section in performance reports:
+
+- [Anti-Magic Shell](https://www.wowhead.com/spell=48707)
+- [Anti-Magic Zone](https://www.wowhead.com/spell=51052)
+- [Icebound Fortitude](https://www.wowhead.com/spell=48792)
+- [Lichborne](https://www.wowhead.com/spell=49039)
+- [Vampiric Blood](https://www.wowhead.com/spell=55233)
+- [Rune Tap](https://www.wowhead.com/spell=194679)
+- [Tombstone](https://www.wowhead.com/spell=219809)
+- [Dancing Rune Weapon](https://www.wowhead.com/spell=49028)

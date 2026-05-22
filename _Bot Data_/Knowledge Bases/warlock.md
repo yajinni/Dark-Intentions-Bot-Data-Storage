@@ -228,16 +228,23 @@ Focus: **Shard Management** and **Chaos Bolt** efficiency.
 
 The following spells are classified as Utility for the warlock class and should be grouped under the **3.2 Utility** section in performance reports:
 
-- Spell Lock
-- Axe Toss
-- Seduction
-- Banish
-- Fear
-- Shadowfury
-- Mortal Coil
-- Howl of Terror
-- Unending Resolve
-- Soulstone
-- Healthstone
-- Demonic Gateway
-- Demonic Circle
+- [Spell Lock](https://www.wowhead.com/spell=19647)
+- [Axe Toss](https://www.wowhead.com/spell=89766)
+- [Seduction](https://www.wowhead.com/spell=115268)
+- [Banish](https://www.wowhead.com/spell=710)
+- [Fear](https://www.wowhead.com/spell=5782)
+- [Shadowfury](https://www.wowhead.com/spell=30283)
+- [Howl of Terror](https://www.wowhead.com/spell=17928)
+- [Soulstone](https://www.wowhead.com/spell=20707)
+- [Healthstone](https://www.wowhead.com/spell=6201)
+- [Demonic Gateway](https://www.wowhead.com/spell=111771)
+- [Demonic Circle](https://www.wowhead.com/spell=48018)
+
+## Defensive
+
+The following spells are classified as Defensive for the warlock class and should be grouped under the **3.4 Defensive Usage** section in performance reports:
+
+- [Unending Resolve](https://www.wowhead.com/spell=104773)
+- [Mortal Coil](https://www.wowhead.com/spell=6789)
+- [Dark Pact](https://www.wowhead.com/spell=108416)
+- [Soul Link](https://www.wowhead.com/spell=108415)
