@@ -76,3 +76,4 @@ Focus: **Entropic Rift Alignment** and **Insanity Management**.
 ## 6. Passive Spell Cast Mappings
 * Incessant Screams = Psychic Scream casts
 * Void Bolt = Void Bolt hits
+* Shadow Word: Pain = Shadow Word: Pain hits
