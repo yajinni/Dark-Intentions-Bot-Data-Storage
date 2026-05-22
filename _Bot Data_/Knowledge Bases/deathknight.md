@@ -393,5 +393,5 @@ The following spells are classified as Defensive for the deathknight class and s
 - [Vampiric Blood](https://www.wowhead.com/spell=55233)
 - [Rune Tap](https://www.wowhead.com/spell=194679)
 - [Tombstone](https://www.wowhead.com/spell=219809)
-- [Dancing Rune Weapon](https://www.wowhead.com/spell=49028)
+
 
