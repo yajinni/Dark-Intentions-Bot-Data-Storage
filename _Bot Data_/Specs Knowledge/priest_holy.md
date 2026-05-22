@@ -81,3 +81,8 @@ The bot must switch audit logic based on the active Hero Spec.
 *   **Power Infusion:** Haste buff for top DPS.
 *   **Halo (Archon Only):** High-throughput burst window trigger.
 *   **Premonition (Oracle Only):** Versatile utility/throughput buff cycle.
+
+---
+
+## 6. Passive Spell Cast Mappings
+* Incessant Screams = Psychic Scream casts

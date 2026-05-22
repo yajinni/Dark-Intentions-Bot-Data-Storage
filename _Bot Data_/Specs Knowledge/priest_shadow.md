@@ -70,3 +70,8 @@ Focus: **Entropic Rift Alignment** and **Insanity Management**.
 *   **Halo:** (Archon only) High-impact burst utility.
 *   **Power Infusion:** Major Haste multiplier.
 *   **Vampiric Embrace:** Defensive utility for raid healing.
+
+---
+
+## 6. Passive Spell Cast Mappings
+* Incessant Screams = Psychic Scream casts
