@@ -102,6 +102,15 @@ The bot must switch audit logic based on the active Hero Spec.
 
 #### Spec-Specific Audit Instructions
 Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
+Track Buff State At Cast: [
+  {
+    "spellId": 195182,
+    "buffId": 195181,
+    "name": "boneShield",
+    "displayName": "Bone Shield / Marrowrend Efficiency",
+    "wastefulCondition": "stacks >= 7"
+  }
+]
 
 ##### **Resource Management & Overcapping**
 - **Trigger:** Only create this table if `<RESOURCE_WASTE_DATA>` is provided.
