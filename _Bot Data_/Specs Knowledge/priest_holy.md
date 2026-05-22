@@ -86,3 +86,4 @@ The bot must switch audit logic based on the active Hero Spec.
 
 ## 6. Passive Spell Cast Mappings
 * Incessant Screams = Psychic Scream casts
+* Void Bolt = Void Bolt hits
