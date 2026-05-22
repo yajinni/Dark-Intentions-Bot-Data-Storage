@@ -5,7 +5,7 @@
 
 ### Balance Druid Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach across Elune's Chosen and Keeper of the Grove builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -30,13 +30,13 @@ The guide recommends a unified approach across Elune's Chosen and Keeper of the 
 
 ---
 
-#### 2. Stat Priority
+#### Stat Priority
 *   **General Priority:** Intellect > Mastery > Critical Strike > Haste > Versatility.
 *   *Note: Stat weights are very close; Mastery and Crit are the primary focuses for raid damage.*
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Elune's Chosen**
 *   **Core Focus:** **Lunar Calling** & **The Boundless Moonlight**.
@@ -50,7 +50,7 @@ The guide recommends a unified approach across Elune's Chosen and Keeper of the 
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Eclipse Uptime** and **Astral Power Management**.
 
 ##### **A. The Eclipse Audit (The 100% Rule)**
@@ -66,7 +66,7 @@ Focus: **Eclipse Uptime** and **Astral Power Management**.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Celestial Alignment / Incarnation:** 3-minute CD. Major burst window.
 *   **Convoke the Spirits:** 1-minute CD (if talented). Rapid-fire spells.
 *   **Force of Nature:** 1-minute CD. Summons Treants (primary Keeper engine).
@@ -92,7 +92,7 @@ Compare Cooldowns: [
 
 ### Feral Druid Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Wildstalker and Druid of the Claw builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -117,13 +117,13 @@ The guide recommends a unified approach for both Wildstalker and Druid of the Cl
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **Wildstalker:** Agility > Haste > Mastery > Critical Strike > Versatility.
 *   **Druid of the Claw:** Agility > Critical Strike > Mastery > Haste > Versatility.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Wildstalker**
 *   **Core Focus:** **Rip** & **Unseen Predator**.
@@ -137,7 +137,7 @@ The guide recommends a unified approach for both Wildstalker and Druid of the Cl
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Bleed Snapshotting** and **Tiger's Fury** alignment.
 > **Note:** Bloodtalons no longer exists in Midnight (12.0.5). It was a talent from previous expansions and must **not** be referenced in audits or recommendations.
 
@@ -155,7 +155,7 @@ Focus: **Bleed Snapshotting** and **Tiger's Fury** alignment.
 
 ---
 
-#### 6. Spec-Specific Audit Instructions
+#### Spec-Specific Audit Instructions
 Audit Resource: 22568 { "minCP": 5, "minEnergy": 50 } // Ferocious Bite
 Audit Resource: 441591 { "minCP": 5, "minEnergy": 50 } // Ravage (Hero Talent FB)
 Audit Resource: 1079 { "minCP": 5 } // Rip
@@ -196,7 +196,7 @@ Ignore from Energy: ["Ferocious Bite"]
 
 ---
 
-#### 7. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Berserk / Incarnation:** 3-minute CD. Reduces Energy costs and increases CP generation.
 *   **Tiger's Fury:** 30s CD. Core damage buff and Energy generator.
 *   **Convoke the Spirits:** 1-minute CD (if talented). Rapid-fire burst.
@@ -221,7 +221,7 @@ Compare Cooldowns: [
 
 ### Guardian Druid Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Druid of the Claw and Elune's Chosen builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -246,12 +246,12 @@ The guide recommends a unified approach for both Druid of the Claw and Elune's C
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **All Builds:** Agility/Stamina > Haste > Versatility > Mastery > Critical Strike.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Druid of the Claw**
 *   **Core Mechanic:** **Ravage** (Replaces Maul).
@@ -265,7 +265,7 @@ The guide recommends a unified approach for both Druid of the Claw and Elune's C
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Active Mitigation** and **Rage Efficiency**.
 
 ##### **A. Mitigation Audit (The Survival Loop)**
@@ -281,7 +281,7 @@ Focus: **Active Mitigation** and **Rage Efficiency**.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Incarnation: Guardian of Ursoc / Berserk:** 3-minute CD. Massive health buff and resource generation.
 *   **Survival Instincts:** 2 charges. 50% Damage Reduction. Use for predictable lethal hits.
 *   **Barkskin:** 1-minute CD. 20% Damage Reduction. Use proactively for medium damage.
@@ -294,7 +294,7 @@ Focus: **Active Mitigation** and **Rage Efficiency**.
 
 ### Restoration Druid Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Keeper of the Grove and Wildstalker builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -319,12 +319,12 @@ The guide recommends a unified approach for both Keeper of the Grove and Wildsta
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **All Builds:** Intellect > Haste >= Mastery > Versatility > Critical Strike.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Keeper of the Grove**
 *   **Core Focus:** **Grove Guardians** (Treants) & **Reforestation**.
@@ -338,7 +338,7 @@ The guide recommends a unified approach for both Keeper of the Grove and Wildsta
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **HoT Maintenance** and **Ramp Efficiency**.
 
 ##### **A. The Maintenance Audit (100% Uptime)**
@@ -355,7 +355,7 @@ Focus: **HoT Maintenance** and **Ramp Efficiency**.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Tranquility:** 3-minute CD. Major raid-wide healing channel.
 *   **Convoke the Spirits:** 1-minute CD (if talented). Burst stabilization.
 *   **Incarnation: Tree of Life:** Massive healing buff and instant Regrowths.

@@ -5,7 +5,7 @@
 
 ### Beast Mastery Hunter Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Pack Leader and Dark Ranger builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -31,12 +31,12 @@ The guide recommends a unified approach for both Pack Leader and Dark Ranger bui
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **All Builds:** Mastery > Critical Strike > Haste > Versatility.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Pack Leader**
 *   **Core Focus:** **Kill Command** & **Pack Hunter**.
@@ -50,7 +50,7 @@ The guide recommends a unified approach for both Pack Leader and Dark Ranger bui
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Frenzy Maintenance** and **Bestial Wrath** uptime.
 
 ##### **A. The Frenzy Audit (The 3-Stack Rule)**
@@ -67,7 +67,7 @@ Focus: **Frenzy Maintenance** and **Bestial Wrath** uptime.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Bestial Wrath:** 1.5-minute CD (reduced by Barbed Shot). Increases all damage by 25%.
 *   **Call of the Wild:** 2-minute CD. Summons your entire stable of pets for massive burst.
 *   **Aspect of the Wild:** Critical Strike buff for you and your pet.
@@ -88,7 +88,7 @@ Compare Cooldowns: [
 
 ### Marksmanship Hunter Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Dark Ranger and Sentinel builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -113,12 +113,12 @@ The guide recommends a unified approach for both Dark Ranger and Sentinel builds
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **All Builds:** Agility > Critical Strike > Mastery > Versatility > Haste.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Dark Ranger**
 *   **Core Focus:** **Black Arrow** & **Death Shade**.
@@ -132,7 +132,7 @@ The guide recommends a unified approach for both Dark Ranger and Sentinel builds
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Aimed Shot Charge Management** and **Trick Shots** efficiency.
 
 ##### **A. Charge Management Audit**
@@ -150,7 +150,7 @@ Focus: **Aimed Shot Charge Management** and **Trick Shots** efficiency.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Trueshot:** 2-minute CD. Increases Haste and reduces Aimed Shot cast time.
 *   **Volley:** 45s CD. Triggers Trick Shots instantly and does AoE damage.
 *   **Double Tap:** (If talented) High priority burst buff for the next spender.
@@ -171,7 +171,7 @@ Compare Cooldowns: [
 
 ### Survival Hunter Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Sentinel and Pack Leader builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -196,12 +196,12 @@ The guide recommends a unified approach for both Sentinel and Pack Leader builds
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **All Builds:** Agility > Mastery > Critical Strike > Haste > Versatility.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Sentinel**
 *   **Core Focus:** **Lunar Storm** & **Sentinel Watch**.
@@ -215,7 +215,7 @@ The guide recommends a unified approach for both Sentinel and Pack Leader builds
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Tip of the Spear** stacks and **Mongoose Fury** windows.
 
 ##### **A. Tip of the Spear Audit (The Golden Rule)**
@@ -234,7 +234,7 @@ Focus: **Tip of the Spear** stacks and **Mongoose Fury** windows.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Coordinated Assault:** 2-minute CD. Increases damage and reduces Kill Command CD.
 *   **Spearhead:** 1.5-minute CD. Massive burst window for Mongoose Bite.
 *   **Aspect of the Eagle:** Used to allow melee attacks (Mongoose Bite) from range.

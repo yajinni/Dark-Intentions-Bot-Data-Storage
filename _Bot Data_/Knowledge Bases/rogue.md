@@ -5,7 +5,7 @@
 
 ### Assassination Rogue Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Fatebound and Deathstalker builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -29,12 +29,12 @@ The guide recommends a unified approach for both Fatebound and Deathstalker buil
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **All Builds:** Agility > Critical Strike = Haste > Mastery > Versatility.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Fatebound**
 *   **Core Focus:** **Coin Flip** & **Hand of Fate**.
@@ -48,7 +48,7 @@ The guide recommends a unified approach for both Fatebound and Deathstalker buil
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Bleed Uptime** and **Kingsbane** windows.
 
 ##### **A. The Bleed Audit (100% Uptime)**
@@ -66,7 +66,7 @@ Focus: **Bleed Uptime** and **Kingsbane** windows.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Deathmark:** 2-minute CD. Major burst window.
 *   **Kingsbane:** 1-minute CD. High-intensity poison burst.
 *   **Vanish:** Used offensively to reset Garrote or trigger *Master Assassin*.
@@ -92,7 +92,7 @@ Compare Cooldowns: [
 
 ### Outlaw Rogue Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Trickster and Fatebound builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -117,12 +117,12 @@ The guide recommends a unified approach for both Trickster and Fatebound builds.
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **All Builds:** Agility > Critical Strike > Haste > Versatility > Mastery.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Trickster**
 *   **Core Focus:** **Cloud Cover** & **Killing Spree**.
@@ -136,7 +136,7 @@ The guide recommends a unified approach for both Trickster and Fatebound builds.
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Adrenaline Rush Uptime** and **Roll the Bones** management.
 
 ##### **A. Adrenaline Rush Audit (100% Uptime)**
@@ -159,7 +159,7 @@ Focus: **Adrenaline Rush Uptime** and **Roll the Bones** management.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Adrenaline Rush:** 3-minute CD (reduced by finishers). Your primary engine.
 *   **Killing Spree:** 2-minute CD. High physical damage and Trickster trigger.
 *   **Blade Rush:** 45s CD. Generates Energy and damage.
@@ -180,7 +180,7 @@ Compare Cooldowns: [
 
 ### Subtlety Rogue Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Trickster and Deathstalker builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -204,12 +204,12 @@ The guide recommends a unified approach for both Trickster and Deathstalker buil
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **All Builds:** Agility > Haste > Critical Strike > Mastery > Versatility.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Trickster**
 *   **Core Focus:** **Coup de Grace** & **Cloud Cover**.
@@ -223,7 +223,7 @@ The guide recommends a unified approach for both Trickster and Deathstalker buil
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Shadow Dance Windows** and **Secret Technique** alignment.
 
 ##### **A. The Shadow Dance Audit (The Burst Cycle)**
@@ -241,7 +241,7 @@ Focus: **Shadow Dance Windows** and **Secret Technique** alignment.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Shadow Dance:** 1-minute CD (reduced by finishers). Primary burst window.
 *   **Shadow Blades:** 2-minute CD. Major resource and damage multiplier.
 *   **Secret Technique:** 45s CD. Your highest-impact finisher.

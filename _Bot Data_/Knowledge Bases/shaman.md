@@ -5,7 +5,7 @@
 
 ### Elemental Shaman Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Stormbringer and Farseer builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -30,12 +30,12 @@ The guide recommends a unified approach for both Stormbringer and Farseer builds
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **All Builds:** Intellect > Mastery > Haste > Critical Strike > Versatility.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Stormbringer**
 *   **Core Focus:** **Tempest** & **Awakening Storms**.
@@ -49,7 +49,7 @@ The guide recommends a unified approach for both Stormbringer and Farseer builds
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Maelstrom Efficiency** and **Stormkeeper** alignment.
 
 ##### **A. The Maelstrom Audit (The "Never Cap" Rule)**
@@ -67,7 +67,7 @@ Focus: **Maelstrom Efficiency** and **Stormkeeper** alignment.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Ascendance:** 3-minute CD. Massive burst window for Lava Burst or Lightning Bolt.
 *   **Storm Element / Fire Element:** Major throughput pets.
 *   **Stormkeeper:** 1-minute CD. Empowers the next 2 Lightning Bolt/Chain Lightning casts.
@@ -88,7 +88,7 @@ Compare Cooldowns: [
 
 ### Enhancement Shaman Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Hybrid Guide Approach)
+#### Consumables & Equipment (Hybrid Guide Approach)
 Enhancement uses unified consumables for gems/food, but splits on Flasks based on Hero Spec choice.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -113,12 +113,12 @@ Enhancement uses unified consumables for gems/food, but splits on Flasks based o
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **All Builds:** Agility > Mastery > Critical Strike > Haste > Versatility.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Totemic**
 *   **Core Focus:** **Surging Totem** & **Totemic Projection**.
@@ -132,7 +132,7 @@ Enhancement uses unified consumables for gems/food, but splits on Flasks based o
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Maelstrom Weapon Stacking** and **Totem Maintenance**.
 
 ##### **A. The Maelstrom Audit (The 10-Stack Rule)**
@@ -152,7 +152,7 @@ Focus: **Maelstrom Weapon Stacking** and **Totem Maintenance**.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Doom Winds:** 1.5-minute CD. Increases Windfury damage and generation.
 *   **Feral Spirit:** 2-minute CD. Major Agility and damage buff.
 *   **Primordial Wave:** 45s CD. Causes your next Lightning Bolt to hit all Flame Shocked targets.
@@ -179,7 +179,7 @@ Compare Cooldowns: [
 
 ### Restoration Shaman Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Totemic and Farseer builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -204,12 +204,12 @@ The guide recommends a unified approach for both Totemic and Farseer builds.
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **All Builds:** Intellect > Critical Strike > Versatility = Mastery > Haste.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Totemic**
 *   **Core Focus:** **Surging Totem** & **Totemic Projection**.
@@ -223,7 +223,7 @@ The guide recommends a unified approach for both Totemic and Farseer builds.
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Cloudburst Management** and **Healing Rain** uptime.
 
 ##### **A. The Cloudburst Audit (The Timing Rule)**
@@ -244,7 +244,7 @@ Focus: **Cloudburst Management** and **Healing Rain** uptime.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Healing Tide Totem:** 3-minute CD. Major raid-wide healing totem.
 *   **Spirit Link Totem:** 3-minute CD. Redistributes health and provides damage reduction.
 *   **Mana Tide Totem:** 3-minute CD. Increases mana regeneration for the raid.

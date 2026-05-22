@@ -5,7 +5,7 @@
 
 ### Holy Paladin Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Herald of the Sun and Lightsmith builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -30,13 +30,13 @@ The guide recommends a unified approach for both Herald of the Sun and Lightsmit
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **Herald Focus:** Intellect > Mastery > Haste > Critical Strike > Versatility.
 *   **Lightsmith Focus:** Intellect > Haste > Mastery > Critical Strike > Versatility.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Herald of the Sun**
 *   **Core Focus:** **Dawnlight** & **Eternal Flame**.
@@ -50,7 +50,7 @@ The guide recommends a unified approach for both Herald of the Sun and Lightsmit
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Holy Power Management** and **Glimmer Maintenance**.
 
 ##### **A. The Holy Power Audit (The "Never Cap" Rule)**
@@ -67,7 +67,7 @@ Focus: **Holy Power Management** and **Glimmer Maintenance**.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Avenging Wrath:** 2-minute CD. Increases all healing and damage.
 *   **Aura Mastery:** 3-minute CD. Major raid-wide damage reduction.
 *   **Divine Toll:** 1-minute CD. High-impact burst healing and resource generator.
@@ -80,7 +80,7 @@ Focus: **Holy Power Management** and **Glimmer Maintenance**.
 
 ### Protection Paladin Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Templar and Lightsmith builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -105,12 +105,12 @@ The guide recommends a unified approach for both Templar and Lightsmith builds.
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **All Builds:** Strength > Haste > Versatility > Mastery > Critical Strike.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Templar**
 *   **Core Focus:** **Hammer of Light** & **Lights Guidance**.
@@ -124,7 +124,7 @@ The guide recommends a unified approach for both Templar and Lightsmith builds.
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Consecration Uptime** and **Active Mitigation**.
 
 ##### **A. The Consecration Audit (The 100% Rule)**
@@ -144,7 +144,7 @@ Focus: **Consecration Uptime** and **Active Mitigation**.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Guardian of Ancient Kings:** 5-minute CD. 50% Damage Reduction. Use for predictable lethal hits.
 *   **Ardent Defender:** 2-minute CD. 20% Damage Reduction and prevents death once.
 *   **Avenging Wrath:** 2-minute CD. Increases all damage and healing.
@@ -157,7 +157,7 @@ Focus: **Consecration Uptime** and **Active Mitigation**.
 
 ### Retribution Paladin Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Templar and Herald of the Sun builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -182,12 +182,12 @@ The guide recommends a unified approach for both Templar and Herald of the Sun b
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **All Builds:** Strength > Mastery > Critical Strike > Versatility > Haste.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Templar**
 *   **Core Focus:** **Hammer of Light** & **Shake the Heavens**.
@@ -201,7 +201,7 @@ The guide recommends a unified approach for both Templar and Herald of the Sun b
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Execution Sentence Window** and **Holy Power Efficiency**.
 
 ##### **A. The Burst Audit (The Execution Window)**
@@ -220,7 +220,7 @@ Focus: **Execution Sentence Window** and **Holy Power Efficiency**.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Avenging Wrath (Crusade):** 2-minute CD. Increases damage and Haste.
 *   **Wake of Ashes:** 45s CD. Generates 3 Holy Power and triggers Hero Talent procs.
 *   **Execution Sentence:** 30s CD. Increases damage taken by the target.

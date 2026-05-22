@@ -5,7 +5,7 @@
 
 ### Discipline Priest Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Hybrid Guide Approach)
+#### Consumables & Equipment (Hybrid Guide Approach)
 Discipline uses unified consumables for gems/food, but splits on Weapon Enchants by Hero Spec.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -30,12 +30,12 @@ Discipline uses unified consumables for gems/food, but splits on Weapon Enchants
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **All Builds:** Haste > Critical Strike > Versatility > Mastery.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Oracle**
 *   **Core Focus:** **Premonition** (Buff Cycle).
@@ -49,7 +49,7 @@ Discipline uses unified consumables for gems/food, but splits on Weapon Enchants
 
 ---
 
-#### 4. Deep Dive: Raid Rotation (The Ramp Audit)
+#### Deep Dive: Raid Rotation (The Ramp Audit)
 Discipline is audited based on the **Evangelism Ramp** sequence.
 
 ##### **A. Pre-Evangelism (The Setup)**
@@ -66,7 +66,7 @@ Discipline is audited based on the **Evangelism Ramp** sequence.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Power Word: Radiance:** 20s CD. The primary Atonement application tool.
 *   **Evangelism:** 1.5-minute CD. The core raid-wide healing cooldown.
 *   **Ultimate Penitence:** 4-minute CD. Massive channeled heal during critical damage.
@@ -81,7 +81,7 @@ Discipline is audited based on the **Evangelism Ramp** sequence.
 
 ### Holy Priest Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Archon and Oracle builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -107,13 +107,13 @@ The guide recommends a unified approach for both Archon and Oracle builds.
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **Archon Build:** Intellect > Crit = Mastery > Versatility > Haste.
 *   **Oracle Build:** Intellect > Haste > Mastery > Crit = Versatility.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Archon**
 *   **Core Focus:** **Halo & High-Burst Procs**.
@@ -127,7 +127,7 @@ The guide recommends a unified approach for both Archon and Oracle builds.
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 The bot must switch audit logic based on the active Hero Spec.
 
 ##### **A. Global Holy Priest Logic**
@@ -155,7 +155,7 @@ The bot must switch audit logic based on the active Hero Spec.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Apotheosis:** Increases Holy Word CDR by 300%. Each **Smite** cast now reduces the cooldown of *Holy Word: Chastise* by 12 seconds.
 *   **Divine Hymn:** Channeled raid heal. Increases healing received by 10%.
 *   **Guardian Spirit:** Save for tanks or lethal hits. Increases healing received by 40%.
@@ -165,7 +165,7 @@ The bot must switch audit logic based on the active Hero Spec.
 
 ---
 
-#### 6. Passive Spell Cast Mappings
+#### Passive Spell Cast Mappings
 * Incessant Screams = Psychic Scream casts
 </details>
 
@@ -174,7 +174,7 @@ The bot must switch audit logic based on the active Hero Spec.
 
 ### Shadow Priest Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach based on stat weights rather than a rigid Hero Spec split.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -200,13 +200,13 @@ The guide recommends a unified approach based on stat weights rather than a rigi
 
 ---
 
-#### 2. Stat Priority
+#### Stat Priority
 *   **General Priority:** Intellect > Mastery > Haste > Critical Strike > Versatility.
 *   *Note: Mastery becomes significantly more valuable in single-target raid encounters.*
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Voidweaver**
 *   **Core Focus:** **Entropic Rift** & **Void Blast**.
@@ -220,7 +220,7 @@ The guide recommends a unified approach based on stat weights rather than a rigi
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Entropic Rift Alignment** and **Insanity Management**.
 
 ##### **A. Voidweaver Audit (The Rift Rule)**
@@ -238,7 +238,7 @@ Focus: **Entropic Rift Alignment** and **Insanity Management**.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Dark Ascension / Void Eruption:** 1-minute CD. Increases shadow damage.
 *   **Shadowfiend / Mindbender:** Major resource generator and damage source.
 *   **Halo:** (Archon only) High-impact burst utility.
@@ -247,12 +247,12 @@ Focus: **Entropic Rift Alignment** and **Insanity Management**.
 
 ---
 
-#### 6. Passive Spell Cast Mappings
+#### Passive Spell Cast Mappings
 * Incessant Screams = Psychic Scream casts
 
 ---
 
-#### 7. Spec-Specific Audit Instructions
+#### Spec-Specific Audit Instructions
 Track Resources: [13] // 13 = Insanity (ID 113)
 
 ##### **Resource Management & Overcapping**

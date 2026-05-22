@@ -5,7 +5,7 @@
 
 ### Brewmaster Monk Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Master of Harmony and Shado-Pan builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -30,12 +30,12 @@ The guide recommends a unified approach for both Master of Harmony and Shado-Pan
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **All Builds:** Agility/Item Level > Critical Strike = Versatility = Mastery > Haste.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Master of Harmony**
 *   **Core Focus:** **Purified Chi** & **Harmonious Brews**.
@@ -49,7 +49,7 @@ The guide recommends a unified approach for both Master of Harmony and Shado-Pan
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Stagger Efficiency** and **Brew Recharge**.
 
 ##### **A. Mitigation Audit (The Survival Loop)**
@@ -65,7 +65,7 @@ Focus: **Stagger Efficiency** and **Brew Recharge**.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Celestial Brew:** 1-minute CD (reduced by Keg Smash). Primary defensive absorb.
 *   **Fortifying Brew:** 6-minute CD. Massive health and damage reduction buff.
 *   **Exploding Barrel:** (If talented) Massive physical mitigation and damage.
@@ -78,7 +78,7 @@ Focus: **Stagger Efficiency** and **Brew Recharge**.
 
 ### Mistweaver Monk Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Conduit of the Celestials and Master of Harmony builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -103,12 +103,12 @@ The guide recommends a unified approach for both Conduit of the Celestials and M
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **All Builds:** Intellect > Haste > Critical Strike > Versatility > Mastery.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Conduit of the Celestials**
 *   **Core Focus:** **Celestial Conduit** & **Heart of the Jade Serpent**.
@@ -122,7 +122,7 @@ The guide recommends a unified approach for both Conduit of the Celestials and M
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Ancient Teachings** maintenance and **Rising Sun Kick** priority.
 
 ##### **A. Ancient Teachings Audit (The Fistweaving Rule)**
@@ -138,7 +138,7 @@ Focus: **Ancient Teachings** maintenance and **Rising Sun Kick** priority.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Revival / Restoral:** 3-minute CD. Instant raid-wide heal and dispel.
 *   **Invoke Chi-Ji, the Red Crane:** 2-minute CD. Enhances Fistweaving throughput.
 *   **Sheilun's Gift:** Massive burst heal based on generated clouds.
@@ -151,7 +151,7 @@ Focus: **Ancient Teachings** maintenance and **Rising Sun Kick** priority.
 
 ### Windwalker Monk Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Conduit of the Celestials and Shado-Pan builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -176,12 +176,12 @@ The guide recommends a unified approach for both Conduit of the Celestials and S
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **All Builds:** Agility > Haste > Critical Strike >= Mastery > Versatility.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Conduit of the Celestials**
 *   **Core Focus:** **Celestial Conduit** & **Heart of the Jade Serpent**.
@@ -195,7 +195,7 @@ The guide recommends a unified approach for both Conduit of the Celestials and S
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Combo Strikes** and **Chi Efficiency**.
 
 ##### **A. Combo Strikes Audit (The Mastery Rule)**
@@ -213,7 +213,7 @@ Focus: **Combo Strikes** and **Chi Efficiency**.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Invoke Xuen, the White Tiger:** 2-minute CD. Increases damage and provides a pet.
 *   **Serenity / Storm, Earth, and Fire:** Primary burst window triggers.
 *   **Touch of Death:** Use on targets at **< 15% HP**.

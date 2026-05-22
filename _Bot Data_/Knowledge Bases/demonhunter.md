@@ -5,7 +5,7 @@
 
 ### Devourer Demon Hunter Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a "one-size-fits-all" approach for consumables across all builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -32,13 +32,13 @@ The guide recommends a "one-size-fits-all" approach for consumables across all b
 
 ---
 
-#### 2. Stat Priority
+#### Stat Priority
 *   **General Priority:** Intellect > Mastery > Haste > Critical Strike > Versatility.
 *   *Note: Mastery is the highest priority for both Annihilator and Void-Scarred builds.*
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Annihilator**
 *   **Core Focus:** **Annihilation** & **Demon Blades**.
@@ -52,7 +52,7 @@ The guide recommends a "one-size-fits-all" approach for consumables across all b
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Void Ray Efficiency** and **Drain Pausing**.
 
 ##### **A. Void-Scarred Audit (The Drain Rule)**
@@ -72,7 +72,7 @@ Focus: **Void Ray Efficiency** and **Drain Pausing**.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Metamorphosis:** 4-minute CD. Increases Haste and damage.
 *   **Eye Beam:** 30s CD. Triggers a mini-Metamorphosis window (Demonic).
 *   **Blade Dance / Death Sweep:** (If talented) High physical damage spender.
@@ -85,7 +85,7 @@ Focus: **Void Ray Efficiency** and **Drain Pausing**.
 
 ### Havoc Demon Hunter Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a "one-size-fits-all" approach for consumables across all builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -110,13 +110,13 @@ The guide recommends a "one-size-fits-all" approach for consumables across all b
 
 ---
 
-#### 2. Stat Priority
+#### Stat Priority
 *   **General Priority:** Agility > Critical Strike > Haste > Mastery > Versatility.
 *   *Note: These weights are consistent across Fel-Scarred and Aldrachi Reaver builds.*
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Fel-Scarred**
 *   **Core Focus:** **Burning Hatred** & **Focused Hatred**.
@@ -130,7 +130,7 @@ The guide recommends a "one-size-fits-all" approach for consumables across all b
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Inertia Windows** and **Fury Management**.
 
 ##### **A. The Inertia Audit (The 100% Rule)**
@@ -147,7 +147,7 @@ Focus: **Inertia Windows** and **Fury Management**.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Metamorphosis:** 4-minute CD.
 *   **The Hunt:** 1.5-minute CD. High damage and mobility.
 *   **Eye Beam:** 30s CD. 
@@ -173,7 +173,7 @@ Compare Cooldowns: [
 
 ### Vengeance Demon Hunter Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Annihilator and Aldrachi builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -197,13 +197,13 @@ The guide recommends a unified approach for both Annihilator and Aldrachi builds
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **Annihilator Build:** Agility > Haste > Versatility > Critical Strike > Mastery.
 *   **Aldrachi Reaver Build:** Agility > Critical Strike > Haste > Versatility > Mastery.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Annihilator**
 *   **Core Mechanic:** **Voidfall** (Defensive Metamorphosis Extension).
@@ -217,7 +217,7 @@ The guide recommends a unified approach for both Annihilator and Aldrachi builds
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Soul Fragment** consumption and **Sigil** uptime.
 
 ##### **A. Primary Defensive Logic (The Voidfall Loop)**
@@ -236,7 +236,7 @@ Focus: **Soul Fragment** consumption and **Sigil** uptime.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Metamorphosis:** 2-minute CD (reduced by *Last Resort* and *Voidfall*).
 *   **Soul Carver:** 1-minute CD. Massive soul fragment generator.
 *   **Sigil of Silence:** Utility/Crowd control.

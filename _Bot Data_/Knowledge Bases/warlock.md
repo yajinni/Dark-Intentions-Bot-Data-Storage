@@ -5,7 +5,7 @@
 
 ### Affliction Warlock Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Soul Harvester and Hellcaller builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -30,12 +30,12 @@ The guide recommends a unified approach for both Soul Harvester and Hellcaller b
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **All Builds:** Intellect > Haste = Critical Strike > Mastery > Versatility.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Soul Harvester**
 *   **Core Focus:** **Dark Harvest** & **Soul Anima**.
@@ -49,7 +49,7 @@ The guide recommends a unified approach for both Soul Harvester and Hellcaller b
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **DoT Maintenance** and **Shard Efficiency**.
 
 ##### **A. The Maintenance Audit (100% Uptime)**
@@ -68,7 +68,7 @@ Focus: **DoT Maintenance** and **Shard Efficiency**.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Summon Darkglare:** 2-minute CD. Extends the duration of all active DoTs.
 *   **Soul Rot:** 1-minute CD. Major burst ability and generator.
 *   **Dark Harvest:** 1-minute CD. Increases shadow damage and summons spirits.
@@ -90,7 +90,7 @@ Compare Cooldowns: [
 
 ### Demonology Warlock Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Soul Harvester and Diabolist builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -115,12 +115,12 @@ The guide recommends a unified approach for both Soul Harvester and Diabolist bu
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **All Builds:** Intellect > Critical Strike = Haste > Mastery > Versatility.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Soul Harvester**
 *   **Core Focus:** **Soul Anima** & **Dark Harvest**.
@@ -134,7 +134,7 @@ The guide recommends a unified approach for both Soul Harvester and Diabolist bu
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Shard Management** and **Tyrant Windows**.
 
 ##### **A. Shard Capping Audit (The 5-Shard Rule)**
@@ -152,7 +152,7 @@ Focus: **Shard Management** and **Tyrant Windows**.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Summon Demonic Tyrant:** 1.5-minute CD. Major burst window and buff extension.
 *   **Grimoire: Felguard:** 2-minute CD. Summons an extra powerful pet.
 *   **Power Siphon:** Used to generate Demonic Core stacks.
@@ -174,7 +174,7 @@ Compare Cooldowns: [
 
 ### Destruction Warlock Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Diabolist and Hellcaller builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -200,12 +200,12 @@ The guide recommends a unified approach for both Diabolist and Hellcaller builds
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **All Builds:** Intellect > Critical Strike > Haste > Mastery > Versatility.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Diabolist**
 *   **Core Focus:** **Pit Lord** & **Demonic Art**.
@@ -219,7 +219,7 @@ The guide recommends a unified approach for both Diabolist and Hellcaller builds
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Shard Management** and **Chaos Bolt** efficiency.
 
 ##### **A. Shard Capping Audit (The 5-Shard Rule)**
@@ -238,7 +238,7 @@ Focus: **Shard Management** and **Chaos Bolt** efficiency.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Summon Infernal:** 2-minute CD. Increases shard generation and damage.
 *   **Dimensional Rift:** (If talented) High-intensity burst generator and damage source.
 *   **Havoc:** 30s CD. Causes spells to hit a secondary target.

@@ -5,7 +5,7 @@
 
 ### Augmentation Evoker Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Scalecommander and Chronowarden builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -30,12 +30,12 @@ The guide recommends a unified approach for both Scalecommander and Chronowarden
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **All Builds:** Intellect > Critical Strike > Haste > Mastery > Versatility.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Scalecommander**
 *   **Core Focus:** **Mass Eruption** & **AoE Mastery**.
@@ -49,7 +49,7 @@ The guide recommends a unified approach for both Scalecommander and Chronowarden
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Ebon Might Uptime** and **Breath of Eons** alignment.
 
 ##### **A. Buff Maintenance Audit**
@@ -66,7 +66,7 @@ Focus: **Ebon Might Uptime** and **Breath of Eons** alignment.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Breath of Eons:** 2-minute CD. Your primary contribution window.
 *   **Ebon Might:** 30s base CD. The core engine of the specialization.
 *   **Tip the Scales:** Used for instant Max-Rank Fire Breath during burst windows.
@@ -92,7 +92,7 @@ Compare Cooldowns: [
 
 ### Devastation Evoker Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Scalecommander and Flameshaper builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -117,12 +117,12 @@ The guide recommends a unified approach for both Scalecommander and Flameshaper 
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **All Builds:** Intellect > Haste > Critical Strike > Mastery > Versatility.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Scalecommander**
 *   **Core Focus:** **Mass Disintegrate** & **Deep Breath Resets**.
@@ -136,7 +136,7 @@ The guide recommends a unified approach for both Scalecommander and Flameshaper 
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Dragonrage Uptime** and **Empower Efficiency**.
 
 ##### **A. Empower Level Audit**
@@ -153,7 +153,7 @@ Focus: **Dragonrage Uptime** and **Empower Efficiency**.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Dragonrage:** 2-minute CD. Your core burst window.
 *   **Deep Breath:** 2-minute CD. High damage and mobility (reset frequently by *Scalecommander*).
 *   **Shattering Star:** 15s CD. Increases damage taken by the target by 20%.
@@ -173,7 +173,7 @@ Compare Cooldowns: [
 
 ### Preservation Evoker Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Chronowarden and Flameshaper builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -198,12 +198,12 @@ The guide recommends a unified approach for both Chronowarden and Flameshaper bu
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **All Builds:** Intellect > Mastery > Haste > Critical Strike > Versatility.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Chronowarden**
 *   **Core Focus:** **Temporal Anomaly** & **Echo Spread**.
@@ -217,7 +217,7 @@ The guide recommends a unified approach for both Chronowarden and Flameshaper bu
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Echo Management** and **Stasis Combo** efficiency.
 
 ##### **A. Echo Management Audit**
@@ -236,7 +236,7 @@ Focus: **Echo Management** and **Stasis Combo** efficiency.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Stasis:** 1.5-minute CD. Stores and replicates your next 3 spells.
 *   **Rewind:** 4-minute CD. Heals 50% of all damage taken in the last 5 seconds.
 *   **Emerald Communion:** 3-minute CD. Massive self-healing and mana return.

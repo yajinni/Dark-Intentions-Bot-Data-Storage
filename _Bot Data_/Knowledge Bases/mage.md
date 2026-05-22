@@ -5,7 +5,7 @@
 
 ### Arcane Mage Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Sunfury and Spellslinger builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -30,12 +30,12 @@ The guide recommends a unified approach for both Sunfury and Spellslinger builds
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **All Builds:** Intellect > Haste > Mastery > Critical Strike > Versatility.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Sunfury**
 *   **Core Focus:** **Arcane Phoenix** & **Sunfury Mastery**.
@@ -49,7 +49,7 @@ The guide recommends a unified approach for both Sunfury and Spellslinger builds
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Burn Phase** efficiency and **Clearcasting** management.
 
 ##### **A. The Burn Audit (The High-Intensity Sequence)**
@@ -66,7 +66,7 @@ Focus: **Burn Phase** efficiency and **Clearcasting** management.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Arcane Surge:** 1.5-minute CD. Increases all damage by 35% and mana regen by 400%.
 *   **Evocation:** 1.5-minute CD. Increases Intellect and restores mana.
 *   **Touch of the Magi:** 45s CD. Stores damage and explodes for 25% of the total.
@@ -87,7 +87,7 @@ Compare Cooldowns: [
 
 ### Fire Mage Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Sunfury and Frostfire builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -113,12 +113,12 @@ The guide recommends a unified approach for both Sunfury and Frostfire builds.
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **All Builds:** Intellect > Haste > Mastery > Critical Strike > Versatility.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Sunfury**
 *   **Core Focus:** **Arcane Phoenix** & **Phoenix Flames**.
@@ -132,7 +132,7 @@ The guide recommends a unified approach for both Sunfury and Frostfire builds.
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Combustion Efficiency** and **Hot Streak** management.
 
 ##### **A. Combustion Audit (The Burst Window)**
@@ -150,7 +150,7 @@ Focus: **Combustion Efficiency** and **Hot Streak** management.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Combustion:** 2-minute CD. Your primary burst window.
 *   **Phoenix Flames:** 25s recharge. Primary generator and utility.
 *   **Fire Blast:** 12s recharge. Essential for proc management.
@@ -171,7 +171,7 @@ Compare Cooldowns: [
 
 ### Frost Mage Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Spellslinger and Frostfire builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -196,12 +196,12 @@ The guide recommends a unified approach for both Spellslinger and Frostfire buil
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **All Builds:** Intellect > Haste > Critical Strike > Mastery > Versatility.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Spellslinger**
 *   **Core Focus:** **Splintering** & **Spellfrost**.
@@ -215,7 +215,7 @@ The guide recommends a unified approach for both Spellslinger and Frostfire buil
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Shatter Combo** efficiency and **Icy Veins** uptime.
 
 ##### **A. The Shatter Audit (The Golden Rule)**
@@ -234,7 +234,7 @@ Focus: **Shatter Combo** efficiency and **Icy Veins** uptime.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Icy Veins:** 3-minute CD (reduced by Shifting Power). Increases Haste by 30%.
 *   **Frozen Orb:** 1-minute CD. Major proc generator.
 *   **Shifting Power:** 1-minute CD. Reduces all ability cooldowns.

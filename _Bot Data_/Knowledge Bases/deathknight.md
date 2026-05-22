@@ -5,7 +5,7 @@
 
 ### Blood Death Knight Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Hero-Specific Consumables & Equipment
+#### Hero-Specific Consumables & Equipment
 | Category | **Deathbringer Profile (Crit/Vers)** | **San'layn Profile (Haste)** |
 | :--- | :--- | :--- |
 | **Flask** | **Flask of the Shattered Sun** (Haste) | **Flask of the Shattered Sun** (Haste) |
@@ -29,13 +29,13 @@
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **Deathbringer Build:** Strength > Crit = Versatility = Mastery > Haste.
 *   **San'layn Build:** Strength > **Haste** > Crit = Versatility = Mastery.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Deathbringer**
 *   **Core Mechanic:** **Reaper's Mark** (Timed explosion).
@@ -49,7 +49,7 @@
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 The bot must switch audit logic based on the active Hero Spec.
 
 ##### **A. Global Tank Priorities (Both Specs)**
@@ -78,7 +78,7 @@ The bot must switch audit logic based on the active Hero Spec.
 
 ---
 
-#### 5. Spell Classifications & Major Cooldowns Breakdown
+#### Spell Classifications & Major Cooldowns Breakdown
 ##### **Major Cooldowns (Group under Major Cooldowns)**
 *   **Dancing Rune Weapon:** 40% Parry and mirrors attacks. Primary hybrid CD.
 *   **Vampiric Blood:** Increases Max HP and Healing Received by 30%.
@@ -100,7 +100,7 @@ The bot must switch audit logic based on the active Hero Spec.
 
 ---
 
-#### 6. Spec-Specific Audit Instructions
+#### Spec-Specific Audit Instructions
 Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
 
 ##### **Resource Management & Overcapping**
@@ -133,7 +133,7 @@ Compare Cooldowns: [
 
 ### Frost Death Knight Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Deathbringer and Rider builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -157,12 +157,12 @@ The guide recommends a unified approach for both Deathbringer and Rider builds.
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **All Builds:** Strength > Mastery > Critical Strike > Haste > Versatility.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Deathbringer**
 *   **Core Mechanic:** **Reaper's Mark** (45s Burst Cycle).
@@ -176,7 +176,7 @@ The guide recommends a unified approach for both Deathbringer and Rider builds.
 
 ---
 
-#### 4. Deep Dive: Raid Rotation (Breath focus)
+#### Deep Dive: Raid Rotation (Breath focus)
 The bot must switch audit logic based on whether **Breath of Sindragosa** is active.
 
 ##### **A. During Breath of Sindragosa (The Sustain Window)**
@@ -193,7 +193,7 @@ The bot must switch audit logic based on whether **Breath of Sindragosa** is act
 
 ---
 
-#### 5. Spell Classifications & Major Cooldowns Breakdown
+#### Spell Classifications & Major Cooldowns Breakdown
 ##### **Major Cooldowns (Group under Major Cooldowns)**
 *   **Breath of Sindragosa:** 2-minute CD. The primary throughput engine.
 *   **Pillar of Frost:** 1-minute CD. Primary strength buff.
@@ -210,7 +210,7 @@ The bot must switch audit logic based on whether **Breath of Sindragosa** is act
 
 ---
 
-#### 6. Spec-Specific Audit Instructions
+#### Spec-Specific Audit Instructions
 Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
 
 ##### **Resource Management & Overcapping**
@@ -243,7 +243,7 @@ Compare Cooldowns: [
 
 ### Unholy Death Knight Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Rider and San'layn builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -267,12 +267,12 @@ The guide recommends a unified approach for both Rider and San'layn builds.
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **All Builds:** Strength > Mastery > Critical Strike > Haste > Versatility.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Rider of the Apocalypse**
 *   **Core Mechanic:** **Lesser Ghoul Stacks** (Horsemen Support).
@@ -286,7 +286,7 @@ The guide recommends a unified approach for both Rider and San'layn builds.
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Festering Wound** and **Lesser Ghoul** management.
 
 ##### **A. Resource Management (The Audit)**
@@ -305,7 +305,7 @@ Focus: **Festering Wound** and **Lesser Ghoul** management.
 
 ---
 
-#### 5. Spell Classifications & Major Cooldowns Breakdown
+#### Spell Classifications & Major Cooldowns Breakdown
 ##### **Major Cooldowns (Group under Major Cooldowns)**
 *   **Army of the Dead:** 8-minute base CD (reduced by Death Coil). Your primary burst window opener.
 *   **Apocalypse:** 1.5-minute CD. Consumes 4 Festering Wounds to summon ghouls.
@@ -322,7 +322,7 @@ Focus: **Festering Wound** and **Lesser Ghoul** management.
 
 ---
 
-#### 6. Spec-Specific Audit Instructions
+#### Spec-Specific Audit Instructions
 Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
 
 ##### **Resource Management & Overcapping**

@@ -5,7 +5,7 @@
 
 ### Arms Warrior Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Slayer and Colossus builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -31,13 +31,13 @@ The guide recommends a unified approach for both Slayer and Colossus builds.
 
 ---
 
-#### 2. Stat Priority
+#### Stat Priority
 *   **General Priority:** Strength > Critical Strike > Haste > Mastery > Versatility.
 *   *Note: Slayer benefits slightly more from Crit, while Colossus values Mastery, but the general priority remains consistent for raiding.*
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Slayer**
 *   **Core Focus:** **Slayer's Strike** & **Marked for Execution**.
@@ -51,7 +51,7 @@ The guide recommends a unified approach for both Slayer and Colossus builds.
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Colossus Smash Windows** and **Execute Priority**.
 
 ##### **A. The Burst Audit (The CS Window)**
@@ -70,7 +70,7 @@ Focus: **Colossus Smash Windows** and **Execute Priority**.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Avatar:** 1.5-minute CD. Increases all damage by 20%.
 *   **Colossus Smash:** 45s CD. Increases damage taken by the target by 30%.
 *   **Bladestorm:** 1.5-minute CD. High physical area damage.
@@ -79,7 +79,7 @@ Focus: **Colossus Smash Windows** and **Execute Priority**.
 
 ---
 
-#### 6. Spec-Specific Audit Instructions
+#### Spec-Specific Audit Instructions
 Track Resources: [2] // 2 = Rage (ID 101)
 
 ##### **Resource Management & Overcapping**
@@ -109,7 +109,7 @@ Compare Cooldowns: [
 
 ### Fury Warrior Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Slayer and Mountain Thane builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -134,12 +134,12 @@ The guide recommends a unified approach for both Slayer and Mountain Thane build
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **All Builds:** Strength > Mastery > Haste > Versatility > Critical Strike.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Slayer**
 *   **Core Focus:** **Slayer's Strike** & **Bladestorm**.
@@ -153,7 +153,7 @@ The guide recommends a unified approach for both Slayer and Mountain Thane build
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Rage Management** and **Enrage Uptime**.
 
 ##### **A. The Rage Audit (The 100-Rage Rule)**
@@ -173,7 +173,7 @@ Focus: **Rage Management** and **Enrage Uptime**.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Recklessness:** 1.5-minute CD. Increases Rage generation and Crit.
 *   **Avatar:** 1.5-minute CD. Aligned with Recklessness.
 *   **Odyn's Fury:** 45s CD. Massive physical burst and bleed.
@@ -182,7 +182,7 @@ Focus: **Rage Management** and **Enrage Uptime**.
 
 ---
 
-#### 6. Spec-Specific Audit Instructions
+#### Spec-Specific Audit Instructions
 Track Resources: [2] // 2 = Rage (ID 101)
 
 ##### **Resource Management & Overcapping**
@@ -211,7 +211,7 @@ Compare Cooldowns: [
 
 ### Protection Warrior Knowledge Base (Midnight 12.0.5) - RAID FOCUS
 
-#### 1. Consumables & Equipment (Unified Guide Approach)
+#### Consumables & Equipment (Unified Guide Approach)
 The guide recommends a unified approach for both Mountain Thane and Colossus builds.
 
 | Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
@@ -236,12 +236,12 @@ The guide recommends a unified approach for both Mountain Thane and Colossus bui
 
 ---
 
-#### 2. Stat Priority Split
+#### Stat Priority Split
 *   **All Builds:** Strength / Item Level > Haste > Versatility = Critical Strike > Mastery.
 
 ---
 
-#### 3. Hero Talents Deep Dive
+#### Hero Talents Deep Dive
 
 ##### **Mountain Thane**
 *   **Core Focus:** **Thunder Blast** & **Ground Current**.
@@ -255,7 +255,7 @@ The guide recommends a unified approach for both Mountain Thane and Colossus bui
 
 ---
 
-#### 4. Deep Dive: Raid Rotation
+#### Deep Dive: Raid Rotation
 Focus: **Shield Block Uptime** and **Rage Efficiency**.
 
 ##### **A. Active Mitigation Audit (The 100% Rule)**
@@ -276,7 +276,7 @@ Focus: **Shield Block Uptime** and **Rage Efficiency**.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### Major Cooldowns Breakdown (Strict Whitelist)
 *   **Shield Wall:** 4-minute CD. 40% Damage Reduction. Use for lethal hits.
 *   **Last Stand:** 3-minute CD. Increases health and block chance.
 *   **Demoralizing Shout:** 45s CD. 20% Damage Reduction from all targets.
@@ -286,7 +286,7 @@ Focus: **Shield Block Uptime** and **Rage Efficiency**.
 
 ---
 
-#### 6. Spec-Specific Audit Instructions
+#### Spec-Specific Audit Instructions
 Track Resources: [2] // 2 = Rage (ID 101)
 
 ##### **Resource Management & Overcapping**
