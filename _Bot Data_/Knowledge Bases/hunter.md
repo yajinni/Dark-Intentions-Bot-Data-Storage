@@ -73,6 +73,9 @@ Focus: **Frenzy Maintenance** and **Bestial Wrath** uptime.
 *   **Aspect of the Wild:** Critical Strike buff for you and your pet.
 *   **Exhilaration:** Primary self-heal utility.
 *   **Turtle / Cheetah:** Defensive and mobility utility.
+
+
+##### **Compare Cooldowns**
 Compare Cooldowns: [
   {
     "name": "Bestial Wrath",
@@ -156,6 +159,9 @@ Focus: **Aimed Shot Charge Management** and **Trick Shots** efficiency.
 *   **Double Tap:** (If talented) High priority burst buff for the next spender.
 *   **Black Arrow (Dark Ranger):** Core rotational spender and reset trigger.
 *   **Salvo:** Use to empower your next Multi-Shot or Volley.
+
+
+##### **Compare Cooldowns**
 Compare Cooldowns: [
   {
     "name": "Trueshot",
@@ -239,6 +245,9 @@ Focus: **Tip of the Spear** stacks and **Mongoose Fury** windows.
 *   **Spearhead:** 1.5-minute CD. Massive burst window for Mongoose Bite.
 *   **Aspect of the Eagle:** Used to allow melee attacks (Mongoose Bite) from range.
 *   **Flanking Strike:** Generates 30 Focus and a stack of Tip of the Spear.
+
+
+##### **Compare Cooldowns**
 Compare Cooldowns: [
   {
     "name": "Coordinated Assault",

@@ -219,6 +219,9 @@ Focus: **Combo Strikes** and **Chi Efficiency**.
 *   **Touch of Death:** Use on targets at **< 15% HP**.
 *   **Strike of the Windlord:** 40s CD. Massive AoE and single-target damage.
 *   **Fists of Fury:** 20s CD. Channeled physical damage.
+
+
+##### **Compare Cooldowns**
 Compare Cooldowns: [
   {
     "name": "Storm, Earth, and Fire",

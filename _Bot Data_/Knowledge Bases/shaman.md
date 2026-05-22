@@ -73,6 +73,9 @@ Focus: **Maelstrom Efficiency** and **Stormkeeper** alignment.
 *   **Stormkeeper:** 1-minute CD. Empowers the next 2 Lightning Bolt/Chain Lightning casts.
 *   **Ancestral Guidance:** (If talented) Heals allies based on damage dealt.
 *   **Spiritwalker's Grace:** Allows casting while moving.
+
+
+##### **Compare Cooldowns**
 Compare Cooldowns: [
   {
     "name": "Ascendance",
@@ -158,6 +161,9 @@ Focus: **Maelstrom Weapon Stacking** and **Totem Maintenance**.
 *   **Primordial Wave:** 45s CD. Causes your next Lightning Bolt to hit all Flame Shocked targets.
 *   **Sundering:** Massive physical damage and interrupt.
 *   **Ascendance:** (If talented) Massive burst window.
+
+
+##### **Compare Cooldowns**
 Compare Cooldowns: [
   {
     "name": "Ascendance",

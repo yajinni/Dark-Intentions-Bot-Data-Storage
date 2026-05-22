@@ -71,6 +71,9 @@ Focus: **Ebon Might Uptime** and **Breath of Eons** alignment.
 *   **Ebon Might:** 30s base CD. The core engine of the specialization.
 *   **Tip the Scales:** Used for instant Max-Rank Fire Breath during burst windows.
 *   **Time Spiral:** Raid-wide utility for mobility.
+
+
+##### **Compare Cooldowns**
 Compare Cooldowns: [
   {
     "name": "Ebon Might",
@@ -158,6 +161,9 @@ Focus: **Dragonrage Uptime** and **Empower Efficiency**.
 *   **Deep Breath:** 2-minute CD. High damage and mobility (reset frequently by *Scalecommander*).
 *   **Shattering Star:** 15s CD. Increases damage taken by the target by 20%.
 *   **Tip the Scales:** Used for instant Max-Rank Eternity Surge in multi-target scenarios.
+
+
+##### **Compare Cooldowns**
 Compare Cooldowns: [
   {
     "name": "Dragonrage",

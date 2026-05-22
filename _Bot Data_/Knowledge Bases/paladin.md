@@ -226,6 +226,9 @@ Focus: **Execution Sentence Window** and **Holy Power Efficiency**.
 *   **Execution Sentence:** 30s CD. Increases damage taken by the target.
 *   **Divine Toll:** 1-minute CD. Instant high threat/damage and resource generator.
 *   **Shield of Vengeance:** Primary defensive absorb.
+
+
+##### **Compare Cooldowns**
 Compare Cooldowns: [
   {
     "name": "Avenging Wrath",

@@ -88,6 +88,9 @@ Track Resources: [2] // 2 = Rage (ID 101)
 - **Formatting Rule:** For each resource, you MUST show `Generated: [Total] • Wasted: [Wasted] ([Waste%]%)`.
 - **Logic:**
     1.  **Rage (Type 2 / ID 101):** Arms Warriors must balance Rage generation from auto-attacks and Overpower with consumption from Mortal Strike, Execute, and Slam. Wasting Rage (capping at 100) indicates missed casts or excessive pooling.
+
+
+##### **Compare Cooldowns**
 Compare Cooldowns: [
   {
     "name": "Avatar",
@@ -191,6 +194,9 @@ Track Resources: [2] // 2 = Rage (ID 101)
 - **Formatting Rule:** For each resource, you MUST show `Generated: [Total] • Wasted: [Wasted] ([Waste%]%)`.
 - **Logic:**
     1.  **Rage (Type 2 / ID 101):** Fury Warriors generate Rage extremely fast via Bloodthirst and Raging Blow. Capping at 100 Rage is a severe error that delays Rampage casts and reduces Enrage uptime.
+
+
+##### **Compare Cooldowns**
 Compare Cooldowns: [
   {
     "name": "Avatar",

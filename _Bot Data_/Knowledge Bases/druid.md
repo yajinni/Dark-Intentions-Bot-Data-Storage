@@ -72,6 +72,9 @@ Focus: **Eclipse Uptime** and **Astral Power Management**.
 *   **Force of Nature:** 1-minute CD. Summons Treants (primary Keeper engine).
 *   **Warrior of Elune:** 45s CD. Empowers next 3 Starfires to be instant.
 *   **Starfall:** Primary AoE Astral Power spender.
+
+
+##### **Compare Cooldowns**
 Compare Cooldowns: [
   {
     "name": "Celestial Alignment",
@@ -201,6 +204,9 @@ Ignore from Energy: ["Ferocious Bite"]
 *   **Tiger's Fury:** 30s CD. Core damage buff and Energy generator.
 *   **Convoke the Spirits:** 1-minute CD (if talented). Rapid-fire burst.
 *   **Feral Frenzy:** 45s CD. Generates 5 Combo Points and applies a heavy bleed.
+
+
+##### **Compare Cooldowns**
 Compare Cooldowns: [
   {
     "name": "Berserk",

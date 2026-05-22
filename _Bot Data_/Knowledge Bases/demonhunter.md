@@ -153,6 +153,9 @@ Focus: **Inertia Windows** and **Fury Management**.
 *   **Eye Beam:** 30s CD. 
 *   **Vengeful Retreat:** (If talented for Initiative) Used to trigger crit windows.
 *   **Fel Barrage:** (If talented) High-intensity AoE burst.
+
+
+##### **Compare Cooldowns**
 Compare Cooldowns: [
   {
     "name": "Metamorphosis",

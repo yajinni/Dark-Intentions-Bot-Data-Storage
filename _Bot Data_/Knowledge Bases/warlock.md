@@ -74,6 +74,9 @@ Focus: **DoT Maintenance** and **Shard Efficiency**.
 *   **Dark Harvest:** 1-minute CD. Increases shadow damage and summons spirits.
 *   **Haunt:** 15s CD. Essential for throughput.
 *   **Vile Taint / Phantom Singularity:** AoE DoT application/burst.
+
+
+##### **Compare Cooldowns**
 Compare Cooldowns: [
   {
     "name": "Summon Darkglare",
@@ -158,6 +161,9 @@ Focus: **Shard Management** and **Tyrant Windows**.
 *   **Power Siphon:** Used to generate Demonic Core stacks.
 *   **Soul Strike:** Primary generator and damage source for your Felguard.
 *   **Implosion:** (Cleave only) Consumes Imps for AoE damage.
+
+
+##### **Compare Cooldowns**
 Compare Cooldowns: [
   {
     "name": "Summon Demonic Tyrant",
@@ -244,6 +250,9 @@ Focus: **Shard Management** and **Chaos Bolt** efficiency.
 *   **Havoc:** 30s CD. Causes spells to hit a secondary target.
 *   **Cataclysm:** (If talented) Instant Immolate application and burst.
 *   **Burn to Ashes:** (Diabolist only) Increases the damage of your next Incinerate/Chaos Bolt.
+
+
+##### **Compare Cooldowns**
 Compare Cooldowns: [
   {
     "name": "Summon Infernal",

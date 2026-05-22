@@ -72,6 +72,9 @@ Focus: **Burn Phase** efficiency and **Clearcasting** management.
 *   **Touch of the Magi:** 45s CD. Stores damage and explodes for 25% of the total.
 *   **Shifting Power:** 1-minute CD. Reduces all ability cooldowns.
 *   **Time Warp:** Raid-wide Haste buff.
+
+
+##### **Compare Cooldowns**
 Compare Cooldowns: [
   {
     "name": "Arcane Surge",
@@ -156,6 +159,9 @@ Focus: **Combustion Efficiency** and **Hot Streak** management.
 *   **Fire Blast:** 12s recharge. Essential for proc management.
 *   **Meteor:** (If talented) High priority burst CD.
 *   **Dragon's Breath:** Used for utility and specific cleave requirements.
+
+
+##### **Compare Cooldowns**
 Compare Cooldowns: [
   {
     "name": "Combustion",
@@ -240,6 +246,9 @@ Focus: **Shatter Combo** efficiency and **Icy Veins** uptime.
 *   **Shifting Power:** 1-minute CD. Reduces all ability cooldowns.
 *   **Ice Nova:** Used for instant shatter utility.
 *   **Time Warp:** Raid-wide Haste buff.
+
+
+##### **Compare Cooldowns**
 Compare Cooldowns: [
   {
     "name": "Icy Veins",
