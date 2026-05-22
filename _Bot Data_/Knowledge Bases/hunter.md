@@ -73,6 +73,14 @@ Focus: **Frenzy Maintenance** and **Bestial Wrath** uptime.
 *   **Aspect of the Wild:** Critical Strike buff for you and your pet.
 *   **Exhilaration:** Primary self-heal utility.
 *   **Turtle / Cheetah:** Defensive and mobility utility.
+Compare Cooldowns: [
+  {
+    "name": "Bestial Wrath",
+    "id": 19574,
+    "type": "buff"
+  }
+]
+
 </details>
 
 <details open>
@@ -148,6 +156,14 @@ Focus: **Aimed Shot Charge Management** and **Trick Shots** efficiency.
 *   **Double Tap:** (If talented) High priority burst buff for the next spender.
 *   **Black Arrow (Dark Ranger):** Core rotational spender and reset trigger.
 *   **Salvo:** Use to empower your next Multi-Shot or Volley.
+Compare Cooldowns: [
+  {
+    "name": "Trueshot",
+    "id": 288613,
+    "type": "buff"
+  }
+]
+
 </details>
 
 <details open>
@@ -223,6 +239,19 @@ Focus: **Tip of the Spear** stacks and **Mongoose Fury** windows.
 *   **Spearhead:** 1.5-minute CD. Massive burst window for Mongoose Bite.
 *   **Aspect of the Eagle:** Used to allow melee attacks (Mongoose Bite) from range.
 *   **Flanking Strike:** Generates 30 Focus and a stack of Tip of the Spear.
+Compare Cooldowns: [
+  {
+    "name": "Coordinated Assault",
+    "id": 266779,
+    "type": "buff"
+  },
+  {
+    "name": "Spearhead",
+    "id": 360935,
+    "type": "buff"
+  }
+]
+
 </details>
 
 ## Utility
@@ -250,3 +279,4 @@ The following spells are classified as Defensive for the hunter class and should
 - [Exhilaration](https://www.wowhead.com/spell=109304)
 - [Survival of the Fittest](https://www.wowhead.com/spell=264735)
 - [Fortitude of the Bear](https://www.wowhead.com/spell=272679)
+

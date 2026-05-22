@@ -153,6 +153,19 @@ Focus: **Inertia Windows** and **Fury Management**.
 *   **Eye Beam:** 30s CD. 
 *   **Vengeful Retreat:** (If talented for Initiative) Used to trigger crit windows.
 *   **Fel Barrage:** (If talented) High-intensity AoE burst.
+Compare Cooldowns: [
+  {
+    "name": "Metamorphosis",
+    "id": 162264,
+    "type": "buff"
+  },
+  {
+    "name": "Metamorphosis",
+    "id": 191427,
+    "type": "buff"
+  }
+]
+
 </details>
 
 <details open>
@@ -253,3 +266,4 @@ The following spells are classified as Defensive for the demonhunter class and s
 - [Darkness](https://www.wowhead.com/spell=196718)
 - [Fiery Brand](https://www.wowhead.com/spell=204021)
 - [Metamorphosis](https://www.wowhead.com/spell=187827)
+

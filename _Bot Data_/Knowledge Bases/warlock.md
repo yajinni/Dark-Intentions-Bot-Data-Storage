@@ -74,6 +74,15 @@ Focus: **DoT Maintenance** and **Shard Efficiency**.
 *   **Dark Harvest:** 1-minute CD. Increases shadow damage and summons spirits.
 *   **Haunt:** 15s CD. Essential for throughput.
 *   **Vile Taint / Phantom Singularity:** AoE DoT application/burst.
+Compare Cooldowns: [
+  {
+    "name": "Summon Darkglare",
+    "id": 205180,
+    "type": "cast",
+    "duration": 20
+  }
+]
+
 </details>
 
 <details open>
@@ -149,6 +158,15 @@ Focus: **Shard Management** and **Tyrant Windows**.
 *   **Power Siphon:** Used to generate Demonic Core stacks.
 *   **Soul Strike:** Primary generator and damage source for your Felguard.
 *   **Implosion:** (Cleave only) Consumes Imps for AoE damage.
+Compare Cooldowns: [
+  {
+    "name": "Summon Demonic Tyrant",
+    "id": 265187,
+    "type": "cast",
+    "duration": 15
+  }
+]
+
 </details>
 
 <details open>
@@ -226,6 +244,15 @@ Focus: **Shard Management** and **Chaos Bolt** efficiency.
 *   **Havoc:** 30s CD. Causes spells to hit a secondary target.
 *   **Cataclysm:** (If talented) Instant Immolate application and burst.
 *   **Burn to Ashes:** (Diabolist only) Increases the damage of your next Incinerate/Chaos Bolt.
+Compare Cooldowns: [
+  {
+    "name": "Summon Infernal",
+    "id": 1122,
+    "type": "cast",
+    "duration": 30
+  }
+]
+
 </details>
 
 ## Utility
@@ -252,3 +279,4 @@ The following spells are classified as Defensive for the warlock class and shoul
 - [Mortal Coil](https://www.wowhead.com/spell=6789)
 - [Dark Pact](https://www.wowhead.com/spell=108416)
 - [Soul Link](https://www.wowhead.com/spell=108415)
+

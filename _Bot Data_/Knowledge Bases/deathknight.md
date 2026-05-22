@@ -78,7 +78,8 @@ The bot must switch audit logic based on the active Hero Spec.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### 5. Spell Classifications & Major Cooldowns Breakdown
+##### **Major Cooldowns (Group under Major Cooldowns)**
 *   **Dancing Rune Weapon:** 40% Parry and mirrors attacks. Primary hybrid CD.
 *   **Vampiric Blood:** Increases Max HP and Healing Received by 30%.
 *   **Icebound Fortitude:** 30% Damage Reduction.
@@ -86,6 +87,16 @@ The bot must switch audit logic based on the active Hero Spec.
 *   **Lichborne:** Leech and Fear/Sleep immunity.
 *   **Purgatory:** Prevents death once every 4 minutes.
 *   **Empower Rune Weapon:** 15% Haste and instant resource generation.
+
+##### **Core Spells (Group under Core Spells)**
+*   **Death Strike**
+*   **Heart Strike**
+*   **Marrowrend**
+*   **Blood Boil**
+*   **Death and Decay**
+
+##### **Misc Spells (Group under Misc)**
+*   **Raise Dead:** Minor utility/summon spell. Must be placed under Misc (not under Major Cooldowns or Core Spells).
 
 ---
 
@@ -109,6 +120,14 @@ Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
 - **Table Headers:** | Metric | The Player | The Reference | Efficiency Analysis |
 - **Logic:**
     1.  **Bone Shield Waste:** Marrowrend should only be cast when Bone Shield is < 7 stacks. Casting at 7+ stacks is a significant waste of 2 Runes that should have been Heart Strike or Vampiric Strike.
+Compare Cooldowns: [
+  {
+    "name": "Dancing Rune Weapon",
+    "id": 49028,
+    "type": "buff"
+  }
+]
+
 </details>
 
 <details open>
@@ -176,13 +195,20 @@ The bot must switch audit logic based on whether **Breath of Sindragosa** is act
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### 5. Spell Classifications & Major Cooldowns Breakdown
+##### **Major Cooldowns (Group under Major Cooldowns)**
 *   **Breath of Sindragosa:** 2-minute CD. The primary throughput engine.
 *   **Pillar of Frost:** 1-minute CD. Primary strength buff.
 *   **Empower Rune Weapon:** Aligns with Breath and Pillar for resource overflow.
 *   **Reaper's Mark (Deathbringer):** 45s CD. Essential burst trigger.
 *   **Apocalypse Now (Rider):** 1.5-minute CD. Summons the Four Horsemen.
 *   **Frostwyrm's Fury:** Used as a massive burst finisher during Pillar of Frost windows.
+
+##### **Core Spells (Group under Core Spells)**
+*   **Obliterate**
+*   **Howling Blast**
+*   **Frost Strike**
+*   **Remorseless Winter**
 
 ---
 
@@ -206,6 +232,14 @@ Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
 - **Logic:**
     1.  **RP Waste (During Breath):** Casting **Frost Strike** or **Death Coil** while Breath is active is a catastrophic failure (waste of RP that should sustain the Breath).
     2.  **Starvation:** Ending a Breath with > 40 RP indicates the player likely stopped spending Runes on Obliterate, which is a rotational error.
+Compare Cooldowns: [
+  {
+    "name": "Pillar of Frost",
+    "id": 51271,
+    "type": "buff"
+  }
+]
+
 </details>
 
 <details open>
@@ -275,13 +309,20 @@ Focus: **Festering Wound** and **Lesser Ghoul** management.
 
 ---
 
-#### 5. Major Cooldowns Breakdown (Strict Whitelist)
+#### 5. Spell Classifications & Major Cooldowns Breakdown
+##### **Major Cooldowns (Group under Major Cooldowns)**
 *   **Army of the Dead:** 8-minute base CD (reduced by Death Coil). Your primary burst window opener.
 *   **Apocalypse:** 1.5-minute CD. Consumes 4 Festering Wounds to summon ghouls.
 *   **Dark Transformation:** 1-minute CD. Empowers your ghoul.
 *   **Abomination Limb:** Use for burst damage and grip utility.
 *   **Summon Gargoyle:** (If talented) High priority burst CD.
 *   **Empower Rune Weapon:** Use to supplement resource flooding during Army windows.
+
+##### **Core Spells (Group under Core Spells)**
+*   **Festering Strike**
+*   **Scourge Strike**
+*   **Clawing Shadows**
+*   **Death Coil**
 
 ---
 
@@ -305,6 +346,26 @@ Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
 - **Logic:**
     1.  **Wound Overcapping:** Casting **Festering Strike** when the target already has 6+ Festering Wounds is a significant waste of Runes.
     2.  **Sudden Doom Efficiency:** Ensure **Death Coil** is used on procs to avoid wasting free RP spenders.
+Compare Cooldowns: [
+  {
+    "name": "Unholy Assault",
+    "id": 207289,
+    "type": "buff"
+  },
+  {
+    "name": "Summon Gargoyle",
+    "id": 49206,
+    "type": "cast",
+    "duration": 20
+  },
+  {
+    "name": "Dark Transformation",
+    "id": 63560,
+    "type": "cast",
+    "duration": 15
+  }
+]
+
 </details>
 
 ## Utility
@@ -333,3 +394,4 @@ The following spells are classified as Defensive for the deathknight class and s
 - [Rune Tap](https://www.wowhead.com/spell=194679)
 - [Tombstone](https://www.wowhead.com/spell=219809)
 - [Dancing Rune Weapon](https://www.wowhead.com/spell=49028)
+

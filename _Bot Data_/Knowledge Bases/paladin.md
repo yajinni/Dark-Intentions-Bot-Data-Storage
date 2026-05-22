@@ -226,6 +226,19 @@ Focus: **Execution Sentence Window** and **Holy Power Efficiency**.
 *   **Execution Sentence:** 30s CD. Increases damage taken by the target.
 *   **Divine Toll:** 1-minute CD. Instant high threat/damage and resource generator.
 *   **Shield of Vengeance:** Primary defensive absorb.
+Compare Cooldowns: [
+  {
+    "name": "Avenging Wrath",
+    "id": 31884,
+    "type": "buff"
+  },
+  {
+    "name": "Crusade",
+    "id": 231895,
+    "type": "buff"
+  }
+]
+
 </details>
 
 ## Utility
@@ -255,3 +268,4 @@ The following spells are classified as Defensive for the paladin class and shoul
 - [Guardian of Ancient Kings](https://www.wowhead.com/spell=86659)
 - [Ardent Defender](https://www.wowhead.com/spell=31850)
 - [Eye for an Eye](https://www.wowhead.com/spell=205191)
+

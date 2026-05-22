@@ -219,6 +219,19 @@ Focus: **Combo Strikes** and **Chi Efficiency**.
 *   **Touch of Death:** Use on targets at **< 15% HP**.
 *   **Strike of the Windlord:** 40s CD. Massive AoE and single-target damage.
 *   **Fists of Fury:** 20s CD. Channeled physical damage.
+Compare Cooldowns: [
+  {
+    "name": "Storm, Earth, and Fire",
+    "id": 137639,
+    "type": "buff"
+  },
+  {
+    "name": "Serenity",
+    "id": 152173,
+    "type": "buff"
+  }
+]
+
 </details>
 
 ## Utility
@@ -246,3 +259,4 @@ The following spells are classified as Defensive for the monk class and should b
 - [Dampen Harm](https://www.wowhead.com/spell=122278)
 - [Zen Meditation](https://www.wowhead.com/spell=115176)
 - [Life Cocoon](https://www.wowhead.com/spell=116849)
+

@@ -72,6 +72,14 @@ Focus: **Burn Phase** efficiency and **Clearcasting** management.
 *   **Touch of the Magi:** 45s CD. Stores damage and explodes for 25% of the total.
 *   **Shifting Power:** 1-minute CD. Reduces all ability cooldowns.
 *   **Time Warp:** Raid-wide Haste buff.
+Compare Cooldowns: [
+  {
+    "name": "Arcane Surge",
+    "id": 365350,
+    "type": "buff"
+  }
+]
+
 </details>
 
 <details open>
@@ -148,6 +156,14 @@ Focus: **Combustion Efficiency** and **Hot Streak** management.
 *   **Fire Blast:** 12s recharge. Essential for proc management.
 *   **Meteor:** (If talented) High priority burst CD.
 *   **Dragon's Breath:** Used for utility and specific cleave requirements.
+Compare Cooldowns: [
+  {
+    "name": "Combustion",
+    "id": 190319,
+    "type": "buff"
+  }
+]
+
 </details>
 
 <details open>
@@ -224,6 +240,14 @@ Focus: **Shatter Combo** efficiency and **Icy Veins** uptime.
 *   **Shifting Power:** 1-minute CD. Reduces all ability cooldowns.
 *   **Ice Nova:** Used for instant shatter utility.
 *   **Time Warp:** Raid-wide Haste buff.
+Compare Cooldowns: [
+  {
+    "name": "Icy Veins",
+    "id": 12472,
+    "type": "buff"
+  }
+]
+
 </details>
 
 ## Utility
@@ -256,3 +280,4 @@ The following spells are classified as Defensive for the mage class and should b
 - [Prismatic Barrier](https://www.wowhead.com/spell=235450)
 - [Blazing Barrier](https://www.wowhead.com/spell=235313)
 - [Ice Barrier](https://www.wowhead.com/spell=11426)
+

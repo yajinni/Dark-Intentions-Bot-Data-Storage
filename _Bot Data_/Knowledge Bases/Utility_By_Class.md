@@ -40,3 +40,4 @@ This knowledge base lists utility spells and abilities for each World of Warcraf
 
 ## Warrior
 <!-- Add Warrior utility spells here -->
+

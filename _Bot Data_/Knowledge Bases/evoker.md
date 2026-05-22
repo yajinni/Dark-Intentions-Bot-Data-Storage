@@ -71,6 +71,20 @@ Focus: **Ebon Might Uptime** and **Breath of Eons** alignment.
 *   **Ebon Might:** 30s base CD. The core engine of the specialization.
 *   **Tip the Scales:** Used for instant Max-Rank Fire Breath during burst windows.
 *   **Time Spiral:** Raid-wide utility for mobility.
+Compare Cooldowns: [
+  {
+    "name": "Ebon Might",
+    "id": 395152,
+    "type": "buff"
+  },
+  {
+    "name": "Breath of Eons",
+    "id": 403631,
+    "type": "cast",
+    "duration": 10
+  }
+]
+
 </details>
 
 <details open>
@@ -144,6 +158,14 @@ Focus: **Dragonrage Uptime** and **Empower Efficiency**.
 *   **Deep Breath:** 2-minute CD. High damage and mobility (reset frequently by *Scalecommander*).
 *   **Shattering Star:** 15s CD. Increases damage taken by the target by 20%.
 *   **Tip the Scales:** Used for instant Max-Rank Eternity Surge in multi-target scenarios.
+Compare Cooldowns: [
+  {
+    "name": "Dragonrage",
+    "id": 375087,
+    "type": "buff"
+  }
+]
+
 </details>
 
 <details open>
@@ -246,3 +268,4 @@ The following spells are classified as Defensive for the evoker class and should
 - [Zephyr](https://www.wowhead.com/spell=374227)
 - [Rescue](https://www.wowhead.com/spell=370665)
 - [Twin Guardian](https://www.wowhead.com/spell=373634)
+

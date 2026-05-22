@@ -72,6 +72,19 @@ Focus: **Bleed Uptime** and **Kingsbane** windows.
 *   **Vanish:** Used offensively to reset Garrote or trigger *Master Assassin*.
 *   **Thistle Tea:** Used to generate Energy during high-burst windows.
 *   **Cold Blood:** Use before your highest-impact finisher.
+Compare Cooldowns: [
+  {
+    "name": "Deathmark",
+    "id": 360194,
+    "type": "buff"
+  },
+  {
+    "name": "Kingsbane",
+    "id": 385627,
+    "type": "buff"
+  }
+]
+
 </details>
 
 <details open>
@@ -152,6 +165,14 @@ Focus: **Adrenaline Rush Uptime** and **Roll the Bones** management.
 *   **Blade Rush:** 45s CD. Generates Energy and damage.
 *   **Keep It Rolling:** 7-minute CD. Extends the duration of current Roll the Bones buffs.
 *   **Preparation:** Resets utility cooldowns.
+Compare Cooldowns: [
+  {
+    "name": "Adrenaline Rush",
+    "id": 13750,
+    "type": "buff"
+  }
+]
+
 </details>
 
 <details open>
@@ -226,6 +247,14 @@ Focus: **Shadow Dance Windows** and **Secret Technique** alignment.
 *   **Secret Technique:** 45s CD. Your highest-impact finisher.
 *   **Vanish:** Used offensively to reset Shadowstrike or trigger *Master Assassin*.
 *   **Symbols of Death:** 30s CD. Increases damage and restores Energy.
+Compare Cooldowns: [
+  {
+    "name": "Shadow Dance",
+    "id": 185313,
+    "type": "buff"
+  }
+]
+
 </details>
 
 ## Utility
@@ -252,3 +281,4 @@ The following spells are classified as Defensive for the rogue class and should 
 - [Feint](https://www.wowhead.com/spell=1966)
 - [Crimson Vial](https://www.wowhead.com/spell=185311)
 - [Cheat Death](https://www.wowhead.com/spell=31230)
+

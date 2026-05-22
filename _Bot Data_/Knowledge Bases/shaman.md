@@ -73,6 +73,14 @@ Focus: **Maelstrom Efficiency** and **Stormkeeper** alignment.
 *   **Stormkeeper:** 1-minute CD. Empowers the next 2 Lightning Bolt/Chain Lightning casts.
 *   **Ancestral Guidance:** (If talented) Heals allies based on damage dealt.
 *   **Spiritwalker's Grace:** Allows casting while moving.
+Compare Cooldowns: [
+  {
+    "name": "Ascendance",
+    "id": 114050,
+    "type": "buff"
+  }
+]
+
 </details>
 
 <details open>
@@ -150,6 +158,20 @@ Focus: **Maelstrom Weapon Stacking** and **Totem Maintenance**.
 *   **Primordial Wave:** 45s CD. Causes your next Lightning Bolt to hit all Flame Shocked targets.
 *   **Sundering:** Massive physical damage and interrupt.
 *   **Ascendance:** (If talented) Massive burst window.
+Compare Cooldowns: [
+  {
+    "name": "Ascendance",
+    "id": 114051,
+    "type": "buff"
+  },
+  {
+    "name": "Feral Spirit",
+    "id": 51533,
+    "type": "cast",
+    "duration": 15
+  }
+]
+
 </details>
 
 <details open>
@@ -257,3 +279,4 @@ The following spells are classified as Defensive for the shaman class and should
 - [Stone Bulwark Totem](https://www.wowhead.com/spell=108270)
 - [Ancestral Guidance](https://www.wowhead.com/spell=108281)
 - [Nature's Swiftness](https://www.wowhead.com/spell=378081)
+

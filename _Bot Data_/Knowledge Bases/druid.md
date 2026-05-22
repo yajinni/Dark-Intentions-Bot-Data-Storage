@@ -72,6 +72,19 @@ Focus: **Eclipse Uptime** and **Astral Power Management**.
 *   **Force of Nature:** 1-minute CD. Summons Treants (primary Keeper engine).
 *   **Warrior of Elune:** 45s CD. Empowers next 3 Starfires to be instant.
 *   **Starfall:** Primary AoE Astral Power spender.
+Compare Cooldowns: [
+  {
+    "name": "Celestial Alignment",
+    "id": 383412,
+    "type": "buff"
+  },
+  {
+    "name": "Incarnation: Chosen of Elune",
+    "id": 102560,
+    "type": "buff"
+  }
+]
+
 </details>
 
 <details open>
@@ -190,6 +203,19 @@ Ignore from Energy: ["Ferocious Bite"]
 *   **Tiger's Fury:** 30s CD. Core damage buff and Energy generator.
 *   **Convoke the Spirits:** 1-minute CD (if talented). Rapid-fire burst.
 *   **Feral Frenzy:** 45s CD. Generates 5 Combo Points and applies a heavy bleed.
+Compare Cooldowns: [
+  {
+    "name": "Berserk",
+    "id": 106951,
+    "type": "buff"
+  },
+  {
+    "name": "Incarnation: Avatar of Ashamane",
+    "id": 102543,
+    "type": "buff"
+  }
+]
+
 </details>
 
 <details open>
@@ -368,3 +394,4 @@ The following spells are classified as Defensive for the druid class and should 
 - [Ironbark](https://www.wowhead.com/spell=102342)
 - [Heart of the Wild](https://www.wowhead.com/spell=319454)
 - [Renewal](https://www.wowhead.com/spell=108238)
+
