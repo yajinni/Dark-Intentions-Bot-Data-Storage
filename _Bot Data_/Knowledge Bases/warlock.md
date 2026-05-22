@@ -224,4 +224,20 @@ Focus: **Shard Management** and **Chaos Bolt** efficiency.
 *   **Cataclysm:** (If talented) Instant Immolate application and burst.
 *   **Burn to Ashes:** (Diabolist only) Increases the damage of your next Incinerate/Chaos Bolt.
 
+## Utility
 
+The following spells are classified as Utility for the warlock class and should be grouped under the **3.2 Utility** section in performance reports:
+
+- Spell Lock
+- Axe Toss
+- Seduction
+- Banish
+- Fear
+- Shadowfury
+- Mortal Coil
+- Howl of Terror
+- Unending Resolve
+- Soulstone
+- Healthstone
+- Demonic Gateway
+- Demonic Circle

@@ -226,4 +226,21 @@ Focus: **Cloudburst Management** and **Healing Rain** uptime.
 *   **Ascendance:** 3-minute CD. Mimics and distributes all healing.
 *   **Ancestral Protection Totem:** (If talented) Provides a health buff and combat res.
 
+## Utility
 
+The following spells are classified as Utility for the shaman class and should be grouped under the **3.2 Utility** section in performance reports:
+
+- Wind Shear
+- Hex
+- Capacitor Trap
+- Earthgrab Trap
+- Wind Rush Totem
+- Tremor Totem
+- Poison Cleansing Totem
+- Cleanse Spirit
+- Purge
+- Ancestral Spirit
+- Reincarnation
+- Ghost Wolf
+- Astral Shift
+- Gust of Wind

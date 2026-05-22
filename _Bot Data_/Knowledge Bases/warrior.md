@@ -272,4 +272,18 @@ Track Resources: [2] // 2 = Rage (ID 101)
 - **Logic:**
     1.  **Rage (Type 2 / ID 101):** Protection Warriors use Rage for Active Mitigation (Shield Block) and survival (Ignore Pain). Wasting Rage at 100 is a critical survival error, as it indicates the player is not maintaining their defensive shell properly.
 
+## Utility
 
+The following spells are classified as Utility for the warrior class and should be grouped under the **3.2 Utility** section in performance reports:
+
+- Pummel
+- Shockwave
+- Storm Bolt
+- Intimidating Shout
+- Spell Reflection
+- Shield Block
+- Berserker Rage
+- Rallying Cry
+- Intervene
+- Heroic Leap
+- Charge

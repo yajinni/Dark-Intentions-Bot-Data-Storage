@@ -224,4 +224,21 @@ Focus: **Execution Sentence Window** and **Holy Power Efficiency**.
 *   **Divine Toll:** 1-minute CD. Instant high threat/damage and resource generator.
 *   **Shield of Vengeance:** Primary defensive absorb.
 
+## Utility
 
+The following spells are classified as Utility for the paladin class and should be grouped under the **3.2 Utility** section in performance reports:
+
+- Rebuke
+- Hammer of Justice
+- Blinding Light
+- Repentance
+- Cleanse
+- Cleanse Toxins
+- Blessing of Protection
+- Blessing of Sacrifice
+- Blessing of Freedom
+- Divine Shield
+- Divine Protection
+- Lay on Hands
+- Intercession
+- Turn Evil

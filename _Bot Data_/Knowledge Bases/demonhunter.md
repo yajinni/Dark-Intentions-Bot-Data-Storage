@@ -227,4 +227,18 @@ Focus: **Soul Fragment** consumption and **Sigil** uptime.
 *   **Sigil of Spite:** Core offensive/defensive hybrid cooldown.
 *   **Fel Devastation:** 1-minute CD. Massive self-healing burst.
 
+## Utility
 
+The following spells are classified as Utility for the demonhunter class and should be grouped under the **3.2 Utility** section in performance reports:
+
+- Disrupt
+- Sigil of Silence
+- Sigil of Misery
+- Sigil of Flame
+- Sigil of Chains
+- Chaos Nova
+- Imprison
+- Darkness
+- Blur
+- Netherwalk
+- Spectral Sight

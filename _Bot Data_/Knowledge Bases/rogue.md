@@ -224,4 +224,21 @@ Focus: **Shadow Dance Windows** and **Secret Technique** alignment.
 *   **Vanish:** Used offensively to reset Shadowstrike or trigger *Master Assassin*.
 *   **Symbols of Death:** 30s CD. Increases damage and restores Energy.
 
+## Utility
 
+The following spells are classified as Utility for the rogue class and should be grouped under the **3.2 Utility** section in performance reports:
+
+- Kick
+- Kidney Shot
+- Cheap Shot
+- Blind
+- Sap
+- Gouge
+- Distract
+- Cloak of Shadows
+- Evasion
+- Feint
+- Vanish
+- Crimson Vial
+- Shadowstep
+- Grappling Hook

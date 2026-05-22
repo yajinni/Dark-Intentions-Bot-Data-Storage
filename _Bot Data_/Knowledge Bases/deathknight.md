@@ -303,4 +303,19 @@ Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
     1.  **Wound Overcapping:** Casting **Festering Strike** when the target already has 6+ Festering Wounds is a significant waste of Runes.
     2.  **Sudden Doom Efficiency:** Ensure **Death Coil** is used on procs to avoid wasting free RP spenders.
 
+## Utility
 
+The following spells are classified as Utility for the deathknight class and should be grouped under the **3.2 Utility** section in performance reports:
+
+- Mind Freeze
+- Death Grip
+- Asphyxiate
+- Anti-Magic Zone
+- Anti-Magic Shell
+- Icebound Fortitude
+- Death's Advance
+- Raise Allied Undead
+- Control Undead
+- Chains of Ice
+- Abomination Limb
+- Blinding Sleet

@@ -218,4 +218,20 @@ Focus: **Echo Management** and **Stasis Combo** efficiency.
 *   **Dream Flight:** 2-minute CD. Large area-of-effect heal and mobility.
 *   **Life-Bind:** Linked to *Emerald Communion* (if talented), shares healing with the raid.
 
+## Utility
 
+The following spells are classified as Utility for the evoker class and should be grouped under the **3.2 Utility** section in performance reports:
+
+- Quell
+- Landslide
+- Tail Swipe
+- Wing Buffet
+- Oppressing Roar
+- Obsidian Scales
+- Zephyr
+- Rescue
+- Cauterizing Flame
+- Expunge
+- Emerald Blossom
+- Time Spiral
+- Sleep Walk

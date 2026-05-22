@@ -221,4 +221,21 @@ Focus: **Tip of the Spear** stacks and **Mongoose Fury** windows.
 *   **Aspect of the Eagle:** Used to allow melee attacks (Mongoose Bite) from range.
 *   **Flanking Strike:** Generates 30 Focus and a stack of Tip of the Spear.
 
+## Utility
 
+The following spells are classified as Utility for the hunter class and should be grouped under the **3.2 Utility** section in performance reports:
+
+- Counter Shot
+- Muzzle
+- Freezing Trap
+- Tar Trap
+- Binding Trap
+- Steel Trap
+- Intimidation
+- Scare Beast
+- Master's Call
+- Tranquilizing Shot
+- Aspect of the Turtle
+- Exhilaration
+- Flare
+- Feign Death

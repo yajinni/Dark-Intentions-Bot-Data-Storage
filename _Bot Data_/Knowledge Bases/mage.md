@@ -222,4 +222,23 @@ Focus: **Shatter Combo** efficiency and **Icy Veins** uptime.
 *   **Ice Nova:** Used for instant shatter utility.
 *   **Time Warp:** Raid-wide Haste buff.
 
+## Utility
 
+The following spells are classified as Utility for the mage class and should be grouped under the **3.2 Utility** section in performance reports:
+
+- Counterspell
+- Spellsteal
+- Polymorph
+- Remove Curse
+- Slow
+- Ring of Frost
+- Ice Nova
+- Frost Nova
+- Blast Wave
+- Dragon's Breath
+- Blink
+- Shimmer
+- Ice Block
+- Alter Time
+- Mirror Image
+- Time Warp

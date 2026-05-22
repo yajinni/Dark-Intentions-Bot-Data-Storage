@@ -335,4 +335,23 @@ Focus: **HoT Maintenance** and **Ramp Efficiency**.
 *   **Grove Guardians:** Your primary rotational treants for consistent HPS.
 *   **Ironbark:** Primary single-target external for tanks or low-health allies.
 
+## Utility
 
+The following spells are classified as Utility for the druid class and should be grouped under the **3.2 Utility** section in performance reports:
+
+- Skull Bash
+- Solar Beam
+- Typhoon
+- Ursol's Vortex
+- Cyclone
+- Entangling Roots
+- Mass Entanglement
+- Hibernate
+- Soothe
+- Remove Corruption
+- Rebirth
+- Stampeding Roar
+- Wild Charge
+- Innervate
+- Barkskin
+- Survival Instincts

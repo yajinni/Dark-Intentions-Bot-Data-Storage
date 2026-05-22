@@ -217,4 +217,21 @@ Focus: **Combo Strikes** and **Chi Efficiency**.
 *   **Strike of the Windlord:** 40s CD. Massive AoE and single-target damage.
 *   **Fists of Fury:** 20s CD. Channeled physical damage.
 
+## Utility
 
+The following spells are classified as Utility for the monk class and should be grouped under the **3.2 Utility** section in performance reports:
+
+- Spear Hand Strike
+- Leg Sweep
+- Paralysis
+- Ring of Peace
+- Disable
+- Detox
+- Resuscitate
+- Roll
+- Chi Torpedo
+- Transcendence
+- Fortifying Brew
+- Diffuse Magic
+- Dampen Harm
+- Tiger's Lust

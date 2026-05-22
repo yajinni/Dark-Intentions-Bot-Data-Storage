@@ -261,4 +261,21 @@ Track Resources: [13] // 13 = Insanity (ID 113)
 - **Logic:**
     1.  **Insanity (Type 13 / ID 113):** Shadow Priests generate Insanity primarily from Mind Blast, Mind Spike/Mind Flay, Shadow Word: Death, and passive traits (like Void Tendrils or Idol of C'Thun). Wasting Insanity (capping at 100) indicates delayed or missed Devouring Plague casts, directly reducing uptime on the Mastery: Shadow Weaving damage bonus.
 
+## Utility
 
+The following spells are classified as Utility for the priest class and should be grouped under the **3.2 Utility** section in performance reports:
+
+- Silence
+- Psychic Scream
+- Psychic Horror
+- Dominate Mind
+- Shackle Undead
+- Mass Dispel
+- Purify
+- Purify Disease
+- Leap of Faith
+- Power Infusion
+- Desperate Prayer
+- Fade
+- Power Word: Life
+- Symbol of Hope
