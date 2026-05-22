@@ -75,6 +75,17 @@ Focus: **Entropic Rift Alignment** and **Insanity Management**.
 
 ## 6. Passive Spell Cast Mappings
 * Incessant Screams = Psychic Scream casts
-* Void Bolt = Void Bolt hits
-* Shadow Word: Pain = Shadow Word: Pain hits
-* Thing from Beyond = Thing from Beyond hits
+
+---
+
+## 7. Spec-Specific Audit Instructions (Report Section 5)
+Track Resources: [13] // 13 = Insanity (ID 113)
+
+*AI Instruction:* Include the following tables as sub-sections (5.1) within **5. Resource Management (Energy/Combo Points/Mana/Insanity)**.
+
+### **5.1 Resource Management & Overcapping**
+- **Trigger:** Only create this table if `<RESOURCE_WASTE_DATA>` is provided.
+- **Table Headers:** | Resource | The Player | The Reference | Overcapping Analysis |
+- **Formatting Rule:** For each resource, you MUST show `Generated: [Total] • Wasted: [Wasted] ([Waste%]%)`.
+- **Logic:**
+    1.  **Insanity (Type 13 / ID 113):** Shadow Priests generate Insanity primarily from Mind Blast, Mind Spike/Mind Flay, Shadow Word: Death, and passive traits (like Void Tendrils or Idol of C'Thun). Wasting Insanity (capping at 100) indicates delayed or missed Devouring Plague casts, directly reducing uptime on the Mastery: Shadow Weaving damage bonus.
