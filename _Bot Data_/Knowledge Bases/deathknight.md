@@ -107,8 +107,8 @@ Track Buff State At Cast: [
     "spellId": 195182,
     "buffId": 195181,
     "name": "boneShield",
-    "displayName": "Bone Shield / Marrowrend Efficiency",
-    "wastefulCondition": "stacks >= 7"
+    "displayName": "Bone Shield Drops (Cast at 0)",
+    "wastefulCondition": "isActive === false"
   }
 ]
 
@@ -126,7 +126,7 @@ Track Buff State At Cast: [
 - **Trigger:** Compare `Marrowrend` casts in the `<PLAYER_DATA>` targets table.
 - **Table Headers:** | Metric | The Player | The Reference | Efficiency Analysis |
 - **Logic:**
-    1.  **Bone Shield Waste:** Marrowrend should only be cast when Bone Shield is < 7 stacks. Casting at 7+ stacks is a significant waste of 2 Runes that should have been Heart Strike or Vampiric Strike.
+    1.  **Bone Shield Drops:** Track how many times Marrowrend was cast when Bone Shield was at 0 stacks (meaning they lost it completely). Letting Bone Shield drop to 0 is a dangerous survival error that removes the passive armor/haste benefits.
 
 
 ##### **Compare Cooldowns**
