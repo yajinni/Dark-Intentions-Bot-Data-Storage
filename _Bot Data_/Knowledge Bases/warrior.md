@@ -150,18 +150,18 @@ The guide recommends a unified approach for both Slayer and Mountain Thane build
 | **Potion** | **Potion of Recklessness** (primary) | **Light's Potential** (alternative). |
 | **Food** | **Silvermoon Parade** (Strength Feast) | **Royal Roast** (Valid if Feast is not provided). |
 | **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Masterful Peridot** | **Flawless Quick Amethyst** (Haste alternative). |
+| **Unique Gem** | **Indecipherable Eversong Diamond** | **Powerful Eversong Diamond**. |
+| **Gems** | **Flawless Quick Amethyst** | **Flawless Masterful Peridot** (Mastery alternative). |
 
 ##### **Gear Enchants Table (Global)**
 | Slot | Recommended Enchant | Notes |
 | :--- | :--- | :--- |
-| **Weapon** | **Acuity of the Ren'dorei** | Mastery/Strength proc (Apply to BOTH). |
-| **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
-| **Shoulders** | **Akil'zon's Swiftness** | Mastery focus. |
-| **Chest** | **Mark of the Worldsoul** | Primary Strength buff. |
-| **Legs** | **Thunderous Armor Kit** | Strength + Stamina. |
-| **Boots** | **Farstrider's Hunt** | Mastery/Speed focus. |
+| **Weapon** | **Enchant Weapon - Arcane Mastery** | **Enchant Weapon - Berserker's Rage** (Alternative). |
+| **Helm** | **Enchant Helm - Empowered Hex of Leeching** | **Enchant Helm - Empowered Rune of Avoidance** (Alternative). |
+| **Shoulders** | **Enchant Shoulders - Amirdrassil's Grace** | **Enchant Shoulders - Thalassian Recovery** (Alternative). |
+| **Chest** | **Enchant Chest - Mark of the Worldsoul** | **Enchant Chest - Mark of Nalorakk** (Alternative). |
+| **Legs** | **Blood Knight's Armor Kit** | **Forest Hunter's Armor Kit** (Alternative). |
+| **Boots** | **Enchant Boots - Lynx's Dexterity** | **Enchant Boots - Shaladrassil's Roots** (Alternative). |
 
 ---
 
