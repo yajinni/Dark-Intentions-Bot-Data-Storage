@@ -124,7 +124,9 @@ Track Buff Drops: [
 - **Trigger:** Only create this table if `boneShieldDrops` is provided in `<RESOURCE_WASTE_DATA>`.
 - **Table Headers:** | Metric | The Player | The Reference | Efficiency Analysis |
 - **Logic:**
-    1.  **Bone Shield Drops:** Check when boneshield stacks drop to 0, this happens when boneshield has a Remove Buff event. Look at the `boneShieldDrops` counts in `<RESOURCE_WASTE_DATA>`. If the player let Bone Shield drop (count > 0), explain that dropping this buff is a massive failure of their rotation and makes them extremely vulnerable. Display the drops clearly for both (e.g., '1 drop' vs. '0 drops').
+    1.  **Bone Shield Drops:** Check when boneshield stacks drop to 0, this happens when boneshield has a Remove Buff event. Look at the `boneShieldDrops` counts in `<RESOURCE_WASTE_DATA>`. Display the drops count clearly for both (e.g., '1 drop' vs. '0 drops').
+        - **If the player has more drops than the reference:** Explain that dropping this buff is a massive failure of their rotation and makes them extremely vulnerable.
+        - **If the player matches the reference (equal number of drops):** Say that the fight flow or mechanics probably led to some drops.
 
 
 ##### **Compare Cooldowns**
