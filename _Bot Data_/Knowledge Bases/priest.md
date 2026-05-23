@@ -91,6 +91,7 @@ Discipline is audited based on the **Evangelism Ramp** sequence.
 *   **Fade**
 *   **Guardian Spirit**
 *   **Vampiric Embrace**
+*   **Angelic Bulwark**
 
 ##### **Misc Spells (Group under Misc)**
 *   **Melee**
@@ -213,6 +214,7 @@ The bot must switch audit logic based on the active Hero Spec.
 *   **Pain Suppression**
 *   **Power Word: Barrier**
 *   **Vampiric Embrace**
+*   **Angelic Bulwark**
 
 ##### **Misc Spells (Group under Misc)**
 *   **Melee**
@@ -233,6 +235,11 @@ The bot must switch audit logic based on the active Hero Spec.
 
 #### Passive Spell Cast Mappings
 * Incessant Screams = Psychic Scream casts
+
+#### Spec-Specific Audit Instructions
+
+##### **Buff Exclusions (Group under Buff Exclusions)**
+*   **Echo of Light** (Holy Mastery passive buff - completely exclude this buff from Buff & Uptime Management analysis in Section 8 of the report).
 </details>
 
 <details open>
@@ -327,6 +334,7 @@ Focus: **Entropic Rift Alignment** and **Insanity Management**.
 *   **Pain Suppression**
 *   **Guardian Spirit**
 *   **Power Word: Barrier**
+*   **Angelic Bulwark**
 
 ##### **Misc Spells (Group under Misc)**
 *   **Melee**
@@ -397,4 +405,5 @@ The following spells are classified as Defensive for the priest class and should
 - [Guardian Spirit](https://www.wowhead.com/spell=47788)
 - [Power Word: Barrier](https://www.wowhead.com/spell=62618)
 - [Vampiric Embrace](https://www.wowhead.com/spell=15286)
+- [Angelic Bulwark](https://www.wowhead.com/spell=108968)
 
