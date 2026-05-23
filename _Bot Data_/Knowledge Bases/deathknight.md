@@ -134,7 +134,8 @@ Compare Cooldowns: [
   {
     "name": "Dancing Rune Weapon",
     "id": 49028,
-    "type": "buff"
+    "type": "buff",
+    "duration": 12
   }
 ]
 
