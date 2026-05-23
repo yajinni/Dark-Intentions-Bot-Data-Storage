@@ -252,6 +252,9 @@ Track Resources: [2] // 2 = Rage (ID 101)
 - **Logic:**
     1.  **Rage (Type 2 / ID 101):** Fury Warriors generate Rage extremely fast via Bloodthirst and Raging Blow. Capping at 100 Rage is a severe error that delays Rampage casts and reduces Enrage uptime.
 
+##### **Buff & Uptime Management (Group under Buff & Uptime)**
+*   **Recklessness** (Critical Fury Warrior buff. Uptime is extremely important for throughput. The AI must explicitly analyze its uptime in Section 8, compare it to the reference log, and provide actionable rotational advice on maximizing its active duration through correct Avatar-Recklessness alignment and relentless resource generation).
+
 ##### **Compare Cooldowns**
 Compare Cooldowns: [
   {
