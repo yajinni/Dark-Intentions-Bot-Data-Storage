@@ -81,12 +81,14 @@ The bot must switch audit logic based on the active Hero Spec.
 #### Spell Classifications & Major Cooldowns Breakdown
 ##### **Major Cooldowns (Group under Major Cooldowns)**
 *   **Dancing Rune Weapon:** 40% Parry and mirrors attacks. Primary hybrid CD.
+*   **Empower Rune Weapon:** 15% Haste and instant resource generation.
+
+##### **Defensives (Group under Defensives)**
 *   **Vampiric Blood:** Increases Max HP and Healing Received by 30%.
 *   **Icebound Fortitude:** 30% Damage Reduction.
 *   **Anti-Magic Shell:** Absorbs magic damage.
 *   **Lichborne:** Leech and Fear/Sleep immunity.
 *   **Purgatory:** Prevents death once every 4 minutes.
-*   **Empower Rune Weapon:** 15% Haste and instant resource generation.
 
 ##### **Core Spells (Group under Core Spells)**
 *   **Death Strike**
