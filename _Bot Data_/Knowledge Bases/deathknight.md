@@ -102,13 +102,11 @@ The bot must switch audit logic based on the active Hero Spec.
 
 #### Spec-Specific Audit Instructions
 Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
-Track Buff State At Cast: [
+Track Buff Drops: [
   {
-    "spellId": 195182,
     "buffId": 195181,
-    "name": "boneShield",
-    "displayName": "Bone Shield Drops (Cast at 0)",
-    "wastefulCondition": "isActive === false"
+    "name": "boneShieldDrops",
+    "displayName": "Bone Shield Drops"
   }
 ]
 
@@ -123,10 +121,10 @@ Track Buff State At Cast: [
     2.  **Runic Power (Type 6 / ID 106):** Spent on Death Strike for survival. Overcapping RP (> 75-80) is a survival error as it represents missed healing and potential death.
 
 ##### **Spec-Specific Efficiency Audit**
-- **Trigger:** Compare `Marrowrend` casts in the `<PLAYER_DATA>` targets table.
+- **Trigger:** Only create this table if `boneShieldDrops` is provided in `<RESOURCE_WASTE_DATA>`.
 - **Table Headers:** | Metric | The Player | The Reference | Efficiency Analysis |
 - **Logic:**
-    1.  **Bone Shield Drops:** Track how many times Marrowrend was cast when Bone Shield was at 0 stacks (meaning they lost it completely). Letting Bone Shield drop to 0 is a dangerous survival error that removes the passive armor/haste benefits.
+    1.  **Bone Shield Drops:** Check when boneshield stacks drop to 0, this happens when boneshield has a Remove Buff event. Look at the `boneShieldDrops` counts in `<RESOURCE_WASTE_DATA>`. If the player let Bone Shield drop (count > 0), explain that dropping this buff is a massive failure of their rotation and makes them extremely vulnerable. Display the drops clearly for both (e.g., '1 drop' vs. '0 drops').
 
 
 ##### **Compare Cooldowns**
