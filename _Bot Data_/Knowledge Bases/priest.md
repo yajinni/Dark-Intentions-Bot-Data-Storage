@@ -313,11 +313,12 @@ Focus: **Entropic Rift Alignment** and **Insanity Management**.
 *   **Shadow Word: Pain**
 *   **Vampiric Touch**
 *   **Devouring Plague**
+*   **Void Volley**
+*   **Tentacle Slam**
 
 ##### **Major Cooldowns (Group under Major Cooldowns)**
-*   **Dark Ascension / Void Eruption**: 1-minute CD. Increases shadow damage.
-*   **Shadowfiend / Mindbender**: Major resource generator and damage source.
 *   **Power Infusion**: Major Haste multiplier.
+*   **Halo**: (Archon only) High-impact burst utility.
 
 ##### **Defensives (Group under Defensives)**
 *   **Vampiric Embrace**: Defensive utility for raid healing.
@@ -331,7 +332,6 @@ Focus: **Entropic Rift Alignment** and **Insanity Management**.
 *   **Melee**
 
 ##### **Utility (Group under Utility)**
-*   **Halo**: (Archon only) High-impact burst utility.
 *   **Silence**
 *   **Psychic Scream**
 *   **Psychic Horror**
@@ -364,11 +364,6 @@ Compare Cooldowns: [
   {
     "name": "Voidform",
     "id": 194249,
-    "type": "buff"
-  },
-  {
-    "name": "Dark Ascension",
-    "id": 391109,
     "type": "buff"
   }
 ]
