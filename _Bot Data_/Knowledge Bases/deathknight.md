@@ -119,6 +119,9 @@ The bot must switch audit logic based on the active Hero Spec.
 *   **Blinding Sleet**
 
 #### Spec-Specific Audit Instructions
+
+##### **Buff & Uptime Management (Group under Buff & Uptime)**
+*   None listed.
 Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
 Track Buff Drops: [
   {
@@ -264,6 +267,9 @@ The bot must switch audit logic based on whether **Breath of Sindragosa** is act
 *   **Blinding Sleet**
 
 #### Spec-Specific Audit Instructions
+
+##### **Buff & Uptime Management (Group under Buff & Uptime)**
+*   None listed.
 Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
 
 ##### **Resource Management & Overcapping**
@@ -401,6 +407,9 @@ Focus: **Festering Wound** and **Lesser Ghoul** management.
 *   **Blinding Sleet**
 
 #### Spec-Specific Audit Instructions
+
+##### **Buff & Uptime Management (Group under Buff & Uptime)**
+*   None listed.
 Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
 
 ##### **Resource Management & Overcapping**

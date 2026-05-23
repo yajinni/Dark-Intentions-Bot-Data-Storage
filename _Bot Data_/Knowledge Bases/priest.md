@@ -238,7 +238,7 @@ The bot must switch audit logic based on the active Hero Spec.
 
 #### Spec-Specific Audit Instructions
 
-##### **Buff Exclusions (Group under Buff Exclusions)**
+##### **Buff & Uptime Management (Group under Buff & Uptime)**
 *   **Echo of Light** (Holy Mastery passive buff - completely exclude this buff from Buff & Uptime Management analysis in Section 8 of the report).
 </details>
 
@@ -358,6 +358,9 @@ Focus: **Entropic Rift Alignment** and **Insanity Management**.
 ---
 
 #### Spec-Specific Audit Instructions
+
+##### **Buff & Uptime Management (Group under Buff & Uptime)**
+*   None listed.
 Track Resources: [13] // 13 = Insanity (ID 113)
 
 ##### **Resource Management & Overcapping**

@@ -195,6 +195,9 @@ Focus: **Bleed Snapshotting** and **Tiger's Fury** alignment.
 ---
 
 #### Spec-Specific Audit Instructions
+
+##### **Buff & Uptime Management (Group under Buff & Uptime)**
+*   None listed.
 Audit Resource: 22568 { "minCP": 5, "minEnergy": 50 } // Ferocious Bite
 Audit Resource: 441591 { "minCP": 5, "minEnergy": 50 } // Ravage (Hero Talent FB)
 Audit Resource: 1079 { "minCP": 5 } // Rip

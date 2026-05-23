@@ -109,6 +109,9 @@ Focus: **Colossus Smash Windows** and **Execute Priority**.
 *   **Charge**
 
 #### Spec-Specific Audit Instructions
+
+##### **Buff & Uptime Management (Group under Buff & Uptime)**
+*   None listed.
 Track Resources: [2] // 2 = Rage (ID 101)
 
 ##### **Resource Management & Overcapping**
@@ -378,6 +381,9 @@ Focus: **Shield Block Uptime** and **Rage Efficiency**.
 *   **Heroic Leap**
 
 #### Spec-Specific Audit Instructions
+
+##### **Buff & Uptime Management (Group under Buff & Uptime)**
+*   None listed.
 Track Resources: [2] // 2 = Rage (ID 101)
 
 ##### **Resource Management & Overcapping**
