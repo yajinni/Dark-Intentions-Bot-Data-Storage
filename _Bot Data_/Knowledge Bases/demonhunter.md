@@ -72,12 +72,38 @@ Focus: **Void Ray Efficiency** and **Drain Pausing**.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Metamorphosis:** 4-minute CD. Increases Haste and damage.
-*   **Eye Beam:** 30s CD. Triggers a mini-Metamorphosis window (Demonic).
-*   **Blade Dance / Death Sweep:** (If talented) High physical damage spender.
-*   **Chaos Nova:** Primary AoE stun/utility.
-*   **Darkness:** Raid-wide defensive utility.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Fracture**
+*   **Shear**
+*   **Soul Cleave**
+*   **Spirit Bomb**
+*   **Immolation Aura**
+*   **Sigil of Flame**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Metamorphosis**: 4-minute CD. Increases Haste and damage.
+*   **Eye Beam**: 30s CD. Triggers a mini-Metamorphosis window (Demonic).
+*   **Blade Dance / Death Sweep**: (If talented) High physical damage spender.
+
+##### **Defensives (Group under Defensives)**
+*   **Darkness**: Raid-wide defensive utility.
+*   **Blur**
+*   **Netherwalk**
+*   **Fiery Brand**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Chaos Nova**: Primary AoE stun/utility.
+*   **Disrupt**
+*   **Sigil of Silence**
+*   **Sigil of Misery**
+*   **Sigil of Chains**
+*   **Imprison**
+*   **Spectral Sight**
+
 </details>
 
 <details open>
@@ -147,12 +173,41 @@ Focus: **Inertia Windows** and **Fury Management**.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Metamorphosis:** 4-minute CD.
-*   **The Hunt:** 1.5-minute CD. High damage and mobility.
-*   **Eye Beam:** 30s CD. 
-*   **Vengeful Retreat:** (If talented for Initiative) Used to trigger crit windows.
-*   **Fel Barrage:** (If talented) High-intensity AoE burst.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Chaos Strike**
+*   **Annihilation**
+*   **Blade Dance**
+*   **Death Sweep**
+*   **Immolation Aura**
+*   **Demon's Bite**
+*   **Demon Blades**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Metamorphosis**: 4-minute CD.
+*   **Eye Beam**: 30s CD.
+*   **Vengeful Retreat**: (If talented for Initiative) Used to trigger crit windows.
+*   **Fel Barrage**: (If talented) High-intensity AoE burst.
+
+##### **Defensives (Group under Defensives)**
+*   **Blur**
+*   **Netherwalk**
+*   **Darkness**
+*   **Fiery Brand**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **The Hunt**: 1.5-minute CD. High damage and mobility.
+*   **Disrupt**
+*   **Sigil of Silence**
+*   **Sigil of Misery**
+*   **Sigil of Flame**
+*   **Sigil of Chains**
+*   **Chaos Nova**
+*   **Imprison**
+*   **Spectral Sight**
 
 
 ##### **Compare Cooldowns**
@@ -239,12 +294,39 @@ Focus: **Soul Fragment** consumption and **Sigil** uptime.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Metamorphosis:** 2-minute CD (reduced by *Last Resort* and *Voidfall*).
-*   **Soul Carver:** 1-minute CD. Massive soul fragment generator.
-*   **Sigil of Silence:** Utility/Crowd control.
-*   **Sigil of Spite:** Core offensive/defensive hybrid cooldown.
-*   **Fel Devastation:** 1-minute CD. Massive self-healing burst.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Fracture**
+*   **Shear**
+*   **Soul Cleave**
+*   **Spirit Bomb**
+*   **Immolation Aura**
+*   **Sigil of Flame**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Metamorphosis**: 2-minute CD (reduced by *Last Resort* and *Voidfall*).
+*   **Soul Carver**: 1-minute CD. Massive soul fragment generator.
+*   **Fel Devastation**: 1-minute CD. Massive self-healing burst.
+
+##### **Defensives (Group under Defensives)**
+*   **Sigil of Spite**: Core offensive/defensive hybrid cooldown.
+*   **Blur**
+*   **Netherwalk**
+*   **Darkness**
+*   **Fiery Brand**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Sigil of Silence**: Utility/Crowd control.
+*   **Disrupt**
+*   **Sigil of Misery**
+*   **Sigil of Chains**
+*   **Chaos Nova**
+*   **Imprison**
+*   **Spectral Sight**
+
 </details>
 
 ## Utility

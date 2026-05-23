@@ -66,12 +66,46 @@ Focus: **Burn Phase** efficiency and **Clearcasting** management.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Arcane Surge:** 1.5-minute CD. Increases all damage by 35% and mana regen by 400%.
-*   **Evocation:** 1.5-minute CD. Increases Intellect and restores mana.
-*   **Touch of the Magi:** 45s CD. Stores damage and explodes for 25% of the total.
-*   **Shifting Power:** 1-minute CD. Reduces all ability cooldowns.
-*   **Time Warp:** Raid-wide Haste buff.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Arcane Blast**
+*   **Arcane Barrage**
+*   **Arcane Missiles**
+*   **Arcane Orb**
+*   **Shifting Power**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Arcane Surge**: 1.5-minute CD. Increases all damage by 35% and mana regen by 400%.
+*   **Evocation**: 1.5-minute CD. Increases Intellect and restores mana.
+*   **Touch of the Magi**: 45s CD. Stores damage and explodes for 25% of the total.
+*   **Time Warp**: Raid-wide Haste buff.
+
+##### **Defensives (Group under Defensives)**
+*   **Ice Block**
+*   **Ice Cold**
+*   **Greater Invisibility**
+*   **Mirror Image**
+*   **Alter Time**
+*   **Prismatic Barrier**
+*   **Blazing Barrier**
+*   **Ice Barrier**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Counterspell**
+*   **Spellsteal**
+*   **Polymorph**
+*   **Remove Curse**
+*   **Slow**
+*   **Ring of Frost**
+*   **Ice Nova**
+*   **Frost Nova**
+*   **Blast Wave**
+*   **Dragon's Breath**
+*   **Blink**
+*   **Shimmer**
 
 
 ##### **Compare Cooldowns**
@@ -153,12 +187,46 @@ Focus: **Combustion Efficiency** and **Hot Streak** management.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Combustion:** 2-minute CD. Your primary burst window.
-*   **Phoenix Flames:** 25s recharge. Primary generator and utility.
-*   **Fire Blast:** 12s recharge. Essential for proc management.
-*   **Meteor:** (If talented) High priority burst CD.
-*   **Dragon's Breath:** Used for utility and specific cleave requirements.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Fireball**
+*   **Pyroblast**
+*   **Phoenix Flames**
+*   **Fire Blast**
+*   **Scorch**
+*   **Flamestrike**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Combustion**: 2-minute CD. Your primary burst window.
+*   **Meteor**: (If talented) High priority burst CD.
+
+##### **Defensives (Group under Defensives)**
+*   **Ice Block**
+*   **Ice Cold**
+*   **Greater Invisibility**
+*   **Mirror Image**
+*   **Alter Time**
+*   **Prismatic Barrier**
+*   **Blazing Barrier**
+*   **Ice Barrier**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Dragon's Breath**: Used for utility and specific cleave requirements.
+*   **Counterspell**
+*   **Spellsteal**
+*   **Polymorph**
+*   **Remove Curse**
+*   **Slow**
+*   **Ring of Frost**
+*   **Ice Nova**
+*   **Frost Nova**
+*   **Blast Wave**
+*   **Blink**
+*   **Shimmer**
+*   **Time Warp**
 
 
 ##### **Compare Cooldowns**
@@ -240,12 +308,46 @@ Focus: **Shatter Combo** efficiency and **Icy Veins** uptime.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Icy Veins:** 3-minute CD (reduced by Shifting Power). Increases Haste by 30%.
-*   **Frozen Orb:** 1-minute CD. Major proc generator.
-*   **Shifting Power:** 1-minute CD. Reduces all ability cooldowns.
-*   **Ice Nova:** Used for instant shatter utility.
-*   **Time Warp:** Raid-wide Haste buff.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Frostbolt**
+*   **Ice Lance**
+*   **Flurry**
+*   **Frozen Orb**
+*   **Blizzard**
+*   **Glacial Spike**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Icy Veins**: 3-minute CD (reduced by Shifting Power). Increases Haste by 30%.
+*   **Shifting Power**: 1-minute CD. Reduces all ability cooldowns.
+*   **Time Warp**: Raid-wide Haste buff.
+
+##### **Defensives (Group under Defensives)**
+*   **Ice Block**
+*   **Ice Cold**
+*   **Greater Invisibility**
+*   **Mirror Image**
+*   **Alter Time**
+*   **Prismatic Barrier**
+*   **Blazing Barrier**
+*   **Ice Barrier**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Ice Nova**: Used for instant shatter utility.
+*   **Counterspell**
+*   **Spellsteal**
+*   **Polymorph**
+*   **Remove Curse**
+*   **Slow**
+*   **Ring of Frost**
+*   **Frost Nova**
+*   **Blast Wave**
+*   **Dragon's Breath**
+*   **Blink**
+*   **Shimmer**
 
 
 ##### **Compare Cooldowns**

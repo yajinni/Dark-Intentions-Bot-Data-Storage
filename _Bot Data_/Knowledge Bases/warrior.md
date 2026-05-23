@@ -70,14 +70,43 @@ Focus: **Colossus Smash Windows** and **Execute Priority**.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Avatar:** 1.5-minute CD. Increases all damage by 20%.
-*   **Colossus Smash:** 45s CD. Increases damage taken by the target by 30%.
-*   **Bladestorm:** 1.5-minute CD. High physical area damage.
-*   **Thunder Clap:** (If talented for Rend) Used to apply/refresh Rend in AoE.
-*   **Sweeping Strikes:** Cleave utility for 2 targets.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Mortal Strike**
+*   **Overpower**
+*   **Execute**
+*   **Slam**
+*   **Rend**
 
----
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Avatar**: 1.5-minute CD. Increases all damage by 20%.
+*   **Colossus Smash**: 45s CD. Increases damage taken by the target by 30%.
+*   **Bladestorm**: 1.5-minute CD. High physical area damage.
+*   **Thunder Clap**: (If talented for Rend) Used to apply/refresh Rend in AoE.
+
+##### **Defensives (Group under Defensives)**
+*   **Shield Wall**
+*   **Last Stand**
+*   **Spell Reflection**
+*   **Enraged Regeneration**
+*   **Die by the Sword**
+*   **Rallying Cry**
+*   **Ignore Pain**
+*   **Shield Block**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Sweeping Strikes**: Cleave utility for 2 targets.
+*   **Pummel**
+*   **Shockwave**
+*   **Storm Bolt**
+*   **Intimidating Shout**
+*   **Berserker Rage**
+*   **Intervene**
+*   **Heroic Leap**
+*   **Charge**
 
 #### Spec-Specific Audit Instructions
 Track Resources: [2] // 2 = Rage (ID 101)
@@ -88,7 +117,6 @@ Track Resources: [2] // 2 = Rage (ID 101)
 - **Formatting Rule:** For each resource, you MUST show `Generated: [Total] • Wasted: [Wasted] ([Waste%]%)`.
 - **Logic:**
     1.  **Rage (Type 2 / ID 101):** Arms Warriors must balance Rage generation from auto-attacks and Overpower with consumption from Mortal Strike, Execute, and Slam. Wasting Rage (capping at 100) indicates missed casts or excessive pooling.
-
 
 ##### **Compare Cooldowns**
 Compare Cooldowns: [
@@ -176,14 +204,43 @@ Focus: **Rage Management** and **Enrage Uptime**.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Recklessness:** 1.5-minute CD. Increases Rage generation and Crit.
-*   **Avatar:** 1.5-minute CD. Aligned with Recklessness.
-*   **Odyn's Fury:** 45s CD. Massive physical burst and bleed.
-*   **Thunder Clap:** (If talented for Mountain Thane) Primary engine trigger.
-*   **Ravager:** (If talented) High-intensity physical area damage.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Bloodthirst**
+*   **Raging Blow**
+*   **Execute**
+*   **Rampage**
+*   **Whirlwind**
 
----
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Recklessness**: 1.5-minute CD. Increases Rage generation and Crit.
+*   **Avatar**: 1.5-minute CD. Aligned with Recklessness.
+*   **Odyn's Fury**: 45s CD. Massive physical burst and bleed.
+*   **Thunder Clap**: (If talented for Mountain Thane) Primary engine trigger.
+*   **Ravager**: (If talented) High-intensity physical area damage.
+
+##### **Defensives (Group under Defensives)**
+*   **Shield Wall**
+*   **Last Stand**
+*   **Spell Reflection**
+*   **Enraged Regeneration**
+*   **Die by the Sword**
+*   **Rallying Cry**
+*   **Ignore Pain**
+*   **Shield Block**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Pummel**
+*   **Shockwave**
+*   **Storm Bolt**
+*   **Intimidating Shout**
+*   **Berserker Rage**
+*   **Intervene**
+*   **Heroic Leap**
+*   **Charge**
 
 #### Spec-Specific Audit Instructions
 Track Resources: [2] // 2 = Rage (ID 101)
@@ -194,7 +251,6 @@ Track Resources: [2] // 2 = Rage (ID 101)
 - **Formatting Rule:** For each resource, you MUST show `Generated: [Total] • Wasted: [Wasted] ([Waste%]%)`.
 - **Logic:**
     1.  **Rage (Type 2 / ID 101):** Fury Warriors generate Rage extremely fast via Bloodthirst and Raging Blow. Capping at 100 Rage is a severe error that delays Rampage casts and reduces Enrage uptime.
-
 
 ##### **Compare Cooldowns**
 Compare Cooldowns: [
@@ -282,15 +338,41 @@ Focus: **Shield Block Uptime** and **Rage Efficiency**.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Shield Wall:** 4-minute CD. 40% Damage Reduction. Use for lethal hits.
-*   **Last Stand:** 3-minute CD. Increases health and block chance.
-*   **Demoralizing Shout:** 45s CD. 20% Damage Reduction from all targets.
-*   **Avatar:** 1.5-minute CD. Increases damage and Rage generation.
-*   **Spell Reflection:** Essential utility for magic damage mitigation.
-*   **Shield Charge:** 45s CD. Gap closer and heavy generator.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Shield Slam**
+*   **Thunder Clap**
+*   **Revenge**
+*   **Devastate**
+*   **Execute**
+*   **Ignore Pain**
 
----
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Last Stand**: 3-minute CD. Increases health and block chance.
+*   **Avatar**: 1.5-minute CD. Increases damage and Rage generation.
+
+##### **Defensives (Group under Defensives)**
+*   **Shield Wall**: 4-minute CD. 40% Damage Reduction. Use for lethal hits.
+*   **Demoralizing Shout**: 45s CD. 20% Damage Reduction from all targets.
+*   **Shield Charge**: 45s CD. Gap closer and heavy generator.
+*   **Spell Reflection**
+*   **Enraged Regeneration**
+*   **Die by the Sword**
+*   **Rallying Cry**
+*   **Shield Block**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Spell Reflection**: Essential utility for magic damage mitigation.
+*   **Pummel**
+*   **Shockwave**
+*   **Storm Bolt**
+*   **Intimidating Shout**
+*   **Berserker Rage**
+*   **Intervene**
+*   **Heroic Leap**
 
 #### Spec-Specific Audit Instructions
 Track Resources: [2] // 2 = Rage (ID 101)

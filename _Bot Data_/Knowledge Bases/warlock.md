@@ -68,12 +68,45 @@ Focus: **DoT Maintenance** and **Shard Efficiency**.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Summon Darkglare:** 2-minute CD. Extends the duration of all active DoTs.
-*   **Soul Rot:** 1-minute CD. Major burst ability and generator.
-*   **Dark Harvest:** 1-minute CD. Increases shadow damage and summons spirits.
-*   **Haunt:** 15s CD. Essential for throughput.
-*   **Vile Taint / Phantom Singularity:** AoE DoT application/burst.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Shadow Bolt**
+*   **Drain Soul**
+*   **Agony**
+*   **Corruption**
+*   **Unstable Affliction**
+*   **Wither**
+*   **Seed of Corruption**
+*   **Malefic Rapture**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Summon Darkglare**: 2-minute CD. Extends the duration of all active DoTs.
+*   **Soul Rot**: 1-minute CD. Major burst ability and generator.
+*   **Dark Harvest**: 1-minute CD. Increases shadow damage and summons spirits.
+*   **Haunt**: 15s CD. Essential for throughput.
+*   **Vile Taint / Phantom Singularity**: AoE DoT application/burst.
+
+##### **Defensives (Group under Defensives)**
+*   **Unending Resolve**
+*   **Mortal Coil**
+*   **Dark Pact**
+*   **Soul Link**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Spell Lock**
+*   **Axe Toss**
+*   **Seduction**
+*   **Banish**
+*   **Fear**
+*   **Shadowfury**
+*   **Howl of Terror**
+*   **Soulstone**
+*   **Healthstone**
+*   **Demonic Gateway**
+*   **Demonic Circle**
 
 
 ##### **Compare Cooldowns**
@@ -155,12 +188,41 @@ Focus: **Shard Management** and **Tyrant Windows**.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Summon Demonic Tyrant:** 1.5-minute CD. Major burst window and buff extension.
-*   **Grimoire: Felguard:** 2-minute CD. Summons an extra powerful pet.
-*   **Power Siphon:** Used to generate Demonic Core stacks.
-*   **Soul Strike:** Primary generator and damage source for your Felguard.
-*   **Implosion:** (Cleave only) Consumes Imps for AoE damage.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Shadow Bolt**
+*   **Demonbolt**
+*   **Hand of Gul'dan**
+*   **Call Dreadstalkers**
+*   **Implosion**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Summon Demonic Tyrant**: 1.5-minute CD. Major burst window and buff extension.
+*   **Grimoire: Felguard**: 2-minute CD. Summons an extra powerful pet.
+*   **Power Siphon**: Used to generate Demonic Core stacks.
+*   **Soul Strike**: Primary generator and damage source for your Felguard.
+
+##### **Defensives (Group under Defensives)**
+*   **Unending Resolve**
+*   **Mortal Coil**
+*   **Dark Pact**
+*   **Soul Link**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Spell Lock**
+*   **Axe Toss**
+*   **Seduction**
+*   **Banish**
+*   **Fear**
+*   **Shadowfury**
+*   **Howl of Terror**
+*   **Soulstone**
+*   **Healthstone**
+*   **Demonic Gateway**
+*   **Demonic Circle**
 
 
 ##### **Compare Cooldowns**
@@ -244,12 +306,42 @@ Focus: **Shard Management** and **Chaos Bolt** efficiency.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Summon Infernal:** 2-minute CD. Increases shard generation and damage.
-*   **Dimensional Rift:** (If talented) High-intensity burst generator and damage source.
-*   **Havoc:** 30s CD. Causes spells to hit a secondary target.
-*   **Cataclysm:** (If talented) Instant Immolate application and burst.
-*   **Burn to Ashes:** (Diabolist only) Increases the damage of your next Incinerate/Chaos Bolt.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Incinerate**
+*   **Immolate**
+*   **Conflagrate**
+*   **Chaos Bolt**
+*   **Rain of Fire**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Summon Infernal**: 2-minute CD. Increases shard generation and damage.
+*   **Dimensional Rift**: (If talented) High-intensity burst generator and damage source.
+*   **Havoc**: 30s CD. Causes spells to hit a secondary target.
+*   **Cataclysm**: (If talented) Instant Immolate application and burst.
+*   **Burn to Ashes**: (Diabolist only) Increases the damage of your next Incinerate/Chaos Bolt.
+
+##### **Defensives (Group under Defensives)**
+*   **Unending Resolve**
+*   **Mortal Coil**
+*   **Dark Pact**
+*   **Soul Link**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Spell Lock**
+*   **Axe Toss**
+*   **Seduction**
+*   **Banish**
+*   **Fear**
+*   **Shadowfury**
+*   **Howl of Terror**
+*   **Soulstone**
+*   **Healthstone**
+*   **Demonic Gateway**
+*   **Demonic Circle**
 
 
 ##### **Compare Cooldowns**

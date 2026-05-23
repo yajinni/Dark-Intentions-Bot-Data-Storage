@@ -66,12 +66,41 @@ Focus: **Bleed Uptime** and **Kingsbane** windows.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Deathmark:** 2-minute CD. Major burst window.
-*   **Kingsbane:** 1-minute CD. High-intensity poison burst.
-*   **Vanish:** Used offensively to reset Garrote or trigger *Master Assassin*.
-*   **Thistle Tea:** Used to generate Energy during high-burst windows.
-*   **Cold Blood:** Use before your highest-impact finisher.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Mutilate**
+*   **Garrote**
+*   **Rupture**
+*   **Envenom**
+*   **Fan of Knives**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Deathmark**: 2-minute CD. Major burst window.
+*   **Kingsbane**: 1-minute CD. High-intensity poison burst.
+*   **Vanish**: Used offensively to reset Garrote or trigger *Master Assassin*.
+*   **Thistle Tea**: Used to generate Energy during high-burst windows.
+*   **Cold Blood**: Use before your highest-impact finisher.
+
+##### **Defensives (Group under Defensives)**
+*   **Cloak of Shadows**
+*   **Evasion**
+*   **Feint**
+*   **Crimson Vial**
+*   **Cheat Death**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Kick**
+*   **Kidney Shot**
+*   **Cheap Shot**
+*   **Blind**
+*   **Sap**
+*   **Gouge**
+*   **Distract**
+*   **Shadowstep**
+*   **Grappling Hook**
 
 
 ##### **Compare Cooldowns**
@@ -162,12 +191,42 @@ Focus: **Adrenaline Rush Uptime** and **Roll the Bones** management.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Adrenaline Rush:** 3-minute CD (reduced by finishers). Your primary engine.
-*   **Killing Spree:** 2-minute CD. High physical damage and Trickster trigger.
-*   **Blade Rush:** 45s CD. Generates Energy and damage.
-*   **Keep It Rolling:** 7-minute CD. Extends the duration of current Roll the Bones buffs.
-*   **Preparation:** Resets utility cooldowns.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Sinister Strike**
+*   **Between the Eyes**
+*   **Dispatch**
+*   **Pistol Shot**
+*   **Blade Flurry**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Adrenaline Rush**: 3-minute CD (reduced by finishers). Your primary engine.
+*   **Killing Spree**: 2-minute CD. High physical damage and Trickster trigger.
+*   **Blade Rush**: 45s CD. Generates Energy and damage.
+*   **Keep It Rolling**: 7-minute CD. Extends the duration of current Roll the Bones buffs.
+
+##### **Defensives (Group under Defensives)**
+*   **Cloak of Shadows**
+*   **Evasion**
+*   **Feint**
+*   **Crimson Vial**
+*   **Cheat Death**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Preparation**: Resets utility cooldowns.
+*   **Kick**
+*   **Kidney Shot**
+*   **Cheap Shot**
+*   **Blind**
+*   **Sap**
+*   **Gouge**
+*   **Distract**
+*   **Vanish**
+*   **Shadowstep**
+*   **Grappling Hook**
 
 
 ##### **Compare Cooldowns**
@@ -247,12 +306,42 @@ Focus: **Shadow Dance Windows** and **Secret Technique** alignment.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Shadow Dance:** 1-minute CD (reduced by finishers). Primary burst window.
-*   **Shadow Blades:** 2-minute CD. Major resource and damage multiplier.
-*   **Secret Technique:** 45s CD. Your highest-impact finisher.
-*   **Vanish:** Used offensively to reset Shadowstrike or trigger *Master Assassin*.
-*   **Symbols of Death:** 30s CD. Increases damage and restores Energy.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Backstab**
+*   **Gloom Blade**
+*   **Shadowstrike**
+*   **Eviscerate**
+*   **Rupture**
+*   **Black Powder**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Shadow Dance**: 1-minute CD (reduced by finishers). Primary burst window.
+*   **Shadow Blades**: 2-minute CD. Major resource and damage multiplier.
+*   **Secret Technique**: 45s CD. Your highest-impact finisher.
+*   **Vanish**: Used offensively to reset Shadowstrike or trigger *Master Assassin*.
+*   **Symbols of Death**: 30s CD. Increases damage and restores Energy.
+
+##### **Defensives (Group under Defensives)**
+*   **Cloak of Shadows**
+*   **Evasion**
+*   **Feint**
+*   **Crimson Vial**
+*   **Cheat Death**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Kick**
+*   **Kidney Shot**
+*   **Cheap Shot**
+*   **Blind**
+*   **Sap**
+*   **Gouge**
+*   **Distract**
+*   **Shadowstep**
+*   **Grappling Hook**
 
 
 ##### **Compare Cooldowns**

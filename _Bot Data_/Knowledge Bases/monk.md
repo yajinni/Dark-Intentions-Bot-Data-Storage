@@ -65,12 +65,42 @@ Focus: **Stagger Efficiency** and **Brew Recharge**.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Celestial Brew:** 1-minute CD (reduced by Keg Smash). Primary defensive absorb.
-*   **Fortifying Brew:** 6-minute CD. Massive health and damage reduction buff.
-*   **Exploding Barrel:** (If talented) Massive physical mitigation and damage.
-*   **Invoke Niuzao, the Black Ox:** Summons a pet to taunt and soak damage.
-*   **Zen Meditation:** 5-minute CD. 90% Damage Reduction (interrupted by movement/attacks).
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Keg Smash**
+*   **Tiger Palm**
+*   **Blackout Kick**
+*   **Breath of Fire**
+*   **Spinning Crane Kick**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Exploding Barrel**: (If talented) Massive physical mitigation and damage.
+*   **Invoke Niuzao, the Black Ox**: Summons a pet to taunt and soak damage.
+
+##### **Defensives (Group under Defensives)**
+*   **Celestial Brew**: 1-minute CD (reduced by Keg Smash). Primary defensive absorb.
+*   **Fortifying Brew**: 6-minute CD. Massive health and damage reduction buff.
+*   **Zen Meditation**: 5-minute CD. 90% Damage Reduction (interrupted by movement/attacks).
+*   **Diffuse Magic**
+*   **Dampen Harm**
+*   **Life Cocoon**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Spear Hand Strike**
+*   **Leg Sweep**
+*   **Paralysis**
+*   **Ring of Peace**
+*   **Disable**
+*   **Detox**
+*   **Resuscitate**
+*   **Roll**
+*   **Chi Torpedo**
+*   **Transcendence**
+*   **Tiger's Lust**
+
 </details>
 
 <details open>
@@ -138,12 +168,45 @@ Focus: **Ancient Teachings** maintenance and **Rising Sun Kick** priority.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Revival / Restoral:** 3-minute CD. Instant raid-wide heal and dispel.
-*   **Invoke Chi-Ji, the Red Crane:** 2-minute CD. Enhances Fistweaving throughput.
-*   **Sheilun's Gift:** Massive burst heal based on generated clouds.
-*   **Life Cocoon:** Primary single-target external for tanks or low-health allies.
-*   **Essence Font:** (If talented) Channeled raid heal to apply HoTs.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Soothing Mist**
+*   **Enveloping Mist**
+*   **Vivify**
+*   **Renewing Mist**
+*   **Rising Sun Kick**
+*   **Tiger Palm**
+*   **Blackout Kick**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Invoke Chi-Ji, the Red Crane**: 2-minute CD. Enhances Fistweaving throughput.
+*   **Sheilun's Gift**: Massive burst heal based on generated clouds.
+*   **Life Cocoon**: Primary single-target external for tanks or low-health allies.
+*   **Essence Font**: (If talented) Channeled raid heal to apply HoTs.
+
+##### **Defensives (Group under Defensives)**
+*   **Fortifying Brew**
+*   **Diffuse Magic**
+*   **Dampen Harm**
+*   **Zen Meditation**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Revival / Restoral**: 3-minute CD. Instant raid-wide heal and dispel.
+*   **Spear Hand Strike**
+*   **Leg Sweep**
+*   **Paralysis**
+*   **Ring of Peace**
+*   **Disable**
+*   **Detox**
+*   **Resuscitate**
+*   **Roll**
+*   **Chi Torpedo**
+*   **Transcendence**
+*   **Tiger's Lust**
+
 </details>
 
 <details open>
@@ -213,12 +276,43 @@ Focus: **Combo Strikes** and **Chi Efficiency**.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Invoke Xuen, the White Tiger:** 2-minute CD. Increases damage and provides a pet.
-*   **Serenity / Storm, Earth, and Fire:** Primary burst window triggers.
-*   **Touch of Death:** Use on targets at **< 15% HP**.
-*   **Strike of the Windlord:** 40s CD. Massive AoE and single-target damage.
-*   **Fists of Fury:** 20s CD. Channeled physical damage.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Tiger Palm**
+*   **Blackout Kick**
+*   **Rising Sun Kick**
+*   **Fists of Fury**
+*   **Spinning Crane Kick**
+*   **Whirling Dragon Punch**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Invoke Xuen, the White Tiger**: 2-minute CD. Increases damage and provides a pet.
+*   **Serenity / Storm, Earth, and Fire**: Primary burst window triggers.
+*   **Touch of Death**: Use on targets at **< 15% HP**.
+*   **Strike of the Windlord**: 40s CD. Massive AoE and single-target damage.
+
+##### **Defensives (Group under Defensives)**
+*   **Fortifying Brew**
+*   **Diffuse Magic**
+*   **Dampen Harm**
+*   **Zen Meditation**
+*   **Life Cocoon**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Spear Hand Strike**
+*   **Leg Sweep**
+*   **Paralysis**
+*   **Ring of Peace**
+*   **Disable**
+*   **Detox**
+*   **Resuscitate**
+*   **Roll**
+*   **Chi Torpedo**
+*   **Transcendence**
+*   **Tiger's Lust**
 
 
 ##### **Compare Cooldowns**

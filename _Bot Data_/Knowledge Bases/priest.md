@@ -66,14 +66,48 @@ Discipline is audited based on the **Evangelism Ramp** sequence.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Power Word: Radiance:** 20s CD. The primary Atonement application tool.
-*   **Evangelism:** 1.5-minute CD. The core raid-wide healing cooldown.
-*   **Ultimate Penitence:** 4-minute CD. Massive channeled heal during critical damage.
-*   **Rapture:** 1.5-minute CD. Allows rapid application of *Power Word: Shield*.
-*   **Power Word: Barrier:** Massive damage reduction field.
-*   **Pain Suppression:** Primary single-target external.
-*   **Power Infusion:** Haste buff for top DPS.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Power Word: Shield**
+*   **Renew**
+*   **Flash of Light**
+*   **Smite**
+*   **Penance**
+*   **Mind Blast**
+*   **Shadow Word: Pain**
+*   **Purge the Wicked**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Power Word: Radiance**: 20s CD. The primary Atonement application tool.
+*   **Evangelism**: 1.5-minute CD. The core raid-wide healing cooldown.
+*   **Ultimate Penitence**: 4-minute CD. Massive channeled heal during critical damage.
+*   **Rapture**: 1.5-minute CD. Allows rapid application of *Power Word: Shield*.
+*   **Pain Suppression**: Primary single-target external.
+*   **Power Infusion**: Haste buff for top DPS.
+
+##### **Defensives (Group under Defensives)**
+*   **Power Word: Barrier**: Massive damage reduction field.
+*   **Desperate Prayer**
+*   **Fade**
+*   **Guardian Spirit**
+*   **Vampiric Embrace**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Silence**
+*   **Psychic Scream**
+*   **Psychic Horror**
+*   **Dominate Mind**
+*   **Shackle Undead**
+*   **Mass Dispel**
+*   **Purify**
+*   **Purify Disease**
+*   **Leap of Faith**
+*   **Power Word: Life**
+*   **Symbol of Hope**
+
 </details>
 
 <details open>
@@ -155,15 +189,47 @@ The bot must switch audit logic based on the active Hero Spec.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Apotheosis:** Increases Holy Word CDR by 300%. Each **Smite** cast now reduces the cooldown of *Holy Word: Chastise* by 12 seconds.
-*   **Divine Hymn:** Channeled raid heal. Increases healing received by 10%.
-*   **Guardian Spirit:** Save for tanks or lethal hits. Increases healing received by 40%.
-*   **Power Infusion:** Haste buff for top DPS.
-*   **Halo (Archon Only):** High-throughput burst window trigger.
-*   **Premonition (Oracle Only):** Versatile utility/throughput buff cycle.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Flash Heal**
+*   **Heal**
+*   **Holy Word: Serenity**
+*   **Holy Word: Sanctify**
+*   **Prayer of Mending**
+*   **Renew**
+*   **Smite**
+*   **Holy Fire**
 
----
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Apotheosis**: Increases Holy Word CDR by 300%. Each **Smite** cast now reduces the cooldown of *Holy Word: Chastise* by 12 seconds.
+*   **Divine Hymn**: Channeled raid heal. Increases healing received by 10%.
+*   **Guardian Spirit**: Save for tanks or lethal hits. Increases healing received by 40%.
+*   **Power Infusion**: Haste buff for top DPS.
+*   **Halo (Archon Only)**: High-throughput burst window trigger.
+
+##### **Defensives (Group under Defensives)**
+*   **Desperate Prayer**
+*   **Fade**
+*   **Pain Suppression**
+*   **Power Word: Barrier**
+*   **Vampiric Embrace**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Premonition (Oracle Only)**: Versatile utility/throughput buff cycle.
+*   **Silence**
+*   **Psychic Scream**
+*   **Psychic Horror**
+*   **Dominate Mind**
+*   **Shackle Undead**
+*   **Mass Dispel**
+*   **Purify**
+*   **Purify Disease**
+*   **Leap of Faith**
+*   **Power Word: Life**
+*   **Symbol of Hope**
 
 #### Passive Spell Cast Mappings
 * Incessant Screams = Psychic Scream casts
@@ -238,14 +304,45 @@ Focus: **Entropic Rift Alignment** and **Insanity Management**.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Dark Ascension / Void Eruption:** 1-minute CD. Increases shadow damage.
-*   **Shadowfiend / Mindbender:** Major resource generator and damage source.
-*   **Halo:** (Archon only) High-impact burst utility.
-*   **Power Infusion:** Major Haste multiplier.
-*   **Vampiric Embrace:** Defensive utility for raid healing.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Mind Blast**
+*   **Mind Flay**
+*   **Mind Spike**
+*   **Shadow Word: Death**
+*   **Shadow Word: Pain**
+*   **Vampiric Touch**
+*   **Devouring Plague**
 
----
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Dark Ascension / Void Eruption**: 1-minute CD. Increases shadow damage.
+*   **Shadowfiend / Mindbender**: Major resource generator and damage source.
+*   **Power Infusion**: Major Haste multiplier.
+
+##### **Defensives (Group under Defensives)**
+*   **Vampiric Embrace**: Defensive utility for raid healing.
+*   **Desperate Prayer**
+*   **Fade**
+*   **Pain Suppression**
+*   **Guardian Spirit**
+*   **Power Word: Barrier**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Halo**: (Archon only) High-impact burst utility.
+*   **Silence**
+*   **Psychic Scream**
+*   **Psychic Horror**
+*   **Dominate Mind**
+*   **Shackle Undead**
+*   **Mass Dispel**
+*   **Purify**
+*   **Purify Disease**
+*   **Leap of Faith**
+*   **Power Word: Life**
+*   **Symbol of Hope**
 
 #### Passive Spell Cast Mappings
 * Incessant Screams = Psychic Scream casts
@@ -261,7 +358,6 @@ Track Resources: [13] // 13 = Insanity (ID 113)
 - **Formatting Rule:** For each resource, you MUST show `Generated: [Total] • Wasted: [Wasted] ([Waste%]%)`.
 - **Logic:**
     1.  **Insanity (Type 13 / ID 113):** Shadow Priests generate Insanity primarily from Mind Blast, Mind Spike/Mind Flay, Shadow Word: Death, and passive traits (like Void Tendrils or Idol of C'Thun). Wasting Insanity (capping at 100) indicates delayed or missed Devouring Plague casts, directly reducing uptime on the Mastery: Shadow Weaving damage bonus.
-
 
 ##### **Compare Cooldowns**
 Compare Cooldowns: [

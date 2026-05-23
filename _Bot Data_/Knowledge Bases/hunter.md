@@ -67,12 +67,44 @@ Focus: **Frenzy Maintenance** and **Bestial Wrath** uptime.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Bestial Wrath:** 1.5-minute CD (reduced by Barbed Shot). Increases all damage by 25%.
-*   **Call of the Wild:** 2-minute CD. Summons your entire stable of pets for massive burst.
-*   **Aspect of the Wild:** Critical Strike buff for you and your pet.
-*   **Exhilaration:** Primary self-heal utility.
-*   **Turtle / Cheetah:** Defensive and mobility utility.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Kill Command**
+*   **Barbed Shot**
+*   **Cobra Shot**
+*   **Multi-Shot**
+*   **Dire Beast**
+*   **Bloodshed**
+*   **Kill Shot**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Bestial Wrath**: 1.5-minute CD (reduced by Barbed Shot). Increases all damage by 25%.
+*   **Call of the Wild**: 2-minute CD. Summons your entire stable of pets for massive burst.
+*   **Aspect of the Wild**: Critical Strike buff for you and your pet.
+
+##### **Defensives (Group under Defensives)**
+*   **Exhilaration**: Primary self-heal utility.
+*   **Turtle / Cheetah**: Defensive and mobility utility.
+*   **Aspect of the Turtle**
+*   **Survival of the Fittest**
+*   **Fortitude of the Bear**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Counter Shot**
+*   **Muzzle**
+*   **Freezing Trap**
+*   **Tar Trap**
+*   **Binding Trap**
+*   **Steel Trap**
+*   **Intimidation**
+*   **Scare Beast**
+*   **Master's Call**
+*   **Tranquilizing Shot**
+*   **Flare**
+*   **Feign Death**
 
 
 ##### **Compare Cooldowns**
@@ -153,12 +185,44 @@ Focus: **Aimed Shot Charge Management** and **Trick Shots** efficiency.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Trueshot:** 2-minute CD. Increases Haste and reduces Aimed Shot cast time.
-*   **Volley:** 45s CD. Triggers Trick Shots instantly and does AoE damage.
-*   **Double Tap:** (If talented) High priority burst buff for the next spender.
-*   **Black Arrow (Dark Ranger):** Core rotational spender and reset trigger.
-*   **Salvo:** Use to empower your next Multi-Shot or Volley.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Aimed Shot**
+*   **Rapid Fire**
+*   **Arcane Shot**
+*   **Multi-Shot**
+*   **Steady Shot**
+*   **Kill Shot**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Trueshot**: 2-minute CD. Increases Haste and reduces Aimed Shot cast time.
+*   **Volley**: 45s CD. Triggers Trick Shots instantly and does AoE damage.
+*   **Double Tap**: (If talented) High priority burst buff for the next spender.
+*   **Black Arrow (Dark Ranger)**: Core rotational spender and reset trigger.
+*   **Salvo**: Use to empower your next Multi-Shot or Volley.
+
+##### **Defensives (Group under Defensives)**
+*   **Aspect of the Turtle**
+*   **Exhilaration**
+*   **Survival of the Fittest**
+*   **Fortitude of the Bear**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Counter Shot**
+*   **Muzzle**
+*   **Freezing Trap**
+*   **Tar Trap**
+*   **Binding Trap**
+*   **Steel Trap**
+*   **Intimidation**
+*   **Scare Beast**
+*   **Master's Call**
+*   **Tranquilizing Shot**
+*   **Flare**
+*   **Feign Death**
 
 
 ##### **Compare Cooldowns**
@@ -240,11 +304,42 @@ Focus: **Tip of the Spear** stacks and **Mongoose Fury** windows.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Coordinated Assault:** 2-minute CD. Increases damage and reduces Kill Command CD.
-*   **Spearhead:** 1.5-minute CD. Massive burst window for Mongoose Bite.
-*   **Aspect of the Eagle:** Used to allow melee attacks (Mongoose Bite) from range.
-*   **Flanking Strike:** Generates 30 Focus and a stack of Tip of the Spear.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Mongoose Bite**
+*   **Raptor Strike**
+*   **Wildfire Bomb**
+*   **Kill Command**
+*   **Flanking Strike**
+*   **Explosive Shot**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Coordinated Assault**: 2-minute CD. Increases damage and reduces Kill Command CD.
+*   **Spearhead**: 1.5-minute CD. Massive burst window for Mongoose Bite.
+*   **Aspect of the Eagle**: Used to allow melee attacks (Mongoose Bite) from range.
+
+##### **Defensives (Group under Defensives)**
+*   **Aspect of the Turtle**
+*   **Exhilaration**
+*   **Survival of the Fittest**
+*   **Fortitude of the Bear**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Counter Shot**
+*   **Muzzle**
+*   **Freezing Trap**
+*   **Tar Trap**
+*   **Binding Trap**
+*   **Steel Trap**
+*   **Intimidation**
+*   **Scare Beast**
+*   **Master's Call**
+*   **Tranquilizing Shot**
+*   **Flare**
+*   **Feign Death**
 
 
 ##### **Compare Cooldowns**

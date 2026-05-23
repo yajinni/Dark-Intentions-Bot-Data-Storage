@@ -67,12 +67,46 @@ Focus: **Holy Power Management** and **Glimmer Maintenance**.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Avenging Wrath:** 2-minute CD. Increases all healing and damage.
-*   **Aura Mastery:** 3-minute CD. Major raid-wide damage reduction.
-*   **Divine Toll:** 1-minute CD. High-impact burst healing and resource generator.
-*   **Blessing of Sacrifice:** Primary external for tanks or low-health allies.
-*   **Lay on Hands:** Ultimate emergency heal.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Holy Shock**
+*   **Flash of Light**
+*   **Holy Light**
+*   **Judgment**
+*   **Crusader Strike**
+*   **Word of Glory**
+*   **Light of Dawn**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Avenging Wrath**: 2-minute CD. Increases all healing and damage.
+*   **Divine Toll**: 1-minute CD. High-impact burst healing and resource generator.
+*   **Blessing of Sacrifice**: Primary external for tanks or low-health allies.
+*   **Lay on Hands**: Ultimate emergency heal.
+
+##### **Defensives (Group under Defensives)**
+*   **Aura Mastery**: 3-minute CD. Major raid-wide damage reduction.
+*   **Divine Shield**
+*   **Blessing of Protection**
+*   **Shield of Vengeance**
+*   **Divine Protection**
+*   **Guardian of Ancient Kings**
+*   **Ardent Defender**
+*   **Eye for an Eye**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Rebuke**
+*   **Hammer of Justice**
+*   **Blinding Light**
+*   **Repentance**
+*   **Cleanse**
+*   **Cleanse Toxins**
+*   **Blessing of Freedom**
+*   **Intercession**
+*   **Turn Evil**
+
 </details>
 
 <details open>
@@ -144,12 +178,45 @@ Focus: **Consecration Uptime** and **Active Mitigation**.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Guardian of Ancient Kings:** 5-minute CD. 50% Damage Reduction. Use for predictable lethal hits.
-*   **Ardent Defender:** 2-minute CD. 20% Damage Reduction and prevents death once.
-*   **Avenging Wrath:** 2-minute CD. Increases all damage and healing.
-*   **Divine Toll:** 1-minute CD. Instant high threat and resource generator.
-*   **Eye of Tyr:** 1-minute CD. Reduces damage taken from nearby enemies.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Shield of the Righteous**
+*   **Judgment**
+*   **Hammer of Wrath**
+*   **Blessed Hammer**
+*   **Hammer of the Righteous**
+*   **Consecration**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Avenging Wrath**: 2-minute CD. Increases all damage and healing.
+*   **Divine Toll**: 1-minute CD. Instant high threat and resource generator.
+*   **Eye of Tyr**: 1-minute CD. Reduces damage taken from nearby enemies.
+
+##### **Defensives (Group under Defensives)**
+*   **Guardian of Ancient Kings**: 5-minute CD. 50% Damage Reduction. Use for predictable lethal hits.
+*   **Ardent Defender**: 2-minute CD. 20% Damage Reduction and prevents death once.
+*   **Divine Shield**
+*   **Blessing of Protection**
+*   **Blessing of Sacrifice**
+*   **Shield of Vengeance**
+*   **Divine Protection**
+*   **Lay on Hands**
+*   **Eye for an Eye**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Rebuke**
+*   **Hammer of Justice**
+*   **Blinding Light**
+*   **Repentance**
+*   **Cleanse**
+*   **Cleanse Toxins**
+*   **Blessing of Freedom**
+*   **Intercession**
+*   **Turn Evil**
+
 </details>
 
 <details open>
@@ -220,12 +287,45 @@ Focus: **Execution Sentence Window** and **Holy Power Efficiency**.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Avenging Wrath (Crusade):** 2-minute CD. Increases damage and Haste.
-*   **Wake of Ashes:** 45s CD. Generates 3 Holy Power and triggers Hero Talent procs.
-*   **Execution Sentence:** 30s CD. Increases damage taken by the target.
-*   **Divine Toll:** 1-minute CD. Instant high threat/damage and resource generator.
-*   **Shield of Vengeance:** Primary defensive absorb.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Blade of Justice**
+*   **Judgment**
+*   **Templar's Verdict**
+*   **Final Verdict**
+*   **Divine Storm**
+*   **Hammer of Wrath**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Avenging Wrath (Crusade)**: 2-minute CD. Increases damage and Haste.
+*   **Wake of Ashes**: 45s CD. Generates 3 Holy Power and triggers Hero Talent procs.
+*   **Execution Sentence**: 30s CD. Increases damage taken by the target.
+*   **Divine Toll**: 1-minute CD. Instant high threat/damage and resource generator.
+
+##### **Defensives (Group under Defensives)**
+*   **Shield of Vengeance**: Primary defensive absorb.
+*   **Divine Shield**
+*   **Blessing of Protection**
+*   **Blessing of Sacrifice**
+*   **Divine Protection**
+*   **Lay on Hands**
+*   **Guardian of Ancient Kings**
+*   **Ardent Defender**
+*   **Eye for an Eye**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Rebuke**
+*   **Hammer of Justice**
+*   **Blinding Light**
+*   **Repentance**
+*   **Cleanse**
+*   **Cleanse Toxins**
+*   **Blessing of Freedom**
+*   **Intercession**
+*   **Turn Evil**
 
 
 ##### **Compare Cooldowns**

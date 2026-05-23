@@ -66,11 +66,39 @@ Focus: **Ebon Might Uptime** and **Breath of Eons** alignment.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Breath of Eons:** 2-minute CD. Your primary contribution window.
-*   **Ebon Might:** 30s base CD. The core engine of the specialization.
-*   **Tip the Scales:** Used for instant Max-Rank Fire Breath during burst windows.
-*   **Time Spiral:** Raid-wide utility for mobility.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Ebon Might**
+*   **Upheaval**
+*   **Breath of Eons**
+*   **Living Flame**
+*   **Azure Strike**
+*   **Eruption**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Tip the Scales**: Used for instant Max-Rank Fire Breath during burst windows.
+
+##### **Defensives (Group under Defensives)**
+*   **Obsidian Scales**
+*   **Renewing Blaze**
+*   **Zephyr**
+*   **Rescue**
+*   **Twin Guardian**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Time Spiral**: Raid-wide utility for mobility.
+*   **Quell**
+*   **Landslide**
+*   **Tail Swipe**
+*   **Wing Buffet**
+*   **Oppressing Roar**
+*   **Cauterizing Flame**
+*   **Expunge**
+*   **Emerald Blossom**
+*   **Sleep Walk**
 
 
 ##### **Compare Cooldowns**
@@ -156,11 +184,42 @@ Focus: **Dragonrage Uptime** and **Empower Efficiency**.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Dragonrage:** 2-minute CD. Your core burst window.
-*   **Deep Breath:** 2-minute CD. High damage and mobility (reset frequently by *Scalecommander*).
-*   **Shattering Star:** 15s CD. Increases damage taken by the target by 20%.
-*   **Tip the Scales:** Used for instant Max-Rank Eternity Surge in multi-target scenarios.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Disintegrate**
+*   **Pyre**
+*   **Living Flame**
+*   **Azure Strike**
+*   **Fire Breath**
+*   **Eternity Surge**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Dragonrage**: 2-minute CD. Your core burst window.
+*   **Shattering Star**: 15s CD. Increases damage taken by the target by 20%.
+*   **Tip the Scales**: Used for instant Max-Rank Eternity Surge in multi-target scenarios.
+
+##### **Defensives (Group under Defensives)**
+*   **Obsidian Scales**
+*   **Renewing Blaze**
+*   **Zephyr**
+*   **Rescue**
+*   **Twin Guardian**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Deep Breath**: 2-minute CD. High damage and mobility (reset frequently by *Scalecommander*).
+*   **Quell**
+*   **Landslide**
+*   **Tail Swipe**
+*   **Wing Buffet**
+*   **Oppressing Roar**
+*   **Cauterizing Flame**
+*   **Expunge**
+*   **Emerald Blossom**
+*   **Time Spiral**
+*   **Sleep Walk**
 
 
 ##### **Compare Cooldowns**
@@ -242,12 +301,44 @@ Focus: **Echo Management** and **Stasis Combo** efficiency.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Stasis:** 1.5-minute CD. Stores and replicates your next 3 spells.
-*   **Rewind:** 4-minute CD. Heals 50% of all damage taken in the last 5 seconds.
-*   **Emerald Communion:** 3-minute CD. Massive self-healing and mana return.
-*   **Dream Flight:** 2-minute CD. Large area-of-effect heal and mobility.
-*   **Life-Bind:** Linked to *Emerald Communion* (if talented), shares healing with the raid.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Living Flame**
+*   **Reversion**
+*   **Echo**
+*   **Spiritbloom**
+*   **Dream Breath**
+*   **Temporal Anomaly**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Stasis**: 1.5-minute CD. Stores and replicates your next 3 spells.
+*   **Rewind**: 4-minute CD. Heals 50% of all damage taken in the last 5 seconds.
+*   **Emerald Communion**: 3-minute CD. Massive self-healing and mana return.
+*   **Life-Bind**: Linked to *Emerald Communion* (if talented), shares healing with the raid.
+
+##### **Defensives (Group under Defensives)**
+*   **Obsidian Scales**
+*   **Renewing Blaze**
+*   **Zephyr**
+*   **Rescue**
+*   **Twin Guardian**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Dream Flight**: 2-minute CD. Large area-of-effect heal and mobility.
+*   **Quell**
+*   **Landslide**
+*   **Tail Swipe**
+*   **Wing Buffet**
+*   **Oppressing Roar**
+*   **Cauterizing Flame**
+*   **Expunge**
+*   **Emerald Blossom**
+*   **Time Spiral**
+*   **Sleep Walk**
+
 </details>
 
 ## Utility

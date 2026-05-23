@@ -66,12 +66,48 @@ Focus: **Eclipse Uptime** and **Astral Power Management**.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Celestial Alignment / Incarnation:** 3-minute CD. Major burst window.
-*   **Convoke the Spirits:** 1-minute CD (if talented). Rapid-fire spells.
-*   **Force of Nature:** 1-minute CD. Summons Treants (primary Keeper engine).
-*   **Warrior of Elune:** 45s CD. Empowers next 3 Starfires to be instant.
-*   **Starfall:** Primary AoE Astral Power spender.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Starsurge**
+*   **Starfall**
+*   **Wrath**
+*   **Starfire**
+*   **Sunfire**
+*   **Moonfire**
+*   **Stellar Flare**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Celestial Alignment / Incarnation**: 3-minute CD. Major burst window.
+*   **Convoke the Spirits**: 1-minute CD (if talented). Rapid-fire spells.
+*   **Force of Nature**: 1-minute CD. Summons Treants (primary Keeper engine).
+*   **Warrior of Elune**: 45s CD. Empowers next 3 Starfires to be instant.
+
+##### **Defensives (Group under Defensives)**
+*   **Barkskin**
+*   **Survival Instincts**
+*   **Frenzied Regeneration**
+*   **Ironbark**
+*   **Heart of the Wild**
+*   **Renewal**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Skull Bash**
+*   **Solar Beam**
+*   **Typhoon**
+*   **Ursol's Vortex**
+*   **Cyclone**
+*   **Entangling Roots**
+*   **Mass Entanglement**
+*   **Hibernate**
+*   **Soothe**
+*   **Remove Corruption**
+*   **Rebirth**
+*   **Stampeding Roar**
+*   **Wild Charge**
+*   **Innervate**
 
 
 ##### **Compare Cooldowns**
@@ -199,11 +235,48 @@ Ignore from Energy: ["Ferocious Bite"]
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Berserk / Incarnation:** 3-minute CD. Reduces Energy costs and increases CP generation.
-*   **Tiger's Fury:** 30s CD. Core damage buff and Energy generator.
-*   **Convoke the Spirits:** 1-minute CD (if talented). Rapid-fire burst.
-*   **Feral Frenzy:** 45s CD. Generates 5 Combo Points and applies a heavy bleed.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Shred**
+*   **Rake**
+*   **Rip**
+*   **Ferocious Bite**
+*   **Thrash**
+*   **Brutal Slash**
+*   **Primal Wrath**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Berserk / Incarnation**: 3-minute CD. Reduces Energy costs and increases CP generation.
+*   **Tiger's Fury**: 30s CD. Core damage buff and Energy generator.
+*   **Convoke the Spirits**: 1-minute CD (if talented). Rapid-fire burst.
+*   **Feral Frenzy**: 45s CD. Generates 5 Combo Points and applies a heavy bleed.
+
+##### **Defensives (Group under Defensives)**
+*   **Barkskin**
+*   **Survival Instincts**
+*   **Frenzied Regeneration**
+*   **Ironbark**
+*   **Heart of the Wild**
+*   **Renewal**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Skull Bash**
+*   **Solar Beam**
+*   **Typhoon**
+*   **Ursol's Vortex**
+*   **Cyclone**
+*   **Entangling Roots**
+*   **Mass Entanglement**
+*   **Hibernate**
+*   **Soothe**
+*   **Remove Corruption**
+*   **Rebirth**
+*   **Stampeding Roar**
+*   **Wild Charge**
+*   **Innervate**
 
 
 ##### **Compare Cooldowns**
@@ -287,12 +360,47 @@ Focus: **Active Mitigation** and **Rage Efficiency**.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Incarnation: Guardian of Ursoc / Berserk:** 3-minute CD. Massive health buff and resource generation.
-*   **Survival Instincts:** 2 charges. 50% Damage Reduction. Use for predictable lethal hits.
-*   **Barkskin:** 1-minute CD. 20% Damage Reduction. Use proactively for medium damage.
-*   **Rage of the Sleeper:** Increases damage and provides a shield based on damage dealt.
-*   **Lunar Beam (Elune's Chosen):** Massive self-healing and threat area.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Mangle**
+*   **Thrash**
+*   **Maul**
+*   **Raze**
+*   **Swipe**
+*   **Moonfire**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Incarnation: Guardian of Ursoc / Berserk**: 3-minute CD. Massive health buff and resource generation.
+*   **Rage of the Sleeper**: Increases damage and provides a shield based on damage dealt.
+*   **Lunar Beam (Elune's Chosen)**: Massive self-healing and threat area.
+
+##### **Defensives (Group under Defensives)**
+*   **Survival Instincts**: 2 charges. 50% Damage Reduction. Use for predictable lethal hits.
+*   **Barkskin**: 1-minute CD. 20% Damage Reduction. Use proactively for medium damage.
+*   **Frenzied Regeneration**
+*   **Ironbark**
+*   **Heart of the Wild**
+*   **Renewal**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Skull Bash**
+*   **Solar Beam**
+*   **Typhoon**
+*   **Ursol's Vortex**
+*   **Cyclone**
+*   **Entangling Roots**
+*   **Mass Entanglement**
+*   **Hibernate**
+*   **Soothe**
+*   **Remove Corruption**
+*   **Rebirth**
+*   **Stampeding Roar**
+*   **Wild Charge**
+*   **Innervate**
+
 </details>
 
 <details open>
@@ -361,12 +469,48 @@ Focus: **HoT Maintenance** and **Ramp Efficiency**.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Tranquility:** 3-minute CD. Major raid-wide healing channel.
-*   **Convoke the Spirits:** 1-minute CD (if talented). Burst stabilization.
-*   **Incarnation: Tree of Life:** Massive healing buff and instant Regrowths.
-*   **Grove Guardians:** Your primary rotational treants for consistent HPS.
-*   **Ironbark:** Primary single-target external for tanks or low-health allies.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Rejuvenation**
+*   **Regrowth**
+*   **Wild Growth**
+*   **Lifebloom**
+*   **Swiftmend**
+*   **Efflorescence**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Tranquility**: 3-minute CD. Major raid-wide healing channel.
+*   **Convoke the Spirits**: 1-minute CD (if talented). Burst stabilization.
+*   **Incarnation: Tree of Life**: Massive healing buff and instant Regrowths.
+*   **Grove Guardians**: Your primary rotational treants for consistent HPS.
+*   **Ironbark**: Primary single-target external for tanks or low-health allies.
+
+##### **Defensives (Group under Defensives)**
+*   **Barkskin**
+*   **Survival Instincts**
+*   **Frenzied Regeneration**
+*   **Heart of the Wild**
+*   **Renewal**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Skull Bash**
+*   **Solar Beam**
+*   **Typhoon**
+*   **Ursol's Vortex**
+*   **Cyclone**
+*   **Entangling Roots**
+*   **Mass Entanglement**
+*   **Hibernate**
+*   **Soothe**
+*   **Remove Corruption**
+*   **Rebirth**
+*   **Stampeding Roar**
+*   **Wild Charge**
+*   **Innervate**
+
 </details>
 
 ## Utility

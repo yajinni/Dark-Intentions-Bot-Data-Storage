@@ -79,28 +79,44 @@ The bot must switch audit logic based on the active Hero Spec.
 ---
 
 #### Spell Classifications & Major Cooldowns Breakdown
-##### **Major Cooldowns (Group under Major Cooldowns)**
-*   **Dancing Rune Weapon:** 40% Parry and mirrors attacks. Primary hybrid CD.
-*   **Empower Rune Weapon:** 15% Haste and instant resource generation.
-
-##### **Defensives (Group under Defensives)**
-*   **Vampiric Blood:** Increases Max HP and Healing Received by 30%.
-*   **Icebound Fortitude:** 30% Damage Reduction.
-*   **Anti-Magic Shell:** Absorbs magic damage.
-*   **Lichborne:** Leech and Fear/Sleep immunity.
-*   **Purgatory:** Prevents death once every 4 minutes.
-
 ##### **Core Spells (Group under Core Spells)**
 *   **Death Strike**
 *   **Heart Strike**
 *   **Marrowrend**
 *   **Blood Boil**
 *   **Death and Decay**
+*   **Exterminate**
+*   **Death's Caress**
+*   **Reaper's Mark**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Dancing Rune Weapon**: 40% Parry and mirrors attacks. Primary hybrid CD.
+*   **Empower Rune Weapon**: 15% Haste and instant resource generation.
+
+##### **Defensives (Group under Defensives)**
+*   **Vampiric Blood**: Increases Max HP and Healing Received by 30%.
+*   **Icebound Fortitude**: 30% Damage Reduction.
+*   **Anti-Magic Shell**: Absorbs magic damage.
+*   **Lichborne**: Leech and Fear/Sleep immunity.
+*   **Purgatory**: Prevents death once every 4 minutes.
+*   **Anti-Magic Zone**
+*   **Rune Tap**
+*   **Tombstone**
 
 ##### **Misc Spells (Group under Misc)**
-*   **Raise Dead:** Minor utility/summon spell. Must be placed under Misc (not under Major Cooldowns or Core Spells).
+*   **Raise Dead**: Minor utility/summon spell. Must be placed under Misc (not under Major Cooldowns or Core Spells).
+*   **Melee**
 
----
+##### **Utility (Group under Utility)**
+*   **Mind Freeze**
+*   **Death Grip**
+*   **Asphyxiate**
+*   **Death's Advance**
+*   **Raise Allied Undead**
+*   **Control Undead**
+*   **Chains of Ice**
+*   **Abomination Limb**
+*   **Blinding Sleet**
 
 #### Spec-Specific Audit Instructions
 Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
@@ -129,7 +145,6 @@ Track Buff Drops: [
     1.  **Bone Shield Drops:** Check when boneshield stacks drop to 0, this happens when boneshield has a Remove Buff event. Look at the `boneShieldDrops` counts in `<RESOURCE_WASTE_DATA>`. Display the drops count clearly for both (e.g., '1 drop' vs. '0 drops').
         - **If the player has more drops than the reference:** Explain that dropping this buff is a massive failure of their rotation and makes them extremely vulnerable.
         - **If the player matches the reference (equal number of drops):** Say that the fight flow or mechanics probably led to some drops.
-
 
 ##### **Compare Cooldowns**
 Compare Cooldowns: [
@@ -209,21 +224,44 @@ The bot must switch audit logic based on whether **Breath of Sindragosa** is act
 ---
 
 #### Spell Classifications & Major Cooldowns Breakdown
-##### **Major Cooldowns (Group under Major Cooldowns)**
-*   **Breath of Sindragosa:** 2-minute CD. The primary throughput engine.
-*   **Pillar of Frost:** 1-minute CD. Primary strength buff.
-*   **Empower Rune Weapon:** Aligns with Breath and Pillar for resource overflow.
-*   **Reaper's Mark (Deathbringer):** 45s CD. Essential burst trigger.
-*   **Apocalypse Now (Rider):** 1.5-minute CD. Summons the Four Horsemen.
-*   **Frostwyrm's Fury:** Used as a massive burst finisher during Pillar of Frost windows.
-
 ##### **Core Spells (Group under Core Spells)**
 *   **Obliterate**
 *   **Howling Blast**
 *   **Frost Strike**
 *   **Remorseless Winter**
+*   **Exterminate**
+*   **Death's Caress**
+*   **Reaper's Mark**
 
----
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Breath of Sindragosa**: 2-minute CD. The primary throughput engine.
+*   **Pillar of Frost**: 1-minute CD. Primary strength buff.
+*   **Empower Rune Weapon**: Aligns with Breath and Pillar for resource overflow.
+*   **Apocalypse Now (Rider)**: 1.5-minute CD. Summons the Four Horsemen.
+*   **Frostwyrm's Fury**: Used as a massive burst finisher during Pillar of Frost windows.
+
+##### **Defensives (Group under Defensives)**
+*   **Anti-Magic Shell**
+*   **Anti-Magic Zone**
+*   **Icebound Fortitude**
+*   **Lichborne**
+*   **Vampiric Blood**
+*   **Rune Tap**
+*   **Tombstone**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Mind Freeze**
+*   **Death Grip**
+*   **Asphyxiate**
+*   **Death's Advance**
+*   **Raise Allied Undead**
+*   **Control Undead**
+*   **Chains of Ice**
+*   **Abomination Limb**
+*   **Blinding Sleet**
 
 #### Spec-Specific Audit Instructions
 Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
@@ -243,7 +281,6 @@ Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
 - **Logic:**
     1.  **RP Waste (During Breath):** Casting **Frost Strike** or **Death Coil** while Breath is active is a catastrophic failure (waste of RP that should sustain the Breath).
     2.  **Starvation:** Ending a Breath with > 40 RP indicates the player likely stopped spending Runes on Obliterate, which is a rotational error.
-
 
 ##### **Compare Cooldowns**
 Compare Cooldowns: [
@@ -324,21 +361,44 @@ Focus: **Festering Wound** and **Lesser Ghoul** management.
 ---
 
 #### Spell Classifications & Major Cooldowns Breakdown
-##### **Major Cooldowns (Group under Major Cooldowns)**
-*   **Army of the Dead:** 8-minute base CD (reduced by Death Coil). Your primary burst window opener.
-*   **Apocalypse:** 1.5-minute CD. Consumes 4 Festering Wounds to summon ghouls.
-*   **Dark Transformation:** 1-minute CD. Empowers your ghoul.
-*   **Abomination Limb:** Use for burst damage and grip utility.
-*   **Summon Gargoyle:** (If talented) High priority burst CD.
-*   **Empower Rune Weapon:** Use to supplement resource flooding during Army windows.
-
 ##### **Core Spells (Group under Core Spells)**
 *   **Festering Strike**
 *   **Scourge Strike**
 *   **Clawing Shadows**
 *   **Death Coil**
+*   **Exterminate**
+*   **Death's Caress**
+*   **Reaper's Mark**
 
----
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Army of the Dead**: 8-minute base CD (reduced by Death Coil). Your primary burst window opener.
+*   **Apocalypse**: 1.5-minute CD. Consumes 4 Festering Wounds to summon ghouls.
+*   **Dark Transformation**: 1-minute CD. Empowers your ghoul.
+*   **Abomination Limb**: Use for burst damage and grip utility.
+*   **Summon Gargoyle**: (If talented) High priority burst CD.
+*   **Empower Rune Weapon**: Use to supplement resource flooding during Army windows.
+
+##### **Defensives (Group under Defensives)**
+*   **Anti-Magic Shell**
+*   **Anti-Magic Zone**
+*   **Icebound Fortitude**
+*   **Lichborne**
+*   **Vampiric Blood**
+*   **Rune Tap**
+*   **Tombstone**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Mind Freeze**
+*   **Death Grip**
+*   **Asphyxiate**
+*   **Death's Advance**
+*   **Raise Allied Undead**
+*   **Control Undead**
+*   **Chains of Ice**
+*   **Blinding Sleet**
 
 #### Spec-Specific Audit Instructions
 Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
@@ -358,7 +418,6 @@ Track Resources: [5, 6] // 5 = Runes (ID 105), 6 = Runic Power (ID 106)
 - **Logic:**
     1.  **Wound Overcapping:** Casting **Festering Strike** when the target already has 6+ Festering Wounds is a significant waste of Runes.
     2.  **Sudden Doom Efficiency:** Ensure **Death Coil** is used on procs to avoid wasting free RP spenders.
-
 
 ##### **Compare Cooldowns**
 Compare Cooldowns: [
@@ -408,5 +467,4 @@ The following spells are classified as Defensive for the deathknight class and s
 - [Vampiric Blood](https://www.wowhead.com/spell=55233)
 - [Rune Tap](https://www.wowhead.com/spell=194679)
 - [Tombstone](https://www.wowhead.com/spell=219809)
-
 

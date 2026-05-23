@@ -67,12 +67,45 @@ Focus: **Maelstrom Efficiency** and **Stormkeeper** alignment.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Ascendance:** 3-minute CD. Massive burst window for Lava Burst or Lightning Bolt.
-*   **Storm Element / Fire Element:** Major throughput pets.
-*   **Stormkeeper:** 1-minute CD. Empowers the next 2 Lightning Bolt/Chain Lightning casts.
-*   **Ancestral Guidance:** (If talented) Heals allies based on damage dealt.
-*   **Spiritwalker's Grace:** Allows casting while moving.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Lava Burst**
+*   **Lightning Bolt**
+*   **Chain Lightning**
+*   **Earth Shock**
+*   **Elemental Blast**
+*   **Flame Shock**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Ascendance**: 3-minute CD. Massive burst window for Lava Burst or Lightning Bolt.
+*   **Storm Element / Fire Element**: Major throughput pets.
+*   **Stormkeeper**: 1-minute CD. Empowers the next 2 Lightning Bolt/Chain Lightning casts.
+*   **Ancestral Guidance**: (If talented) Heals allies based on damage dealt.
+*   **Spiritwalker's Grace**: Allows casting while moving.
+
+##### **Defensives (Group under Defensives)**
+*   **Astral Shift**
+*   **Earth Elemental**
+*   **Stone Bulwark Totem**
+*   **Nature's Swiftness**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Wind Shear**
+*   **Hex**
+*   **Capacitor Trap**
+*   **Earthgrab Trap**
+*   **Wind Rush Totem**
+*   **Tremor Totem**
+*   **Poison Cleansing Totem**
+*   **Cleanse Spirit**
+*   **Purge**
+*   **Ancestral Spirit**
+*   **Reincarnation**
+*   **Ghost Wolf**
+*   **Gust of Wind**
 
 
 ##### **Compare Cooldowns**
@@ -155,12 +188,48 @@ Focus: **Maelstrom Weapon Stacking** and **Totem Maintenance**.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Doom Winds:** 1.5-minute CD. Increases Windfury damage and generation.
-*   **Feral Spirit:** 2-minute CD. Major Agility and damage buff.
-*   **Primordial Wave:** 45s CD. Causes your next Lightning Bolt to hit all Flame Shocked targets.
-*   **Sundering:** Massive physical damage and interrupt.
-*   **Ascendance:** (If talented) Massive burst window.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Stormstrike**
+*   **Lava Lash**
+*   **Ice Strike**
+*   **Crash Lightning**
+*   **Flame Shock**
+*   **Frost Shock**
+*   **Lightning Bolt**
+*   **Chain Lightning**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Doom Winds**: 1.5-minute CD. Increases Windfury damage and generation.
+*   **Feral Spirit**: 2-minute CD. Major Agility and damage buff.
+*   **Primordial Wave**: 45s CD. Causes your next Lightning Bolt to hit all Flame Shocked targets.
+*   **Ascendance**: (If talented) Massive burst window.
+
+##### **Defensives (Group under Defensives)**
+*   **Astral Shift**
+*   **Earth Elemental**
+*   **Stone Bulwark Totem**
+*   **Ancestral Guidance**
+*   **Nature's Swiftness**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Sundering**: Massive physical damage and interrupt.
+*   **Wind Shear**
+*   **Hex**
+*   **Capacitor Trap**
+*   **Earthgrab Trap**
+*   **Wind Rush Totem**
+*   **Tremor Totem**
+*   **Poison Cleansing Totem**
+*   **Cleanse Spirit**
+*   **Purge**
+*   **Ancestral Spirit**
+*   **Reincarnation**
+*   **Ghost Wolf**
+*   **Gust of Wind**
 
 
 ##### **Compare Cooldowns**
@@ -250,12 +319,47 @@ Focus: **Cloudburst Management** and **Healing Rain** uptime.
 
 ---
 
-#### Major Cooldowns Breakdown (Strict Whitelist)
-*   **Healing Tide Totem:** 3-minute CD. Major raid-wide healing totem.
-*   **Spirit Link Totem:** 3-minute CD. Redistributes health and provides damage reduction.
-*   **Mana Tide Totem:** 3-minute CD. Increases mana regeneration for the raid.
-*   **Ascendance:** 3-minute CD. Mimics and distributes all healing.
-*   **Ancestral Protection Totem:** (If talented) Provides a health buff and combat res.
+#### Spell Classifications & Major Cooldowns Breakdown
+##### **Core Spells (Group under Core Spells)**
+*   **Healing Wave**
+*   **Healing Surge**
+*   **Chain Heal**
+*   **Riptide**
+*   **Healing Rain**
+*   **Earth Shield**
+
+##### **Major Cooldowns (Group under Major Cooldowns)**
+*   **Ascendance**: 3-minute CD. Mimics and distributes all healing.
+
+##### **Defensives (Group under Defensives)**
+*   **Spirit Link Totem**: 3-minute CD. Redistributes health and provides damage reduction.
+*   **Astral Shift**
+*   **Earth Elemental**
+*   **Stone Bulwark Totem**
+*   **Ancestral Guidance**
+*   **Nature's Swiftness**
+
+##### **Misc Spells (Group under Misc)**
+*   **Melee**
+
+##### **Utility (Group under Utility)**
+*   **Healing Tide Totem**: 3-minute CD. Major raid-wide healing totem.
+*   **Mana Tide Totem**: 3-minute CD. Increases mana regeneration for the raid.
+*   **Ancestral Protection Totem**: (If talented) Provides a health buff and combat res.
+*   **Wind Shear**
+*   **Hex**
+*   **Capacitor Trap**
+*   **Earthgrab Trap**
+*   **Wind Rush Totem**
+*   **Tremor Totem**
+*   **Poison Cleansing Totem**
+*   **Cleanse Spirit**
+*   **Purge**
+*   **Ancestral Spirit**
+*   **Reincarnation**
+*   **Ghost Wolf**
+*   **Gust of Wind**
+
 </details>
 
 ## Utility
