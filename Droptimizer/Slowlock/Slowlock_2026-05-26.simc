@@ -1,0 +1,119 @@
+# Slowlock - Affliction - 2026-05-25 20:36 - US/Moon Guard
+# SimC Addon 12.0.5-04
+# WoW 12.0.5.67602, TOC 120005
+# Requires SimulationCraft 1000-01 or newer
+
+warlock="Slowlock"
+level=90
+race=undead
+region=us
+server=moon_guard
+role=spell
+professions=mining=93/engineering=39
+spec=affliction
+# loot_spec=affliction
+
+talents=CkQAMrNP5kak+EBqLfUa3dMm+yMjZGNbmx2MzYWGAAwMzsMbmZWGDAM22GYATwMsFYYbAAAYGAAAzMjZMzsNGzYMzMzYYmZGAgBMA
+
+# Saved Loadout: Deves
+# talents=CkQAMrNP5kak+EBqLfUa3dMm+yMjZGmNzYbmZMLDAAYmZWmNzMLjBAGbbDMgBMDbADbDAAAzAAAYmZMjZmtxYGjZmZGDzMzAAMgB
+# Saved Loadout: M+
+# talents=CkQAMrNP5kak+EBqLfUa3dMm+yMjZGmNzYbmZMLDAAYmZWmNzMLjBAGbbDMgBMDbADbDAAAzAAAYmZMjZmtxYGjZmZGDzMzAAMgB
+# Saved Loadout: Raid Cleave
+# talents=CkQAMrNP5kak+EBqLfUa3dMm+yMzMzwsxwMzMzyAAAMzsYZmZWmZAgxyyADYAzwGww2AAAwMAAAmZYmZMwwMzMzYGMzMzAAmBG
+# Saved Loadout: R ST
+# talents=CkQAMrNP5kak+EBqLfUa3dMm+yMzMzwsxwMzMzyAAAMzsYZmZWmZAgxyyADYAzwGww2AAAwMAAAmZYmZMwwMzMzYGMzMzAAmBG
+
+# Abyssal Immolator's Smoldering Flames (266)
+head=,id=250042,bonus_id=40/12667/12795/13440/13338/13575/3151
+# Amani Heartstring Pendant (246)
+neck=,id=265739,bonus_id=12785/6652/13668
+# Abyssal Immolator's Fury (250)
+shoulder=,id=250040,bonus_id=13332/13340/6652/13574/12782
+# Cloak of the Fallen Cardinal (269)
+back=,id=49823,bonus_id=12796/13440/6652/13577/12699
+# Wraps of Umbral Descent (259)
+chest=,id=251120,bonus_id=12793/13440/6652/13577/12699
+# Sleeveless T-Shirt (1)
+shirt=,id=18231
+# Gundargaz Tabard (1)
+tabard=,id=224167
+# Entropic Wristwraps (259)
+wrist=,id=151305,bonus_id=12793/13440/6652/12667/13577/12699
+# Abyssal Immolator's Grasps (272)
+hands=,id=250043,bonus_id=6652/12801/13440/13337/13574/3157
+# Hara'ti Defender's Sash (246)
+waist=,id=263265,bonus_id=13577/12785/12667
+# Abyssal Immolator's Pillars (250)
+legs=,id=250041,bonus_id=6652/13332/13339/13575/12782
+# Dream-Scorched Striders (250)
+feet=,id=249373,bonus_id=6652/13577/13332/12782
+# Signet of the Starved Beast (250)
+finger1=,id=249336,bonus_id=6652/13668/13332/12782
+# Sin'dorei Band of Hope (250)
+finger2=,id=249919,bonus_id=6652/13668/13332/12782
+# Crucible of Erratic Energies (263)
+trinket1=,id=264507,bonus_id=12790
+# Gaze of the Alnseer (250)
+trinket2=,id=249343,bonus_id=6652/13332/12782
+# Spire of the Furious Construct (272)
+main_hand=,id=258047,bonus_id=12801/13440/6652/12701
+
+### Gear from Bags
+#
+# Hexwood Helm (220)
+# head=,id=264575,bonus_id=12769/6652/12667/13578/11311
+#
+# Elder Mosshorns (237)
+# head=,id=249648,bonus_id=12778/6652/12667/11215/13577
+#
+# Skullcrusher's Mantle (220)
+# shoulder=,id=264542,bonus_id=12769/6652/13578/11311
+#
+# Reshii Wraps (170)
+# back=,id=235499,enchant_id=7403,gem_id=238039,bonus_id=12401/9893/12262
+#
+# Frenzyroot Cuffs (250)
+# wrist=,id=193714,bonus_id=12786/6652/12667/13577/12699/11215
+#
+# Wrapped Antenna Cuffs (220)
+# wrist=,id=264525,bonus_id=12769/6652/12667/13578/11311
+#
+# Elder Mossfeelers (246)
+# hands=,id=249647,bonus_id=12785/6652/11215/13577
+#
+# Sprawling Rhizomecord (237)
+# waist=,id=249635,bonus_id=12778/42/12667/11215/13577
+#
+# Durable Information Securing Container (141)
+# waist=,id=242664,gem_id=213458,bonus_id=12533/1489,titan_disc_id=1236273
+#
+# Sprawling Rootstockings (227)
+# legs=,id=249633,bonus_id=12771/6652/13578
+#
+# Blooming Leafcoil (227)
+# finger1=,id=249623,bonus_id=12771/6652/13668
+#
+# Holy Retributor's Order (220)
+# trinket1=,id=251791,bonus_id=6652/12769/11311
+#
+# Brazier of the Dissonant Dirge (256)
+# main_hand=,id=249286,bonus_id=6652/13333/12788
+#
+# Splitshroud Stinger (259)
+# main_hand=,id=251111,bonus_id=12793/13440/6652/12701
+#
+# Dragonwrath, Tarecgosa's Rest (46)
+# main_hand=,id=71086,bonus_id=9269,drop_level=35
+
+### Additional Character Info
+#
+# catalyst_currencies=3269:8/3378:3/2813:8/3116:8
+#
+# upgrade_currencies=c:3347:24/c:3383:189/c:1813:12400/c:3341:180/c:3343:54/c:2122:18/c:3345:118/i:268552:2/i:232875:13
+#
+# slot_high_watermarks=0:266:289/1:246:276/2:250:276/3:259:276/4:246:285/5:250:276/6:250:276/7:259:285/8:272:282/9:250:276/10:250:285/11:269:276/12:272:295/13:259:259/14:0:295/15:0:295/16:250:256
+#
+# upgrade_achievements=19326/19397/19398/19577/19578/19579/40107/40115/40942/40943/40944/41886/41887/41888/41892/42767/42768/42769/61809
+
+# Checksum: fa72b9b4
