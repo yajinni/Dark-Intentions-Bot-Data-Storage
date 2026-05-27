@@ -1,0 +1,112 @@
+# Eatsboogers - Unholy - 2026-05-26 19:11 - US/Stormrage
+# SimC Addon 12.0.5-04
+# WoW 12.0.5.67602, TOC 120005
+# Requires SimulationCraft 1000-01 or newer
+
+deathknight="Eatsboogers"
+level=90
+race=human
+region=us
+server=stormrage
+role=attack
+professions=blacksmithing=57/alchemy=50
+spec=unholy
+# loot_spec=blood
+
+talents=CwPAkXBWxkyfx9CbGaHonEAhLBYmhZMGDz2MzMTzmZGzMjBAAAAAAAgZGDDAWmxMzmZGzMDYxsYYIDMbM0YBDYGAGzMjZAmZmxYA
+
+# Saved Loadout: aaa
+# talents=CwPAkXBWxkyfx9CbGaHonEAhLBYmZMjHwMDz2MzMjhZGzMjBAAAAAAAgZGDDAWmxMzmZGzMDYjFDDAmNGMWwAAgxMzYGAzMMeA
+# Saved Loadout: asian
+# talents=CwPAkXBWxkyfx9CbGaHonEAhLBYmZMjxYY2mZmZMMzYmZMAAAAAAAAMzwYAwyMmZ2mZGzMjBbzsZmZ2YmlNmNmtxYBAzAwYmZMDmZmZmxYA
+# Saved Loadout: aaaaaaaaaa
+# talents=CwPAkXBWxkyfx9CbGaHonEAhLBYmhZMGDz2MzMjZzYMzMGAAAAAAAAmZMMAYZGmZzMjZmBsYWMMwAzGDGLYAzAwYmZMDgZmx4DA
+# Saved Loadout: BALLS
+# talents=CwPAkXBWxkyfx9CbGaHonEAhLBYmhZMGDz2MzMjZzMjZmxAAAAAAAAwMjhBALzYmZzMjZmBsYWMMwAzGDGLYAzAwYmZMDwMzMGD
+# Saved Loadout: AA
+# talents=CwPAkXBWxkyfx9CbGaHonEAhLBYmZMjxMDz2MzMjhZGzMjBAAAAAAAgZGDDAWmxMzmZGzMDYjFDDAmNGMWwAAgxMzYGAzMMeA
+# Saved Loadout: aaasddf
+# talents=CwPAkXBWxkyfx9CbGaHonEAhLBYmhZMGDz2MzMjZzYMzMGAAAAAAAAmZMMAYZGzMbmZMzMgFWMMwAzGDGLYAzAwYmZMDwMzMGfA
+
+# Relentless Rider's Crown (276)
+head=,id=249970,enchant_id=7961,bonus_id=40/12667/12798/13440/13338/13575/3161
+# Barbed Ymirheim Choker (289)
+neck=,id=50228,gem_id=240908,bonus_id=13440/6652/13668/12699/12806
+# Light-Judged Spaulders (289)
+shoulder=,id=249313,enchant_id=8001,bonus_id=6652/13577/13335/12806
+# Adherent's Silken Shroud (285)
+back=,id=239656,bonus_id=12214/13667/12497/12066/8960/12384/8791/13622,crafted_stats=40/36,crafting_quality=5
+# Relentless Rider's Cuirass (289)
+chest=,id=249973,enchant_id=7987,bonus_id=6652/13440/13336/13575/12806
+# White Swashbuckler's Shirt (1)
+shirt=,id=6795
+# Spellbreaker's Bracers (285)
+wrist=,id=237834,bonus_id=12214/13667/12497/12066/8960/12384/8791/13622/12667,crafted_stats=36/32,crafting_quality=5
+# Relentless Rider's Bonegrasps (289)
+hands=,id=249971,bonus_id=13335/13337/6652/13574/12806
+# Relentless Rider's Chain (276)
+waist=,id=249967,gem_id=240908,bonus_id=6652/13534/13440/12798
+# Relentless Rider's Legguards (276)
+legs=,id=249969,enchant_id=8159,bonus_id=13334/13339/6652/13575/12798
+# Greaves of the Unformed (289)
+feet=,id=249381,enchant_id=8019,bonus_id=6652/13577/13335/12806
+# Masterwork Sin'dorei Band (285)
+finger1=,id=240949,enchant_id=7967,gem_id=240908,bonus_id=12214/13667/12497/12066/8791/13622,crafted_stats=49/40,crafting_quality=5
+# Platinum Star Band (276)
+finger2=,id=193708,enchant_id=7967,gem_id=240908,bonus_id=13440/42/13668/12699/12798
+# Algeth'ar Puzzle Box (298)
+trinket1=,id=193701,bonus_id=13440/6652/12699/13654
+# Gaze of the Alnseer (298)
+trinket2=,id=249343,bonus_id=6652/13335/13654
+# Liferipper's Cutlass (298)
+main_hand=,id=251168,enchant_id=6245,bonus_id=13440/6652/12701/13654
+
+### Gear from Bags
+#
+# Masterwork Sin'dorei Amulet (285)
+# neck=,id=240950,gem_id=240908,bonus_id=12214/13667/12497/12066/8791/13622,crafted_stats=49/32,crafting_quality=5
+#
+# Deep Earth Spaulders (38)
+# shoulder=,id=18829,bonus_id=9029
+#
+# Gilded Seraph's Amice (59)
+# shoulder=,id=152159,bonus_id=9094
+#
+# Shoulderplates of the First Eidolon (54)
+# shoulder=,id=188867,bonus_id=6652/7189/8152/1472
+#
+# Dreadwake Pauldrons (59)
+# shoulder=,id=152117,bonus_id=9094
+#
+# Reshii Wraps (170)
+# back=,id=235499,gem_id=238044,bonus_id=12401/9893/12257
+#
+# Wound Dressing (1)
+# shirt=,id=167196
+#
+# Venerated Professor's Greaves (266)
+# legs=,id=193706,bonus_id=12795/13440/6652/13577/12699
+#
+# Sin'dorei Band of Hope (276)
+# finger1=,id=249919,enchant_id=7967,gem_id=240908,bonus_id=40/13668/13334/12798
+#
+# Garfrost's Two-Ton Hammer (266)
+# main_hand=,id=49802,bonus_id=12795/13440/6652/12701
+#
+# Dreadflail Bludgeon (253)
+# main_hand=,id=251207,bonus_id=12787/41/12701/11215
+
+### Additional Character Info
+#
+# catalyst_currencies=3269:8/3378:8/2813:8/3116:8
+#
+# upgrade_currencies=c:3347:146/c:3383:197/c:3341:40/c:3343:3/c:1792:1210/c:3345:14/i:256608:9/i:268552:2/i:232875:4/i:256559:8
+#
+# slot_high_watermarks=0:276:276/1:289:289/2:289:289/3:289:289/4:276:285/5:276:276/6:289:289/7:285:285/8:289:289/9:276:276/10:298:298/11:285:289/12:298:298/13:0:263/14:108:285/15:99:285/16:0:272
+#
+# upgrade_achievements=19577/19578/19579/40107/40115/40942/40943/40944/40945/41886/41887/41888/42767/42768/42769/61809/42770
+
+# Saved Loadout: asdf
+# talents=CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMGDz2MzMTzmZGzMjBAAAAAAAgZGDDAWmxMzmZGzMDYxsYYIDMbM0YBDYGAGzMjZAmZmxYA
+
+# Checksum: 84743f8a
