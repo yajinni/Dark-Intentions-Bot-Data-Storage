@@ -1,0 +1,89 @@
+# Tattoomoon - Holy - 2026-06-24 18:26 - US/Moon Guard
+# SimC Addon 12.0.7-01
+# WoW 12.0.7.68275, TOC 120007
+# Requires SimulationCraft 1000-01 or newer
+
+priest="Tattoomoon"
+level=90
+race=dracthyr
+region=us
+server=moon_guard
+role=attack
+professions=herbalism=89/inscription=100
+spec=holy
+# loot_spec=holy
+
+talents=CEQA4VPTJ8eQb8/qEm8PyGu4ywYAAAAAAAgZmlxYMzMDzMzYZGmBAAAwwsMDzMzMYGzAYmaAgZWMTmFDAMGsZmZWA0MMjxwMz2yAMDMA
+
+# Saved Loadout: Raid Archon 6-16
+# talents=CEQA4VPTJ8eQb8/qEm8PyGu4ywYAAAAAAAgZmlxYMzMDzMzYZGmBAAAwwsMDzMzMYGzAYGGAYmFzwsYAgxgNzMzCAzwMGDzMbLDwMwA
+# Saved Loadout: M+ Archon
+# talents=CEQA4VPTJ8eQb8/qEm8PyGu4ywYAAAAAAgZzwYWGMmZmZMzMjlZmZAAAAYMWmBzMzYzYmxAmBAwMbmhZzAAjBbGjNAmxMjxwMz2yAMgB
+
+omnium_talents=136822:1
+
+# Blind Oath's Winged Crest (289)
+head=,id=250051,enchant_id=7961,gem_id=240896,bonus_id=13338/13440/6652/13575/12806/13534
+# Barbed Ymirheim Choker (289)
+neck=,id=50228,gem_id=240983,bonus_id=13440/6652/13668/12699/12806
+# Blind Oath's Seraphguards (289)
+shoulder=,id=250049,enchant_id=8031,bonus_id=6652/13440/13340/13574/12806
+# Cloak of the Fallen Cardinal (289)
+back=,id=49823,bonus_id=13440/6652/13577/12699/12806
+# Mycomancer's Rot Robes (298)
+chest=,id=268284,enchant_id=7987,bonus_id=6652/13577/13335/13786
+# Lucky Shirt (1)
+shirt=,id=138385,content_tuning=378
+# Radiant Recruit's Tabard (1)
+tabard=,id=233288,content_tuning=2832
+# Bracers of Blazing Light (289)
+wrist=,id=258580,gem_id=240916,bonus_id=13440/6652/13577/12699/12806/13534
+# Blind Oath's Touch (289)
+hands=,id=250052,bonus_id=12806/42/13440/13337/13574/3174
+# Endless March Waistwrap (289)
+waist=,id=249319,gem_id=240896,bonus_id=6652/13534/13577/13335/12806
+# Blind Oath's Leggings (289)
+legs=,id=250050,enchant_id=7935,bonus_id=6652/13335/13339/13575/12806
+# Luxurious Loamstriders (298)
+feet=,id=268282,enchant_id=7993,bonus_id=6652/13577/13335/13786
+# Signet of the Starved Beast (289)
+finger1=,id=249336,enchant_id=7997,gem_id=240896,bonus_id=6652/13668/13335/12806
+# Platinum Star Band (276)
+finger2=,id=193708,enchant_id=7997,gem_id=240896,bonus_id=13440/6652/13668/12699/12798,content_tuning=1279
+# Litany of Lightblind Wrath (285)
+trinket1=,id=249808,bonus_id=6652/13334/13653,content_tuning=3606
+# Gaze of the Alnseer (298)
+trinket2=,id=249343,bonus_id=6652/13335/13654
+# Surgeon's Needle (298)
+main_hand=,id=50227,enchant_id=8039,bonus_id=13440/6652/12701/13654
+# Aln'hara Lantern (295)
+off_hand=,id=245769,bonus_id=12214/13655/12497/12066/12693/8960/8791/13622,content_tuning=3615,crafted_stats=36/40,crafting_quality=5
+
+### Gear from Bags
+#
+# Thalassian Phoenix Torque (285)
+# neck=,id=241139,gem_id=240983,bonus_id=12214/13667/8960/12497/12066/13622,content_tuning=3615,crafting_quality=5
+#
+# Cloak of the Frigid Winds (220)
+# back=,id=117372,bonus_id=12769,content_tuning=394
+#
+# Blind Oath's Raiment (276)
+# chest=,id=250054,bonus_id=12802/13335/13336/6652/13575,content_tuning=1040
+#
+# Bracers of Blazing Light (276)
+# wrist=,id=258580,bonus_id=13440/6652/12667/13577/12699/12798,content_tuning=1279
+#
+# Locus-Walker's Ribbon (285)
+# trinket1=,id=249809,bonus_id=6652/13334/13653
+
+### Additional Character Info
+#
+# catalyst_currencies=3269:8/3378:8/2813:8/3116:8
+#
+# upgrade_currencies=c:3347:179/c:3383:1114/c:1813:483/c:3341:982/c:3343:663/c:1792:300/c:1931:2841/c:2122:22/c:3345:485/i:268552:6/i:231756:4/i:232875:12/i:231769:1
+#
+# slot_high_watermarks=0:289:289/1:289:289/2:289:289/3:298:298/4:289:289/5:289:289/6:298:298/7:289:289/8:289:289/9:276:276/10:285:285/11:289:289/12:266:285/13:298:298/14:0:102/15:0:0/16:295:295
+#
+# upgrade_achievements=19326/19397/19398/19577/19578/19579/40107/40115/40118/40942/40943/40944/40945/41886/41887/41888/41892/42767/42768/42769/61809/42770
+
+# Checksum: d8d22b16
