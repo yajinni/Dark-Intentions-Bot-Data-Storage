@@ -3,66 +3,59 @@
 <details open>
 <summary>## Assassination (Click to Colapse)</summary>
 
-### Assassination Rogue Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Assassination Rogue Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Unified Guide Approach)
-The guide recommends a unified approach for both Fatebound and Deathstalker builds.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/assassination-rogue-pve-dps-guide) · [talents](https://www.icy-veins.com/wow/assassination-rogue-pve-dps-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/assassination-rogue-pve-dps-stat-priority) · [enchants](https://www.icy-veins.com/wow/assassination-rogue-pve-dps-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/assassination-rogue-pve-dps-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Fatebound is the practical default for most raid/M+ and is easier in common AoE; Deathstalker is the high-key/priority-target alternative and can lead in pure single target.
+
+**Stat priority**
+- Item Level > Critical Strike > Haste > Mastery > Versatility; avoid excess Versatility.
+
+**Gems**
+- Powerful Eversong Diamond where the socket bonus warrants it, otherwise Indecipherable Eversong Diamond; fill Crit/Haste and activate one of each color when possible.
+
+**Enchants and weapon augment**
+- Berserker's Rage or Jan'alai's Precision on both weapons with Thalassian Phoenix Oil; Empowered Blessing of Speed; Silvermoon's Mending; Mark of the Worldsoul; Forest Hunter's Armor Kit; Farstrider's Hunt; Eyes of the Eagle.
+
+**Consumables**
+- Blood Knights flask, or Shattered Sun in high-Haste sets; Light's Potential; health potion; current feast/Royal Roast and Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Maintain Garrote and Rupture, use Vanish before Deathmark, align Kingsbane and Envenom with the Deathmark window, and use Ambush/Mutilate plus Fan of Knives for targets. Use Thistle Tea at low Energy and Shiv on cooldown.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Item Level > Critical Strike > Haste > Mastery > Versatility; avoid excess Versatility. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon Enchant** | **Enchant Weapon - Berserker's Rage** | **Jan'alai's Precision** (Crit Alternative). |
-| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Silvermoon's Alacrity** (Haste). |
-| **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Magisters** (Mastery). |
-| **Potion** | **Potion of Recklessness** (primary) | **Light's Potential** (alternative). |
-| **Food** | **Silvermoon Parade** (Agility Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Deadly Peridot** | **Flawless Quick Amethyst** (Haste alternative). |
+| head | Empowered Blessing of Speed | See current guide and sim |
+| shoulders | Silvermoon's Mending | See current guide and sim |
+| chest | Mark of the Worldsoul | See current guide and sim |
+| legs | Forest Hunter's Armor Kit | See current guide and sim |
+| feet | Farstrider's Hunt | See current guide and sim |
+| ring | Eyes of the Eagle | See current guide and sim |
+| weapon | Berserker's Rage | Jan'alai's Precision |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
-| **Shoulders** | **Akil'zon's Swiftness** | Critical Strike focus. |
-| **Chest** | **Mark of the Worldsoul** | Primary Agility buff. |
-| **Legs** | **Thunderous Armor Kit** | Agility + Stamina. |
-| **Boots** | **Farstrider's Hunt** | Mastery/Speed focus. |
+| unique gem | Powerful Eversong Diamond | Indecipherable Eversong Diamond |
 
----
-
-#### Stat Priority Split
-*   **All Builds:** Agility > Critical Strike = Haste > Mastery > Versatility.
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Fatebound**
-*   **Core Focus:** **Coin Flip** & **Hand of Fate**.
-*   **Gameplay Effect:** Introduces a random element to your finishers that can significantly boost single-target damage. Requires consistent finisher usage to maximize "Heads" procs.
-*   **Why Pick?** Superior for pure single-target boss encounters in 12.0.5.
-
-##### **Deathstalker**
-*   **Core Mechanic:** **Deathstalker's Mark** & **Darkest Night**.
-*   **Gameplay Effect:** Focuses on shadow-damage amplification and cleave. Requires specific targeting and mark management.
-*   **Why Pick?** Superior for multi-target cleave and priority target funneling.
-
----
-
-#### Deep Dive: Raid Rotation
-Focus: **Bleed Uptime** and **Kingsbane** windows.
-
-##### **A. The Bleed Audit (100% Uptime)**
-1.  **Garrote:** Maintain 100% uptime. Use from Stealth/Vanish for the damage multiplier.
-2.  **Rupture:** Maintain 100% uptime with **5+ Combo Points**.
-3.  **Audit Flag:** Letting **Garrote** or **Rupture** fall off during a **Deathmark** window is a catastrophic failure.
-
-##### **B. Primary Priority List**
-1.  **Deathmark:** Use on cooldown. Your primary burst window.
-2.  **Kingsbane:** Sync with Deathmark. Use every 1-minute window.
-3.  **Envenom:** Primary spender. Maintain the *Envenom* buff for high poison damage.
-4.  **Mutilate:** Primary generator. 
-5.  **Ambush:** Use on *Blindside* procs.
-6.  **Audit Flag:** Casting *Mutilate* or *Ambush* when at **5+ Combo Points** is a major resource waste.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Blood Knights | Flask of the Shattered Sun |
+| potion | Light's Potential | See current guide and sim |
+| food | Royal Roast | See current guide and sim |
+| weapon oil | Thalassian Phoenix Oil | See current guide and sim |
 
 ---
 
@@ -122,72 +115,58 @@ Compare Cooldowns: [
 <details open>
 <summary>## Outlaw (Click to Colapse)</summary>
 
-### Outlaw Rogue Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Outlaw Rogue Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Unified Guide Approach)
-The guide recommends a unified approach for both Trickster and Fatebound builds.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/outlaw-rogue-pve-dps-guide) · [talents](https://www.icy-veins.com/wow/outlaw-rogue-pve-dps-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/outlaw-rogue-pve-dps-stat-priority) · [enchants](https://www.icy-veins.com/wow/outlaw-rogue-pve-dps-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/outlaw-rogue-pve-dps-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Trickster has the current edge in all content, particularly AoE; Fatebound is within roughly 5% in single target and remains a valid alternative.
+
+**Stat priority**
+- Item Level > Critical Strike to roughly 40% > Haste to roughly 25% (around 30% for raid single target) > Versatility > Mastery; Adrenaline Rush lowers the practical GCD.
+
+**Gems**
+- Powerful Eversong Diamond plus Crit/Haste gems and one of each color when the socket bonus activates; sim the final mix.
+
+**Enchants and weapon augment**
+- Acuity of the Ren'dorei on both weapons with Thalassian Phoenix Oil; Empowered Blessing of Speed; Silvermoon's Mending; Mark of the Worldsoul; Forest Hunter's Armor Kit; Farstrider's Hunt; Eyes of the Eagle.
+
+**Consumables**
+- Shattered Sun below roughly 40% Crit, Blood Knights after reaching that profile; Potion of Recklessness; health potion; current feast/personal food and Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Track Roll the Bones Stages 1–4, then align Adrenaline Rush, Between the Eyes and Keep it Rolling with the current Trickster/Fatebound stage. Avoid wasting Restless Blades or letting the stage engine collapse during an important pull.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Item Level > Critical Strike to roughly 40% > Haste to roughly 25% (around 30% for raid single target) > Versatility > Mastery; Adrenaline Rush lowers the practical GCD. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon Enchant** | **Enchant Weapon - Jan'alai's Precision** | **Enchant Weapon - Berserker's Rage** (ST Alternative). |
-| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Silvermoon's Alacrity** (Haste). |
-| **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Blood Knights** (Valid if >40% Crit). |
-| **Potion** | **Potion of Recklessness** (primary) | **Light's Potential** (alternative). |
-| **Food** | **Silvermoon Parade** (Agility Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Deadly Peridot** | **Flawless Quick Amethyst** (Haste alternative). |
+| head | Empowered Blessing of Speed | See current guide and sim |
+| shoulders | Silvermoon's Mending | See current guide and sim |
+| chest | Mark of the Worldsoul | See current guide and sim |
+| legs | Forest Hunter's Armor Kit | See current guide and sim |
+| feet | Farstrider's Hunt | See current guide and sim |
+| ring | Eyes of the Eagle | See current guide and sim |
+| weapon | Acuity of the Ren'dorei | See current guide and sim |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon** | **Jan'alai's Precision** | Critical Strike proc. |
-| **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
-| **Shoulders** | **Akil'zon's Swiftness** | Haste focus. |
-| **Chest** | **Mark of the Worldsoul** | Primary Agility buff. |
-| **Legs** | **Thunderous Armor Kit** | Agility + Stamina. |
-| **Boots** | **Farstrider's Hunt** | Mastery/Speed focus. |
+| unique gem | Powerful Eversong Diamond | See current guide and sim |
 
----
-
-#### Stat Priority Split
-*   **All Builds:** Agility > Critical Strike > Haste > Versatility > Mastery.
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Trickster**
-*   **Core Focus:** **Cloud Cover** & **Killing Spree**.
-*   **Gameplay Effect:** Significantly increases the value of *Killing Spree* and adds a mobility/cleave component through *Cloud Cover*. Focuses on consistent physical pressure.
-*   **Why Pick?** Superior for raid throughput and mobility in 12.0.5.
-
-##### **Fatebound**
-*   **Core Mechanic:** **Coin Flip** & **Hand of Fate**.
-*   **Gameplay Effect:** Adds a random damage component to your finishers. Higher ceiling but less reliable than Trickster.
-*   **Why Pick?** Superior for pure single-target RNG high-rolls.
-
----
-
-#### Deep Dive: Raid Rotation
-Focus: **Adrenaline Rush Uptime** and **Roll the Bones** management.
-
-##### **A. Adrenaline Rush Audit (100% Uptime)**
-1.  **Rule:** Maintain **100% uptime** on Adrenaline Rush through *Restless Blades* CDR.
-2.  **Audit Flag:** Letting **Adrenaline Rush** expire during combat is a critical failure of the rotation.
-
-##### **B. Roll the Bones (The Reroll Audit)**
-1.  **Reroll Rule:** Reroll if you have only **1 buff** UNLESS it is **Broadside** or **True Bearing**.
-2.  **Keep Rule:** Keep any **2+ buffs**.
-3.  **Audit Flag:** Casting *Roll the Bones* when you already have 2+ high-value buffs is a resource waste.
-
-##### **C. Priority List**
-1.  **Between the Eyes:** Use on cooldown at **6+ Combo Points**.
-2.  **Dispatch:** Primary spender at **6+ Combo Points**.
-3.  **Killing Spree:** Use on cooldown (ensure Adrenaline Rush is active).
-4.  **Blade Rush:** Use on cooldown for Energy and damage.
-5.  **Sinister Strike:** Primary generator.
-6.  **Pistol Shot:** Use ONLY on **Opportunity** procs.
-7.  **Audit Flag:** Casting *Dispatch* at < 5 Combo Points is a major efficiency error.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Shattered Sun | Flask of the Blood Knights |
+| potion | Potion of Recklessness | See current guide and sim |
+| weapon oil | Thalassian Phoenix Oil | See current guide and sim |
 
 ---
 
@@ -243,66 +222,58 @@ Compare Cooldowns: [
 <details open>
 <summary>## Subtlety (Click to Colapse)</summary>
 
-### Subtlety Rogue Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Subtlety Rogue Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Unified Guide Approach)
-The guide recommends a unified approach for both Trickster and Deathstalker builds.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/subtlety-rogue-pve-dps-guide) · [talents](https://www.icy-veins.com/wow/subtlety-rogue-pve-dps-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/subtlety-rogue-pve-dps-stat-priority) · [enchants](https://www.icy-veins.com/wow/subtlety-rogue-pve-dps-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/subtlety-rogue-pve-dps-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Deathstalker is strongest for single target and priority damage; Trickster is the easier AoE/beginner alternative and remains strong in keys.
+
+**Stat priority**
+- Item Level > Mastery > Haste to roughly 700–1100 > Versatility > Critical Strike; treat the Haste value as a breakpoint guide, not a hard cap.
+
+**Gems**
+- Indecipherable Eversong Diamond, then Haste/Mastery/Crit gems to reach the breakpoint and sim the remaining sockets.
+
+**Enchants and weapon augment**
+- Rite of Hash'ey on both weapons with Thalassian Phoenix Oil; Empowered Rune of Avoidance; Amirdrassil's Grace; Mark of the Worldsoul; Forest Hunter's Armor Kit; Lynx's Dexterity; Eyes of the Eagle.
+
+**Consumables**
+- Blood Knights until the Haste breakpoint, Magisters afterward; Light's Potential by default and Potion of Recklessness for AoE when it supplies Mastery; current feast/personal food and Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Plan 90-second Shadow Blades windows with two Shadow Dances. Open from Stealth with Goremaw's Bite, use Dance at the correct combo-point threshold, fit Shadow Blades/Secret Technique/Eviscerate into the window, and preserve Darkest Night/Ancient Arts value.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Item Level > Mastery > Haste to roughly 700–1100 > Versatility > Critical Strike; treat the Haste value as a breakpoint guide, not a hard cap. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon Enchant** | **Acuity of the Ren'dorei** | **Jan'alai's Precision** (Crit Alternative). |
-| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Silvermoon's Alacrity** (Haste). |
-| **Flask** | **Flask of the Blood Knights** (Haste) | **Flask of the Magisters** (Mastery). |
-| **Potion** | **Light's Potential** (primary for melee) | **Potion of Recklessness** (alternative). |
-| **Food** | **Silvermoon Parade** (Agility Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Quick Amethyst** | **Flawless Masterful Peridot** (Mastery alternative). |
+| head | Empowered Rune of Avoidance | See current guide and sim |
+| shoulders | Amirdrassil's Grace | See current guide and sim |
+| chest | Mark of the Worldsoul | See current guide and sim |
+| legs | Forest Hunter's Armor Kit | See current guide and sim |
+| feet | Lynx's Dexterity | See current guide and sim |
+| ring | Eyes of the Eagle | See current guide and sim |
+| weapon | Rite of Hash'ey | See current guide and sim |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
-| **Shoulders** | **Akil'zon's Swiftness** | Haste focus. |
-| **Chest** | **Mark of the Worldsoul** | Primary Agility buff. |
-| **Legs** | **Thunderous Armor Kit** | Agility + Stamina. |
-| **Boots** | **Farstrider's Hunt** | Mastery/Speed focus. |
+| unique gem | Indecipherable Eversong Diamond | See current guide and sim |
 
----
-
-#### Stat Priority Split
-*   **All Builds:** Agility > Haste > Critical Strike > Mastery > Versatility.
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Trickster**
-*   **Core Focus:** **Coup de Grace** & **Cloud Cover**.
-*   **Gameplay Effect:** Introduces *Coup de Grace* as a massive finishing move that bypasses armor. Requires precise Combo Point management to maximize the proc window.
-*   **Why Pick?** Superior for raid throughput and single-target burst in 12.0.5.
-
-##### **Deathstalker**
-*   **Core Mechanic:** **Deathstalker's Mark** & **Darkest Night**.
-*   **Gameplay Effect:** Focuses on shadow-damage amplification and resource generation. Replaces *Eviscerate* with a marked finisher.
-*   **Why Pick?** Superior for multi-target cleave and priority target damage.
-
----
-
-#### Deep Dive: Raid Rotation
-Focus: **Shadow Dance Windows** and **Secret Technique** alignment.
-
-##### **A. The Shadow Dance Audit (The Burst Cycle)**
-1.  **Shadow Dance:** Trigger at **6+ Combo Points** ONLY when *Secret Technique* is off cooldown or *Shadow Blades* is active.
-2.  **Secret Technique:** Use immediately inside the Shadow Dance window (6+ CP).
-3.  **Coup de Grace (Trickster):** Priority finisher during the Dance window.
-4.  **Audit Flag:** Casting *Shadow Dance* while *Secret Technique* is on cooldown (for > 10s) is a major burst-misalignment error.
-
-##### **B. Primary Priority List**
-1.  **Shadowstrike:** Primary builder during Shadow Dance or Stealth.
-2.  **Eviscerate:** Standard finisher at **6+ Combo Points**.
-3.  **Backstab:** Primary filler outside of burst windows.
-4.  **Symbols of Death:** Align with Shadow Dance for a 100% crit window.
-5.  **Audit Flag:** Casting *Backstab* when at **6+ Combo Points** is a catastrophic resource failure.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Blood Knights | Flask of the Magisters |
+| potion | Light's Potential | Potion of Recklessness |
+| weapon oil | Thalassian Phoenix Oil | See current guide and sim |
 
 ---
 

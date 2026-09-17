@@ -3,67 +3,59 @@
 <details open>
 <summary>## Elemental (Click to Colapse)</summary>
 
-### Elemental Shaman Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Elemental Shaman Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Unified Guide Approach)
-The guide recommends a unified approach for both Stormbringer and Farseer builds.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/elemental-shaman-pve-dps-guide) · [talents](https://www.icy-veins.com/wow/elemental-shaman-pve-dps-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/elemental-shaman-pve-dps-stat-priority) · [enchants](https://www.icy-veins.com/wow/elemental-shaman-pve-dps-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/elemental-shaman-pve-dps-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Farseer is the uncontested current raid and Mythic+ default; Stormbringer is the alternative for mass-AoE preference.
+
+**Stat priority**
+- Mastery > Haste > Critical Strike > Versatility.
+
+**Gems**
+- Powerful Eversong Diamond plus one each color except stamina when possible, then Masterful Peridot/Quick Amethyst/Quick Garnet/Quick Lapis according to the sim.
+
+**Enchants and weapon augment**
+- Rite of Hash'ey; Empowered Blessing of Speed or Empowered Rune of Avoidance; Mark of the Worldsoul; Akil'zon's Swiftness or Amirdrassil's Grace; Sunfire Silk Spellthread; Farstrider's Hunt or Lynx's Dexterity; Eyes of the Eagle; Thalassian Phoenix Oil.
+
+**Consumables**
+- Magisters for low Mastery or Shattered Sun for low Crit; Light's Potential or Potion of Recklessness, avoid silence-zone potions when unsafe; current feast and Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Maintain Flame Shock, manage Maelstrom without capping, use Stormkeeper and Ascendance in the intended priority window, spend Lava Surge efficiently, and use Elemental Blast/Lightning Bolt or Chain Lightning at the correct target count.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Mastery > Haste > Critical Strike > Versatility. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Zul'jin's Mastery** | **Enchant Ring - Eyes of the Eagle** (Crit). |
-| **Flask** | **Flask of the Magisters** (Mastery) | **Flask of the Shattered Sun** (Crit). |
-| **Potion** | **Light's Potential** (primary) | **Potion of Recklessness** (alternative). |
-| **Food** | **Silvermoon Parade** (Intellect Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Masterful Peridot** | **Flawless Deadly Peridot** (Crit alternative). |
+| head | Empowered Blessing of Speed | Empowered Rune of Avoidance |
+| shoulders | Akil'zon's Swiftness | Amirdrassil's Grace |
+| chest | Mark of the Worldsoul | See current guide and sim |
+| legs | Sunfire Silk Spellthread | See current guide and sim |
+| feet | Farstrider's Hunt | Lynx's Dexterity |
+| ring | Eyes of the Eagle | See current guide and sim |
+| weapon | Rite of Hash'ey | See current guide and sim |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon** | **Enchant Weapon - Arcane Mastery** | Mastery/Intellect focus. |
-| **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
-| **Shoulders** | **Akil'zon's Swiftness** | Mastery focus. |
-| **Chest** | **Mark of the Worldsoul** | Primary Intellect buff. |
-| **Legs** | **Sunfire Silk Spellthread** | Intellect + Stamina. |
-| **Boots** | **Farstrider's Hunt** | Mastery/Speed. |
+| unique gem | Powerful Eversong Diamond | See current guide and sim |
+| gems | Masterful Peridot | Quick Amethyst, Quick Garnet, Quick Lapis |
 
----
-
-#### Stat Priority Split
-*   **All Builds:** Intellect > Mastery > Haste > Critical Strike > Versatility.
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Stormbringer**
-*   **Core Focus:** **Tempest** & **Awakening Storms**.
-*   **Gameplay Effect:** Introduces *Tempest* as a massive lightning spender that replaces Lightning Bolt. Requires precise alignment with *Master of the Elements*.
-*   **Why Pick?** Superior for raid throughput and consistent lightning damage in 12.0.5.
-
-##### **Farseer**
-*   **Core Mechanic:** **Ancestors** & **Call of the Ancestors**.
-*   **Gameplay Effect:** Focuses on *Lava Burst* and summoning ancestors to mimic your spells. 
-*   **Why Pick?** Superior for single-target burst and lava-heavy encounters.
-
----
-
-#### Deep Dive: Raid Rotation
-Focus: **Maelstrom Efficiency** and **Stormkeeper** alignment.
-
-##### **A. The Maelstrom Audit (The "Never Cap" Rule)**
-1.  **Rule:** Spend Maelstrom immediately at **100 stacks**.
-2.  **Audit Flag:** Casting **Lightning Bolt** or **Lava Burst** while at 100 Maelstrom is a catastrophic resource failure.
-
-##### **B. Primary Priority List**
-1.  **Flame Shock:** Maintain 100% uptime. Use for *Lava Surge* procs.
-2.  **Stormkeeper:** Use on cooldown (ensure you are entering a high-priority window).
-3.  **Lava Burst:** Use on proc (Lava Surge) or at 2 charges.
-4.  **Tempest (Stormbringer):** Use immediately (ensure Master of the Elements is active if possible).
-5.  **Elemental Blast:** Primary Maelstrom spender.
-6.  **Lightning Bolt:** Primary filler.
-7.  **Audit Flag:** Letting **Flame Shock** expire on the primary target is a baseline loss error.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Magisters | Flask of the Shattered Sun |
+| potion | Light's Potential | Potion of Recklessness |
+| weapon oil | Thalassian Phoenix Oil | See current guide and sim |
 
 ---
 
@@ -122,69 +114,58 @@ Compare Cooldowns: [
 <details open>
 <summary>## Enhancement (Click to Colapse)</summary>
 
-### Enhancement Shaman Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Enhancement Shaman Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Hybrid Guide Approach)
-Enhancement uses unified consumables for gems/food, but splits on Flasks based on Hero Spec choice.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/enhancement-shaman-pve-dps-guide) · [talents](https://www.icy-veins.com/wow/enhancement-shaman-pve-dps-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/enhancement-shaman-pve-dps-stat-priority) · [enchants](https://www.icy-veins.com/wow/enhancement-shaman-pve-dps-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/enhancement-shaman-pve-dps-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Stormbringer is the clear Season 2 raid and Mythic+ recommendation; Totemic remains a Delves/alternative build with a busier Tier Set rotation.
+
+**Stat priority**
+- Stormbringer: Item Level > Mastery ≈ Critical Strike > Haste > Versatility, with roughly 15–20% Haste as a practical floor. Totemic: Item Level > Mastery > Haste > Critical Strike > Versatility.
+
+**Gems**
+- Indecipherable Eversong Diamond, then Mastery/Crit for Stormbringer or Mastery/Haste for Totemic; activate socket colors and sim the final set.
+
+**Enchants and weapon augment**
+- Rite of Hash'ey or Acuity of the Ren'dorei on both weapons with Thalassian Phoenix Oil; Empowered Blessing of Speed; Akil'zon's Swiftness; Mark of the Worldsoul; Forest Hunter's Armor Kit; Farstrider's Hunt; Eyes of the Eagle.
+
+**Consumables**
+- Use the flask that keeps Mastery/Crit as the Potion of Recklessness trigger, typically Shattered Sun or Magisters/Blood Knights by profile; Light's Potential if that condition is not met; current feast, health potion and Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Stormbringer: manage Maelstrom Weapon, align Tempest/Overcharge and the two-minute burst window, and keep Windfury/Flame Shock value active. Totemic: maintain Surging Totem and integrate Totemic Momentum with the Season 2 set.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Stormbringer: Item Level > Mastery ≈ Critical Strike > Haste > Versatility, with roughly 15–20% Haste as a practical floor. Totemic: Item Level > Mastery > Haste > Critical Strike > Versatility. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Flask (Totemic)** | **Flask of the Magisters** (Mastery) | **Flask of the Shattered Sun** (Crit). |
-| **Flask (Storm)** | **Flask of the Blood Knights** (Haste) | **Flask of the Shattered Sun** (Crit). |
-| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Zul'jin's Mastery** (Mastery). |
-| **Food** | **Silvermoon Parade** (Agility Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Potion** | **Light's Potential** (primary for melee) | **Potion of Recklessness** (alternative, sim-dependent). |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Masterful Peridot** | **Flawless Quick Amethyst** (Haste alternative). |
+| head | Empowered Blessing of Speed | See current guide and sim |
+| shoulders | Akil'zon's Swiftness | See current guide and sim |
+| chest | Mark of the Worldsoul | See current guide and sim |
+| legs | Forest Hunter's Armor Kit | See current guide and sim |
+| feet | Farstrider's Hunt | See current guide and sim |
+| ring | Eyes of the Eagle | See current guide and sim |
+| weapon | Rite of Hash'ey | Acuity of the Ren'dorei |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon** | **Acuity of the Ren'dorei** | Mastery/Agility proc (Apply to BOTH). |
-| **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
-| **Shoulders** | **Akil'zon's Swiftness** | Mastery focus. |
-| **Chest** | **Mark of the Worldsoul** | Primary Agility buff. |
-| **Legs** | **Forest Hunter's Armor Kit** | Agility + Stamina. |
-| **Boots** | **Farstrider's Hunt** | Mastery/Speed focus. |
+| unique gem | Indecipherable Eversong Diamond | See current guide and sim |
 
----
-
-#### Stat Priority Split
-*   **All Builds:** Agility > Mastery > Critical Strike > Haste > Versatility.
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Totemic**
-*   **Core Focus:** **Surging Totem** & **Totemic Projection**.
-*   **Gameplay Effect:** Introduces *Surging Totem* as your primary engine. Requires 100% uptime and repositioning to stay near targets.
-*   **Why Pick?** Superior for raid throughput and consistent area damage in 12.0.5.
-
-##### **Stormbringer**
-*   **Core Mechanic:** **Tempest** & **Awakening Storms**.
-*   **Gameplay Effect:** Focuses on *Tempest* (empowered Lightning Bolt) and high-intensity lightning burst.
-*   **Why Pick?** Superior for single-target burst and lightning-heavy encounters.
-
----
-
-#### Deep Dive: Raid Rotation
-Focus: **Maelstrom Weapon Stacking** and **Totem Maintenance**.
-
-##### **A. The Maelstrom Audit (The 10-Stack Rule)**
-1.  **Rule:** Spend Maelstrom Weapon stacks at **10 stacks**.
-2.  **Audit Flag:** Casting **Lightning Bolt** or **Elemental Blast** at **< 5 stacks** of Maelstrom Weapon is a major throughput failure.
-
-##### **B. Maintenance Audit (The Totem Rule)**
-1.  **Surging Totem:** Maintain **100% uptime**. Use *Totemic Projection* to move it if the boss moves.
-2.  **Audit Flag:** Letting **Surging Totem** fall off or remain out of range during combat is a catastrophic failure of the spec's engine.
-
-##### **C. Priority List**
-1.  **Lava Lash:** Top priority during *Hot Hand* procs.
-2.  **Stormstrike:** Primary filler and generator.
-3.  **Ice Strike:** Use on cooldown to empower Frost Shock.
-4.  **Frost Shock:** Use with *Hailstorm* stacks.
-5.  **Audit Flag:** Casting *Lightning Bolt* when **Hot Hand** (Lava Lash proc) is active is an efficiency error.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Shattered Sun | Flask of the Magisters, Flask of the Blood Knights |
+| potion | Potion of Recklessness | Light's Potential |
+| weapon oil | Thalassian Phoenix Oil | See current guide and sim |
 
 ---
 
@@ -252,70 +233,59 @@ Compare Cooldowns: [
 <details open>
 <summary>## Restoration (Click to Colapse)</summary>
 
-### Restoration Shaman Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Restoration Shaman Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Unified Guide Approach)
-The guide recommends a unified approach for both Totemic and Farseer builds.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/restoration-shaman-pve-healing-guide) · [talents](https://www.icy-veins.com/wow/restoration-shaman-pve-healing-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/restoration-shaman-pve-healing-stat-priority) · [enchants](https://www.icy-veins.com/wow/restoration-shaman-pve-healing-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/restoration-shaman-pve-healing-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Totemic is the current raid and Mythic+ default; Farseer is the alternate tree for Delves or players who prefer its direct healing profile.
+
+**Stat priority**
+- Item Level > Critical Strike > Versatility > Haste > Mastery, with Haste more attractive in short Mythic+ fights and Mastery scaling in progression damage.
+
+**Gems**
+- Indecipherable Eversong Diamond, or Telluric Diamond once socket bonuses/mana profile justify it; fill with Quick Amethyst and the required color gems.
+
+**Enchants and weapon augment**
+- Empowered Hex of Leeching; Silvermoon's Mending; Arcanoweave Spellthread; Mark of the Magister; Shaladrassil's Roots; Eyes of the Eagle; Acuity of the Ren'dorei and Thalassian Phoenix Oil.
+
+**Consumables**
+- Shattered Sun flask for raid, Thalassian Resistance in defensive Mythic+; Light's Potential; health potion; current feast/personal food and Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Maintain Water/Earth Shield, spend Healing Stream/Stormstream charges, use Unleash Life with Ancestral Swiftness, keep Healing Rain on clustered allies, and cycle Riptide into Chain Heal/Healing Wave. Deal damage only when healing is stable and use the Season 2 set's Healing Rain/shield bonuses deliberately.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Item Level > Critical Strike > Versatility > Haste > Mastery, with Haste more attractive in short Mythic+ fights and Mastery scaling in progression damage. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Zul'jin's Mastery** | **Enchant Ring - Silvermoon's Alacrity** (Haste). |
-| **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Magisters** (Mastery). |
-| **Potion** | **Potion of Recklessness** (throughput) | **Lightfused Mana Potion** (mana-critical situations). |
-| **Food** | **Silvermoon Parade** (Intellect Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | **Telluric Eversong Diamond** (Mana Alternative). |
-| **Gems** | **Flawless Versatile Peridot** | **Flawless Masterful Peridot** (Mastery alternative). |
+| head | Empowered Hex of Leeching | See current guide and sim |
+| shoulders | Silvermoon's Mending | See current guide and sim |
+| chest | Mark of the Magister | See current guide and sim |
+| legs | Arcanoweave Spellthread | See current guide and sim |
+| feet | Shaladrassil's Roots | See current guide and sim |
+| ring | Eyes of the Eagle | See current guide and sim |
+| weapon | Acuity of the Ren'dorei | See current guide and sim |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon** | **Enchant Weapon - Arcane Vitality** | Mana regeneration focus. |
-| **Helm** | **Empowered Hex of Leeching** | Defensive utility. |
-| **Shoulders** | **Silvermoon's Mending** | Best for raid healing throughput. |
-| **Chest** | **Mark of the Worldsoul** | Primary Intellect buff. |
-| **Legs** | **Sunfire Silk Spellthread** | Intellect + Stamina. |
-| **Boots** | **Shaladrassil's Roots** | Versatility / Speed. |
+| unique gem | Indecipherable Eversong Diamond | Telluric Diamond |
+| gems | Quick Amethyst | See current guide and sim |
 
----
-
-#### Stat Priority Split
-*   **All Builds:** Intellect > Critical Strike > Versatility = Mastery > Haste.
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Totemic**
-*   **Core Focus:** **Surging Totem** & **Totemic Projection**.
-*   **Gameplay Effect:** Introduces *Surging Totem* as a continuous area-of-effect healing source. Requires 100% uptime and repositioning.
-*   **Why Pick?** Superior for raid-wide stabilization and consistent HPS in 12.0.5.
-
-##### **Farseer**
-*   **Core Mechanic:** **Ancestors** & **Spiritwalking**.
-*   **Gameplay Effect:** Focuses on summoning ancestors to mimic your single-target heals.
-*   **Why Pick?** Superior for priority target healing and spot-heavy encounters.
-
----
-
-#### Deep Dive: Raid Rotation
-Focus: **Cloudburst Management** and **Healing Rain** uptime.
-
-##### **A. The Cloudburst Audit (The Timing Rule)**
-1.  **Rule:** Cast **Cloudburst Totem** before high-damage phases. Do not let it expire or overcap without releasing (manual pop) during the damage peak.
-2.  **Audit Flag:** Letting **Cloudburst Totem** pop during a window of zero raid damage is a catastrophic throughput failure.
-
-##### **B. Maintenance Audit (The 100% Rule)**
-1.  **Healing Rain:** Maintain **100% uptime** on the raid group cluster.
-2.  **Surging Totem (Totemic):** Maintain 100% uptime near allies.
-3.  **Audit Flag:** Letting **Healing Rain** or **Surging Totem** fall off during active healing requirements is a baseline loss error.
-
-##### **C. Priority List**
-1.  **Riptide:** Use on cooldown to maintain *Tidal Waves*.
-2.  **Chain Heal:** Primary group healing spender (ensure targets have Riptide for the bonus).
-3.  **Healing Stream Totem:** Use at 2 charges or during movement.
-4.  **Healing Wave:** Primary single-target efficient heal (use with Tidal Waves).
-5.  **Audit Flag:** Casting *Chain Heal* without any Riptide/Tidal Waves buffs is an efficiency failure.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Shattered Sun | Flask of Thalassian Resistance |
+| potion | Light's Potential | See current guide and sim |
+| weapon oil | Thalassian Phoenix Oil | See current guide and sim |
 
 ---
 

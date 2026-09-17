@@ -1,4 +1,6 @@
-# Midnight 12.0.5 Specialization Knowledge Base Reconstruction
+# Midnight 12.1 Specialization Knowledge Base Verification
+
+Source verification completed against the Icy Veins World of Warcraft class guides on 2026-09-17. The knowledge-base snapshots now target Patch 12.1; bot-specific spell classifications and audit schemas remain preserved below each spec.
 
 ## [x] Completed (Gold Standard)
 - [x] **Holy Priest** (Archon/Oracle Splits, Granular Gear)

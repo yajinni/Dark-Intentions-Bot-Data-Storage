@@ -3,66 +3,58 @@
 <details open>
 <summary>## Discipline (Click to Colapse)</summary>
 
-### Discipline Priest Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Discipline Priest Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Hybrid Guide Approach)
-Discipline uses unified consumables for gems/food, but splits on Weapon Enchants by Hero Spec.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/discipline-priest-pve-healing-guide) · [talents](https://www.icy-veins.com/wow/discipline-priest-pve-healing-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/discipline-priest-pve-healing-stat-priority) · [enchants](https://www.icy-veins.com/wow/discipline-priest-pve-healing-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/discipline-priest-pve-healing-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Voidweaver is the raid/delve default for Season 2; Oracle is preferred in Mythic+ for reliable single-target healing.
+
+**Stat priority**
+- Haste > Mastery > Critical Strike > Versatility at equal item level.
+
+**Gems**
+- Indecipherable Eversong Diamond, then Masterful Peridot.
+
+**Enchants and weapon augment**
+- Silvermoon's Alacrity rings; Berserker's Rage weapon; Empowered Hex of Leeching; Silvermoon's Mending; Mark of the Magister; Arcanoweave Spellthread; Shaladrassil's Roots.
+
+**Consumables**
+- Blood Knights flask; Light's Potential by default, with Potion of Recklessness valid for Voidweaver damage; Concentrated Silvermoon Health Potion, current food and Void-Touched Augment Rune. Mana potions are not the default throughput choice.
+
+**Rotation and audit focus**
+- Apply Atonement before damage ramps. The Evangelism ramp is Power Word: Shield, Flash Heal, Evangelism, Power Word: Radiance, Mind Blast, Penance and Voidweaver damage until Penance returns; use Ultimate Penitence as a separate planned cooldown.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Haste > Mastery > Critical Strike > Versatility at equal item level. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon Enchant (Oracle)** | **Acuity of the Ren'dorei** | Mastery/Intellect proc. |
-| **Weapon Enchant (Void)** | **Enchant Weapon - Berserker's Rage** | Critical Strike focus. |
-| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Silvermoon's Alacrity** (Haste). |
-| **Flask** | **Flask of the Blood Knights** (Haste) | **Flask of the Shattered Sun** (Crit). |
-| **Potion** | **Potion of Recklessness** (throughput) | **Potion of Devoured Dreams** (mana-critical situations). |
-| **Food** | **Silvermoon Parade** (Intellect Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Deadly Peridot** | **Flawless Quick Amethyst** (Haste alternative). |
+| head | Empowered Hex of Leeching | See current guide and sim |
+| shoulders | Silvermoon's Mending | See current guide and sim |
+| chest | Mark of the Magister | See current guide and sim |
+| legs | Arcanoweave Spellthread | See current guide and sim |
+| feet | Shaladrassil's Roots | See current guide and sim |
+| ring | Silvermoon's Alacrity | See current guide and sim |
+| weapon | Berserker's Rage | See current guide and sim |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Helm** | **Empowered Hex of Leeching** | Defensive utility. |
-| **Chest** | **Mark of the Magister** | Primary Intellect buff. |
-| **Shoulders** | **Silvermoon's Mending** | Best for raid healing throughput. |
-| **Legs** | **Arcanoweave Spellthread** | Intellect and Stamina/Mana. |
-| **Boots** | **Shaladrassil's Roots** | Versatility / Speed. |
+| unique gem | Indecipherable Eversong Diamond | See current guide and sim |
+| gems | Masterful Peridot | See current guide and sim |
 
----
-
-#### Stat Priority Split
-*   **All Builds:** Haste > Critical Strike > Versatility > Mastery.
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Oracle**
-*   **Core Focus:** **Premonition** (Buff Cycle).
-*   **Gameplay Effect:** Increases the complexity of the ramp by requiring specific buff alignment (*Insight/Solace/Glory*) before high-damage windows.
-*   **Why Pick?** Superior for consistent stabilization and target-specific utility.
-
-##### **Voidweaver**
-*   **Core Mechanic:** **Entropic Rift** & **Void Blast**.
-*   **Gameplay Effect:** Transforms the burst window into a pure damage-to-healing loop. Replaces *Mind Blast* with *Void Blast* during the Rift.
-*   **Why Pick?** Superior for burst-heavy raid damage where high Atonement throughput is required.
-
----
-
-#### Deep Dive: Raid Rotation (The Ramp Audit)
-Discipline is audited based on the **Evangelism Ramp** sequence.
-
-##### **A. Pre-Evangelism (The Setup)**
-1.  **Shadow Word: Pain:** Maintain 100% uptime.
-2.  **Power Word: Shield / Plea:** Apply to 5-10 targets before raid damage.
-3.  **Flash Heal:** Use to trigger *Oracle* procs or emergency stabilization.
-4.  **Power Word: Radiance:** Use TWO charges immediately before casting *Evangelism*.
-
-##### **B. Post-Evangelism (The Burst)**
-1.  **Evangelism:** Extend all active Atonements.
-2.  **Shadow Word: Death:** Use immediately for high-priority Atonement healing.
-3.  **Mind Blast / Void Blast:** Use to maximize throughput during the window.
-4.  **Penance:** Use on an ally for high-priority triage or on an enemy for Atonement throughput.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Blood Knights | See current guide and sim |
+| potion | Light's Potential | Potion of Recklessness |
 
 ---
 
@@ -114,79 +106,58 @@ Discipline is audited based on the **Evangelism Ramp** sequence.
 <details open>
 <summary>## Holy (Click to Colapse)</summary>
 
-### Holy Priest Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Holy Priest Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Unified Guide Approach)
-The guide recommends a unified approach for both Archon and Oracle builds.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/holy-priest-pve-healing-guide) · [talents](https://www.icy-veins.com/wow/holy-priest-pve-healing-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/holy-priest-pve-healing-stat-priority) · [enchants](https://www.icy-veins.com/wow/holy-priest-pve-healing-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/holy-priest-pve-healing-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Oracle is the raid default for sustained healing; Archon is competitive and offers stronger burst. In Mythic+, use Archon for burst or Oracle for sustained healing/damage.
+
+**Stat priority**
+- Mythic+: Critical Strike > Versatility > Haste > Mastery. Raid priorities vary by Hero Tree and should be simmed.
+
+**Gems**
+- Indecipherable Eversong Diamond, then Flawless Versatile Garnet.
+
+**Enchants and weapon augment**
+- Acuity of the Ren'dorei or Jan'alai's Precision; Empowered Hex of Leeching; Silvermoon's Mending; Mark of the Worldsoul or Magister; Arcanoweave Spellthread or Sunfire Silk; Shaladrassil's Roots or Farstrider's Hunt; Eyes of the Eagle/Nature's Fury.
+
+**Consumables**
+- Shattered Sun or Thalassian Resistance by content; Light's Potential with Potion of Recklessness as an alternative; current feast/personal food, health potion and Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Use Holy Words on cooldown for real damage, maintain Prayer of Mending/Benediction value, use Serenity reactively, and weave Flash Heal/Holy Nova/Smite according to movement and incoming damage. Reserve Apotheosis and Divine Hymn for planned ramps.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Mythic+: Critical Strike > Versatility > Haste > Mastery. Raid priorities vary by Hero Tree and should be simmed. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Nature's Fury** (Haste). |
-| **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of Thalassian Resistance** (Vers). |
-| **Potion** | **Light's Potential** (primary) | **Potion of Recklessness** (alternative throughput). |
-| **Food** | **Silvermoon Parade** (Intellect Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Versatile Garnet** | **Flawless Masterful Garnet** (Mastery alternative). |
+| head | Empowered Hex of Leeching | See current guide and sim |
+| shoulders | Silvermoon's Mending | See current guide and sim |
+| chest | Mark of the Worldsoul | See current guide and sim |
+| legs | Arcanoweave Spellthread | See current guide and sim |
+| feet | Shaladrassil's Roots | Farstrider's Hunt |
+| ring | Eyes of the Eagle | Nature's Fury |
+| weapon | Acuity of the Ren'dorei | Jan'alai's Precision |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon** | **Acuity of the Ren'dorei** | Mastery proc focus. |
-| **Weapon (Alternative)** | **Enchant Weapon - Arcane Mastery** | **Valid Alternative** for preference. |
-| **Helm** | **Empowered Hex of Leeching** | Defensive utility. |
-| **Chest** | **Mark of the Worldsoul** | Primary Stat (Intellect). |
-| **Shoulders** | **Silvermoon's Mending** | Best for raid healing throughput. |
-| **Legs** | **Arcanoweave Spellthread** | Intellect and Stamina/Mana. |
-| **Boots** | **Shaladrassil's Roots** | Versatility / Speed. |
+| unique gem | Indecipherable Eversong Diamond | See current guide and sim |
+| gems | Flawless Versatile Garnet | Versatile Garnet |
 
----
-
-#### Stat Priority Split
-*   **Archon Build:** Intellect > Crit = Mastery > Versatility > Haste.
-*   **Oracle Build:** Intellect > Haste > Mastery > Crit = Versatility.
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Archon**
-*   **Core Focus:** **Halo & High-Burst Procs**.
-*   **Key Synergy:** **Spiritwell** (*Surge of Light* now buffs *Prayer of Healing*).
-*   **Why Pick?** Superior for burst-heavy raid damage and high-throughput windows.
-
-##### **Oracle**
-*   **Core Focus:** **Premonition & Utility**.
-*   **Key Synergy:** **Prompt Prognosis** (Massive buffs to *Prayer of Mending*).
-*   **Why Pick?** Superior for consistent stabilization and target-specific utility.
-
----
-
-#### Deep Dive: Raid Rotation
-The bot must switch audit logic based on the active Hero Spec.
-
-##### **A. Global Holy Priest Logic**
-1.  **Prayer of Mending:** Use on cooldown (Core Engine).
-2.  **Holy Word: Serenity:** Use for priority triage.
-3.  **Benediction (Apex Proc):** Consumes next Flash Heal for massive throughput.
-
-##### **B. Archon Specific Priority**
-1.  **Halo:** Use on cooldown to trigger *Archon* buffs.
-2.  **Spiritwell Proc:** IF *Surge of Light* is active, THEN cast **Prayer of Healing**.
-3.  **Lightweaver Weaving:** Alternate *Flash Heal* and *Prayer of Healing*.
-4.  **Audit Flag:** Using a *Surge of Light* proc on *Flash Heal* in Archon build is a mana-efficiency error.
-
-##### **C. Oracle Specific Priority**
-1.  **Premonition:** Use on cooldown to cycle through *Insight*, *Solace*, and *Glory* buffs.
-2.  **Prayer of Mending:** Higher priority for *Prompt Prognosis* synergy.
-3.  **Lightweaver Weave:** Standard weaving.
-
-##### **D. The Smite/Filler Audit (The 100% Rule)**
-1.  **Usage:** Cast **Smite** during ANY period of low healing demand to maintain activity and fish for procs.
-2.  **Serendipity Synergy:** Each Smite reduces the remaining cooldown of **Holy Word: Chastise** by 4 seconds (12 seconds during *Apotheosis*).
-3.  **Surge of Light:** Smite has a chance to trigger free, instant **Flash Heals** (or *Prayer of Healing* in the Archon build).
-4.  **Audit Flag:** Showing near-zero Smite casts during low-intensity phases is a failure of resource management, proc-fishing, and Holy Word uptime.
-    *   **AI Analysis Hook:** If Smite casts are low compared to the reference, explicitly state that the player is missing out on **Holy Word: Chastise** resets (via *Serendipity*) and free **Surge of Light** procs. This results in fewer Holy Words available for peak throughput and inefficient mana management.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Shattered Sun | Flask of Thalassian Resistance |
+| potion | Light's Potential | Potion of Recklessness |
 
 ---
 
@@ -240,74 +211,65 @@ The bot must switch audit logic based on the active Hero Spec.
 
 ##### **Buff & Uptime Management (Group under Buff & Uptime)**
 *   **Echo of Light** (Holy Mastery passive buff - completely exclude this buff from Buff & Uptime Management analysis in Section 8 of the report).
+
 </details>
 
 <details open>
 <summary>## Shadow (Click to Colapse)</summary>
 
-### Shadow Priest Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Shadow Priest Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Unified Guide Approach)
-The guide recommends a unified approach based on stat weights rather than a rigid Hero Spec split.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/shadow-priest-pve-dps-guide) · [talents](https://www.icy-veins.com/wow/shadow-priest-pve-dps-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/shadow-priest-pve-dps-stat-priority) · [enchants](https://www.icy-veins.com/wow/shadow-priest-pve-dps-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/shadow-priest-pve-dps-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Archon is the current raid sustained-damage recommendation; Voidweaver is the stronger AoE/Mythic+ starting point. Both remain viable by profile.
+
+**Stat priority**
+- Archon practical target: Intellect > Mastery around 1000–1200 > Haste around 1600–1800 > Critical Strike 800–1200 > low Versatility. Voidweaver swaps Haste and Mastery emphasis; sim exact thresholds.
+
+**Gems**
+- Indecipherable Eversong Diamond, then Quick Amethyst early or Masterful Peridot as gear reaches the target Haste/Mastery profile.
+
+**Enchants and weapon augment**
+- Arcane Mastery/Berserker's Rage weapon; Empowered Blessing of Speed; Mark of the Worldsoul or Magister; Akil'zon's Swiftness or Flight of the Eagle; Sunfire Silk Spellthread or Bright Linen Spellthread; Eyes of the Eagle/Thalassian Haste; Farstrider's Hunt; Thalassian Phoenix Oil.
+
+**Consumables**
+- Magisters, Blood Knights or Thalassian Resistance by stat profile; Potion of Recklessness is theoretically strongest but gear-dependent, with Light's Potential as the safe alternative; current feast/personal food and Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Keep Vampiric Touch and Shadow Word: Pain active, spend Insanity on Shadow Word: Madness without capping, use Void Volley/Mind Blast and Halo on cooldown, and align Voidform and Power Infusion. Mind Flay fills only when higher-priority actions are unavailable.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Archon practical target: Intellect > Mastery around 1000–1200 > Haste around 1600–1800 > Critical Strike 800–1200 > low Versatility. Voidweaver swaps Haste and Mastery emphasis; sim exact thresholds. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Zul'jin's Mastery** | **Enchant Ring - Silvermoon's Alacrity** (Haste). |
-| **Flask** | **Flask of the Magisters** (Mastery) | **Flask of the Blood Knights** (Haste). |
-| **Potion** | **Draught of Rampant Abandon** (max throughput, spawns silence pool) | **Light's Potential** (safe alternative, ~10% less). |
-| **Food** | **Silvermoon Parade** (Intellect Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Masterful Peridot** | **Flawless Quick Amethyst** (Valid if Haste preferred). |
+| head | Empowered Blessing of Speed | See current guide and sim |
+| shoulders | Akil'zon's Swiftness | Flight of the Eagle |
+| chest | Mark of the Worldsoul | See current guide and sim |
+| legs | Sunfire Silk Spellthread | Bright Linen Spellthread |
+| feet | Farstrider's Hunt | See current guide and sim |
+| ring | Eyes of the Eagle | See current guide and sim |
+| weapon | Arcane Mastery | Berserker's Rage |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon** | **Enchant Weapon - Arcane Mastery** | Mastery/Intellect focus. |
-| **Weapon (Budget)** | **Berserker's Rage** | **Valid Alternative** for early gearing. |
-| **Helm** | **Empowered Hex of Leeching** | Defensive utility. |
-| **Shoulders** | **Silvermoon's Mending** | Best for raid throughput. |
-| **Chest** | **Mark of the Worldsoul** | Primary Intellect buff. |
-| **Legs** | **Sunfire Silk Spellthread** | Intellect + Stamina. |
-| **Boots** | **Shaladrassil's Roots** | Versatility / Speed. |
+| unique gem | Indecipherable Eversong Diamond | See current guide and sim |
+| gems | Quick Amethyst | Masterful Peridot |
 
----
-
-#### Stat Priority
-*   **General Priority:** Intellect > Mastery > Haste > Critical Strike > Versatility.
-*   *Note: Mastery becomes significantly more valuable in single-target raid encounters.*
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Voidweaver**
-*   **Core Focus:** **Entropic Rift** & **Void Blast**.
-*   **Gameplay Effect:** Introduces the *Entropic Rift* as a massive damage multiplier. Requires precise timing of *Devouring Plague* to maintain the rift.
-*   **Why Pick?** Superior for single-target boss encounters and consistent throughput in 12.0.5.
-
-##### **Archon**
-*   **Core Mechanic:** **Halo** & **Energy Cycle**.
-*   **Gameplay Effect:** Focuses on *Halo* and high-intensity burst windows. More reliant on cooldown alignment.
-*   **Why Pick?** Superior for multi-target cleave and target-rich environments.
-
----
-
-#### Deep Dive: Raid Rotation
-Focus: **Entropic Rift Alignment** and **Insanity Management**.
-
-##### **A. Voidweaver Audit (The Rift Rule)**
-1.  **Entropic Rift:** Trigger as often as possible through *Devouring Plague*.
-2.  **Void Blast:** Priority #1 while the Rift is active.
-3.  **Audit Flag:** Casting **Mind Blast** while a Rift is active and **Void Blast** is available is a major throughput error.
-
-##### **B. Primary Priority List (Strict Whitelist)**
-1.  **Devouring Plague:** Primary Insanity spender. Use to maintain high Rift uptime.
-2.  **Vampiric Touch:** Maintain 100% uptime (Applies Shadow Word: Pain).
-3.  **Mind Blast:** Primary generator.
-4.  **Shadow Word: Death:** Use on cooldown (especially in execute range < 20%).
-5.  **Mind Spike (or Mind Flay):** Filler generator.
-6.  **Audit Flag:** Letting **Vampiric Touch** fall off the primary target is a catastrophic failure.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Magisters | Flask of the Blood Knights, Flask of Thalassian Resistance |
+| potion | Potion of Recklessness | Light's Potential |
+| weapon oil | Thalassian Phoenix Oil | See current guide and sim |
 
 ---
 

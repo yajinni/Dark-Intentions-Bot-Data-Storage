@@ -3,72 +3,60 @@
 <details open>
 <summary>## Devourer (Click to Colapse)</summary>
 
-### Devourer Demon Hunter Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Devourer Demon Hunter Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Unified Guide Approach)
-The guide recommends a "one-size-fits-all" approach for consumables across all builds.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/devourer-demon-hunter-pve-dps-guide) · [talents](https://www.icy-veins.com/wow/devourer-demon-hunter-pve-dps-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/devourer-demon-hunter-pve-dps-stat-priority) · [enchants](https://www.icy-veins.com/wow/devourer-demon-hunter-pve-dps-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/devourer-demon-hunter-pve-dps-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Void-Scarred is strongly ahead for Season 2 raid, cleave and Mythic+; Annihilator is mainly a high-target AoE alternative.
+
+**Stat priority**
+- Void-Scarred: Intellect > Haste to roughly 17–20% > Critical Strike > Mastery > Versatility > excess Haste. Sim Annihilator separately.
+
+**Gems**
+- Indecipherable Eversong Diamond, then Flawless Deadly Amethyst.
+
+**Enchants and weapon augment**
+- Thalassian Phoenix Oil; Arcane Mastery on both weapons; Empowered Rune of Avoidance; Mark of the Worldsoul; Amirdrassil's Grace; Sunfire Silk Spellthread; Lynx's Dexterity; Eyes of the Eagle.
+
+**Consumables**
+- Magisters flask by default; Blood Knights when meeting the Void-Scarred Haste breakpoint; Potion of Recklessness; Feast of Knowledge or Champion's Bento; Void-Touched Augment Rune. Keep Gateway Control Shard, Void-Touched Drums and Emergency Soul Link available for utility.
+
+**Rotation and audit focus**
+- Plan strict Void Metamorphosis windows. Use Soul Immolation and The Hunt to enter the window, then align Void Ray, Voidblade, Eradicate, Reaper's Toll and Pierce the Veil; avoid collecting Souls early if doing so would delay the next planned exit.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Void-Scarred: Intellect > Haste to roughly 17–20% > Critical Strike > Mastery > Versatility > excess Haste. Sim Annihilator separately. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | None listed. |
-| **Flask** | **Flask of the Magisters** (Mastery) | **Flask of the Blood Knights** (Valid if Haste preferred). |
-| **Potion** | **Draught of Rampant Abandon** (max throughput, spawns silence pool) | **Light's Potential** (safe alternative, ~10% less). |
-| **Food** | **Silvermoon Parade** (Intellect Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Quick Amethyst** | Use for all other sockets. |
+| head | Empowered Rune of Avoidance | See current guide and sim |
+| shoulders | Amirdrassil's Grace | See current guide and sim |
+| chest | Mark of the Worldsoul | See current guide and sim |
+| legs | Sunfire Silk Spellthread | See current guide and sim |
+| feet | Lynx's Dexterity | See current guide and sim |
+| ring | Eyes of the Eagle | See current guide and sim |
+| weapon | Arcane Mastery | See current guide and sim |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon (Main)** | **Enchant Weapon - Arcane Mastery** | Mastery focus. |
-| **Weapon (Off)** | **Enchant Weapon - Berserker's Rage** | Critical Strike focus. |
-| **Weapon (Budget)** | **Acuity of the Ren'dorei** | **Valid Alternative** for low gear levels only. |
-| **Helm** | **Empowered Rune of Avoidance** | Avoidance utility. |
-| **Shoulders** | **Amirdrassil's Grace** | Mastery focus. |
-| **Chest** | **Mark of the Worldsoul** | Primary Intellect buff. |
-| **Legs** | **Sunfire Silk Spellthread** | Intellect + Stamina. |
-| **Boots** | **Lynx's Dexterity** | Mastery/Agility focus. |
+| unique gem | Indecipherable Eversong Diamond | See current guide and sim |
+| gems | Flawless Deadly Amethyst | Deadly Amethyst |
 
----
-
-#### Stat Priority
-*   **General Priority:** Intellect > Mastery > Haste > Critical Strike > Versatility.
-*   *Note: Mastery is the highest priority for both Annihilator and Void-Scarred builds.*
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Annihilator**
-*   **Core Focus:** **Annihilation** & **Demon Blades**.
-*   **Gameplay Effect:** Shifts the rotation towards high-intensity melee pressure and automatic resource generation. 
-*   **Why Pick?** Superior for consistent single-target throughput and lower complexity.
-
-##### **Void-Scarred**
-*   **Core Mechanic:** **Void Ray** & **Voidfury**.
-*   **Gameplay Effect:** Introduces a ranged component to the rotation. Requires precise positioning to maximize the damage of your *Void Ray* channel.
-*   **Why Pick?** Superior for encounters requiring periodic target-swapping or minor ranged flexibility.
-
----
-
-#### Deep Dive: Raid Rotation
-Focus: **Void Ray Efficiency** and **Drain Pausing**.
-
-##### **A. Void-Scarred Audit (The Drain Rule)**
-1.  **Void Ray:** Maintain 100% uptime on the primary target.
-2.  **Drain Pausing:** If **Void Ray** is active, DO NOT cast *Chaos Bolt* or *Eye Beam* if it will cause the ray to fall off before the cast finishes.
-3.  **Audit Flag:** Letting **Void Ray** expire during a high-damage window is a catastrophic failure of the hero spec.
-    *   **AI Analysis Hook:** If **Void Ray** uptime is significantly lower than the reference, explicitly highlight the failure to manage "Drain Pausing". State that the player is losing their primary damage multiplier by allowing the channel to clip or expire prematurely.
-
-##### **B. Primary Priority List (Strict Whitelist)**
-1.  **Void Ray / Annihilation:** (Depending on Hero Spec) Core damage engine.
-2.  **Metamorphosis:** Use on cooldown (align with Heroism if possible).
-3.  **Collapsing Star (Annihilator Only):** Your highest priority finisher. Use immediately upon reaching 5 Soul Fragments.
-4.  **Eye Beam:** Use on cooldown (ensure you are not at max Fury).
-5.  **Chaos Strike / Annihilation:** Primary Fury spender.
-6.  **Audit Flag:** Casting *Eye Beam* while at **100 Fury** is a major resource waste.
-    *   **AI Analysis Hook (Annihilator):** If **Collapsing Star** casts are lower than the reference, state that the player is failing to consume Soul Fragments efficiently. This results in "over-capping" fragments and missing out on the massive burst damage of the star.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Magisters | Flask of the Blood Knights |
+| potion | Potion of Recklessness | See current guide and sim |
+| food | Feast of Knowledge | Champion's Bento |
+| weapon oil | Thalassian Phoenix Oil | See current guide and sim |
 
 ---
 
@@ -109,67 +97,59 @@ Focus: **Void Ray Efficiency** and **Drain Pausing**.
 <details open>
 <summary>## Havoc (Click to Colapse)</summary>
 
-### Havoc Demon Hunter Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Havoc Demon Hunter Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Unified Guide Approach)
-The guide recommends a "one-size-fits-all" approach for consumables across all builds.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/havoc-demon-hunter-pve-dps-guide) · [talents](https://www.icy-veins.com/wow/havoc-demon-hunter-pve-dps-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/havoc-demon-hunter-pve-dps-stat-priority) · [enchants](https://www.icy-veins.com/wow/havoc-demon-hunter-pve-dps-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/havoc-demon-hunter-pve-dps-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Fel-Scarred is the default for raid, cleave, single target and most Mythic+ because of its flexibility and easier burst AoE. Aldrachi Reaver is a high-key/funnel alternative.
+
+**Stat priority**
+- Agility > Critical Strike > Mastery > Haste > Versatility. Item level is unusually important after the stat squish; sim upgrades.
+
+**Gems**
+- Indecipherable Eversong Diamond, then Flawless Masterful Garnet; with five or more sockets use Powerful Eversong Diamond plus one of each color where it activates the bonus.
+
+**Enchants and weapon augment**
+- Rite of Hash'ey on both weapons and Thalassian Phoenix Oil; Empowered Rune of Avoidance; Amirdrassil's Grace; Mark of the Worldsoul; Forest Hunter's Armor Kit; Lynx's Dexterity; Eyes of the Eagle.
+
+**Consumables**
+- Flask of the Shattered Sun is the normal choice; Magisters can correct low Mastery. Use Potion of Recklessness, Light's Potential as the safe alternative, current feast/personal food and a Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Build around Fel-Scarred Demonic windows: align Metamorphosis, The Hunt, Eye Beam, Essence Break, Death Sweep/Blade Dance and Demonsurge Annihilation. Use Immolation Aura, Felblade and Fel Rush to maintain Fury without delaying the major window.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Agility > Critical Strike > Mastery > Haste > Versatility. Item level is unusually important after the stat squish; sim upgrades. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | None listed. |
-| **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Magisters** (Valid if Mastery preferred). |
-| **Potion** | **Potion of Recklessness** (primary) | **Light's Potential** (alternative). |
-| **Food** | **Silvermoon Parade** (Agility Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Masterful Garnet** | **Flawless Deadly Amethyst** (Valid alternative). |
+| head | Empowered Rune of Avoidance | See current guide and sim |
+| shoulders | Amirdrassil's Grace | See current guide and sim |
+| chest | Mark of the Worldsoul | See current guide and sim |
+| legs | Forest Hunter's Armor Kit | See current guide and sim |
+| feet | Lynx's Dexterity | See current guide and sim |
+| ring | Eyes of the Eagle | See current guide and sim |
+| weapon | Rite of Hash'ey | See current guide and sim |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon** | **Acuity of the Ren'dorei** | Mastery/Agility proc. |
-| **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
-| **Shoulders** | **Akil'zon's Swiftness** | Critical Strike focus. |
-| **Chest** | **Mark of the Worldsoul** | Primary Agility buff. |
-| **Legs** | **Thunderous Armor Kit** | Agility + Stamina. |
-| **Boots** | **Farstrider's Hunt** | Mastery/Speed. |
+| unique gem | Indecipherable Eversong Diamond | Powerful Eversong Diamond |
+| gems | Flawless Masterful Garnet | Masterful Garnet |
 
----
-
-#### Stat Priority
-*   **General Priority:** Agility > Critical Strike > Haste > Mastery > Versatility.
-*   *Note: These weights are consistent across Fel-Scarred and Aldrachi Reaver builds.*
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Fel-Scarred**
-*   **Core Focus:** **Burning Hatred** & **Focused Hatred**.
-*   **Gameplay Effect:** Significantly increases the damage and duration of *Metamorphosis*. Focuses on massive burst windows.
-*   **Why Pick?** Superior for encounters with predictable high-damage burn phases.
-
-##### **Aldrachi Reaver**
-*   **Core Mechanic:** **Art of the Glaive** & **Aldrachi Tactics**.
-*   **Gameplay Effect:** Introduces a complex "Glaive-shaping" mechanic that empowers specific finishers. Requires high-precision rotational discipline.
-*   **Why Pick?** Superior for consistent sustained throughput and mobility.
-
----
-
-#### Deep Dive: Raid Rotation
-Focus: **Inertia Windows** and **Fury Management**.
-
-##### **A. The Inertia Audit (The 100% Rule)**
-1.  **Requirement:** Align **Inertia** (if talented) with your highest damage abilities (*Death Sweep*, *Anniversary*, etc.).
-2.  **Audit Flag:** Casting *Death Sweep* or *Eye Beam* without the **Inertia** buff (when available) is a major throughput error.
-
-##### **B. Primary Priority List (Strict Whitelist)**
-1.  **Metamorphosis:** Use on cooldown. Your primary engine.
-2.  **Eye Beam:** Use on cooldown to trigger *Demonic*.
-3.  **Death Sweep / Blade Dance:** Highest priority spender. Use on cooldown.
-4.  **Annihilation / Chaos Strike:** Secondary spender.
-5.  **Immolation Aura:** Use on cooldown (Fury generation).
-6.  **Audit Flag:** Casting *Eye Beam* while already in a long-duration **Metamorphosis** window is a minor efficiency error unless used for the Fury gain.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Shattered Sun | Flask of the Magisters |
+| potion | Potion of Recklessness | Light's Potential |
+| weapon oil | Thalassian Phoenix Oil | See current guide and sim |
 
 ---
 
@@ -229,68 +209,58 @@ Compare Cooldowns: [
 <details open>
 <summary>## Vengeance (Click to Colapse)</summary>
 
-### Vengeance Demon Hunter Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Vengeance Demon Hunter Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Unified Guide Approach)
-The guide recommends a unified approach for both Annihilator and Aldrachi builds.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/vengeance-demon-hunter-pve-tank-guide) · [talents](https://www.icy-veins.com/wow/vengeance-demon-hunter-pve-tank-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/vengeance-demon-hunter-pve-tank-stat-priority) · [enchants](https://www.icy-veins.com/wow/vengeance-demon-hunter-pve-tank-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/vengeance-demon-hunter-pve-tank-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Annihilator is the current raid and Mythic+ default; Aldrachi Reaver remains a viable alternate tree for players who prefer its planned defensive/damage windows.
+
+**Stat priority**
+- Agility > Haste > Mastery > Versatility > Critical Strike. Item level dominates defensive upgrades; keep a balanced secondary spread and sim damage sets.
+
+**Gems**
+- Indecipherable Eversong Diamond, then Flawless Deadly Peridot; use Versatile Garnet when a Haste-heavy set needs more defensive balance.
+
+**Enchants and weapon augment**
+- Thalassian Phoenix Oil; Berserker's Rage or Jan'alai's Precision/Worldsoul Tenacity on weapons; Mark of the Worldsoul; Empowered Hex of Leeching; Silvermoon's Mending; Shaladrassil's Roots; Eyes of the Eagle or Silvermoon's Alacrity; armor/stamina leg kits as needed.
+
+**Consumables**
+- Blood Knights flask is the defensive default; use Shattered Sun or Thalassian Resistance for a different profile. Potion of Recklessness or Light's Potential for safer play, current feast/personal food, health potion and Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Maintain Soul Fragments and Fiery Brand coverage, cycle Voidfall and Infernal Strike, and plan Metamorphosis, Sigil of Spite and Fiery Brand around incoming damage. Active mitigation and fragment timing take priority over raw damage.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Agility > Haste > Mastery > Versatility > Critical Strike. Item level dominates defensive upgrades; keep a balanced secondary spread and sim damage sets. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon Enchant** | **Enchant Weapon - Berserker's Rage** | **Jan'alai's Precision** (Crit Alternative). |
-| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Nature's Fury** (Haste). |
-| **Flask** | **Flask of the Blood Knights** (Haste) | **Flask of the Shattered Sun** (Crit). |
-| **Potion** | **Light's Potential** (primary tank) | **Potion of Recklessness** (alternative). |
-| **Food** | **Harandar Celebration** (Agility Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Deadly Peridot** | **Flawless Quick Amethyst** (Haste alternative). |
+| head | Empowered Hex of Leeching | See current guide and sim |
+| shoulders | Silvermoon's Mending | See current guide and sim |
+| chest | Mark of the Worldsoul | See current guide and sim |
+| feet | Shaladrassil's Roots | See current guide and sim |
+| ring | Eyes of the Eagle | Silvermoon's Alacrity |
+| weapon | Berserker's Rage | Jan'alai's Precision |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
-| **Shoulders** | **Akil'zon's Swiftness** | Versatility/Haste focus. |
-| **Chest** | **Mark of the Worldsoul** | Primary Agility buff. |
-| **Legs** | **Thunderous Armor Kit** | Agility + Stamina. |
-| **Boots** | **Farstrider's Hunt** | Mastery/Speed. |
+| unique gem | Indecipherable Eversong Diamond | See current guide and sim |
+| gems | Flawless Deadly Peridot | Deadly Peridot, Versatile Garnet |
 
----
-
-#### Stat Priority Split
-*   **Annihilator Build:** Agility > Haste > Versatility > Critical Strike > Mastery.
-*   **Aldrachi Reaver Build:** Agility > Critical Strike > Haste > Versatility > Mastery.
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Annihilator**
-*   **Core Mechanic:** **Voidfall** (Defensive Metamorphosis Extension).
-*   **Gameplay Effect:** Introduces a maintenance cycle where staying in **Metamorphosis** is possible for extended periods via *Fracture/Shear* procs.
-*   **Why Pick?** Superior survivability and high-uptime damage reduction in 12.0.5.
-
-##### **Aldrachi Reaver**
-*   **Core Mechanic:** **Soul Carver** & **Reaver's Mark**.
-*   **Gameplay Effect:** Focuses on high burst healing windows and specific target-funnel damage.
-*   **Why Pick?** Superior for encounters requiring periodic high-burst mitigation or healing.
-
----
-
-#### Deep Dive: Raid Rotation
-Focus: **Soul Fragment** consumption and **Sigil** uptime.
-
-##### **A. Primary Defensive Logic (The Voidfall Loop)**
-1.  **Metamorphosis:** Your primary defensive state. 
-2.  **Voidfall Management (Annihilator):** 
-    *   Build to **2+ stacks** before refreshing Metamorphosis.
-    *   **Audit Flag:** Casting *Metamorphosis* while at 0 stacks of Voidfall is a "Defensive Inefficiency" error.
-3.  **Soul Cleave:** Primary Soul Fragment spender. 
-4.  **Spirit Bomb:** Use only at **4+ Soul Fragments** for maximum healing and the *Frailty* debuff.
-
-##### **B. Ability Priority**
-1.  **Sigil of Spite:** Use on cooldown (ensure high uptime on the debuff).
-2.  **Fracture:** Use to generate Soul Fragments and Fury.
-3.  **Fiery Brand:** Maintain on the primary target for 40% damage reduction.
-4.  **Immolation Aura:** Use on cooldown to generate Fury and trigger *Abyssal Strike*.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Blood Knights | Flask of the Shattered Sun, Flask of Thalassian Resistance |
+| potion | Potion of Recklessness | Light's Potential |
+| weapon oil | Thalassian Phoenix Oil | See current guide and sim |
 
 ---
 

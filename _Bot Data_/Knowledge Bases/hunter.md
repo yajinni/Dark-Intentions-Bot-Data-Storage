@@ -3,67 +3,59 @@
 <details open>
 <summary>## Beast Mastery (Click to Colapse)</summary>
 
-### Beast Mastery Hunter Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Beast Mastery Hunter Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Unified Guide Approach)
-The guide recommends a unified approach for both Pack Leader and Dark Ranger builds.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/beast-mastery-hunter-pve-dps-guide) · [talents](https://www.icy-veins.com/wow/beast-mastery-hunter-pve-dps-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/beast-mastery-hunter-pve-dps-stat-priority) · [enchants](https://www.icy-veins.com/wow/beast-mastery-hunter-pve-dps-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/beast-mastery-hunter-pve-dps-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Pack Leader is the default in all content; Dark Ranger is a tankier, more complex alternative that trails in damage.
+
+**Stat priority**
+- Mastery > Critical Strike > Versatility > Haste.
+
+**Gems**
+- Indecipherable Eversong Diamond, then Flawless Deadly Amethyst.
+
+**Enchants and weapon augment**
+- Empowered Rune of Avoidance; Amirdrassil's Grace; Mark of the Worldsoul; Forest Hunter's Armor Kit; Lynx's Dexterity; Eyes of the Eagle; Rite of Hash'ey and Thalassian Phoenix Oil.
+
+**Consumables**
+- Magisters flask; Potion of Recklessness when Mastery is highest and Versatility is low, otherwise Light's Potential; Liquid Luster for Mythic+ pre-pulls; current feast/personal food and Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Maintain Bestial Wrath and a three-stack Barbed Shot Frenzy, then prioritize Kill Command and Cobra Shot. Open with Hunter's Mark and Barbed Shot, align Bestial Wrath with trinkets/potion, and never let Barbed Shot charges overcap.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Mastery > Critical Strike > Versatility > Haste. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | None listed. |
-| **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Blood Knights** (Haste). |
-| **Potion** | **Potion of Recklessness** (primary) | **Light's Potential** (alternative). |
-| **Food** | **Harandar Celebration** (Agility Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Deadly Peridot** | **Flawless Quick Lapis** (Haste alternative). |
+| head | Empowered Rune of Avoidance | See current guide and sim |
+| shoulders | Amirdrassil's Grace | See current guide and sim |
+| chest | Mark of the Worldsoul | See current guide and sim |
+| legs | Forest Hunter's Armor Kit | See current guide and sim |
+| feet | Lynx's Dexterity | See current guide and sim |
+| ring | Eyes of the Eagle | See current guide and sim |
+| weapon | Rite of Hash'ey | See current guide and sim |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon** | **Acuity of the Ren'dorei** | Mastery/Agility proc. |
-| **Weapon (Alternative)** | **Jan'alai's Precision** | **Valid Alternative** for preference. |
-| **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
-| **Shoulders** | **Akil'zon's Swiftness** | Critical Strike focus. |
-| **Chest** | **Mark of the Worldsoul** | Primary Agility buff. |
-| **Legs** | **Thunderous Armor Kit** | Agility + Stamina. |
-| **Boots** | **Farstrider's Hunt** | Mastery/Speed focus. |
+| unique gem | Indecipherable Eversong Diamond | See current guide and sim |
+| gems | Flawless Deadly Amethyst | Deadly Amethyst |
 
----
-
-#### Stat Priority Split
-*   **All Builds:** Mastery > Critical Strike > Haste > Versatility.
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Pack Leader**
-*   **Core Focus:** **Kill Command** & **Pack Hunter**.
-*   **Gameplay Effect:** Significantly increases the damage of your pet and Kill Command. Requires high-precision maintenance of *Frenzy* to maximize the *Pack Hunter* uptime.
-*   **Why Pick?** Superior for pure single-target boss encounters and consistent raid throughput.
-
-##### **Dark Ranger**
-*   **Core Mechanic:** **Black Arrow** & **Shadow Surge**.
-*   **Gameplay Effect:** Adds a shadow-damage component to your rotation. Higher dependency on *Kill Shot* procs.
-*   **Why Pick?** Superior for burst-heavy windows and encounters with priority adds.
-
----
-
-#### Deep Dive: Raid Rotation
-Focus: **Frenzy Maintenance** and **Bestial Wrath** uptime.
-
-##### **A. The Frenzy Audit (The 3-Stack Rule)**
-1.  **Barbed Shot:** Use only when **Frenzy** is about to expire or you have 2 charges. Your goal is to maintain **3 stacks** of Frenzy at all times.
-2.  **Audit Flag:** Letting **Frenzy** fall off while Barbed Shot has charges available is a catastrophic throughput failure.
-
-##### **B. Primary Priority List**
-1.  **Kill Command:** Use on cooldown. This is your primary generator and damage source.
-2.  **Bestial Wrath:** Use on cooldown (ensure Kill Command is on CD first to benefit from the reset).
-3.  **Bloodshed / Dire Beast:** Use on cooldown.
-4.  **Kill Shot:** Use whenever the target is **< 20% HP**.
-5.  **Cobra Shot:** Use ONLY if Kill Command is on CD and you are at **> 100 Focus**.
-6.  **Audit Flag:** Casting *Cobra Shot* when Kill Command is ready is a major resource and throughput error.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Magisters | See current guide and sim |
+| potion | Potion of Recklessness | Light's Potential, Liquid Luster |
+| weapon oil | Thalassian Phoenix Oil | See current guide and sim |
 
 ---
 
@@ -121,67 +113,59 @@ Compare Cooldowns: [
 <details open>
 <summary>## Marksmanship (Click to Colapse)</summary>
 
-### Marksmanship Hunter Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Marksmanship Hunter Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Unified Guide Approach)
-The guide recommends a unified approach for both Dark Ranger and Sentinel builds.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/marksmanship-hunter-pve-dps-guide) · [talents](https://www.icy-veins.com/wow/marksmanship-hunter-pve-dps-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/marksmanship-hunter-pve-dps-stat-priority) · [enchants](https://www.icy-veins.com/wow/marksmanship-hunter-pve-dps-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/marksmanship-hunter-pve-dps-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Sentinel is the current all-content recommendation; Dark Ranger is the defensive/easier alternative. A Tenacious pet is the recommended competitive default despite its small DPS cost.
+
+**Stat priority**
+- Critical Strike > Mastery > Versatility > Haste.
+
+**Gems**
+- With five or more sockets use Powerful Eversong Diamond plus one of each color, then Masterful Garnet; below that use Indecipherable Diamond and Masterful Garnet.
+
+**Enchants and weapon augment**
+- Empowered Hex of Leeching; Silvermoon's Mending; Mark of the Worldsoul; Forest Hunter's Armor Kit; Shaladrassil's Roots; Eyes of the Eagle; Rite of Hash'ey and Thalassian Phoenix Oil.
+
+**Consumables**
+- Shattered Sun flask; Potion of Recklessness when Crit is highest and Versatility is low; Liquid Luster as the execute/second potion; Light's Potential as alternative, current feast/personal food and Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Use Explosive Shot on cooldown, Volley on cooldown and Trueshot with the final one held for the Bullseye window when appropriate. Prioritize Aimed Shot, Rapid Fire and Arcane Shot while maintaining Hunter's Mark and Trick Shots requirements.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Critical Strike > Mastery > Versatility > Haste. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Nature's Fury** (Haste). |
-| **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Magisters** (Mastery). |
-| **Potion** | **Potion of Recklessness** (primary) | **Light's Potential** (alternative). |
-| **Food** | **Silvermoon Parade** (Agility Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Deadly Peridot** | **Flawless Quick Lapis** (Haste alternative). |
+| head | Empowered Hex of Leeching | See current guide and sim |
+| shoulders | Silvermoon's Mending | See current guide and sim |
+| chest | Mark of the Worldsoul | See current guide and sim |
+| legs | Forest Hunter's Armor Kit | See current guide and sim |
+| feet | Shaladrassil's Roots | See current guide and sim |
+| ring | Eyes of the Eagle | See current guide and sim |
+| weapon | Rite of Hash'ey | See current guide and sim |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon** | **Acuity of the Ren'dorei** | Mastery/Agility proc. |
-| **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
-| **Shoulders** | **Akil'zon's Swiftness** | Mastery focus. |
-| **Chest** | **Mark of the Worldsoul** | Primary Agility buff. |
-| **Legs** | **Thunderous Armor Kit** | Agility + Stamina. |
-| **Boots** | **Farstrider's Hunt** | Mastery/Speed. |
+| unique gem | Powerful Eversong Diamond | See current guide and sim |
+| gems | Masterful Garnet | See current guide and sim |
 
----
-
-#### Stat Priority Split
-*   **All Builds:** Agility > Critical Strike > Mastery > Versatility > Haste.
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Dark Ranger**
-*   **Core Focus:** **Black Arrow** & **Death Shade**.
-*   **Gameplay Effect:** Introduces *Black Arrow* as a high-priority spender. Focuses on shadow-damage amplification and *Kill Shot* resets.
-*   **Why Pick?** Superior for pure single-target boss encounters.
-
-##### **Sentinel**
-*   **Core Mechanic:** **Sentinel Watch** & **Lunar Storm**.
-*   **Gameplay Effect:** Adds an Arcane damage component to your *Aimed Shot* and *Rapid Fire*. Higher dependency on positioning to keep targets inside the Lunar Storm.
-*   **Why Pick?** Superior for multi-target cleave and consistent area damage.
-
----
-
-#### Deep Dive: Raid Rotation
-Focus: **Aimed Shot Charge Management** and **Trick Shots** efficiency.
-
-##### **A. Charge Management Audit**
-1.  **Aimed Shot:** Never reach **2 charges**. Cast when one charge is at ~90% to avoid wasting recharge time.
-2.  **Rapid Fire:** Use on cooldown. Generates Focus and does high damage.
-3.  **Audit Flag:** Holding 2 charges of **Aimed Shot** for more than 2 seconds is a significant throughput loss.
-
-##### **B. Trick Shots (The Multi-Target Audit)**
-1.  **Requirement:** IF 3+ targets are present, THEN cast **Multi-Shot** (or **Volley**) before casting *Aimed Shot* or *Rapid Fire*.
-2.  **Audit Flag:** Casting *Aimed Shot* or *Rapid Fire* on 3+ targets without the **Trick Shots** buff active is a major cleave failure.
-
-##### **C. Spenders**
-1.  **Arcane Shot / Chimera Shot:** Use only as a filler to avoid capping Focus (> 90).
-2.  **Steady Shot:** Primary generator when Focus is low and no other spenders are available.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Shattered Sun | See current guide and sim |
+| potion | Potion of Recklessness | Liquid Luster, Light's Potential |
+| weapon oil | Thalassian Phoenix Oil | See current guide and sim |
 
 ---
 
@@ -239,68 +223,59 @@ Compare Cooldowns: [
 <details open>
 <summary>## Survival (Click to Colapse)</summary>
 
-### Survival Hunter Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Survival Hunter Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Unified Guide Approach)
-The guide recommends a unified approach for both Sentinel and Pack Leader builds.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/survival-hunter-pve-dps-guide) · [talents](https://www.icy-veins.com/wow/survival-hunter-pve-dps-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/survival-hunter-pve-dps-stat-priority) · [enchants](https://www.icy-veins.com/wow/survival-hunter-pve-dps-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/survival-hunter-pve-dps-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Sentinel is preferred across raid and Mythic+; Pack Leader is a priority-target alternative. Use the AoE build except for pure single target, and Razor Edge only when Boomstick reduction is not wasted.
+
+**Stat priority**
+- Mastery > Critical Strike > Haste > Versatility; Crit and Haste are close, so keep Mastery highest and sim close pieces.
+
+**Gems**
+- Indecipherable Eversong Diamond, then Flawless Deadly Amethyst.
+
+**Enchants and weapon augment**
+- Empowered Hex of Leeching; Silvermoon's Mending; Mark of the Worldsoul; Forest Hunter's Armor Kit; Shaladrassil's Roots; Eyes of the Eagle; Rite of Hash'ey and Thalassian Phoenix Oil on both weapons.
+
+**Consumables**
+- Magisters flask; Potion of Recklessness or Light's Potential, current feast/personal food and Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Follow the Tip of the Spear rule: Kill Command grants two stacks, then spend them on two tipped abilities. Prioritize Boomstick, Wildfire Bomb, Takedown and Moonlight Chakram before returning to Kill Command.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Mastery > Critical Strike > Haste > Versatility; Crit and Haste are close, so keep Mastery highest and sim close pieces. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Nature's Fury** (Haste). |
-| **Flask** | **Flask of the Magisters** (Mastery) | **Flask of the Shattered Sun** (Crit). |
-| **Potion** | **Potion of Recklessness** (primary) | **Light's Potential** (alternative). |
-| **Food** | **Silvermoon Parade** (Agility Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Masterful Peridot** | **Flawless Quick Amethyst** (Haste alternative). |
+| head | Empowered Hex of Leeching | See current guide and sim |
+| shoulders | Silvermoon's Mending | See current guide and sim |
+| chest | Mark of the Worldsoul | See current guide and sim |
+| legs | Forest Hunter's Armor Kit | See current guide and sim |
+| feet | Shaladrassil's Roots | See current guide and sim |
+| ring | Eyes of the Eagle | See current guide and sim |
+| weapon | Rite of Hash'ey | See current guide and sim |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon** | **Acuity of the Ren'dorei** | Mastery/Agility proc. |
-| **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
-| **Shoulders** | **Akil'zon's Swiftness** | Mastery focus. |
-| **Chest** | **Mark of the Worldsoul** | Primary Agility buff. |
-| **Legs** | **Thunderous Armor Kit** | Agility + Stamina. |
-| **Boots** | **Farstrider's Hunt** | Mastery/Speed. |
+| unique gem | Indecipherable Eversong Diamond | See current guide and sim |
+| gems | Flawless Deadly Amethyst | Deadly Amethyst |
 
----
-
-#### Stat Priority Split
-*   **All Builds:** Agility > Mastery > Critical Strike > Haste > Versatility.
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Sentinel**
-*   **Core Focus:** **Lunar Storm** & **Sentinel Watch**.
-*   **Gameplay Effect:** Adds a massive Arcane explosion component to your *Wildfire Bomb* and *Mongoose Bite*. Requires staying in the "Lunar Storm" area for maximum value.
-*   **Why Pick?** Superior for raid throughput and consistent area damage in 12.0.5.
-
-##### **Pack Leader**
-*   **Core Mechanic:** **Vicious Hunt** & **Pack Hunter**.
-*   **Gameplay Effect:** Increases the damage of your pet and Kill Command. More focused on physical throughput.
-*   **Why Pick?** Superior for pure single-target boss encounters.
-
----
-
-#### Deep Dive: Raid Rotation
-Focus: **Tip of the Spear** stacks and **Mongoose Fury** windows.
-
-##### **A. Tip of the Spear Audit (The Golden Rule)**
-1.  **Rule:** Every non-Kill Command spender (Wildfire Bomb, Mongoose Bite, Flanking Strike, Explosive Shot) SHOULD have at least **1 stack** of *Tip of the Spear* active.
-2.  **Generation:** Cast **Kill Command** to generate 1 stack of Tip of the Spear (max 3 stacks).
-3.  **Audit Flag:** Casting *Wildfire Bomb* or *Mongoose Bite* at **0 stacks** of Tip of the Spear (when Kill Command is available) is a major efficiency failure.
-
-##### **B. Mongoose Fury Window**
-1.  **Requirement:** Once you cast the first **Mongoose Bite**, you enter a 14s window. Cast as many Mongoose Bites as possible during this window.
-2.  **Resource Goal:** Only start the Mongoose Fury window when at **> 70 Focus** to ensure 3-4 consecutive bites.
-3.  **Audit Flag:** Casting *Kill Command* more than twice inside a Mongoose Fury window is a "Window Loss" error.
-
-##### **C. Maintenance**
-1.  **Wildfire Bomb:** Use on cooldown (ensure 1+ stack of Tip of the Spear). Do not cap 2 charges.
-2.  **Explosive Shot:** Use on cooldown (ensure 1+ stack of Tip of the Spear).
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Magisters | See current guide and sim |
+| potion | Potion of Recklessness | Light's Potential |
+| weapon oil | Thalassian Phoenix Oil | See current guide and sim |
 
 ---
 

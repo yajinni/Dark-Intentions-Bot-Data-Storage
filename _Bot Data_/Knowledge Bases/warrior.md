@@ -3,70 +3,59 @@
 <details open>
 <summary>## Arms (Click to Colapse)</summary>
 
-### Arms Warrior Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Arms Warrior Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Unified Guide Approach)
-The guide recommends a unified approach for both Slayer and Colossus builds.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/arms-warrior-pve-dps-guide) · [talents](https://www.icy-veins.com/wow/arms-warrior-pve-dps-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/arms-warrior-pve-dps-stat-priority) · [enchants](https://www.icy-veins.com/wow/arms-warrior-pve-dps-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/arms-warrior-pve-dps-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Slayer is the single-target, raid and most Mythic+ default; Colossus is the multi-target burst alternative with lower single-target output.
+
+**Stat priority**
+- Item Level > Critical Strike > Haste > Mastery > Versatility.
+
+**Gems**
+- Powerful Eversong Diamond plus one each color while avoiding Lapis when possible, or Indecipherable Diamond; use Quick Garnet/Deadly Peridot by sim.
+
+**Enchants and weapon augment**
+- Berserker's Rage weapon enchant; Empowered Hex of Leeching; Akil'zon's Swiftness; Mark of the Worldsoul; Blood Knight's Armor Kit; Lynx's Dexterity; Eyes of the Eagle.
+
+**Consumables**
+- Blood Knights or Shattered Sun flask by stat profile; Potion of Recklessness with Crit highest and Versatility low, Light's Potential as the safe alternative; health potion, Harandar/Royal Roast and Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Stay in Battle Stance, maintain the single-target or multi-target priority, and align Colossus Smash/Avatar/Bladestorm/Ravager/Demolish. Use Charge and the correct opening sequence without delaying Mortal Strike or wasting Rage.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Item Level > Critical Strike > Haste > Mastery > Versatility. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | None listed. |
-| **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Blood Knights** (Haste). |
-| **Potion** | **Potion of Recklessness** (primary, requires high Crit) | **Light's Potential** (simpler/safer alternative). |
-| **Food** | **Harandar Celebration** (Strength Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Quick Garnet** | **Flawless Deadly Peridot** (Mastery alternative). |
+| head | Empowered Hex of Leeching | See current guide and sim |
+| shoulders | Akil'zon's Swiftness | See current guide and sim |
+| chest | Mark of the Worldsoul | See current guide and sim |
+| legs | Blood Knight's Armor Kit | See current guide and sim |
+| feet | Lynx's Dexterity | See current guide and sim |
+| ring | Eyes of the Eagle | See current guide and sim |
+| weapon | Berserker's Rage | See current guide and sim |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon** | **Enchant Weapon - Berserker's Rage** | Standard DPS enchant. |
-| **Weapon (Alternative)** | **Jan'alai's Precision** | **Valid Alternative** for preference. |
-| **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
-| **Shoulders** | **Akil'zon's Swiftness** | Critical Strike focus. |
-| **Chest** | **Mark of the Worldsoul** | Primary Strength buff. |
-| **Legs** | **Thunderous Armor Kit** | Strength + Stamina. |
-| **Boots** | **Farstrider's Hunt** | Mastery/Speed focus. |
+| unique gem | Powerful Eversong Diamond | See current guide and sim |
+| gems | Quick Garnet | Deadly Peridot |
 
----
-
-#### Stat Priority
-*   **General Priority:** Strength > Critical Strike > Haste > Mastery > Versatility.
-*   *Note: Slayer benefits slightly more from Crit, while Colossus values Mastery, but the general priority remains consistent for raiding.*
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Slayer**
-*   **Core Focus:** **Slayer's Strike** & **Marked for Execution**.
-*   **Gameplay Effect:** Significantly increases the damage and frequency of your *Execute* phase. Focuses on single-target pressure and bleed amplification.
-*   **Why Pick?** Superior for pure single-target boss encounters in 12.0.5.
-
-##### **Colossus**
-*   **Core Mechanic:** **Demolish** & **Colossal Might**.
-*   **Gameplay Effect:** Adds a massive physical burst component to your rotation. Requires stacking *Colossal Might* before using *Demolish*.
-*   **Why Pick?** Superior for multi-target cleave and priority target burst.
-
----
-
-#### Deep Dive: Raid Rotation
-Focus: **Colossus Smash Windows** and **Execute Priority**.
-
-##### **A. The Burst Audit (The CS Window)**
-1.  **Avatar:** Use on cooldown (align with Colossus Smash).
-2.  **Colossus Smash (or Warbreaker):** Top priority burst window trigger.
-3.  **Bladestorm:** Use immediately inside the CS window (if talented).
-4.  **Audit Flag:** Casting **Slam** or **Overpower** during the *Colossus Smash* window while **Mortal Strike** or **Execute** is available is a catastrophic throughput failure.
-
-##### **B. Primary Priority List (Strict Whitelist)**
-1.  **Execute:** Top priority whenever available (including *Sudden Death* procs).
-2.  **Mortal Strike:** Primary generator and damage source. Use on cooldown.
-3.  **Overpower:** Use to generate *Dreadnaught* stacks and bridge gaps.
-4.  **Rend:** Maintain 100% uptime on the primary target.
-5.  **Slam:** Use ONLY as a filler if at **> 60 Rage** and no other abilities are available.
-6.  **Audit Flag:** Letting **Deep Wounds** or **Rend** fall off the primary target is a baseline loss error.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Blood Knights | Flask of the Shattered Sun |
+| potion | Potion of Recklessness | Light's Potential |
+| food | Royal Roast | See current guide and sim |
 
 ---
 
@@ -141,69 +130,58 @@ Compare Cooldowns: [
 <details open>
 <summary>## Fury (Click to Colapse)</summary>
 
-### Fury Warrior Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Fury Warrior Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Unified Guide Approach)
-The guide recommends a unified approach for both Slayer and Mountain Thane builds.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/fury-warrior-pve-dps-guide) · [talents](https://www.icy-veins.com/wow/fury-warrior-pve-dps-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/fury-warrior-pve-dps-stat-priority) · [enchants](https://www.icy-veins.com/wow/fury-warrior-pve-dps-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/fury-warrior-pve-dps-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Slayer is the raid/single-target and general multi-target default; Mountain Thane is the current Mythic+ and heavier AoE alternative.
+
+**Stat priority**
+- Item Level > Mastery > Haste > Versatility > Critical Strike.
+
+**Gems**
+- Powerful or Indecipherable Diamond, then Quick Garnet or Masterful Peridot; avoid Lapis unless a sim specifically favors it.
+
+**Enchants and weapon augment**
+- Berserker's Rage weapon enchant; Empowered Hex of Leeching; Akil'zon's Swiftness; Mark of the Worldsoul; Blood Knight's Armor Kit; Lynx's Dexterity; Eyes of the Eagle.
+
+**Consumables**
+- Magisters or Blood Knights by stat profile; Potion of Recklessness when Mastery is highest and Versatility is low, Light's Potential as the safe alternative; health potion, Harandar/Royal Roast and Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Stay in Berserker Stance, use Whirlwind to maintain Improved Whirlwind/Rend, spend Rampage, and align Recklessness, Bladestorm and Odyn's Fury. Season 2 bonuses extend Recklessness through Raging Blow/Bloodthirst, so avoid emptying the window.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Item Level > Mastery > Haste > Versatility > Critical Strike. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Zul'jin's Mastery** | **Enchant Ring - Silvermoon's Alacrity** (Haste). |
-| **Flask** | **Flask of the Magisters** (Mastery) | **Flask of the Shattered Sun** (Crit). |
-| **Potion** | **Potion of Recklessness** (primary) | **Light's Potential** (alternative). |
-| **Food** | **Silvermoon Parade** (Strength Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | **Powerful Eversong Diamond**. |
-| **Gems** | **Flawless Quick Amethyst** | **Flawless Masterful Peridot** (Mastery alternative). |
+| head | Empowered Hex of Leeching | See current guide and sim |
+| shoulders | Akil'zon's Swiftness | See current guide and sim |
+| chest | Mark of the Worldsoul | See current guide and sim |
+| legs | Blood Knight's Armor Kit | See current guide and sim |
+| feet | Lynx's Dexterity | See current guide and sim |
+| ring | Eyes of the Eagle | See current guide and sim |
+| weapon | Berserker's Rage | See current guide and sim |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon** | **Enchant Weapon - Arcane Mastery** | **Enchant Weapon - Berserker's Rage** (Alternative). |
-| **Helm** | **Enchant Helm - Empowered Hex of Leeching** | **Enchant Helm - Empowered Rune of Avoidance** (Alternative). |
-| **Shoulders** | **Enchant Shoulders - Amirdrassil's Grace** | **Enchant Shoulders - Thalassian Recovery** (Alternative). |
-| **Chest** | **Enchant Chest - Mark of the Worldsoul** | **Enchant Chest - Mark of Nalorakk** (Alternative). |
-| **Legs** | **Blood Knight's Armor Kit** | **Forest Hunter's Armor Kit** (Alternative). |
-| **Boots** | **Enchant Boots - Lynx's Dexterity** | **Enchant Boots - Shaladrassil's Roots** (Alternative). |
+| gems | Quick Garnet | Masterful Peridot |
 
----
-
-#### Stat Priority Split
-*   **All Builds:** Strength > Mastery > Haste > Versatility > Critical Strike.
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Slayer**
-*   **Core Focus:** **Slayer's Strike** & **Bladestorm**.
-*   **Gameplay Effect:** Introduces *Bladestorm* into the core rotation. Focuses on high-intensity physical burst and *Execute* resets.
-*   **Why Pick?** Superior for pure single-target and priority target damage in 12.0.5.
-
-##### **Mountain Thane**
-*   **Core Mechanic:** **Thunder Blast** & **Lightning Strikes**.
-*   **Gameplay Effect:** Adds a massive lightning damage component to your *Thunder Clap* and *Bloodthirst*. 
-*   **Why Pick?** Superior for multi-target cleave and area-of-effect pressure.
-
----
-
-#### Deep Dive: Raid Rotation
-Focus: **Rage Management** and **Enrage Uptime**.
-
-##### **A. The Rage Audit (The 100-Rage Rule)**
-1.  **Rule:** **NEVER** cap at 100 Rage. Spend via **Rampage** immediately.
-2.  **Audit Flag:** Casting **Raging Blow** or **Bloodthirst** while at 100 Rage is a catastrophic resource failure.
-
-##### **B. Enrage Audit (100% Uptime)**
-1.  **Requirement:** Maintain 100% uptime on the **Enrage** buff through consistent *Rampage* and *Recklessness* usage.
-2.  **Audit Flag:** Letting **Enrage** fall off during active combat is a critical failure of the spec's core engine.
-
-##### **C. Primary Priority List**
-1.  **Rampage:** Top priority spender. Use at **80+ Rage** or whenever not Enraged.
-2.  **Execute:** Use on cooldown whenever available.
-3.  **Bloodthirst (or Bloodbath):** Use to maintain Enrage and generate Rage.
-4.  **Raging Blow (or Crushing Blow):** Primary generator.
-5.  **Audit Flag:** Casting *Raging Blow* when **Execute** is available is a throughput error.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Magisters | Flask of the Blood Knights |
+| potion | Potion of Recklessness | Light's Potential |
+| food | Royal Roast | See current guide and sim |
 
 ---
 
@@ -277,70 +255,60 @@ Compare Cooldowns: [
 <details open>
 <summary>## Protection (Click to Colapse)</summary>
 
-### Protection Warrior Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Protection Warrior Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Unified Guide Approach)
-The guide recommends a unified approach for both Mountain Thane and Colossus builds.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/protection-warrior-pve-tank-guide) · [talents](https://www.icy-veins.com/wow/protection-warrior-pve-tank-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/protection-warrior-pve-tank-stat-priority) · [enchants](https://www.icy-veins.com/wow/protection-warrior-pve-tank-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/protection-warrior-pve-tank-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Colossus is the single-target choice; Mountain Thane is the AoE/Mythic+ choice. Both are viable by encounter.
+
+**Stat priority**
+- Item Level > Haste > Critical Strike > Versatility > Mastery.
+
+**Gems**
+- Indecipherable Eversong Diamond, then Flawless Deadly Peridot/Haste-oriented gems.
+
+**Enchants and weapon augment**
+- Thalassian Phoenix Oil; Silvermoon's Alacrity rings; Acuity of the Ren'dorei or Berserker's Rage weapon; Empowered Hex of Leeching; Silvermoon's Mending; Mark of the Worldsoul; Blood Knight's Armor Kit; Shaladrassil's Roots.
+
+**Consumables**
+- Shattered Sun or Blood Knights flask by profile; Light's Potential; health potion; Champion's Bento or current feast and Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Use Thunder Clap over Revenge when aggro requires it, keep Shield Block/Ignore Pain active, and rotate Avatar, Demoralizing Shout, Ravager, Shield Charge, Demolish, Shield Slam, Revenge and Thunder Clap. Spend Rage before capping while maintaining mitigation.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Item Level > Haste > Critical Strike > Versatility > Mastery. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Silvermoon's Alacrity** (Haste). |
-| **Flask** | **Flask of the Blood Knights** (Haste) | **Flask of the Shattered Sun** (Crit). |
-| **Potion** | **Light's Potential** (primary tank) | **Potion of Recklessness** (alternative). |
-| **Food** | **Silvermoon Parade** (Strength Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Quick Amethyst** | **Flawless Masterful Peridot** (Mastery alternative). |
+| head | Empowered Hex of Leeching | See current guide and sim |
+| shoulders | Silvermoon's Mending | See current guide and sim |
+| chest | Mark of the Worldsoul | See current guide and sim |
+| legs | Blood Knight's Armor Kit | See current guide and sim |
+| feet | Shaladrassil's Roots | See current guide and sim |
+| ring | Silvermoon's Alacrity | See current guide and sim |
+| weapon | Acuity of the Ren'dorei | Berserker's Rage |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon** | **Enchant Weapon - Berserker's Rage** | Standard tanking enchant. |
-| **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
-| **Shoulders** | **Akil'zon's Swiftness** | Versatility/Haste focus. |
-| **Chest** | **Mark of the Worldsoul** | Primary Strength buff. |
-| **Legs** | **Thunderous Armor Kit** | Strength + Stamina. |
-| **Boots** | **Farstrider's Hunt** | Mastery/Speed focus. |
+| unique gem | Indecipherable Eversong Diamond | See current guide and sim |
+| gems | Flawless Deadly Peridot | Deadly Peridot |
 
----
-
-#### Stat Priority Split
-*   **All Builds:** Strength / Item Level > Haste > Versatility = Critical Strike > Mastery.
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Mountain Thane**
-*   **Core Focus:** **Thunder Blast** & **Ground Current**.
-*   **Gameplay Effect:** Introduces *Thunder Blast* (empowered Thunder Clap) as your primary damage and threat generator. Focuses on area-of-effect pressure and lightning synergy.
-*   **Why Pick?** Superior for raid throughput and consistent area defense in 12.0.5.
-
-##### **Colossus**
-*   **Core Mechanic:** **Demolish** & **Colossal Might**.
-*   **Gameplay Effect:** Increases your single-target survivability and physical damage.
-*   **Why Pick?** Superior for pure single-target survival and physical-heavy encounters.
-
----
-
-#### Deep Dive: Raid Rotation
-Focus: **Shield Block Uptime** and **Rage Efficiency**.
-
-##### **A. Active Mitigation Audit (The 100% Rule)**
-1.  **Shield Block:** Maintain **100% uptime** during all physical intake.
-2.  **Audit Flag:** Tanking any physical target without **Shield Block** active is a critical survival failure.
-
-##### **B. Rage Dump Audit (The Ignore Pain Rule)**
-1.  **Ignore Pain:** Use to spend excess Rage and prevent capping. 
-2.  **Audit Flag:** Letting Rage cap at **100** while **Ignore Pain** is available and off-GCD is a catastrophic failure of the survival engine.
-
-##### **C. Priority List**
-1.  **Shield Slam:** Top priority generator. Use on cooldown.
-2.  **Thunder Blast (Mountain Thane):** Use immediately on proc.
-3.  **Shield Charge / Ravager:** Use on cooldown for resource generation.
-4.  **Thunder Clap:** Primary filler and generator.
-5.  **Revenge:** Use only on free procs or to dump excess Rage if Ignore Pain is at its cap.
-6.  **Audit Flag:** Casting *Revenge* (spent Rage) when Shield Block is about to expire is a critical error.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Shattered Sun | Flask of the Blood Knights |
+| potion | Light's Potential | See current guide and sim |
+| food | Champion's Bento | See current guide and sim |
+| weapon oil | Thalassian Phoenix Oil | See current guide and sim |
 
 ---
 
@@ -392,6 +360,7 @@ Track Resources: [2] // 2 = Rage (ID 101)
 - **Formatting Rule:** For each resource, you MUST show `Generated: [Total] • Wasted: [Wasted] ([Waste%]%)`.
 - **Logic:**
     1.  **Rage (Type 2 / ID 101):** Protection Warriors use Rage for Active Mitigation (Shield Block) and survival (Ignore Pain). Wasting Rage at 100 is a critical survival error, as it indicates the player is not maintaining their defensive shell properly.
+
 </details>
 
 ## Utility

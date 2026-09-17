@@ -3,68 +3,60 @@
 <details open>
 <summary>## Affliction (Click to Colapse)</summary>
 
-### Affliction Warlock Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Affliction Warlock Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Unified Guide Approach)
-The guide recommends a unified approach for both Soul Harvester and Hellcaller builds.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/affliction-warlock-pve-dps-guide) · [talents](https://www.icy-veins.com/wow/affliction-warlock-pve-dps-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/affliction-warlock-pve-dps-stat-priority) · [enchants](https://www.icy-veins.com/wow/affliction-warlock-pve-dps-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/affliction-warlock-pve-dps-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Soul Harvester is dominant in all current content; Hellcaller trails in the current Season 2 tuning.
+
+**Stat priority**
+- Item Level > Haste > Critical Strike > Mastery > Versatility.
+
+**Gems**
+- Indecipherable Eversong Diamond until higher Mythic gear supports Powerful Eversong Diamond; use Flawless Deadly Amethyst/Crit and activate required colors.
+
+**Enchants and weapon augment**
+- Empowered Blessing of Speed; Akil'zon's Swiftness; Mark of the Worldsoul; Sunfire Silk Spellthread; Farstrider's Hunt; Eyes of the Eagle; Acuity/Berserker's Rage weapon enchant and Thalassian Phoenix Oil.
+
+**Consumables**
+- Blood Knights flask; Potion of Recklessness with little/no Versatility, otherwise Light's Potential; Liquid Luster after Font of Venomous Rage; health potion, Harandar/Royal Roast and Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Maintain Agony, Corruption and Unstable Affliction, use Haunt/Dark Harvest/Malevolence/Darkglare in the planned window, spend shards on UA, and use Nightfall Shadow Bolt/Malefic Grasp without letting DoTs or shards drift.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Item Level > Haste > Critical Strike > Mastery > Versatility. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Silvermoon's Alacrity** (Haste). |
-| **Flask** | **Flask of the Magisters** (Mastery) | **Flask of the Shattered Sun** (Crit). |
-| **Potion** | **Draught of Rampant Abandon** (max throughput, spawns silence pool) | **Light's Potential** (safe alternative, ~10% less). |
-| **Food** | **Silvermoon Parade** (Intellect Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Masterful Peridot** | **Flawless Quick Amethyst** (Haste alternative). |
+| head | Empowered Blessing of Speed | See current guide and sim |
+| shoulders | Akil'zon's Swiftness | See current guide and sim |
+| chest | Mark of the Worldsoul | See current guide and sim |
+| legs | Sunfire Silk Spellthread | See current guide and sim |
+| feet | Farstrider's Hunt | See current guide and sim |
+| ring | Eyes of the Eagle | See current guide and sim |
+| weapon | Berserker's Rage | See current guide and sim |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon** | **Acuity of the Ren'dorei** | Mastery/Intellect proc. |
-| **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
-| **Shoulders** | **Akil'zon's Swiftness** | Haste focus. |
-| **Chest** | **Mark of the Magister** | Primary Intellect buff. |
-| **Legs** | **Sunfire Silk Spellthread** | Intellect + Stamina. |
-| **Boots** | **Farstrider's Hunt** | Mastery/Speed. |
+| unique gem | Indecipherable Eversong Diamond | Powerful Eversong Diamond |
+| gems | Flawless Deadly Amethyst | Deadly Amethyst |
 
----
-
-#### Stat Priority Split
-*   **All Builds:** Intellect > Haste = Critical Strike > Mastery > Versatility.
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Soul Harvester**
-*   **Core Focus:** **Dark Harvest** & **Soul Anima**.
-*   **Gameplay Effect:** Introduces a massive burst window where you consume soul spirits to boost damage. Requires precise shard management to avoid capping during the spirits' return.
-*   **Why Pick?** Superior for pure single-target boss encounters in 12.0.5.
-
-##### **Hellcaller**
-*   **Core Mechanic:** **Wither** (Replaces Corruption) & **Malevolence**.
-*   **Gameplay Effect:** Enhances the damage and spread of your damage-over-time effects. Focuses on high-intensity multi-target pressure.
-*   **Why Pick?** Superior for multi-target cleave and target-rich environments.
-
----
-
-#### Deep Dive: Raid Rotation
-Focus: **DoT Maintenance** and **Shard Efficiency**.
-
-##### **A. The Maintenance Audit (100% Uptime)**
-1.  **Agony:** Maintain 100% uptime. Primary shard generator.
-2.  **Corruption (or Wither):** Maintain 100% uptime.
-3.  **Unstable Affliction:** Maintain 100% uptime on the primary target.
-4.  **Audit Flag:** Letting **Agony** fall off the primary target is a catastrophic resource failure.
-
-##### **B. Primary Priority List**
-1.  **Haunt:** Maintain 100% uptime on the target for the damage multiplier.
-2.  **Soul Rot:** Use on cooldown (ensure all primary DoTs are active).
-3.  **Dark Harvest (Soul Harvester):** Use on cooldown.
-4.  **Malefic Rapture:** Primary Soul Shard spender. Use to prevent capping.
-5.  **Shadow Bolt / Drain Soul:** Primary filler.
-6.  **Audit Flag:** Casting *Malefic Rapture* when **Unstable Affliction** is not active on the target is a significant throughput error.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Blood Knights | See current guide and sim |
+| potion | Potion of Recklessness | Light's Potential, Liquid Luster |
+| food | Royal Roast | See current guide and sim |
+| weapon oil | Thalassian Phoenix Oil | See current guide and sim |
 
 ---
 
@@ -124,67 +116,59 @@ Compare Cooldowns: [
 <details open>
 <summary>## Demonology (Click to Colapse)</summary>
 
-### Demonology Warlock Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Demonology Warlock Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Unified Guide Approach)
-The guide recommends a unified approach for both Soul Harvester and Diabolist builds.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/demonology-warlock-pve-dps-guide) · [talents](https://www.icy-veins.com/wow/demonology-warlock-pve-dps-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/demonology-warlock-pve-dps-stat-priority) · [enchants](https://www.icy-veins.com/wow/demonology-warlock-pve-dps-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/demonology-warlock-pve-dps-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Soul Harvester leads pure single target by roughly 3%; Diabolist is the current AoE/Mythic+ choice and Soul Harvester is also useful in Delves.
+
+**Stat priority**
+- Item Level > Haste to roughly 22% > Critical Strike > Mastery > excess Haste > Versatility.
+
+**Gems**
+- Indecipherable or Powerful Eversong Diamond based on gear level, then Flawless Quick Garnet/appropriate color gems; activate socket bonuses.
+
+**Enchants and weapon augment**
+- Empowered Blessing of Speed; Akil'zon's Swiftness; Mark of the Worldsoul; Sunfire Silk Spellthread; Farstrider's Hunt; Eyes of the Eagle; Acuity/Berserker's Rage weapon enchant and Thalassian Phoenix Oil.
+
+**Consumables**
+- Shattered Sun flask; Potion of Recklessness with low Versatility, otherwise Light's Potential; health potion, current feast/personal food and Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Open with Demonbolt, Grimoire: Imp Lord, Call Dreadstalkers and Demonic Tyrant, using Hand of Gul'dan at the correct shard count. Implode around six imps and low Demonic Core, and manage Doom targets instead of wasting demon windows.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Item Level > Haste to roughly 22% > Critical Strike > Mastery > excess Haste > Versatility. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Silvermoon's Alacrity** (Haste). |
-| **Flask** | **Flask of the Magisters** (Mastery) | **Flask of the Shattered Sun** (Crit). |
-| **Potion** | **Draught of Rampant Abandon** (max throughput, spawns silence pool) | **Light's Potential** (safe alternative, ~10% less). |
-| **Food** | **Silvermoon Parade** (Intellect Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Deadly Peridot** | **Flawless Quick Amethyst** (Haste alternative). |
+| head | Empowered Blessing of Speed | See current guide and sim |
+| shoulders | Akil'zon's Swiftness | See current guide and sim |
+| chest | Mark of the Worldsoul | See current guide and sim |
+| legs | Sunfire Silk Spellthread | See current guide and sim |
+| feet | Farstrider's Hunt | See current guide and sim |
+| ring | Eyes of the Eagle | See current guide and sim |
+| weapon | Berserker's Rage | See current guide and sim |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon** | **Acuity of the Ren'dorei** | Mastery/Intellect proc. |
-| **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
-| **Shoulders** | **Akil'zon's Swiftness** | Critical Strike focus. |
-| **Chest** | **Mark of the Magister** | Primary Intellect buff. |
-| **Legs** | **Sunfire Silk Spellthread** | Intellect + Stamina. |
-| **Boots** | **Farstrider's Hunt** | Mastery/Speed. |
+| unique gem | Powerful Eversong Diamond | See current guide and sim |
+| gems | Flawless Quick Garnet | Quick Garnet |
 
----
-
-#### Stat Priority Split
-*   **All Builds:** Intellect > Critical Strike = Haste > Mastery > Versatility.
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Soul Harvester**
-*   **Core Focus:** **Soul Anima** & **Dark Harvest**.
-*   **Gameplay Effect:** Increases the damage of your pets and adds a burst window centered around your shadow-damage contribution. Requires high-precision demon maintenance.
-*   **Why Pick?** Superior for pure single-target raid throughput in 12.0.5.
-
-##### **Diabolist**
-*   **Core Mechanic:** **Pit Lord** & **Demonic Art**.
-*   **Gameplay Effect:** Focuses on summoning massive greater demons through your *Hand of Gul'dan* and *Soul Fire* casts. More focus on area impact and explosive damage.
-*   **Why Pick?** Superior for multi-target cleave and target-rich encounters.
-
----
-
-#### Deep Dive: Raid Rotation
-Focus: **Shard Management** and **Tyrant Windows**.
-
-##### **A. Shard Capping Audit (The 5-Shard Rule)**
-1.  **Rule:** Spend Soul Shards via **Hand of Gul'dan** at **4-5 shards**.
-2.  **Audit Flag:** Casting **Shadow Bolt** or **Demonbolt** when at **5 Soul Shards** is a catastrophic resource failure.
-
-##### **B. Primary Priority List**
-1.  **Summon Demonic Tyrant:** Use to extend your most powerful demons (Dreadstalkers, Grimoire: Felguard).
-2.  **Call Dreadstalkers:** Use on cooldown. This is your primary engine.
-3.  **Grimoire: Felguard:** Use on cooldown (ideally before a Tyrant cast).
-4.  **Hand of Gul'dan:** Primary shard spender. Use at 4-5 shards.
-5.  **Demonbolt:** Use on **Demonic Core** procs.
-6.  **Shadow Bolt:** Primary filler.
-7.  **Audit Flag:** Casting *Summon Demonic Tyrant* when no Dreadstalkers are active is a major throughput error.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Shattered Sun | See current guide and sim |
+| potion | Potion of Recklessness | Light's Potential |
+| weapon oil | Thalassian Phoenix Oil | See current guide and sim |
 
 ---
 
@@ -240,69 +224,59 @@ Compare Cooldowns: [
 <details open>
 <summary>## Destruction (Click to Colapse)</summary>
 
-### Destruction Warlock Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Destruction Warlock Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Unified Guide Approach)
-The guide recommends a unified approach for both Diabolist and Hellcaller builds.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/destruction-warlock-pve-dps-guide) · [talents](https://www.icy-veins.com/wow/destruction-warlock-pve-dps-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/destruction-warlock-pve-dps-stat-priority) · [enchants](https://www.icy-veins.com/wow/destruction-warlock-pve-dps-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/destruction-warlock-pve-dps-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Hellcaller is preferred for single target, two-target and spread profiles; Diabolist is the stacked-cleave/AoE/Mythic+ choice.
+
+**Stat priority**
+- Item Level > Haste to roughly 22% > Critical Strike > Mastery > excess Haste > Versatility.
+
+**Gems**
+- Indecipherable or Powerful Eversong Diamond by gear level, then Flawless Deadly Amethyst/appropriate color gems and a socket-activation mix.
+
+**Enchants and weapon augment**
+- Acuity of the Ren'dorei, Berserker's Rage or Arcane Mastery weapon enchant; Empowered Blessing of Speed; Akil'zon's Swiftness; Mark of the Worldsoul; Sunfire Silk Spellthread; Farstrider's Hunt; Eyes of the Eagle; Thalassian Phoenix Oil.
+
+**Consumables**
+- Shattered Sun flask, or Magisters when Freightrunner/Arcane Mastery makes that profile stronger; Potion of Recklessness with low Versatility, otherwise Light's Potential; health potion, current food and Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Maintain Immolate and Havoc, align Soul Fire, Summon Infernal, Malevolence and Chaos Bolt in the opening window, and spend Conflagrate/Chaos Bolt/Shadowburn resources without capping. Switch the spender priority for target count.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Item Level > Haste to roughly 22% > Critical Strike > Mastery > excess Haste > Versatility. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | None listed. |
-| **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Blood Knights** (Haste). |
-| **Potion** | **Draught of Rampant Abandon** (max throughput, spawns silence pool) | **Light's Potential** (safe alternative, ~10% less). |
-| **Food** | **Harandar Celebration** (Intellect Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Masterful Garnet** | **Flawless Quick Amethyst** (Haste alternative). |
+| head | Empowered Blessing of Speed | See current guide and sim |
+| shoulders | Akil'zon's Swiftness | See current guide and sim |
+| chest | Mark of the Worldsoul | See current guide and sim |
+| legs | Sunfire Silk Spellthread | See current guide and sim |
+| feet | Farstrider's Hunt | See current guide and sim |
+| ring | Eyes of the Eagle | See current guide and sim |
+| weapon | Acuity of the Ren'dorei | Berserker's Rage, Arcane Mastery |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon** | **Acuity of the Ren'dorei** | Mastery/Intellect proc. |
-| **Weapon (Alternative)** | **Enchant Weapon - Berserker's Rage** | **Valid Alternative** for preference. |
-| **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
-| **Shoulders** | **Akil'zon's Swiftness** | Critical Strike focus. |
-| **Chest** | **Mark of the Magister** | Primary Intellect buff. |
-| **Legs** | **Sunfire Silk Spellthread** | Intellect + Stamina. |
-| **Boots** | **Farstrider's Hunt** | Mastery/Speed. |
+| unique gem | Powerful Eversong Diamond | See current guide and sim |
+| gems | Flawless Deadly Amethyst | Deadly Amethyst |
 
----
-
-#### Stat Priority Split
-*   **All Builds:** Intellect > Critical Strike > Haste > Mastery > Versatility.
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Diabolist**
-*   **Core Focus:** **Pit Lord** & **Demonic Art**.
-*   **Gameplay Effect:** Introduces the summoning of powerful demons through your *Chaos Bolt* and *Soul Fire* casts. Increases the importance of high-shard consumption to trigger the Pit Lord faster.
-*   **Why Pick?** Superior for pure single-target boss encounters and consistent throughput in 12.0.5.
-
-##### **Hellcaller**
-*   **Core Mechanic:** **Wither** & **Malevolence**.
-*   **Gameplay Effect:** Enhances the damage and spread of your DoTs. Focuses on high-intensity area impact and consistent multi-target pressure.
-*   **Why Pick?** Superior for multi-target cleave and target-rich encounters.
-
----
-
-#### Deep Dive: Raid Rotation
-Focus: **Shard Management** and **Chaos Bolt** efficiency.
-
-##### **A. Shard Capping Audit (The 5-Shard Rule)**
-1.  **Rule:** Spend Soul Shards via **Chaos Bolt** (or Rain of Fire) at **4-5 shards**.
-2.  **Audit Flag:** Casting **Incinerate** when at **5 Soul Shards** is a catastrophic resource failure.
-
-##### **B. Primary Priority List**
-1.  **Immolate:** Maintain 100% uptime on the primary target.
-2.  **Summon Infernal:** Use on cooldown (align with high-intensity damage windows).
-3.  **Shadowburn:** Use on cooldown (especially on targets < 20% HP).
-4.  **Soul Fire:** High-priority shard generator (if talented).
-5.  **Conflagrate:** Use to generate shards and provide the *Backdraft* buff.
-6.  **Chaos Bolt:** Primary Soul Shard spender. 
-7.  **Incinerate:** Primary filler.
-8.  **Audit Flag:** Letting **Immolate** fall off the primary target is a baseline loss error.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Shattered Sun | Flask of the Magisters |
+| potion | Potion of Recklessness | Light's Potential |
+| weapon oil | Thalassian Phoenix Oil | See current guide and sim |
 
 ---
 

@@ -3,78 +3,59 @@
 <details open>
 <summary>## Blood (Click to Colapse)</summary>
 
-### Blood Death Knight Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Blood Death Knight Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Hero-Specific Consumables & Equipment
-| Category | **Deathbringer Profile (Crit/Vers)** | **San'layn Profile (Haste)** |
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/blood-death-knight-pve-tank-guide) · [talents](https://www.icy-veins.com/wow/blood-death-knight-pve-tank-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/blood-death-knight-pve-tank-stat-priority) · [enchants](https://www.icy-veins.com/wow/blood-death-knight-pve-tank-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/blood-death-knight-pve-tank-rotation-cooldowns-abilities).
+
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- San'layn is the default for sustained second-target damage and most Mythic+; Deathbringer is the simpler pure single-target alternative.
+
+**Stat priority**
+- Deathbringer: Strength > Critical Strike > Mastery > Versatility > Haste. For San'layn or defensive gearing, item level and character-specific simulations take priority.
+
+**Gems**
+- Indecipherable Eversong Diamond. Use Masterful Garnet for Deathbringer or Quick Garnet for San'layn, then sim the remaining sockets.
+
+**Enchants and weapon augment**
+- Head Empowered Blessing of Speed; shoulders Akil'zon's Swiftness; chest Mark of the Worldsoul; legs Forest Hunter's Armor Kit; feet Farstrider's Hunt; rings Silvermoon's Tenacity (Deathbringer) or Nature's Fury (San'layn); weapon Rune of Sanguination, with Rune of Fallen Crusader for high-target Deathbringer; Thalassian Phoenix Oil.
+
+**Consumables**
+- Flask of the Shattered Sun or Blood Knights by stat profile; Potion of Recklessness is the default. Avoid Draught of Rampant Abandon on a tank when its silence zone is unsafe. Use Harandar Celebration/Blooming Feast, a Royal Roast or Champion's Bento, and a Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Pre-place Death and Decay, apply Death's Caress, then align Reaper's Mark, Raise Dead, Dancing Rune Weapon and Blood Boil. Keep Bone Shield active, use Marrowrend to maintain it, and spend Runic Power on Death Strike while using Blood Boil/Heart Strike without overcapping resources.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Deathbringer: Strength > Critical Strike > Mastery > Versatility > Haste. For San'layn or defensive gearing, item level and character-specific simulations take priority. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Flask** | **Flask of the Shattered Sun** (Haste) | **Flask of the Shattered Sun** (Haste) |
-| **Alternative Flask** | **Flask of Thalassian Resistance** (Vers) | **Flask of the Blood Knights** (Mastery) |
-| **Food** | **Royal Roast** (Primary/Vers) | **Harandar Celebration** (Haste) |
-| **Potion** | **Light's Potential** (tank default) | **Potion of Recklessness** (alternative). |
-| **Gems** | **Flawless Masterful Garnet** | **Flawless Quick Amethyst** |
-| **Ring Enchants** | **Enchant Ring - Silvermoon's Tenacity** | **Enchant Ring - Nature's Fury** |
-| **Weapon Rune** | **Rune of Sanguination** (ST) / **Fallen Crusader** (5+) | **Rune of Sanguination** (ST/AoE) |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | **Thalassian Phoenix Oil** |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | **Indecipherable Eversong Diamond** |
+| head | Empowered Blessing of Speed | See current guide and sim |
+| shoulders | Akil'zon's Swiftness | See current guide and sim |
+| chest | Mark of the Worldsoul | See current guide and sim |
+| legs | Forest Hunter's Armor Kit | See current guide and sim |
+| feet | Farstrider's Hunt | See current guide and sim |
+| ring | Nature's Fury | See current guide and sim |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
-| **Shoulders** | **Akil'zon's Swiftness** | Versatility focus. |
-| **Chest** | **Mark of the Worldsoul** | Primary Strength buff. |
-| **Legs** | **Blood Knight's Armor Kit** | Strength + Stamina. |
-| **Boots** | **Farstrider's Hunt** | Versatility/Speed. |
+| unique gem | Indecipherable Eversong Diamond | See current guide and sim |
+| gems | Masterful Garnet | Quick Garnet |
 
----
-
-#### Stat Priority Split
-*   **Deathbringer Build:** Strength > Crit = Versatility = Mastery > Haste.
-*   **San'layn Build:** Strength > **Haste** > Crit = Versatility = Mastery.
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Deathbringer**
-*   **Core Mechanic:** **Reaper's Mark** (Timed explosion).
-*   **Gameplay Effect:** Introduces a "Burst Window" after the mark expires where your physical damage reduction is peaked.
-*   **Why Pick?** Superior for physical-heavy bosses and high burst damage mitigation.
-
-##### **San'layn**
-*   **Core Mechanic:** **Vampiric Strike** (Replaces Heart Strike).
-*   **Gameplay Effect:** Massive Haste increases and self-healing loops via **Essence of the Blood Queen**.
-*   **Why Pick?** Superior for sustained damage encounters and high self-healing requirements.
-
----
-
-#### Deep Dive: Raid Rotation
-The bot must switch audit logic based on the active Hero Spec.
-
-##### **A. Global Tank Priorities (Both Specs)**
-1.  **Bone Shield:** Use **Marrowrend** if stacks are **< 7**.
-2.  **Ossuary:** Never drop below **5 stacks** (Critical RP efficiency rule).
-3.  **Death Strike:** 
-    *   **Reactive:** Use after hits > 25% Max HP.
-    *   **Proactive:** Use to avoid Runic Power capping (> 75 RP).
-4.  **Death and Decay:** Keep active for cleave and damage reduction.
-
-##### **B. Deathbringer Specific Priority**
-1.  **Reaper's Mark:** Use on cooldown.
-2.  **Exterminate:** Cast immediately after the Mark expires.
-3.  **Blood Boil:** Use to maintain Blood Plague.
-4.  **Heart Strike:** Filler to generate RP.
-
-##### **C. San'layn Specific Priority**
-1.  **Vampiric Strike:** Use whenever available (Priority #1).
-2.  **Essence of the Blood Queen:** Maintain 10 stacks via consistent Vampiric Strike casts.
-3.  **Blood Boil:** Use to maintain Blood Plague.
-4.  **Heart Strike:** Only use if Vampiric Strike is NOT active.
-
-##### **D. Utility & Positioning**
-1.  **Sanguine Ground:** Always maintain high uptime by standing in your **Death and Decay**. This provides 5% increased damage and healing, and is critical for "Per Cast" value across all abilities. 
-    *   **Audit Rule:** If the **Sanguine Ground** uptime difference is **> 10%** compared to the reference, you MUST mention this in the **Audit Conclusions** as a critical positioning failure. Explain that they are losing the 5% damage/healing bonus by not standing in their Death and Decay.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Shattered Sun | Flask of the Blood Knights |
+| potion | Potion of Recklessness | Draught of Rampant Abandon |
+| food | Harandar Celebration | Blooming Feast, Royal Roast, Champion's Bento |
+| weapon oil | Thalassian Phoenix Oil | See current guide and sim |
 
 ---
 
@@ -164,65 +145,57 @@ Compare Cooldowns: [
 <details open>
 <summary>## Frost (Click to Colapse)</summary>
 
-### Frost Death Knight Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Frost Death Knight Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Unified Guide Approach)
-The guide recommends a unified approach for both Deathbringer and Rider builds.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/frost-death-knight-pve-dps-guide) · [talents](https://www.icy-veins.com/wow/frost-death-knight-pve-dps-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/frost-death-knight-pve-dps-stat-priority) · [enchants](https://www.icy-veins.com/wow/frost-death-knight-pve-dps-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/frost-death-knight-pve-dps-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Dual-wield Breath of Sindragosa is the current core setup. Rider of the Apocalypse leads raid/single-target; Deathbringer is a strong Mythic+ alternative.
+
+**Stat priority**
+- Critical Strike > Haste > Mastery > Versatility, with Deathbringer generally using less Haste. Use sims for the final balance.
+
+**Gems**
+- Indecipherable Eversong Diamond, then Flawless Quick Garnet or Flawless Masterful Garnet to correct the weakest secondary.
+
+**Enchants and weapon augment**
+- Rune of Fallen Crusader for the standard two-handed weapon; Breathbane Razorice or the dual-wield runeforge combinations for the selected build. Use Empowered Rune of Avoidance, Amirdrassil's Grace, Mark of the Worldsoul, Forest Hunter's Armor Kit, Lynx's Dexterity, Eyes of the Eagle, and Thalassian Phoenix Oil.
+
+**Consumables**
+- Potion of Recklessness by default; Light's Potential is the safe alternative when it supplies a better stat profile. Use Harandar/Silvermoon feasts or the matching personal food and a Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Spend Killing Machine on Obliterate in single target or Frostscythe in AoE; spend Rime on Howling Blast. Use Empower Rune Weapon to avoid wasting a Killing Machine proc and spend Runic Power on Frost Strike or Glacial Advance.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Critical Strike > Haste > Mastery > Versatility, with Deathbringer generally using less Haste. Use sims for the final balance. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon Rune** | **Rune of the Fallen Crusader** | **Rune of Razorice** (Valid if build requires it). |
-| **Ring Enchant** | **Enchant Ring - Nature's Fury** | **Enchant Ring - Eyes of the Eagle** (Crit). |
-| **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Magisters** (Mastery). |
-| **Potion** | **Potion of Recklessness** (primary) | **Light's Potential** (alternative). |
-| **Food** | **Harandar Celebration** (Strength Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Deadly Amethyst** | **Flawless Masterful Garnet** (Mastery alternative). |
+| head | Empowered Rune of Avoidance | See current guide and sim |
+| shoulders | Amirdrassil's Grace | See current guide and sim |
+| chest | Mark of the Worldsoul | See current guide and sim |
+| legs | Forest Hunter's Armor Kit | See current guide and sim |
+| feet | Lynx's Dexterity | See current guide and sim |
+| ring | Eyes of the Eagle | See current guide and sim |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
-| **Shoulders** | **Akil'zon's Swiftness** | Mastery/Crit focus. |
-| **Chest** | **Mark of the Worldsoul** | Primary Strength buff. |
-| **Legs** | **Thunderous Armor Kit** | Strength + Stamina. |
-| **Boots** | **Farstrider's Hunt** | Mastery/Speed. |
+| unique gem | Indecipherable Eversong Diamond | See current guide and sim |
+| gems | Flawless Quick Garnet | Quick Garnet, Flawless Masterful Garnet, Masterful Garnet |
 
----
-
-#### Stat Priority Split
-*   **All Builds:** Strength > Mastery > Critical Strike > Haste > Versatility.
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Deathbringer**
-*   **Core Mechanic:** **Reaper's Mark** (45s Burst Cycle).
-*   **Gameplay Effect:** Heavily prioritizes a high-intensity window every 45 seconds where shadow damage is amplified.
-*   **Why Pick?** Superior Single-Target throughput for boss encounters.
-
-##### **Rider of the Apocalypse**
-*   **Core Mechanic:** **Apocalypse Now** (Summons Horsemen).
-*   **Gameplay Effect:** Provides passive minion support and extreme mobility via **Death Charge**.
-*   **Why Pick?** Superior for high-movement encounters or fights requiring consistent utility.
-
----
-
-#### Deep Dive: Raid Rotation (Breath focus)
-The bot must switch audit logic based on whether **Breath of Sindragosa** is active.
-
-##### **A. During Breath of Sindragosa (The Sustain Window)**
-1.  **Sustain Rule:** Keep Runic Power above 40 at all times.
-2.  **Obliterate:** Primary spender (triggers Killing Machine).
-3.  **Howling Blast:** Use ONLY with **Rime** procs.
-4.  **Audit Flag:** Casting **Frost Strike** or **Death Coil** while Breath is active is a catastrophic "RP Waste" error.
-
-##### **B. Outside Breath (The Resource Loading)**
-1.  **Pillar of Frost:** Use on cooldown (align with Reaper's Mark).
-2.  **Remorseless Winter:** Keep 100% uptime.
-3.  **Frost Strike:** Primary Runic Power spender to fish for **Runic Empowerment** procs.
-4.  **Obliterate:** Use to spend Runes and generate RP.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| potion | Potion of Recklessness | Light's Potential |
+| weapon oil | Thalassian Phoenix Oil | See current guide and sim |
 
 ---
 
@@ -302,67 +275,59 @@ Compare Cooldowns: [
 <details open>
 <summary>## Unholy (Click to Colapse)</summary>
 
-### Unholy Death Knight Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Unholy Death Knight Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Unified Guide Approach)
-The guide recommends a unified approach for both Rider and San'layn builds.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/unholy-death-knight-pve-dps-guide) · [talents](https://www.icy-veins.com/wow/unholy-death-knight-pve-dps-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/unholy-death-knight-pve-dps-stat-priority) · [enchants](https://www.icy-veins.com/wow/unholy-death-knight-pve-dps-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/unholy-death-knight-pve-dps-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Rider of the Apocalypse is the current single-target raid/minion build; San'layn is preferred for Mythic+ and its Blightfall plague profile.
+
+**Stat priority**
+- Critical Strike > Mastery > Haste > Versatility.
+
+**Gems**
+- Indecipherable Eversong Diamond, followed by Quick Garnet or Masterful Garnet according to the weakest secondary.
+
+**Enchants and weapon augment**
+- Empowered Rune of Avoidance; Amirdrassil's Grace; Mark of the Worldsoul; Forest Hunter's Armor Kit; Lynx's Dexterity; Eyes of the Eagle; Rune of Apocalypse and Thalassian Phoenix Oil.
+
+**Consumables**
+- Flask of the Shattered Sun or Magisters by stat profile; Potion of Recklessness; Harandar/Silvermoon feast or Royal Roast/Impossibly Royal Roast; Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Open with Outbreak, Festering Strike twice, Army of the Dead, Dark Transformation and your burst items. Maintain diseases, use Putrefy during Dark Transformation, time Soul Reaper around the execute threshold or the Reaping window, and spend Death Coil on Sudden Doom/Forbidden Knowledge or San'layn priority.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Critical Strike > Mastery > Haste > Versatility. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon Rune** | **Rune of the Apocalypse** | **Rune of the Fallen Crusader** (Valid alternative). |
-| **Ring Enchant** | **Enchant Ring - Nature's Fury** | **Enchant Ring - Eyes of the Eagle** (Crit). |
-| **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Magisters** (Mastery). |
-| **Potion** | **Potion of Recklessness** (primary) | **Light's Potential** (alternative). |
-| **Food** | **Harandar Celebration** (Strength Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Deadly Amethyst** | **Flawless Masterful Garnet** (Mastery alternative). |
+| head | Empowered Rune of Avoidance | See current guide and sim |
+| shoulders | Amirdrassil's Grace | See current guide and sim |
+| chest | Mark of the Worldsoul | See current guide and sim |
+| legs | Forest Hunter's Armor Kit | See current guide and sim |
+| feet | Lynx's Dexterity | See current guide and sim |
+| ring | Eyes of the Eagle | See current guide and sim |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
-| **Shoulders** | **Akil'zon's Swiftness** | Mastery focus. |
-| **Chest** | **Mark of the Worldsoul** | Primary Strength buff. |
-| **Legs** | **Thunderous Armor Kit** | Strength + Stamina. |
-| **Boots** | **Farstrider's Hunt** | Mastery/Speed. |
+| unique gem | Indecipherable Eversong Diamond | See current guide and sim |
+| gems | Quick Garnet | Masterful Garnet |
 
----
-
-#### Stat Priority Split
-*   **All Builds:** Strength > Mastery > Critical Strike > Haste > Versatility.
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Rider of the Apocalypse**
-*   **Core Mechanic:** **Lesser Ghoul Stacks** (Horsemen Support).
-*   **Gameplay Effect:** Introduces a maintenance cycle for Lesser Ghouls to ensure maximum Horseman uptime.
-*   **Why Pick?** Superior Single-Target performance in 12.0.5.
-
-##### **San'layn**
-*   **Core Mechanic:** **Blightfall** (Vampiric Strike procs).
-*   **Gameplay Effect:** Focuses on shadow-damage amplification and extreme plague spreading.
-*   **Why Pick?** Superior for heavy cleave or target-rich environments.
-
----
-
-#### Deep Dive: Raid Rotation
-Focus: **Festering Wound** and **Lesser Ghoul** management.
-
-##### **A. Resource Management (The Audit)**
-1.  **Festering Wounds:** Maintain 2-4 wounds on the target before casting Scourge Strike.
-2.  **Lesser Ghoul Stacks (Rider):** 
-    *   Build to **4-6 stacks** using *Festering Strike*.
-    *   Spend down to **3 stacks** using *Scourge Strike*.
-    *   **Audit Flag:** Casting *Scourge Strike* at 0-2 Lesser Ghoul stacks is an efficiency error in the Rider build.
-
-##### **B. Primary Priority List**
-1.  **Soul Reaper:** Use if the target is **< 35% HP**. (Crucial for execute procs).
-2.  **Dark Transformation:** Use on cooldown (ensure Ghoul is active).
-3.  **Putrefy:** High priority filler whenever *Dark Transformation* is active and target is > 35% HP.
-4.  **Death Coil:** Use to spend Runic Power and reduce cooldown on *Army of the Dead* (via Army of the Damned).
-5.  **Festering Strike:** Use only to maintain 2-4 Wounds or build Lesser Ghoul stacks.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Shattered Sun | Flask of the Magisters |
+| potion | Potion of Recklessness | See current guide and sim |
+| food | Royal Roast | See current guide and sim |
+| weapon oil | Thalassian Phoenix Oil | See current guide and sim |
 
 ---
 

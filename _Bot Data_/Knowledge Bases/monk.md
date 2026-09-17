@@ -3,65 +3,59 @@
 <details open>
 <summary>## Brewmaster (Click to Colapse)</summary>
 
-### Brewmaster Monk Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Brewmaster Monk Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Unified Guide Approach)
-The guide recommends a unified approach for both Master of Harmony and Shado-Pan builds.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/brewmaster-monk-pve-tank-guide) · [talents](https://www.icy-veins.com/wow/brewmaster-monk-pve-tank-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/brewmaster-monk-pve-tank-stat-priority) · [enchants](https://www.icy-veins.com/wow/brewmaster-monk-pve-tank-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/brewmaster-monk-pve-tank-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Master of Harmony is the defensive raid choice; Shado-Pan is the offensive/standard Mythic+ choice. Both are viable.
+
+**Stat priority**
+- Item Level > Critical Strike > Versatility > Mastery > Haste for the defensive baseline; sim offensive sets.
+
+**Gems**
+- Indecipherable Eversong Diamond, then balance Critical Strike and Versatility with Flawless Versatile Garnet/Deadly Lapis.
+
+**Enchants and weapon augment**
+- Acuity of the Ren'dorei weapon and Thalassian Phoenix Oil; Empowered Hex of Leeching or Empowered Blessing of Speed; Silvermoon's Mending or Akil'zon's Swiftness; Mark of the Worldsoul or Rootwarden's Binding; Forest Hunter's Armor Kit; Shaladrassil's Roots or Farstrider's Hunt; Eyes of the Eagle/Silvermoon's Tenacity.
+
+**Consumables**
+- Thalassian Resistance flask; Liquid Luster is the default combat potion, with Draught only when its silence zone is safe; health potion, current feast/personal food and Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Blackout Kick roughly every four seconds to maintain Shuffle and plan the Blackout+3 sequence. Manage Stagger with Purifying Brew, use Keg Smash/Expel Harm/Chi Burst to generate resources, and reserve Exploding Keg, Niuzao, Touch of Death and Fortifying Brew for the correct damage window.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Item Level > Critical Strike > Versatility > Mastery > Haste for the defensive baseline; sim offensive sets. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Nature's Fury** (Haste). |
-| **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Magisters** (Mastery). |
-| **Potion** | **Light's Potential** (primary tank) | **Potion of Recklessness** (alternative). |
-| **Food** | **Silvermoon Parade** (Agility Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Deadly Peridot** | **Flawless Quick Amethyst** (Haste alternative). |
+| head | Empowered Hex of Leeching | Empowered Blessing of Speed |
+| shoulders | Silvermoon's Mending | Akil'zon's Swiftness |
+| chest | Mark of the Worldsoul | Rootwarden's Binding |
+| legs | Forest Hunter's Armor Kit | See current guide and sim |
+| feet | Shaladrassil's Roots | Farstrider's Hunt |
+| ring | Eyes of the Eagle | See current guide and sim |
+| weapon | Acuity of the Ren'dorei | See current guide and sim |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon** | **Acuity of the Ren'dorei** | Mastery/Agility proc. |
-| **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
-| **Shoulders** | **Akil'zon's Swiftness** | Critical Strike focus. |
-| **Chest** | **Mark of the Worldsoul** | Primary Agility buff. |
-| **Legs** | **Thunderous Armor Kit** | Agility + Stamina. |
-| **Boots** | **Farstrider's Hunt** | Mastery/Speed. |
+| unique gem | Indecipherable Eversong Diamond | See current guide and sim |
+| gems | Flawless Versatile Garnet | Versatile Garnet |
 
----
-
-#### Stat Priority Split
-*   **All Builds:** Agility/Item Level > Critical Strike = Versatility = Mastery > Haste.
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Master of Harmony**
-*   **Core Focus:** **Purified Chi** & **Harmonious Brews**.
-*   **Gameplay Effect:** Increases your self-healing and defensive scaling based on how much damage you purify. Requires more active management of *Purifying Brew*.
-*   **Why Pick?** Superior for safety and magic damage reduction in 12.0.5.
-
-##### **Shado-Pan**
-*   **Core Mechanic:** **Flurry Strikes** & **Against All Odds**.
-*   **Gameplay Effect:** Adds a massive physical damage component to your rotation. Higher focus on physical mitigation and offensive pressure.
-*   **Why Pick?** Superior for pure damage and physical-heavy boss encounters.
-
----
-
-#### Deep Dive: Raid Rotation
-Focus: **Stagger Efficiency** and **Brew Recharge**.
-
-##### **A. Mitigation Audit (The Survival Loop)**
-1.  **Purifying Brew:** Use when Stagger is **High (Red)** to reduce damage taken and generate *Purified Chi*.
-2.  **Celestial Brew:** Use after purifying a significant amount of Stagger to generate a massive absorb shield.
-3.  **Audit Flag:** Casting **Celestial Brew** without first using **Purifying Brew** (to generate the absorb multiplier) is a critical defensive failure.
-
-##### **B. Ability Priority**
-1.  **Keg Smash:** Top priority. Generates 2 Chi and reduces Brew cooldowns.
-2.  **Rising Sun Kick:** Use on cooldown for damage and *Blackout Combo* synergy.
-3.  **Blackout Kick:** Use as a filler to generate Chi and trigger *Blackout Combo*.
-4.  **Tiger Palm:** Use ONLY to spend excess Energy and avoid capping.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of Thalassian Resistance | See current guide and sim |
+| potion | Liquid Luster | See current guide and sim |
+| weapon oil | Thalassian Phoenix Oil | See current guide and sim |
 
 ---
 
@@ -106,65 +100,58 @@ Focus: **Stagger Efficiency** and **Brew Recharge**.
 <details open>
 <summary>## Mistweaver (Click to Colapse)</summary>
 
-### Mistweaver Monk Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Mistweaver Monk Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Unified Guide Approach)
-The guide recommends a unified approach for both Conduit of the Celestials and Master of Harmony builds.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/mistweaver-monk-pve-healing-guide) · [talents](https://www.icy-veins.com/wow/mistweaver-monk-pve-healing-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/mistweaver-monk-pve-healing-stat-priority) · [enchants](https://www.icy-veins.com/wow/mistweaver-monk-pve-healing-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/mistweaver-monk-pve-healing-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Conduit of the Celestials is the all-content baseline; Renewing Mist raid builds and the Apexless DPS-to-healing Mythic+ build are the current specializations.
+
+**Stat priority**
+- Raid: Item Level > Haste > Critical Strike > Versatility > Mastery. Mythic+: Item Level > Haste > Mastery > Critical Strike > Versatility.
+
+**Gems**
+- Raid: Indecipherable Eversong Diamond and Flawless Deadly Peridot. Mythic+: Haste/Crit balance, adding Versatility for high-key survivability.
+
+**Enchants and weapon augment**
+- Acuity of the Ren'dorei; Empowered Hex of Leeching; Silvermoon's Mending; Mark of the Worldsoul; Arcanoweave Spellthread; Shaladrassil's Roots; Silvermoon's Alacrity.
+
+**Consumables**
+- Blood Knights flask for throughput; Thalassian Resistance in defensive Mythic+ situations; Devoured Dreams/Lightfused Mana Potion when mana matters or Light's Potential for throughput; current feast/personal food, health potion and Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Maintain Renewing Mist, cast Vivify for endangered allies, use Rushing Wind Kick and Mana Tea around resource thresholds, and weave Rising Sun Kick with the Season 2 set. Use Thunder Focus Tea, Life Cocoon, Yu'lon/Chi-Ji and Revival for planned healing events.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Raid: Item Level > Haste > Critical Strike > Versatility > Mastery. Mythic+: Item Level > Haste > Mastery > Critical Strike > Versatility. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Silvermoon's Alacrity** (Haste). |
-| **Flask** | **Flask of the Blood Knights** (Haste) | **Flask of the Shattered Sun** (Crit). |
-| **Potion** | **Potion of Devoured Dreams** (mana/raid) | **Lightfused Mana Potion** (M+) / **Light's Potential** (throughput). |
-| **Food** | **Silvermoon Parade** (Intellect Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Quick Amethyst** | **Flawless Deadly Peridot** (Mastery alternative). |
+| head | Empowered Hex of Leeching | See current guide and sim |
+| shoulders | Silvermoon's Mending | See current guide and sim |
+| chest | Mark of the Worldsoul | See current guide and sim |
+| legs | Arcanoweave Spellthread | See current guide and sim |
+| feet | Shaladrassil's Roots | See current guide and sim |
+| ring | Silvermoon's Alacrity | See current guide and sim |
+| weapon | Acuity of the Ren'dorei | See current guide and sim |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon** | **Acuity of the Ren'dorei** | Mastery/Intellect proc. |
-| **Helm** | **Empowered Hex of Leeching** | Defensive utility. |
-| **Shoulders** | **Silvermoon's Mending** | Best for raid healing throughput. |
-| **Chest** | **Mark of the Magister** | Primary Intellect buff. |
-| **Legs** | **Arcanoweave Spellthread** | Intellect and Stamina/Mana. |
-| **Boots** | **Shaladrassil's Roots** | Versatility / Speed. |
+| unique gem | Indecipherable Eversong Diamond | See current guide and sim |
+| gems | Flawless Deadly Peridot | Deadly Peridot |
 
----
-
-#### Stat Priority Split
-*   **All Builds:** Intellect > Haste > Critical Strike > Versatility > Mastery.
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Conduit of the Celestials**
-*   **Core Focus:** **Celestial Conduit** & **Heart of the Jade Serpent**.
-*   **Gameplay Effect:** Increases the impact of your *Invoke Chi-Ji/Yu'lon* windows. Focuses on massive raid-wide burst healing.
-*   **Why Pick?** Superior for raid-wide stabilization and burst management in 12.0.5.
-
-##### **Master of Harmony**
-*   **Core Mechanic:** **Harmonious Brews** & **Vitality**.
-*   **Gameplay Effect:** Enhances your single-target throughput and efficiency. More focused on consistent triage healing.
-*   **Why Pick?** Superior for low-intensity healing or target-specific requirements.
-
----
-
-#### Deep Dive: Raid Rotation
-Focus: **Ancient Teachings** maintenance and **Rising Sun Kick** priority.
-
-##### **A. Ancient Teachings Audit (The Fistweaving Rule)**
-1.  **Jadefire Stomp:** Use on cooldown to maintain the **Ancient Teachings** buff.
-2.  **Rising Sun Kick:** Top priority damaging ability. Heals up to 5 allies via Ancient Teachings.
-3.  **Blackout Kick:** Use to generate *Teachings of the Monastery* stacks (up to 3).
-4.  **Tiger Palm:** Use to generate stacks for Blackout Kick.
-5.  **Audit Flag:** Letting **Ancient Teachings** fall off during combat is a catastrophic throughput failure.
-
-##### **B. Mana Management**
-1.  **Mana Tea:** Use before high-intensity stabilization windows (Vivify/Enveloping Mist spam).
-2.  **Thunder Focus Tea:** Use to empower **Rising Sun Kick** (for healing) or **Vivify** (for mana-free casting).
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Blood Knights | Flask of Thalassian Resistance |
+| potion | Devoured Dreams | Lightfused Mana Potion, Light's Potential |
 
 ---
 
@@ -212,67 +199,59 @@ Focus: **Ancient Teachings** maintenance and **Rising Sun Kick** priority.
 <details open>
 <summary>## Windwalker (Click to Colapse)</summary>
 
-### Windwalker Monk Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Windwalker Monk Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Unified Guide Approach)
-The guide recommends a unified approach for both Conduit of the Celestials and Shado-Pan builds.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/windwalker-monk-pve-dps-guide) · [talents](https://www.icy-veins.com/wow/windwalker-monk-pve-dps-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/windwalker-monk-pve-dps-stat-priority) · [enchants](https://www.icy-veins.com/wow/windwalker-monk-pve-dps-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/windwalker-monk-pve-dps-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Shado-Pan is recommended for boss, single-target and AoE; Conduit of the Celestials is competitive but more planned and complex.
+
+**Stat priority**
+- Agility > Haste > Critical Strike > Mastery > Versatility; the secondary stats are close, so sim the final set.
+
+**Gems**
+- Indecipherable Eversong Diamond, then fill the weakest current secondary rather than blindly stacking one stat.
+
+**Enchants and weapon augment**
+- Rite of Hash'ey and Thalassian Phoenix Oil; Empowered Rune of Avoidance; Amirdrassil's Grace; Mark of the Worldsoul; Forest Hunter's Armor Kit; Lynx's Dexterity; Silvermoon's Alacrity or Nature's Fury according to stats.
+
+**Consumables**
+- Blood Knights flask; Potion of Recklessness; health potion; Harandar feast/Royal Roast and Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Respect the Storm, Earth, and Fire/Zenith/Celestial Conduit windows, never repeat the previous ability when the mastery rule applies, and manage Energy/Chi. Prioritize Fists of Fury, Rising Sun Kick, Rushing Wind Kick, Spinning Crane Kick with the Season 2 set and Tiger Palm without breaking the ability chain.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Agility > Haste > Critical Strike > Mastery > Versatility; the secondary stats are close, so sim the final set. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Silvermoon's Alacrity** (Haste). |
-| **Flask** | **Flask of the Blood Knights** (Haste) | **Flask of the Shattered Sun** (Crit). |
-| **Potion** | **Potion of Recklessness** (primary) | **Light's Potential** (alternative). |
-| **Food** | **Silvermoon Parade** (Agility Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Quick Amethyst** | **Flawless Masterful Peridot** (Mastery alternative). |
+| head | Empowered Rune of Avoidance | See current guide and sim |
+| shoulders | Amirdrassil's Grace | See current guide and sim |
+| chest | Mark of the Worldsoul | See current guide and sim |
+| legs | Forest Hunter's Armor Kit | See current guide and sim |
+| feet | Lynx's Dexterity | See current guide and sim |
+| ring | Silvermoon's Alacrity | Nature's Fury |
+| weapon | Rite of Hash'ey | See current guide and sim |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon** | **Acuity of the Ren'dorei** | Mastery/Agility proc. |
-| **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
-| **Shoulders** | **Akil'zon's Swiftness** | Haste focus. |
-| **Chest** | **Mark of the Worldsoul** | Primary Agility buff. |
-| **Legs** | **Thunderous Armor Kit** | Agility + Stamina. |
-| **Boots** | **Farstrider's Hunt** | Mastery/Speed. |
+| unique gem | Indecipherable Eversong Diamond | See current guide and sim |
 
----
-
-#### Stat Priority Split
-*   **All Builds:** Agility > Haste > Critical Strike >= Mastery > Versatility.
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Conduit of the Celestials**
-*   **Core Focus:** **Celestial Conduit** & **Heart of the Jade Serpent**.
-*   **Gameplay Effect:** Adds a massive Arcane burst component to your *Invoke Xuen* window. Increases the frequency of high-intensity damage spikes.
-*   **Why Pick?** Superior for consistent raid throughput and mobility in 12.0.5.
-
-##### **Shado-Pan**
-*   **Core Mechanic:** **Flurry Strikes** & **Against All Odds**.
-*   **Gameplay Effect:** Shifts the rotation towards physical pressure and *Flurry Strike* procs. Requires more active management of Energy to ensure consistent strikes.
-*   **Why Pick?** Superior for pure single-target burst and physical-heavy boss encounters.
-
----
-
-#### Deep Dive: Raid Rotation
-Focus: **Combo Strikes** and **Chi Efficiency**.
-
-##### **A. Combo Strikes Audit (The Mastery Rule)**
-1.  **Rule:** **NEVER** repeat the same ability twice in a row.
-2.  **Audit Flag:** Casting the same spell consecutively (e.g., Tiger Palm -> Tiger Palm) is a catastrophic failure of the *Mastery: Combo Strikes* mechanic.
-
-##### **B. Primary Priority List**
-1.  **Whirling Dragon Punch:** Use on cooldown (ensure both *Rising Sun Kick* and *Fists of Fury* are on cooldown).
-2.  **Strike of the Windlord:** Use on cooldown.
-3.  **Fists of Fury:** Use on cooldown (ensure you have the Chi to finish the channel).
-4.  **Rising Sun Kick:** Primary Chi spender.
-5.  **Blackout Kick:** Primary Chi spender to avoid capping.
-6.  **Tiger Palm:** Primary generator. Use only if at **< 4 Chi** and Energy is available.
-7.  **Audit Flag:** Casting *Tiger Palm* at **5 Chi** is a major resource waste.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Blood Knights | See current guide and sim |
+| potion | Potion of Recklessness | See current guide and sim |
+| food | Royal Roast | See current guide and sim |
+| weapon oil | Thalassian Phoenix Oil | See current guide and sim |
 
 ---
 

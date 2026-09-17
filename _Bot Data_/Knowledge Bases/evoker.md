@@ -3,66 +3,60 @@
 <details open>
 <summary>## Augmentation (Click to Colapse)</summary>
 
-### Augmentation Evoker Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Augmentation Evoker Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Unified Guide Approach)
-The guide recommends a unified approach for both Scalecommander and Chronowarden builds.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/augmentation-evoker-pve-dps-guide) · [talents](https://www.icy-veins.com/wow/augmentation-evoker-pve-dps-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/augmentation-evoker-pve-dps-stat-priority) · [enchants](https://www.icy-veins.com/wow/augmentation-evoker-pve-dps-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/augmentation-evoker-pve-dps-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Chronowarden is the raid and high-key default; Scalecommander is stronger in some weekly keys/delves or with weak allies. Apex is Duplicate.
+
+**Stat priority**
+- Item Level > Mastery > Critical Strike > Haste > Versatility. Mastery is strongest until its diminishing-return region; Crit/Haste are close afterward.
+
+**Gems**
+- Indecipherable Eversong Diamond, then Flawless Deadly Amethyst; Quick Amethyst can correct a low-Haste set.
+
+**Enchants and weapon augment**
+- Thalassian Phoenix Oil; Arcane Mastery weapon; Empowered Blessing of Speed; Mark of the Worldsoul; Akil'zon's Swiftness; Sunfire Silk Spellthread; +29 Mastery rings; Farstrider's Hunt.
+
+**Consumables**
+- Magisters flask; Potion of Recklessness when Mastery is the triggered stat, otherwise Draught of Rampant Abandon or Light's Potential; Silvermoon Parade/Royal Roast and Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Run 30-second Ebon Might cycles around Fire Breath and Upheaval. Align Breath of Eons with Ebon Might, avoid Prescience overcap, maintain the buff with Eruption/Empowers, and use Time Skip to stabilize the cycle.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Item Level > Mastery > Critical Strike > Haste > Versatility. Mastery is strongest until its diminishing-return region; Crit/Haste are close afterward. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Nature's Fury** (Haste). |
-| **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Magisters** (Mastery). |
-| **Potion** | **Potion of Recklessness** (primary) | **Light's Potential** (alternative). |
-| **Food** | **Silvermoon Parade** (Intellect Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Quick Garnet** | **Flawless Deadly Peridot** (Mastery alternative). |
+| head | Empowered Blessing of Speed | See current guide and sim |
+| shoulders | Akil'zon's Swiftness | See current guide and sim |
+| chest | Mark of the Worldsoul | See current guide and sim |
+| legs | Sunfire Silk Spellthread | See current guide and sim |
+| feet | Farstrider's Hunt | See current guide and sim |
+| ring | +29 Mastery | See current guide and sim |
+| weapon | Arcane Mastery | See current guide and sim |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon** | **Acuity of the Ren'dorei** | Mastery/Intellect proc. |
-| **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
-| **Shoulders** | **Akil'zon's Swiftness** | Mastery focus. |
-| **Chest** | **Mark of the Worldsoul** | Primary Intellect buff. |
-| **Legs** | **Sunfire Silk Spellthread** | Intellect + Stamina. |
-| **Boots** | **Farstrider's Hunt** | Mastery/Speed. |
+| unique gem | Indecipherable Eversong Diamond | See current guide and sim |
+| gems | Flawless Deadly Amethyst | Deadly Amethyst, Quick Amethyst |
 
----
-
-#### Stat Priority Split
-*   **All Builds:** Intellect > Critical Strike > Haste > Mastery > Versatility.
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Scalecommander**
-*   **Core Focus:** **Mass Eruption** & **AoE Mastery**.
-*   **Gameplay Effect:** Increases the reliability of your damage and buffs during multi-target encounters. 
-*   **Why Pick?** Superior for overall raid throughput and lower dependency on specific ally performance.
-
-##### **Chronowarden**
-*   **Core Mechanic:** **Reverberations** & **Chronoward**.
-*   **Gameplay Effect:** Ties your performance more closely to your *Prescience* targets. Requires higher precision in buffing high-performing allies.
-*   **Why Pick?** Superior for pure single-target throughput if you have high-performing DPS targets.
-
----
-
-#### Deep Dive: Raid Rotation
-Focus: **Ebon Might Uptime** and **Breath of Eons** alignment.
-
-##### **A. Buff Maintenance Audit**
-1.  **Ebon Might:** Maintain 100% uptime. Refresh when **< 4 seconds** remain.
-2.  **Prescience:** Maintain on 2 high-performing DPS targets at all times.
-3.  **Audit Flag:** Casting **Eruption** while **Ebon Might** is inactive is a catastrophic "Baseline Loss" error.
-
-##### **B. Primary Priority List**
-1.  **Breath of Eons:** Use on cooldown (ensure Ebon Might is active first).
-2.  **Fire Breath:** Use at **Level 1** (unless talented for higher) to maintain *Leaping Flames*.
-3.  **Upheaval:** Use on cooldown to generate Essence.
-4.  **Eruption:** Primary Essence spender. Use only while Ebon Might is active to extend its duration.
-5.  **Audit Flag:** Allowing **Essence Burst** to cap (2 stacks) without casting Eruption is an efficiency error.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Magisters | See current guide and sim |
+| potion | Potion of Recklessness | Draught of Rampant Abandon, Light's Potential |
+| food | Silvermoon Parade | Royal Roast |
+| weapon oil | Thalassian Phoenix Oil | See current guide and sim |
 
 ---
 
@@ -121,66 +115,60 @@ Compare Cooldowns: [
 <details open>
 <summary>## Devastation (Click to Colapse)</summary>
 
-### Devastation Evoker Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Devastation Evoker Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Unified Guide Approach)
-The guide recommends a unified approach for both Scalecommander and Flameshaper builds.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/devastation-evoker-pve-dps-guide) · [talents](https://www.icy-veins.com/wow/devastation-evoker-pve-dps-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/devastation-evoker-pve-dps-stat-priority) · [enchants](https://www.icy-veins.com/wow/devastation-evoker-pve-dps-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/devastation-evoker-pve-dps-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Scalecommander is the current raid, cleave and Mythic+ default; Flameshaper is competitive for pure single target or very high-target AoE at a single-target cost.
+
+**Stat priority**
+- Item Level > Critical Strike > Haste > Mastery > Versatility.
+
+**Gems**
+- Powerful Eversong Diamond with one each color when the socket bonus is active; otherwise Indecipherable Diamond, then Quick Garnet/Deadly Peridot/Lapis and Masterful Garnet as needed.
+
+**Enchants and weapon augment**
+- Thalassian Phoenix Oil; Empowered Rune of Avoidance; Eyes of the Eagle; Acuity of the Ren'dorei; Amirdrassil's Grace; Mark of the Worldsoul; Sunfire Silk Spellthread; Farstrider's Hunt.
+
+**Consumables**
+- Blood Knights for Haste, Shattered Sun for Crit, or the flask that fixes the current profile. Potion of Recklessness or Draught where its silence zone is safe, Silvermoon Parade/Royal Roast, health potion and Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Use the Scalecommander opener around Deep Breath, Dragonrage, Eternity Surge and Disintegrate. Re-use Deep Breath after the required Imminent Destruction timing, manage Unbound Flame charges, and spend resources before leaving Dragonrage.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Item Level > Critical Strike > Haste > Mastery > Versatility. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Nature's Fury** | **Enchant Ring - Eyes of the Eagle** (Crit). |
-| **Flask** | **Flask of the Blood Knights** (Haste) | **Flask of the Shattered Sun** (Crit). |
-| **Potion** | **Draught of Rampant Abandon** (max throughput, spawns silence pool) | **Light's Potential** (safe alternative, ~10% less). |
-| **Food** | **Silvermoon Parade** (Intellect Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Quick Garnet** | **Flawless Deadly Peridot** (Mastery alternative). |
+| head | Empowered Rune of Avoidance | See current guide and sim |
+| shoulders | Amirdrassil's Grace | See current guide and sim |
+| chest | Mark of the Worldsoul | See current guide and sim |
+| legs | Sunfire Silk Spellthread | See current guide and sim |
+| feet | Farstrider's Hunt | See current guide and sim |
+| ring | Eyes of the Eagle | See current guide and sim |
+| weapon | Acuity of the Ren'dorei | See current guide and sim |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon** | **Acuity of the Ren'dorei** | Mastery/Intellect proc. |
-| **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
-| **Shoulders** | **Akil'zon's Swiftness** | Mastery focus. |
-| **Chest** | **Mark of the Magister** | Primary Intellect buff. |
-| **Legs** | **Sunfire Silk Spellthread** | Intellect + Stamina. |
-| **Boots** | **Farstrider's Hunt** | Mastery/Speed. |
+| unique gem | Powerful Eversong Diamond | See current guide and sim |
+| gems | Quick Garnet | Deadly Peridot, Masterful Garnet |
 
----
-
-#### Stat Priority Split
-*   **All Builds:** Intellect > Haste > Critical Strike > Mastery > Versatility.
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Scalecommander**
-*   **Core Focus:** **Mass Disintegrate** & **Deep Breath Resets**.
-*   **Gameplay Effect:** Focuses on high-mobility and cleave damage. *Deep Breath* becomes a major part of the rotation rather than just a cooldown.
-*   **Why Pick?** Superior for encounters with frequent movement or spread cleave.
-
-##### **Flameshaper**
-*   **Core Mechanic:** **Consume Flame** & **Engulf**.
-*   **Gameplay Effect:** Shifts the rotation towards high-intensity burst windows centered around consuming your *Fire Breath* debuff.
-*   **Why Pick?** Superior for pure single-target burst and priority target elimination.
-
----
-
-#### Deep Dive: Raid Rotation
-Focus: **Dragonrage Uptime** and **Empower Efficiency**.
-
-##### **A. Empower Level Audit**
-1.  **Fire Breath:** Cast at **Level 1** (Single Target) to maximize the duration of the damage-over-time effect.
-2.  **Eternity Surge:** Cast at **Level 1** (Single Target) to maximize GCD efficiency.
-3.  **Audit Flag:** Over-charging empower spells (e.g., Level 4 Fire Breath on 1 target) is a significant DPS loss due to cast-time waste.
-
-##### **B. Primary Priority List**
-1.  **Dragonrage:** Use on cooldown. This is your primary damage window.
-2.  **Shattering Star:** Use on cooldown (ensure you have Essence to spend during the debuff window).
-3.  **Disintegrate:** Primary Essence spender. 
-4.  **Living Flame:** Use as a filler to generate Essence.
-5.  **Audit Flag:** Casting *Living Flame* when **Essence Burst** is available is a major resource waste.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Blood Knights | Flask of the Shattered Sun |
+| potion | Potion of Recklessness | See current guide and sim |
+| food | Silvermoon Parade | Royal Roast |
+| weapon oil | Thalassian Phoenix Oil | See current guide and sim |
 
 ---
 
@@ -236,68 +224,60 @@ Compare Cooldowns: [
 <details open>
 <summary>## Preservation (Click to Colapse)</summary>
 
-### Preservation Evoker Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Preservation Evoker Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Unified Guide Approach)
-The guide recommends a unified approach for both Chronowarden and Flameshaper builds.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/preservation-evoker-pve-healing-guide) · [talents](https://www.icy-veins.com/wow/preservation-evoker-pve-healing-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/preservation-evoker-pve-healing-stat-priority) · [enchants](https://www.icy-veins.com/wow/preservation-evoker-pve-healing-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/preservation-evoker-pve-healing-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Flameshaper is the current raid and Mythic+ recommendation; Chronowarden is competitive but generally behind. Use Flameshaper for Dream Breath/Fire Breath and Merithra healing.
+
+**Stat priority**
+- Intellect > Mastery > Critical Strike > Haste > Versatility.
+
+**Gems**
+- Telluric Diamond when mana is stable and socket bonuses justify it; otherwise Indecipherable Eversong Diamond, then Quick Amethyst.
+
+**Enchants and weapon augment**
+- Thalassian Phoenix Oil; Acuity of the Ren'dorei; Empowered Hex of Leeching; Silvermoon's Mending; Mark of the Worldsoul; Arcanoweave Spellthread; Shaladrassil's Roots; +29 Mastery rings.
+
+**Consumables**
+- Magisters flask for healing, Blood Knights in Mythic+ if no extra healing is needed; Lightfused Mana Potion when mana matters, otherwise Potion of Recklessness; health potion, Hearty Royal Roast/Silvermoon Parade and Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Use Temporal Anomaly to establish Echo coverage, then consume Echoes with Merithra's Blessing/Reversion. Plan Stasis, Dream Breath and Temporal Anomaly, use Essence Burst with Emerald Blossom/Twin Echoes, and layer Fire Breath, Verdant Embrace and Living Flame.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Intellect > Mastery > Critical Strike > Haste > Versatility. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Zul'jin's Mastery** | **Enchant Ring - Eyes of the Eagle** (Crit). |
-| **Flask** | **Flask of the Magisters** (Mastery) | **Flask of the Blood Knights** (Haste). |
-| **Potion** | **Potion of Recklessness** (throughput) | **Lightfused Mana Potion** (mana-critical situations). |
-| **Food** | **Silvermoon Parade** (Intellect Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Masterful Peridot** | **Flawless Deadly Peridot** (Crit alternative). |
+| head | Empowered Hex of Leeching | See current guide and sim |
+| shoulders | Silvermoon's Mending | See current guide and sim |
+| chest | Mark of the Worldsoul | See current guide and sim |
+| legs | Arcanoweave Spellthread | See current guide and sim |
+| feet | Shaladrassil's Roots | See current guide and sim |
+| ring | +29 Mastery | See current guide and sim |
+| weapon | Acuity of the Ren'dorei | See current guide and sim |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon** | **Acuity of the Ren'dorei** | Mastery/Intellect proc. |
-| **Helm** | **Empowered Hex of Leeching** | Defensive utility. |
-| **Shoulders** | **Silvermoon's Mending** | Best for raid healing throughput. |
-| **Chest** | **Mark of the Worldsoul** | Primary Intellect buff. |
-| **Legs** | **Arcanoweave Spellthread** | Intellect and Stamina/Mana. |
-| **Boots** | **Shaladrassil's Roots** | Versatility / Speed. |
+| unique gem | Telluric Diamond | Indecipherable Eversong Diamond |
+| gems | Quick Amethyst | See current guide and sim |
 
----
-
-#### Stat Priority Split
-*   **All Builds:** Intellect > Mastery > Haste > Critical Strike > Versatility.
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Chronowarden**
-*   **Core Focus:** **Temporal Anomaly** & **Echo Spread**.
-*   **Gameplay Effect:** Increases the importance of your *Temporal Anomaly* positioning to ensure maximum Echo coverage before big damage hits.
-*   **Why Pick?** Superior for raid-wide stabilization and overall HPS in 12.0.5.
-
-##### **Flameshaper**
-*   **Core Mechanic:** **Engulf** & **Consume Flame**.
-*   **Gameplay Effect:** Shifts the rotation towards target-specific burst healing. Use *Engulf* to consume *Dream Breath* and *Reversion* for massive instant heals.
-*   **Why Pick?** Superior for heavy single-target or small-group burst requirements.
-
----
-
-#### Deep Dive: Raid Rotation
-Focus: **Echo Management** and **Stasis Combo** efficiency.
-
-##### **A. Echo Management Audit**
-1.  **Temporal Anomaly:** Use on cooldown to spread **Echo** to the raid.
-2.  **Dream Breath:** Cast at **Level 1** immediately after an Echo spread to consume them for sustained healing.
-3.  **Spiritbloom:** Use at **Level 1+** (depending on target count) to consume Echoes for burst healing.
-4.  **Audit Flag:** Casting **Dream Breath** or **Spiritbloom** without active Echoes (when Temporal Anomaly is available) is a throughput failure.
-
-##### **B. The Stasis Combo (The High-Precision Sequence)**
-1.  **Stasis:** Activate.
-2.  **Dream Breath (Level 1)**
-3.  **Temporal Anomaly**
-4.  **Spiritbloom (Level 1+)**
-5.  **Release Stasis:** For a massive automated burst window.
-6.  **Audit Flag:** Messing up the order of the Stasis combo (e.g., casting fillers inside the window) is a critical error.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Magisters | Flask of the Blood Knights |
+| potion | Lightfused Mana Potion | Potion of Recklessness |
+| food | Hearty Royal Roast | Royal Roast, Silvermoon Parade |
+| weapon oil | Thalassian Phoenix Oil | See current guide and sim |
 
 ---
 

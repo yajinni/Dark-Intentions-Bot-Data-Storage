@@ -3,66 +3,60 @@
 <details open>
 <summary>## Arcane (Click to Colapse)</summary>
 
-### Arcane Mage Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Arcane Mage Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Unified Guide Approach)
-The guide recommends a unified approach for both Sunfury and Spellslinger builds.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/arcane-mage-pve-dps-guide) · [talents](https://www.icy-veins.com/wow/arcane-mage-pve-dps-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/arcane-mage-pve-dps-stat-priority) · [enchants](https://www.icy-veins.com/wow/arcane-mage-pve-dps-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/arcane-mage-pve-dps-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Sunfury is the strongest all-content tree; Spellslinger is a preference-based sustained alternative. Apex: Prismatic Bolt.
+
+**Stat priority**
+- Intellect > Haste > Critical Strike > Mastery > Versatility; secondaries are close and should be simulated.
+
+**Gems**
+- Five or more sockets: Powerful Eversong Diamond plus one of each color; otherwise Indecipherable Eversong Diamond. Flawless Quick Amethyst is the safe fill.
+
+**Enchants and weapon augment**
+- Thalassian Phoenix Oil; Empowered Blessing of Speed; Mark of the Worldsoul; Akil'zon's Swiftness; Arcanoweave Spellthread; Eyes of the Eagle; Farstrider's Hunt; Acuity of the Ren'dorei.
+
+**Consumables**
+- Blood Knights is the safe flask; Light's Potential is the best throughput potion in the current guide, with Concentrated Silvermoon Health Potion, Silvermoon Parade/Hearty variant and Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Open with Arcane Surge and Touch of the Magi, manage Clearcasting and Arcane Salvo, then use Arcane Barrage at the recommended charge/Salvo thresholds. Prismatic Bolt is tied to Cumulative Power; do not break a burn window with an untimely Barrage.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Intellect > Haste > Critical Strike > Mastery > Versatility; secondaries are close and should be simulated. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Silvermoon's Alacrity** (Haste). |
-| **Flask** | **Flask of Thalassian Resistance** (Vers) | **Flask of the Magisters** (Mastery). |
-| **Potion** | **Draught of Rampant Abandon** (max throughput, spawns silence pool) | **Light's Potential** (safe alternative, ~10% less). |
-| **Food** | **Silvermoon Parade** (Intellect Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Versatile Garnet** | **Flawless Masterful Peridot** (Mastery alternative). |
+| head | Empowered Blessing of Speed | See current guide and sim |
+| shoulders | Akil'zon's Swiftness | See current guide and sim |
+| chest | Mark of the Worldsoul | See current guide and sim |
+| legs | Arcanoweave Spellthread | See current guide and sim |
+| feet | Farstrider's Hunt | See current guide and sim |
+| ring | Eyes of the Eagle | See current guide and sim |
+| weapon | Acuity of the Ren'dorei | See current guide and sim |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon** | **Acuity of the Ren'dorei** | Mastery/Intellect proc. |
-| **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
-| **Shoulders** | **Akil'zon's Swiftness** | Mastery focus. |
-| **Chest** | **Mark of the Magister** | Primary Intellect buff. |
-| **Legs** | **Sunfire Silk Spellthread** | Intellect + Stamina. |
-| **Boots** | **Farstrider's Hunt** | Mastery/Speed. |
+| unique gem | Powerful Eversong Diamond | Indecipherable Eversong Diamond |
+| gems | Flawless Quick Amethyst | Quick Amethyst |
 
----
-
-#### Stat Priority Split
-*   **All Builds:** Intellect > Haste > Mastery > Critical Strike > Versatility.
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Sunfury**
-*   **Core Focus:** **Arcane Phoenix** & **Sunfury Mastery**.
-*   **Gameplay Effect:** Introduces a massive burst window where your phoenix mimics your spells. Requires precise alignment of *Arcane Surge* and *Touch of the Magi*.
-*   **Why Pick?** Superior for pure single-target boss encounters and massive burst windows.
-
-##### **Spellslinger**
-*   **Core Mechanic:** **Splintering** & **Spellfrost**.
-*   **Gameplay Effect:** Increases the importance of *Arcane Missiles* and *Arcane Blast* procs. More focus on sustained throughput than burst.
-*   **Why Pick?** Superior for consistent damage and high-movement encounters.
-
----
-
-#### Deep Dive: Raid Rotation
-Focus: **Burn Phase** efficiency and **Clearcasting** management.
-
-##### **A. The Burn Audit (The High-Intensity Sequence)**
-1.  **Evocation:** Cast immediately before starting the burn to trigger *Siphon Storm*.
-2.  **Arcane Surge:** Use to trigger the primary burn window.
-3.  **Touch of the Magi:** Cast immediately after Arcane Surge.
-4.  **Audit Flag:** Casting **Arcane Barrage** during the *Touch of the Magi* window (unless ending the phase) is a catastrophic throughput failure.
-
-##### **B. Conserve Phase**
-1.  **Arcane Missiles:** Use ONLY with **Clearcasting** procs.
-2.  **Arcane Blast:** Primary filler. Maintain 4 Arcane Charges.
-3.  **Arcane Barrage:** Use only to dump charges if mana is **< 15%** or to refresh *Arcane Familiar*.
-4.  **Audit Flag:** Casting *Arcane Missiles* without a Clearcasting proc is a major mana efficiency error.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Blood Knights | See current guide and sim |
+| potion | Light's Potential | See current guide and sim |
+| food | Silvermoon Parade | See current guide and sim |
+| weapon oil | Thalassian Phoenix Oil | See current guide and sim |
 
 ---
 
@@ -122,68 +116,60 @@ Compare Cooldowns: [
 <details open>
 <summary>## Fire (Click to Colapse)</summary>
 
-### Fire Mage Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Fire Mage Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Unified Guide Approach)
-The guide recommends a unified approach for both Sunfury and Frostfire builds.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/fire-mage-pve-dps-guide) · [talents](https://www.icy-veins.com/wow/fire-mage-pve-dps-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/fire-mage-pve-dps-stat-priority) · [enchants](https://www.icy-veins.com/wow/fire-mage-pve-dps-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/fire-mage-pve-dps-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Sunfury is the current all-content recommendation; Frostfire is a preference-based alternative.
+
+**Stat priority**
+- Intellect > Haste > Mastery > Versatility > Critical Strike.
+
+**Gems**
+- Five or more sockets: Powerful Eversong Diamond plus one of each color; otherwise Indecipherable Eversong Diamond. Flawless Versatile Peridot is the safe fill.
+
+**Enchants and weapon augment**
+- Thalassian Phoenix Oil; Acuity of the Ren'dorei; Empowered Blessing of Speed; Mark of the Worldsoul; Akil'zon's Swiftness; Sunfire Silk Spellthread; Farstrider's Hunt; Eyes of the Eagle.
+
+**Consumables**
+- Blood Knights flask and Light's Potential are the current safe throughput choices; use Silvermoon Parade/Hearty food, Concentrated Silvermoon Health Potion and Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Build around Combustion: cast Meteor before it expires, spend Hot Streak on Pyroblast, hard-cast Pyroclasm only with enough Combustion time, use Scorch Heat Shimmer while moving, and convert Heating Up with Fire Blast.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Intellect > Haste > Mastery > Versatility > Critical Strike. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | None listed. |
-| **Flask** | **Flask of Thalassian Resistance** (Vers) | **Flask of the Magisters** (Mastery). |
-| **Potion** | **Draught of Rampant Abandon** (max throughput, spawns silence pool) | **Light's Potential** (safe alternative, ~10% less). |
-| **Food** | **Silvermoon Parade** (Intellect Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Deadly Peridot** | **Flawless Quick Lapis** (Haste alternative). |
+| head | Empowered Blessing of Speed | See current guide and sim |
+| shoulders | Akil'zon's Swiftness | See current guide and sim |
+| chest | Mark of the Worldsoul | See current guide and sim |
+| legs | Sunfire Silk Spellthread | See current guide and sim |
+| feet | Farstrider's Hunt | See current guide and sim |
+| ring | Eyes of the Eagle | See current guide and sim |
+| weapon | Acuity of the Ren'dorei | See current guide and sim |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon** | **Acuity of the Ren'dorei** | Mastery/Intellect proc. |
-| **Weapon (Alternative)** | **Enchant Weapon - Arcane Mastery** | **Valid Alternative** for preference. |
-| **Helm** | **Empowered Hex of Leeching** | Defensive utility. |
-| **Shoulders** | **Silvermoon's Mending** | Best for raid throughput. |
-| **Chest** | **Mark of the Magister** | Primary Intellect buff. |
-| **Legs** | **Sunfire Silk Spellthread** | Intellect + Stamina. |
-| **Boots** | **Shaladrassil's Roots** | Versatility / Speed. |
+| unique gem | Powerful Eversong Diamond | Indecipherable Eversong Diamond |
+| gems | Flawless Versatile Peridot | See current guide and sim |
 
----
-
-#### Stat Priority Split
-*   **All Builds:** Intellect > Haste > Mastery > Critical Strike > Versatility.
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Sunfury**
-*   **Core Focus:** **Arcane Phoenix** & **Phoenix Flames**.
-*   **Gameplay Effect:** Increases the importance of *Phoenix Flames* as a core damage source. Requires precise charge management to avoid capping.
-*   **Why Pick?** Superior for pure single-target boss encounters and consistent throughput.
-
-##### **Frostfire**
-*   **Core Mechanic:** **Frostfire Empowerment** & **Frostfire Bolt**.
-*   **Gameplay Effect:** Adds a Frost component to your Fire damage. Higher dependency on *Fire Blast* and *Phoenix Flames* to trigger procs.
-*   **Why Pick?** Superior for multi-target cleave and encounters with high movement.
-
----
-
-#### Deep Dive: Raid Rotation
-Focus: **Combustion Efficiency** and **Hot Streak** management.
-
-##### **A. Combustion Audit (The Burst Window)**
-1.  **Combustion:** Use on cooldown (ensure you have 3 charges of Fire Blast and 2 charges of Phoenix Flames available).
-2.  **Fire Blast:** Use exclusively during Combustion to trigger instant **Hot Streak** procs.
-3.  **Phoenix Flames:** Use to maintain **Ignite** and trigger procs. Never let it reach **3 charges**.
-4.  **Audit Flag:** Casting *Fire Blast* outside of the Combustion window (unless at 3 charges) is a major throughput failure.
-
-##### **B. Primary Priority List**
-1.  **Pyroblast:** Use ONLY with **Hot Streak** procs.
-2.  **Fire Blast:** Use to bridge the gap between *Heating Up* and *Hot Streak*.
-3.  **Phoenix Flames:** Use on cooldown (avoid capping).
-4.  **Fireball:** Primary filler when no procs are active.
-5.  **Audit Flag:** Casting *Fireball* when **Hot Streak** is active is a significant efficiency failure.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Blood Knights | See current guide and sim |
+| potion | Light's Potential | See current guide and sim |
+| food | Silvermoon Parade | See current guide and sim |
+| weapon oil | Thalassian Phoenix Oil | See current guide and sim |
 
 ---
 
@@ -243,68 +229,60 @@ Compare Cooldowns: [
 <details open>
 <summary>## Frost (Click to Colapse)</summary>
 
-### Frost Mage Knowledge Base (Midnight 12.0.5) - RAID FOCUS
+### Frost Mage Knowledge Base (Patch 12.1) - RAID/M+ FOCUS
 
-#### Consumables & Equipment (Unified Guide Approach)
-The guide recommends a unified approach for both Spellslinger and Frostfire builds.
+#### Current 12.1 Source Snapshot
+Source verification date: **2026-09-17**. Current guide pages: [guide](https://www.icy-veins.com/wow/frost-mage-pve-dps-guide) · [talents](https://www.icy-veins.com/wow/frost-mage-pve-dps-spec-builds-talents) · [stats](https://www.icy-veins.com/wow/frost-mage-pve-dps-stat-priority) · [enchants](https://www.icy-veins.com/wow/frost-mage-pve-dps-gems-enchants-consumables) · [rotation](https://www.icy-veins.com/wow/frost-mage-pve-dps-rotation-cooldowns-abilities).
 
-| Category | **Primary Recommendation** | **Valid Alternatives / Situational** |
+The Icy Veins 12.1 recommendations below supersede the former gearing and rotation summary. Character-specific simulations and item level take priority whenever the guide calls out close or fluid stats.
+
+**Talent and Hero Tree recommendation**
+- Spellslinger is preferred for single target and lower target counts; Frostfire is slightly ahead in dungeon-style/AoE profiles.
+
+**Stat priority**
+- Intellect > Mastery > Critical Strike > Haste > Versatility, with Haste naturally catching up at higher gear levels.
+
+**Gems**
+- Indecipherable Eversong Diamond, then Flawless Masterful Garnet.
+
+**Enchants and weapon augment**
+- Thalassian Phoenix Oil; Eyes of the Eagle; Jan'alai's Precision weapon enchant; Mark of the Worldsoul; Empowered Rune of Avoidance; Amirdrassil's Grace; Lynx's Dexterity; Sunfire Silk Spellthread.
+
+**Consumables**
+- Shattered Sun flask; Potion of Recklessness; Concentrated Silvermoon Health Potion; Harandar/Silvermoon feast or Royal Roast; Void-Touched Augment Rune.
+
+**Rotation and audit focus**
+- Use Frostbolt to build Freezing, spend Fingers of Frost on Ice Lance and Brain Freeze on Flurry, and pair Comet Storm with Ray of Frost. Keep Frozen Orb and Ray of Frost aligned with the current Hero Tree priorities.
+
+#### Stat Priority (Patch 12.1, parser table)
+| Build | Priority / guidance |
+| :--- | :--- |
+| Current guide | Intellect > Mastery > Critical Strike > Haste > Versatility, with Haste naturally catching up at higher gear levels. |
+
+#### Enchants and Weapon Augment (Patch 12.1, parser table)
+| Slot | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Ring Enchant** | **Enchant Ring - Eyes of the Eagle** | **Enchant Ring - Silvermoon's Alacrity** (Haste). |
-| **Flask** | **Flask of the Shattered Sun** (Crit) | **Flask of the Magisters** (Mastery). |
-| **Potion** | **Draught of Rampant Abandon** (max throughput, spawns silence pool) | **Light's Potential** (safe alternative, ~10% less). |
-| **Food** | **Silvermoon Parade** (Intellect Feast) | **Royal Roast** (Valid if Feast is not provided). |
-| **Weapon Oil** | **Thalassian Phoenix Oil** | None listed. |
-| **Unique Gem** | **Indecipherable Eversong Diamond** | Must be socketed first. |
-| **Gems** | **Flawless Masterful Peridot** | **Flawless Quick Lapis** (Haste alternative). |
+| head | Empowered Rune of Avoidance | See current guide and sim |
+| shoulders | Amirdrassil's Grace | See current guide and sim |
+| chest | Mark of the Worldsoul | See current guide and sim |
+| legs | Sunfire Silk Spellthread | See current guide and sim |
+| feet | Lynx's Dexterity | See current guide and sim |
+| ring | Eyes of the Eagle | See current guide and sim |
+| weapon | Jan'alai's Precision | See current guide and sim |
 
-##### **Gear Enchants Table (Global)**
-| Slot | Recommended Enchant | Notes |
+#### Gems (Patch 12.1, parser table)
+| Type | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
-| **Weapon** | **Acuity of the Ren'dorei** | Mastery/Intellect proc. |
-| **Helm** | **Empowered Blessing of Speed** | Utility/Speed. |
-| **Shoulders** | **Akil'zon's Swiftness** | Mastery focus. |
-| **Chest** | **Mark of the Magister** | Primary Intellect buff. |
-| **Legs** | **Sunfire Silk Spellthread** | Intellect + Stamina. |
-| **Boots** | **Farstrider's Hunt** | Mastery/Speed. |
+| unique gem | Indecipherable Eversong Diamond | See current guide and sim |
+| gems | Flawless Masterful Garnet | Masterful Garnet |
 
----
-
-#### Stat Priority Split
-*   **All Builds:** Intellect > Haste > Critical Strike > Mastery > Versatility.
-
----
-
-#### Hero Talents Deep Dive
-
-##### **Spellslinger**
-*   **Core Focus:** **Splintering** & **Spellfrost**.
-*   **Gameplay Effect:** Increases the importance of *Ice Lance* and *Flurry* procs. Focuses on high-frequency damage spikes.
-*   **Why Pick?** Superior for pure single-target performance and consistent throughput in 12.0.5.
-
-##### **Frostfire**
-*   **Core Mechanic:** **Frostfire Empowerment** & **Frostfire Bolt**.
-*   **Gameplay Effect:** Adds a Fire component to your Frost damage. Higher dependency on *Frozen Orb* to trigger procs.
-*   **Why Pick?** Superior for multi-target cleave and encounters with high movement.
-
----
-
-#### Deep Dive: Raid Rotation
-Focus: **Shatter Combo** efficiency and **Icy Veins** uptime.
-
-##### **A. The Shatter Audit (The Golden Rule)**
-1.  **Rule:** Every **Ice Lance** cast SHOULD be a "Shatter" cast.
-2.  **Requirement:** Cast *Ice Lance* only when the target has **Fingers of Frost** or **Winter's Chill** (applied by Flurry).
-3.  **Sequence:** Cast **Flurry -> Ice Lance -> Ice Lance** to maximize the Shatter window.
-4.  **Audit Flag:** Casting *Ice Lance* on a target without any freeze debuff is a major throughput error.
-
-##### **B. Primary Priority List**
-1.  **Icy Veins:** Use on cooldown. Maintain 100% uptime during the window.
-2.  **Frozen Orb:** Use on cooldown to generate Fingers of Frost procs.
-3.  **Flurry:** Use on cooldown to apply Winter's Chill.
-4.  **Glacial Spike:** Use at **5 Icicles** (ensure the target has Winter's Chill for the shatter).
-5.  **Frostbolt:** Primary filler.
-6.  **Audit Flag:** Casting *Frostbolt* when **Fingers of Frost** is active (at 2 stacks) is an efficiency error.
+#### Consumables (Patch 12.1, parser table)
+| Category | Primary recommendation | Alternatives / notes |
+| :--- | :--- | :--- |
+| flask | Flask of the Shattered Sun | See current guide and sim |
+| potion | Potion of Recklessness | See current guide and sim |
+| food | Royal Roast | See current guide and sim |
+| weapon oil | Thalassian Phoenix Oil | See current guide and sim |
 
 ---
 
