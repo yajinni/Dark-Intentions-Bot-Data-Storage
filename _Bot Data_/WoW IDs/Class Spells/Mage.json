@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "name": "Invisibility",
     "id": 66,
@@ -3211,7 +3211,7 @@
     "name": "Arcane Pulse",
     "id": 1241462,
     "gcd": 1.5,
-    "castTime": 1.75
+    "castTime": 2
   },
   {
     "name": "Hyperthermia",
@@ -4080,6 +4080,246 @@
   {
     "name": "Mage - Midnight PrePatch - 11.2 Class Set 4pc",
     "id": 1283635,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Master of Escape (desc=PvP Talent)",
+    "id": 210476,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Zann'esu Journey",
+    "id": 226852,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "The Night's Dichotomy",
+    "id": 241334,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Starlight of Celumbra",
+    "id": 241835,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadow of Celumbra",
+    "id": 241836,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Freezing Rain",
+    "id": 270232,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Harmonic Echo",
+    "id": 354186,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death's Fathom",
+    "id": 354294,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sinful Delight",
+    "id": 354333,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heart of the Fae",
+    "id": 356877,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Harmonic Echo",
+    "id": 364853,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sinful Delight",
+    "id": 364854,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death's Fathom",
+    "id": 364855,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Heart of the Fae",
+    "id": 364856,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Arcane Class Set 2pc",
+    "id": 393653,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Arcane Class Set 4pc",
+    "id": 393654,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Fire Class Set 2pc",
+    "id": 393655,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Fire Class Set 4pc",
+    "id": 393656,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bursting Energy",
+    "id": 395006,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cauterize",
+    "id": 1286444,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Prismatic Bolt",
+    "id": 1295923,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Prismatic Bolt",
+    "id": 1295924,
+    "gcd": 1.5,
+    "castTime": 2.5
+  },
+  {
+    "name": "Prismatic Bolt",
+    "id": 1295939,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Prismatic Bolt!",
+    "id": 1295942,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Prismatic Bolt",
+    "id": 1295944,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Prismatic Bolt",
+    "id": 1295946,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Arcane Pulse",
+    "id": 1295977,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Arcane 12.1 Class Set 2pc",
+    "id": 1296581,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Arcane 12.1 Class Set 4pc",
+    "id": 1296582,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Fire 12.1 Class Set 2pc",
+    "id": 1296583,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Fire 12.1 Class Set 4pc",
+    "id": 1296584,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Frost 12.1 Class Set 2pc",
+    "id": 1296585,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mage Frost 12.1 Class Set 4pc",
+    "id": 1296586,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cumulative Power",
+    "id": 1296930,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Warding",
+    "id": 1297073,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Refractive Images",
+    "id": 1309497,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Refraction",
+    "id": 1309786,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Refraction",
+    "id": 1309787,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Amplified Refraction",
+    "id": 1309793,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rapid Refreezing",
+    "id": 1310248,
     "gcd": 0,
     "castTime": 0
   }

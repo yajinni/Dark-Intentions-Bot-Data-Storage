@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "name": "Incapacitating Roar",
     "id": 99,
@@ -5492,6 +5492,312 @@
   {
     "name": "Dream Guide",
     "id": 1292031,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gory Fur",
+    "id": 200854,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gory Fur",
+    "id": 201671,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Overgrowth",
+    "id": 203651,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Overgrowth (desc=PvP Talent)",
+    "id": 203652,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Kindred Affinity",
+    "id": 364815,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sinful Indulgence",
+    "id": 364816,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unbridled Swarm",
+    "id": 364818,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Celestial Spirits",
+    "id": 364819,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadows of the Predator",
+    "id": 408340,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Predator Revealed",
+    "id": 408468,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Smoldering Frenzy",
+    "id": 422751,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Burning Frenzy",
+    "id": 422779,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dream Burst",
+    "id": 433832,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cenarius' Might",
+    "id": 455801,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Memory of Ysera",
+    "id": 1250906,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Memory of Ysera",
+    "id": 1250913,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Balance 12.0 Class Set 4pc",
+    "id": 1264811,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Balance 12.1 Class Set 2pc",
+    "id": 1296603,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Balance 12.1 Class Set 4pc",
+    "id": 1296604,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Feral 12.1 Class Set 2pc",
+    "id": 1296605,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Feral 12.1 Class Set 4pc",
+    "id": 1296606,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Guardian 12.1 Class Set 2pc",
+    "id": 1296607,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Guardian 12.1 Class Set 4pc",
+    "id": 1296608,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Restoration 12.1 Class Set 2pc",
+    "id": 1296609,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Druid Restoration 12.1 Class Set 4pc",
+    "id": 1296610,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stellar Protection",
+    "id": 1297521,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rampant Thorn",
+    "id": 1301157,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gorestained Claws",
+    "id": 1301286,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Incarnation: Tree of Life",
+    "id": 1301340,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Halazzi's Fury",
+    "id": 1301600,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Symbiotic Relationship",
+    "id": 1301638,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Starfall",
+    "id": 1301742,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Starfall",
+    "id": 1301747,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Akil'zon's Clarity",
+    "id": 1301768,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Overgrowth",
+    "id": 1301989,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Genesis",
+    "id": 1302255,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Orbit Breaker",
+    "id": 1303480,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gory Fur",
+    "id": 1307881,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spirit's Wrath",
+    "id": 1308093,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spirit's Wrath",
+    "id": 1308125,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dream Conduit",
+    "id": 1308176,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Answered Calling",
+    "id": 1308399,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spirit's Wrath",
+    "id": 1308437,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Listener",
+    "id": 1308448,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spirit's Wrath",
+    "id": 1308479,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wild Guardian Spirit",
+    "id": 1308522,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spirit's Wrath",
+    "id": 1308639,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Answered Calling",
+    "id": 1308647,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Listener",
+    "id": 1308653,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rampant Thorn",
+    "id": 1310150,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rampant Thorn",
+    "id": 1310213,
     "gcd": 0,
     "castTime": 0
   }

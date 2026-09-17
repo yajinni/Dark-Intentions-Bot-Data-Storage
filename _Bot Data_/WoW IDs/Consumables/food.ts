@@ -320,6 +320,51 @@ const food = {
     icon: 'spell_misc_food',
   },
   // #endregion Secondary Feast
+  SIMC_WELL_FED: {
+    id: 1232490,
+    name: 'Well Fed',
+    icon: 'inv_misc_questionmark',
+  },
+  SIMC_WELL_FED_2: {
+    id: 1232491,
+    name: 'Well Fed',
+    icon: 'inv_misc_questionmark',
+  },
+  SIMC_WELL_FED_3: {
+    id: 1232493,
+    name: 'Well Fed',
+    icon: 'inv_misc_questionmark',
+  },
+  SIMC_WELL_FED_4: {
+    id: 1232500,
+    name: 'Well Fed',
+    icon: 'inv_misc_questionmark',
+  },
+  SIMC_WELL_FED_5: {
+    id: 1232501,
+    name: 'Well Fed',
+    icon: 'inv_misc_questionmark',
+  },
+  SIMC_HEARTY_WELL_FED: {
+    id: 1233733,
+    name: 'Hearty Well Fed',
+    icon: 'inv_misc_questionmark',
+  },
+  SIMC_WELL_FED_6: {
+    id: 1294727,
+    name: 'Well Fed',
+    icon: 'inv_misc_questionmark',
+  },
+  SIMC_WELL_FED_7: {
+    id: 1305151,
+    name: 'Well Fed',
+    icon: 'inv_misc_questionmark',
+  },
+  SIMC_WELL_FED_8: {
+    id: 1305154,
+    name: 'Well Fed',
+    icon: 'inv_misc_questionmark',
+  },
 } satisfies Record<string, Spell>;
 
 export default food;

@@ -56,7 +56,7 @@ const talents = {
     icon: 'spell_holy_testoffaith',
     maxRanks: 1,
     entryIds: [103831, 103828],
-    definitionIds: [
+    definitionIds: [{ id: 108836, specId: 257 }, { id: 108833, specId: 258 }, { id: 108836, specId: 256 }],
       { id: 108836, specId: 257 },
       { id: 108833, specId: 258 },
     ],
@@ -83,7 +83,7 @@ const talents = {
     icon: 'spell_holy_prayerofmendingtga',
     maxRanks: 1,
     entryIds: [117294],
-    definitionIds: [{ id: 122306, specId: 257 }],
+    definitionIds: [{ id: 122306, specId: 257 }, { id: 122306, specId: 256 }],
   },
   ATONEMENT_TALENT: {
     id: 81749,
@@ -203,7 +203,7 @@ const talents = {
     icon: 'inv_cosmicvoid_groundsate',
     maxRanks: 1,
     entryIds: [117297],
-    definitionIds: [{ id: 122309, specId: 258 }],
+    definitionIds: [{ id: 122309, specId: 258 }, { id: 122309, specId: 256 }],
   },
   COSMIC_RIPPLE_TALENT: {
     id: 238136,
@@ -243,7 +243,7 @@ const talents = {
     icon: 'inv_misc_83_voidfocus',
     maxRanks: 1,
     entryIds: [125982],
-    definitionIds: [{ id: 130813, specId: 258 }],
+    definitionIds: [{ id: 130813, specId: 258 }, { id: 130813, specId: 256 }],
   },
   DARK_ENERGY_TALENT: {
     id: 451018,
@@ -251,7 +251,7 @@ const talents = {
     icon: 'achievement_boss_triumvirate_darknaaru',
     maxRanks: 1,
     entryIds: [123845],
-    definitionIds: [{ id: 128683, specId: 258 }],
+    definitionIds: [{ id: 128683, specId: 258 }, { id: 128683, specId: 256 }],
   },
   DARK_ENLIGHTENMENT_TALENT: {
     id: 1250835,
@@ -299,7 +299,7 @@ const talents = {
     icon: 'spell_shadow_deathsembrace',
     maxRanks: 1,
     entryIds: [136828, 133377],
-    definitionIds: [
+    definitionIds: [{ id: 141591, specId: 256 }, { id: 138163, specId: 258 }],
       { id: 141591, specId: 256 },
       { id: 138163, specId: 258 },
     ],
@@ -326,7 +326,7 @@ const talents = {
     icon: 'spell_holy_testoffaith',
     maxRanks: 1,
     entryIds: [126068],
-    definitionIds: [{ id: 130900, specId: 257 }],
+    definitionIds: [{ id: 130900, specId: 257 }, { id: 130900, specId: 256 }],
   },
   DESPERATE_PRAYER_TALENT: {
     id: 19236,
@@ -350,7 +350,7 @@ const talents = {
     icon: 'spell_holy_consumemagic',
     maxRanks: 1,
     entryIds: [117271],
-    definitionIds: [{ id: 122283, specId: 258 }],
+    definitionIds: [{ id: 122283, specId: 258 }, { id: 122283, specId: 256 }],
   },
   DISPEL_MAGIC_TALENT: {
     id: 528,
@@ -391,7 +391,7 @@ const talents = {
     icon: 'ability_priest_angelicfeather',
     maxRanks: 1,
     entryIds: [117278],
-    definitionIds: [{ id: 122290, specId: 257 }],
+    definitionIds: [{ id: 122290, specId: 257 }, { id: 122290, specId: 256 }],
   },
   DIVINE_HALO_TALENT: {
     id: 449806,
@@ -399,7 +399,7 @@ const talents = {
     icon: 'inv_ability_holyfire_nova',
     maxRanks: 1,
     entryIds: [117305],
-    definitionIds: [{ id: 122317, specId: 258 }],
+    definitionIds: [{ id: 122317, specId: 258 }, { id: 122317, specId: 257 }],
   },
   DIVINE_HYMN_TALENT: {
     id: 64843,
@@ -465,7 +465,7 @@ const talents = {
     icon: 'spell_shadow_shadesofdarkness',
     maxRanks: 1,
     entryIds: [123844],
-    definitionIds: [{ id: 128682, specId: 258 }],
+    definitionIds: [{ id: 128682, specId: 258 }, { id: 128682, specId: 256 }],
   },
   EMPOWERED_SURGES_TALENT: {
     id: 453799,
@@ -473,7 +473,7 @@ const talents = {
     icon: 'ability_priest_flashoflight',
     maxRanks: 1,
     entryIds: [117291],
-    definitionIds: [{ id: 122303, specId: 258 }],
+    definitionIds: [{ id: 122303, specId: 258 }, { id: 122303, specId: 257 }],
   },
   EMPYREAL_BLAZE_TALENT: {
     id: 372616,
@@ -505,7 +505,7 @@ const talents = {
     icon: 'spell_holy_circleofrenewal',
     maxRanks: 1,
     entryIds: [117281],
-    definitionIds: [{ id: 122293, specId: 258 }],
+    definitionIds: [{ id: 122293, specId: 258 }, { id: 122293, specId: 257 }],
   },
   ENERGY_CONSERVATION_TALENT: {
     id: 1272308,
@@ -513,7 +513,7 @@ const talents = {
     icon: 'ability_priest_clarityofpurpose',
     maxRanks: 1,
     entryIds: [117283],
-    definitionIds: [{ id: 122295, specId: 258 }],
+    definitionIds: [{ id: 122295, specId: 258 }, { id: 122295, specId: 257 }],
   },
   ENERGY_CYCLE_TALENT: {
     id: 453828,
@@ -521,7 +521,7 @@ const talents = {
     icon: 'ability_priest_voidshift',
     maxRanks: 1,
     entryIds: [117288],
-    definitionIds: [{ id: 122300, specId: 258 }],
+    definitionIds: [{ id: 122300, specId: 258 }, { id: 122300, specId: 257 }],
   },
   ENLIGHTENMENT_TALENT: {
     id: 193155,
@@ -609,7 +609,7 @@ const talents = {
     icon: 'ability_priest_spiritoftheredeemer',
     maxRanks: 1,
     entryIds: [136035],
-    definitionIds: [{ id: 140790, specId: 258 }],
+    definitionIds: [{ id: 140790, specId: 258 }, { id: 140790, specId: 257 }],
   },
   FOCUSED_POWER_TALENT: {
     id: 1249230,
@@ -625,7 +625,7 @@ const talents = {
     icon: 'spell_holy_painsupression',
     maxRanks: 1,
     entryIds: [117292],
-    definitionIds: [{ id: 122304, specId: 257 }],
+    definitionIds: [{ id: 122304, specId: 257 }, { id: 122304, specId: 256 }],
   },
   GALES_OF_SONG_TALENT: {
     id: 372370,
@@ -639,7 +639,7 @@ const talents = {
     id: 1253724,
     name: 'Greater Smite',
     icon: 'spell_paladin_inquisition',
-    maxRanks: 2,
+    maxRanks: 1,
     entryIds: [103694],
     definitionIds: [{ id: 108699, specId: 256 }],
   },
@@ -665,7 +665,7 @@ const talents = {
     icon: 'ability_priest_holywordlife',
     maxRanks: 1,
     entryIds: [117286],
-    definitionIds: [{ id: 122298, specId: 257 }],
+    definitionIds: [{ id: 122298, specId: 257 }, { id: 122298, specId: 256 }],
   },
   HALO_HOLY_TALENT: {
     id: 120517,
@@ -715,7 +715,7 @@ const talents = {
     icon: 'inv_enchant_essenceeternallarge',
     maxRanks: 1,
     entryIds: [136687],
-    definitionIds: [{ id: 141459, specId: 258 }],
+    definitionIds: [{ id: 141459, specId: 258 }, { id: 141459, specId: 257 }],
   },
   HOLY_CELERITY_TALENT: {
     id: 1215275,
@@ -829,7 +829,7 @@ const talents = {
     icon: 'spell_holy_nullifydisease',
     maxRanks: 1,
     entryIds: [103855],
-    definitionIds: [{ id: 108860, specId: 257 }],
+    definitionIds: [{ id: 108860, specId: 257 }, { id: 108860, specId: 256 }],
   },
   IMPROVED_VOIDFORM_TALENT: {
     id: 341240,
@@ -845,7 +845,7 @@ const talents = {
     icon: 'spell_shadow_psychicscream',
     maxRanks: 1,
     entryIds: [125083],
-    definitionIds: [{ id: 129915, specId: 258 }],
+    definitionIds: [{ id: 129915, specId: 258 }, { id: 129915, specId: 257 }],
   },
   INDEMNITY_TALENT: {
     id: 373049,
@@ -861,7 +861,7 @@ const talents = {
     icon: 'spell_shadow_chilltouch',
     maxRanks: 1,
     entryIds: [136830, 103783],
-    definitionIds: [
+    definitionIds: [{ id: 141593, specId: 256 }, { id: 108788, specId: 258 }],
       { id: 141593, specId: 256 },
       { id: 108788, specId: 258 },
     ],
@@ -880,7 +880,7 @@ const talents = {
     icon: 'inv_cosmicvoid_buff',
     maxRanks: 1,
     entryIds: [117273],
-    definitionIds: [{ id: 122285, specId: 258 }],
+    definitionIds: [{ id: 122285, specId: 258 }, { id: 122285, specId: 256 }],
   },
   INSIDIOUS_IRE_TALENT: {
     id: 373212,
@@ -1033,7 +1033,7 @@ const talents = {
     icon: 'spell_holy_surgeoflight',
     maxRanks: 1,
     entryIds: [117302],
-    definitionIds: [{ id: 122314, specId: 258 }],
+    definitionIds: [{ id: 122314, specId: 258 }, { id: 122314, specId: 257 }],
   },
   MASS_DISPEL_TALENT: {
     id: 32375,
@@ -1138,7 +1138,7 @@ const talents = {
     icon: 'spell_shadow_unholyfrenzy',
     maxRanks: 1,
     entryIds: [103865],
-    definitionIds: [{ id: 108870, specId: 258 }],
+    definitionIds: [{ id: 108870, specId: 258 }, { id: 108870, specId: 256 }],
     manaCost: 3750,
   },
   MIND_CONTROL_TALENT: {
@@ -1188,7 +1188,7 @@ const talents = {
     icon: 'spell_fire_twilighthellfire',
     maxRanks: 1,
     entryIds: [117296],
-    definitionIds: [{ id: 122308, specId: 258 }],
+    definitionIds: [{ id: 122308, specId: 258 }, { id: 122308, specId: 256 }],
   },
   OCCULTIST_TALENT: {
     id: 1250293,
@@ -1204,7 +1204,7 @@ const talents = {
     icon: 'inv_shadowelementalmount',
     maxRanks: 1,
     entryIds: [136036],
-    definitionIds: [{ id: 140791, specId: 258 }],
+    definitionIds: [{ id: 140791, specId: 258 }, { id: 140791, specId: 256 }],
   },
   PAINFUL_INVOCATION_TALENT: {
     id: 1251030,
@@ -1253,7 +1253,7 @@ const talents = {
     icon: 'inv_ability_holyfire_buff',
     maxRanks: 1,
     entryIds: [117280],
-    definitionIds: [{ id: 122292, specId: 258 }],
+    definitionIds: [{ id: 122292, specId: 258 }, { id: 122292, specId: 257 }],
   },
   PETRIFYING_SCREAM_TALENT: {
     id: 55676,
@@ -1293,7 +1293,7 @@ const talents = {
     icon: 'inv_ability_oraclepriest_premonitionpiety',
     maxRanks: 1,
     entryIds: [117303],
-    definitionIds: [{ id: 122315, specId: 257 }],
+    definitionIds: [{ id: 122315, specId: 257 }, { id: 122315, specId: 256 }],
   },
   POWER_INFUSION_TALENT: {
     id: 10060,
@@ -1317,7 +1317,7 @@ const talents = {
     icon: 'inv_ability_holyfire_groundstate',
     maxRanks: 1,
     entryIds: [117284],
-    definitionIds: [{ id: 122296, specId: 258 }],
+    definitionIds: [{ id: 122296, specId: 258 }, { id: 122296, specId: 257 }],
   },
   POWER_WORD_BARRIER_TALENT: {
     id: 62618,
@@ -1368,7 +1368,7 @@ const talents = {
     icon: 'spell_holy_renew',
     maxRanks: 1,
     entryIds: [117277],
-    definitionIds: [{ id: 122289, specId: 257 }],
+    definitionIds: [{ id: 122289, specId: 257 }, { id: 122289, specId: 256 }],
   },
   PREVENTIVE_MEASURES_TALENT: {
     id: 440662,
@@ -1376,7 +1376,7 @@ const talents = {
     icon: 'spell_holy_powerwordshield',
     maxRanks: 1,
     entryIds: [117301],
-    definitionIds: [{ id: 122313, specId: 257 }],
+    definitionIds: [{ id: 122313, specId: 257 }, { id: 122313, specId: 256 }],
   },
   PRISMATIC_ECHOES_TALENT: {
     id: 390967,
@@ -1392,7 +1392,7 @@ const talents = {
     icon: 'spell_holy_blessedlife',
     maxRanks: 1,
     entryIds: [117276],
-    definitionIds: [{ id: 122288, specId: 257 }],
+    definitionIds: [{ id: 122288, specId: 257 }, { id: 122288, specId: 256 }],
   },
   PROPHETS_INSIGHT_TALENT: {
     id: 1272359,
@@ -1400,7 +1400,7 @@ const talents = {
     icon: 'spell_priest_pontifex',
     maxRanks: 1,
     entryIds: [136041],
-    definitionIds: [{ id: 140796, specId: 257 }],
+    definitionIds: [{ id: 140796, specId: 257 }, { id: 140796, specId: 256 }],
   },
   PROPHETS_WILL_TALENT: {
     id: 433905,
@@ -1408,7 +1408,7 @@ const talents = {
     icon: 'ability_priest_clarityofpurpose',
     maxRanks: 1,
     entryIds: [117293],
-    definitionIds: [{ id: 122305, specId: 257 }],
+    definitionIds: [{ id: 122305, specId: 257 }, { id: 122305, specId: 256 }],
   },
   PROTECTIVE_LIGHT_TALENT: {
     id: 193063,
@@ -1474,7 +1474,7 @@ const talents = {
     icon: 'ability_rogue_sanguinaryvein',
     maxRanks: 1,
     entryIds: [117295],
-    definitionIds: [{ id: 122307, specId: 258 }],
+    definitionIds: [{ id: 122307, specId: 258 }, { id: 122307, specId: 256 }],
   },
   RADIANT_PLEA_TALENT: {
     id: 1250684,
@@ -1490,7 +1490,7 @@ const talents = {
     icon: 'spell_holy_flashheal',
     maxRanks: 1,
     entryIds: [136033],
-    definitionIds: [{ id: 140788, specId: 258 }],
+    definitionIds: [{ id: 140788, specId: 258 }, { id: 140788, specId: 257 }],
   },
   RENEWED_FAITH_TALENT: {
     id: 341997,
@@ -1506,7 +1506,7 @@ const talents = {
     icon: 'ability_priest_halo',
     maxRanks: 1,
     entryIds: [117279],
-    definitionIds: [{ id: 122291, specId: 258 }],
+    definitionIds: [{ id: 122291, specId: 258 }, { id: 122291, specId: 257 }],
   },
   RESTITUTION_TALENT: {
     id: 391124,
@@ -1546,7 +1546,7 @@ const talents = {
     icon: 'priest_spell_leapoffaith_a',
     maxRanks: 1,
     entryIds: [119331],
-    definitionIds: [{ id: 124231, specId: 257 }],
+    definitionIds: [{ id: 124231, specId: 257 }, { id: 124231, specId: 256 }],
   },
   SAY_YOUR_PRAYERS_TALENT: {
     id: 391186,
@@ -1595,7 +1595,7 @@ const talents = {
     icon: 'spell_shadow_shadowfiend',
     maxRanks: 1,
     entryIds: [103695, 134851],
-    definitionIds: [
+    definitionIds: [{ id: 108700, specId: 256 }, { id: 139619, specId: 258 }],
       { id: 108700, specId: 256 },
       { id: 139619, specId: 258 },
     ],
@@ -1679,7 +1679,7 @@ const talents = {
     icon: 'spell_priest_pathofdevout',
     maxRanks: 1,
     entryIds: [117289],
-    definitionIds: [{ id: 122301, specId: 258 }],
+    definitionIds: [{ id: 122301, specId: 258 }, { id: 122301, specId: 257 }],
   },
   SPECTRAL_HORRORS_TALENT: {
     id: 407469,
@@ -1719,7 +1719,7 @@ const talents = {
     icon: 'spell_holy_prayerofhealing02',
     maxRanks: 1,
     entryIds: [136688],
-    definitionIds: [{ id: 141460, specId: 258 }],
+    definitionIds: [{ id: 141460, specId: 258 }, { id: 141460, specId: 257 }],
   },
   STRENGTH_OF_RESOLVE_TALENT: {
     id: 1250820,
@@ -1759,7 +1759,7 @@ const talents = {
     icon: 'ability_priest_ascension',
     maxRanks: 1,
     entryIds: [125085],
-    definitionIds: [{ id: 129917, specId: 258 }],
+    definitionIds: [{ id: 129917, specId: 258 }, { id: 129917, specId: 257 }],
   },
   TENTACLE_SLAM_TALENT: {
     id: 1227280,
@@ -1807,7 +1807,7 @@ const talents = {
     icon: 'inv_112_raidtrinkets_blobofswirlingvoid_purple',
     maxRanks: 1,
     entryIds: [136037],
-    definitionIds: [{ id: 140792, specId: 258 }],
+    definitionIds: [{ id: 140792, specId: 258 }, { id: 140792, specId: 256 }],
   },
   TRAIL_OF_LIGHT_TALENT: {
     id: 200128,
@@ -1831,7 +1831,7 @@ const talents = {
     icon: 'inv_ability_oraclepriest_clairvoyance',
     maxRanks: 1,
     entryIds: [117290],
-    definitionIds: [{ id: 122302, specId: 257 }],
+    definitionIds: [{ id: 122302, specId: 257 }, { id: 122302, specId: 256 }],
   },
   TWINS_OF_THE_SUN_PRIESTESS_TALENT: {
     id: 373466,
@@ -1879,7 +1879,7 @@ const talents = {
     icon: 'spell_holy_mindvision',
     maxRanks: 1,
     entryIds: [136039],
-    definitionIds: [{ id: 140794, specId: 257 }],
+    definitionIds: [{ id: 140794, specId: 257 }, { id: 140794, specId: 256 }],
   },
   UNWAVERING_WILL_TALENT: {
     id: 373456,
@@ -1919,7 +1919,7 @@ const talents = {
     icon: 'inv_cosmicvoid_orb',
     maxRanks: 1,
     entryIds: [136038],
-    definitionIds: [{ id: 140793, specId: 258 }],
+    definitionIds: [{ id: 140793, specId: 258 }, { id: 140793, specId: 256 }],
   },
   VOIDTOUCHED_TALENT: {
     id: 407430,
@@ -1935,7 +1935,7 @@ const talents = {
     icon: 'warlock_curse_shadow',
     maxRanks: 1,
     entryIds: [123841],
-    definitionIds: [{ id: 128679, specId: 258 }],
+    definitionIds: [{ id: 128679, specId: 258 }, { id: 128679, specId: 256 }],
   },
   VOID_APPARITIONS_1_SHADOW_TALENT: {
     id: 1264096,
@@ -1967,7 +1967,7 @@ const talents = {
     icon: 'inv_cosmicvoid_missile',
     maxRanks: 1,
     entryIds: [117306],
-    definitionIds: [{ id: 122318, specId: 258 }],
+    definitionIds: [{ id: 122318, specId: 258 }, { id: 122318, specId: 256 }],
   },
   VOID_EMPOWERMENT_TALENT: {
     id: 450138,
@@ -1975,7 +1975,7 @@ const talents = {
     icon: 'inv_cosmicvoid_nova',
     maxRanks: 1,
     entryIds: [125821],
-    definitionIds: [{ id: 128681, specId: 258 }],
+    definitionIds: [{ id: 128681, specId: 258 }, { id: 128681, specId: 256 }],
   },
   VOID_INFUSION_TALENT: {
     id: 450612,
@@ -1983,7 +1983,7 @@ const talents = {
     icon: 'inv_misc_volatileshadow',
     maxRanks: 1,
     entryIds: [117272],
-    definitionIds: [{ id: 122284, specId: 258 }],
+    definitionIds: [{ id: 122284, specId: 258 }, { id: 122284, specId: 256 }],
   },
   VOID_LEECH_TALENT: {
     id: 451311,
@@ -1991,7 +1991,7 @@ const talents = {
     icon: 'spell_shadow_soulleech_2',
     maxRanks: 1,
     entryIds: [117299],
-    definitionIds: [{ id: 122311, specId: 258 }],
+    definitionIds: [{ id: 122311, specId: 258 }, { id: 122311, specId: 256 }],
   },
   VOID_TENDRILS_TALENT: {
     id: 1250691,
@@ -2015,7 +2015,7 @@ const talents = {
     icon: 'spell_nature_timestop',
     maxRanks: 1,
     entryIds: [117282],
-    definitionIds: [{ id: 122294, specId: 257 }],
+    definitionIds: [{ id: 122294, specId: 257 }, { id: 122294, specId: 256 }],
   },
   WEAL_AND_WOE_TALENT: {
     id: 390786,
@@ -2031,7 +2031,7 @@ const talents = {
     icon: 'spell_priest_power_word',
     maxRanks: 1,
     entryIds: [136040],
-    definitionIds: [{ id: 140795, specId: 257 }],
+    definitionIds: [{ id: 140795, specId: 257 }, { id: 140795, specId: 256 }],
   },
   WORD_OF_SUPREMACY_TALENT: {
     id: 453726,
@@ -2039,7 +2039,31 @@ const talents = {
     icon: 'spell_holy_wordfortitude',
     maxRanks: 1,
     entryIds: [136034],
-    definitionIds: [{ id: 140789, specId: 258 }],
+    definitionIds: [{ id: 140789, specId: 258 }, { id: 140789, specId: 257 }],
+  },
+  TALENT_SHADOW_MEND: {
+    id: 1252217,
+    name: 'Shadow Mend',
+    icon: 'inv_misc_questionmark',
+    maxRanks: 1,
+    entryIds: [103692],
+    definitionIds: [{ id: 108697, specId: 256 }],
+  },
+  TALENT_SHADEBURST: {
+    id: 73510,
+    name: 'Shadeburst',
+    icon: 'inv_misc_questionmark',
+    maxRanks: 1,
+    entryIds: [103785],
+    definitionIds: [{ id: 108790, specId: 258 }],
+  },
+  TALENT_GRIM_DELIVERANCE: {
+    id: 1298779,
+    name: 'Grim Deliverance',
+    icon: 'inv_misc_questionmark',
+    maxRanks: 1,
+    entryIds: [137463],
+    definitionIds: [{ id: 142223, specId: 256 }],
   },
 } satisfies Record<string, Talent>;
 

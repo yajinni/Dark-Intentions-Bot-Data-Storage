@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "name": "Growl (desc=Basic Ability)",
     "id": 2649,
@@ -4572,7 +4572,7 @@
     "castTime": 0
   },
   {
-    "name": "Combo Strikes: Zenith",
+    "name": "Combo Strikes: Zenith Stomp",
     "id": 1249763,
     "gcd": 0,
     "castTime": 0
@@ -5094,7 +5094,7 @@
     "castTime": 0
   },
   {
-    "name": "Harmonic Surge",
+    "name": "Potential Energy",
     "id": 1270990,
     "gcd": 0,
     "castTime": 0
@@ -5180,7 +5180,7 @@
   {
     "name": "Zenith Stomp",
     "id": 1272696,
-    "gcd": 0,
+    "gcd": 1,
     "castTime": 0
   },
   {
@@ -5270,6 +5270,198 @@
   {
     "name": "Serene Vitality",
     "id": 1285660,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Weapons of Order (desc=Kyrian)",
+    "id": 312106,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Enveloping Breath",
+    "id": 325209,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bountiful Brew",
+    "id": 356592,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Call to Arms",
+    "id": 356684,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Faeline Harmony",
+    "id": 356705,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sinister Teachings",
+    "id": 356818,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Enveloping Breath",
+    "id": 358560,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Call to Arms",
+    "id": 364858,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sinister Teachings",
+    "id": 364859,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bountiful Brew",
+    "id": 364860,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Faeline Harmony",
+    "id": 364861,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crane Vortex",
+    "id": 388848,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rising Star",
+    "id": 388849,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meridian Strikes",
+    "id": 391330,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Escape from Reality",
+    "id": 394110,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Zenith Stomp",
+    "id": 1291484,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Coalescence",
+    "id": 1292919,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Coalescence",
+    "id": 1292922,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Brewmaster 12.1 Class Set 2pc",
+    "id": 1296617,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Brewmaster 12.1 Class Set 4pc",
+    "id": 1296618,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Mistweaver 12.1 Class Set 2pc",
+    "id": 1296619,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Mistweaver 12.1 Class Set 4pc",
+    "id": 1296620,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Monk Windwalker 12.1 Class Set 2pc",
+    "id": 1296621,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unbroken Rhythm",
+    "id": 1296624,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rising Sun Kick",
+    "id": 1296687,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unbroken Rhythm",
+    "id": 1297033,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vital Expenditure",
+    "id": 1299572,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Scorched",
+    "id": 1301410,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "In Flames",
+    "id": 1301417,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Aflame",
+    "id": 1301418,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hot Potato",
+    "id": 1301477,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fiery Shrapnel",
+    "id": 1301619,
     "gcd": 0,
     "castTime": 0
   }

@@ -16,7 +16,7 @@ const talents = {
     icon: '70_inscription_vantus_rune_tomb',
     maxRanks: 1,
     entryIds: [117428],
-    definitionIds: [{ id: 122440, specId: 267 }],
+    definitionIds: [{ id: 122440, specId: 267 }, { id: 122440, specId: 266 }],
   },
   ABYSS_WALKER_TALENT: {
     id: 389609,
@@ -49,7 +49,7 @@ const talents = {
     icon: 'spell_shadow_improvedvampiricembrace',
     maxRanks: 1,
     entryIds: [136093],
-    definitionIds: [{ id: 140848, specId: 267 }],
+    definitionIds: [{ id: 140848, specId: 267 }, { id: 140848, specId: 265 }],
   },
   ANNIHILANS_BELLOW_TALENT: {
     id: 429072,
@@ -57,7 +57,7 @@ const talents = {
     icon: 'ability_physical_taunt',
     maxRanks: 1,
     entryIds: [118837],
-    definitionIds: [{ id: 123737, specId: 267 }],
+    definitionIds: [{ id: 123737, specId: 267 }, { id: 123737, specId: 266 }],
   },
   ANTORAN_ARMAMENTS_TALENT: {
     id: 1250921,
@@ -81,7 +81,7 @@ const talents = {
     icon: 'warlock_curse_weakness_aura',
     maxRanks: 1,
     entryIds: [123309],
-    definitionIds: [{ id: 128179, specId: 267 }],
+    definitionIds: [{ id: 128179, specId: 267 }, { id: 128179, specId: 265 }],
   },
   AVATAR_OF_DESTRUCTION_TALENT: {
     id: 1245089,
@@ -122,7 +122,7 @@ const talents = {
     icon: 'spell_nzinsanity_chasedbyshadows',
     maxRanks: 1,
     entryIds: [117434],
-    definitionIds: [{ id: 122446, specId: 267 }],
+    definitionIds: [{ id: 122446, specId: 267 }, { id: 122446, specId: 265 }],
   },
   BLEAKHEART_TACTICS_TALENT: {
     id: 440051,
@@ -130,7 +130,7 @@ const talents = {
     icon: 'spell_shadow_mindshear',
     maxRanks: 1,
     entryIds: [123310],
-    definitionIds: [{ id: 128180, specId: 267 }],
+    definitionIds: [{ id: 128180, specId: 267 }, { id: 128180, specId: 265 }],
   },
   BLIGHTED_MAW_TALENT: {
     id: 1276956,
@@ -238,7 +238,7 @@ const talents = {
     icon: 'ability_creature_felfrenzy',
     maxRanks: 1,
     entryIds: [117446],
-    definitionIds: [{ id: 122458, specId: 267 }],
+    definitionIds: [{ id: 122458, specId: 267 }, { id: 122458, specId: 266 }],
   },
   CONFLAGRATE_TALENT: {
     id: 17962,
@@ -287,7 +287,7 @@ const talents = {
     icon: 'creatureportrait_fomorhand',
     maxRanks: 1,
     entryIds: [117445],
-    definitionIds: [{ id: 122457, specId: 267 }],
+    definitionIds: [{ id: 122457, specId: 267 }, { id: 122457, specId: 266 }],
   },
   CULL_THE_WEAK_TALENT: {
     id: 1259886,
@@ -320,7 +320,7 @@ const talents = {
     icon: 'inv_fabric_felrag',
     maxRanks: 1,
     entryIds: [117419],
-    definitionIds: [{ id: 122431, specId: 267 }],
+    definitionIds: [{ id: 122431, specId: 267 }, { id: 122431, specId: 265 }],
   },
   CURSE_OF_TONGUES_TALENT: {
     id: 1714,
@@ -378,7 +378,7 @@ const talents = {
     icon: 'inv_helm_mask_zulgurub_d_01',
     maxRanks: 1,
     entryIds: [117429],
-    definitionIds: [{ id: 122441, specId: 266 }],
+    definitionIds: [{ id: 122441, specId: 266 }, { id: 122441, specId: 265 }],
   },
   DEMONIAC_TALENT: {
     id: 426115,
@@ -460,7 +460,7 @@ const talents = {
     icon: 'inv_ability_soulharvesterwarlock_demonicsoul',
     maxRanks: 1,
     entryIds: [117448],
-    definitionIds: [{ id: 122460, specId: 266 }],
+    definitionIds: [{ id: 122460, specId: 266 }, { id: 122460, specId: 265 }],
   },
   DEMON_SKIN_TALENT: {
     id: 219272,
@@ -492,7 +492,7 @@ const talents = {
     icon: 'inv_112_raidtrinkets_blobofswirlingvoid_terra',
     maxRanks: 1,
     entryIds: [136094],
-    definitionIds: [{ id: 140849, specId: 267 }],
+    definitionIds: [{ id: 140849, specId: 267 }, { id: 140849, specId: 265 }],
   },
   DIABOLIC_EMBERS_TALENT: {
     id: 387173,
@@ -508,7 +508,7 @@ const talents = {
     icon: 'inv_pet_inquisitoreye',
     maxRanks: 1,
     entryIds: [136092],
-    definitionIds: [{ id: 140847, specId: 267 }],
+    definitionIds: [{ id: 140847, specId: 267 }, { id: 140847, specId: 266 }],
   },
   DIABOLIC_RITUAL_TALENT: {
     id: 428514,
@@ -516,7 +516,7 @@ const talents = {
     icon: 'ability_bossfelorcs_necromancer_purple',
     maxRanks: 1,
     entryIds: [117452],
-    definitionIds: [{ id: 122464, specId: 267 }],
+    definitionIds: [{ id: 122464, specId: 267 }, { id: 122464, specId: 266 }],
   },
   DIMENSIONAL_RIFT_TALENT: {
     id: 1280868,
@@ -644,7 +644,7 @@ const talents = {
     icon: 'ability_creature_poison_01_purple',
     maxRanks: 1,
     entryIds: [136096],
-    definitionIds: [{ id: 140851, specId: 266 }],
+    definitionIds: [{ id: 140851, specId: 266 }, { id: 140851, specId: 265 }],
   },
   ETERNAL_SERVITUDE_TALENT: {
     id: 449707,
@@ -652,7 +652,7 @@ const talents = {
     icon: 'ability_demonhunter_infernalchains',
     maxRanks: 1,
     entryIds: [117421],
-    definitionIds: [{ id: 122433, specId: 266 }],
+    definitionIds: [{ id: 122433, specId: 266 }, { id: 122433, specId: 265 }],
   },
   EXPLOSIVE_POTENTIAL_TALENT: {
     id: 388827,
@@ -684,7 +684,7 @@ const talents = {
     icon: 'ability_warlock_improvedsoulleech',
     maxRanks: 1,
     entryIds: [123839],
-    definitionIds: [{ id: 128677, specId: 266 }],
+    definitionIds: [{ id: 128677, specId: 266 }, { id: 128677, specId: 265 }],
   },
   FEL_ARMAMENTS_TALENT: {
     id: 1263935,
@@ -764,7 +764,7 @@ const talents = {
     icon: 'ability_warlock_burningembers',
     maxRanks: 1,
     entryIds: [117430],
-    definitionIds: [{ id: 122442, specId: 267 }],
+    definitionIds: [{ id: 122442, specId: 267 }, { id: 122442, specId: 266 }],
   },
   FLAMETOUCHED_TALENT: {
     id: 453699,
@@ -820,7 +820,7 @@ const talents = {
     icon: 'spell_shadow_deathpact',
     maxRanks: 1,
     entryIds: [123840],
-    definitionIds: [{ id: 128678, specId: 266 }],
+    definitionIds: [{ id: 128678, specId: 266 }, { id: 128678, specId: 265 }],
   },
   GLOOM_OF_NATHREZA_TALENT: {
     id: 429899,
@@ -828,7 +828,7 @@ const talents = {
     icon: 'ability_rogue_envelopingshadows',
     maxRanks: 1,
     entryIds: [117440],
-    definitionIds: [{ id: 122452, specId: 267 }],
+    definitionIds: [{ id: 122452, specId: 267 }, { id: 122452, specId: 266 }],
   },
   GOREBOUND_FORTITUDE_TALENT: {
     id: 449701,
@@ -836,7 +836,7 @@ const talents = {
     icon: 'spell_holy_consumemagic',
     maxRanks: 1,
     entryIds: [117447],
-    definitionIds: [{ id: 122459, specId: 266 }],
+    definitionIds: [{ id: 122459, specId: 266 }, { id: 122459, specId: 265 }],
   },
   GOREFIENDS_AVARICE_TALENT: {
     id: 1270701,
@@ -852,7 +852,7 @@ const talents = {
     icon: 'ability_rogue_masterofsubtlety',
     maxRanks: 1,
     entryIds: [123838],
-    definitionIds: [{ id: 128676, specId: 266 }],
+    definitionIds: [{ id: 128676, specId: 266 }, { id: 128676, specId: 265 }],
   },
   GRIMOIRE_FEL_RAVAGER_TALENT: {
     id: 1276467,
@@ -878,7 +878,7 @@ const talents = {
     icon: 'warlock_grimoireofsacrifice',
     maxRanks: 1,
     entryIds: [124691, 125618],
-    definitionIds: [
+    definitionIds: [{ id: 129529, specId: 265 }, { id: 130450, specId: 267 }],
       { id: 129529, specId: 265 },
       { id: 130450, specId: 267 },
     ],
@@ -897,7 +897,7 @@ const talents = {
     icon: '70_inscription_glyph_demonhunter_minor',
     maxRanks: 1,
     entryIds: [117451],
-    definitionIds: [{ id: 122463, specId: 267 }],
+    definitionIds: [{ id: 122463, specId: 267 }, { id: 122463, specId: 265 }],
   },
   HAUNT_TALENT: {
     id: 48181,
@@ -956,7 +956,7 @@ const talents = {
     icon: 'sha_spell_fire_felfireward_nightmare',
     maxRanks: 1,
     entryIds: [123308],
-    definitionIds: [{ id: 128178, specId: 267 }],
+    definitionIds: [{ id: 128178, specId: 267 }, { id: 128178, specId: 265 }],
   },
   IMPLOSION_TALENT: {
     id: 196277,
@@ -1052,7 +1052,7 @@ const talents = {
     icon: 'spell_fire_felfireward',
     maxRanks: 1,
     entryIds: [118839],
-    definitionIds: [{ id: 123739, specId: 267 }],
+    definitionIds: [{ id: 123739, specId: 267 }, { id: 123739, specId: 266 }],
   },
   INFERNAL_MACHINE_TALENT: {
     id: 429917,
@@ -1060,7 +1060,7 @@ const talents = {
     icon: 'inv_misc_supersoulash',
     maxRanks: 1,
     entryIds: [118838],
-    definitionIds: [{ id: 123738, specId: 267 }],
+    definitionIds: [{ id: 123738, specId: 267 }, { id: 123738, specId: 266 }],
   },
   INFERNAL_RAPIDITY_TALENT: {
     id: 1263941,
@@ -1076,7 +1076,7 @@ const talents = {
     icon: 'inv_fabric_felcloth_ebon',
     maxRanks: 1,
     entryIds: [117449],
-    definitionIds: [{ id: 122461, specId: 267 }],
+    definitionIds: [{ id: 122461, specId: 267 }, { id: 122461, specId: 266 }],
   },
   INFERNO_TALENT: {
     id: 1280483,
@@ -1116,7 +1116,7 @@ const talents = {
     icon: 'ability_bosskilrogg_deadeye',
     maxRanks: 1,
     entryIds: [136091],
-    definitionIds: [{ id: 140846, specId: 267 }],
+    definitionIds: [{ id: 140846, specId: 267 }, { id: 140846, specId: 266 }],
   },
   MALEDICTION_TALENT: {
     id: 453087,
@@ -1140,7 +1140,7 @@ const talents = {
     icon: 'inv_ability_hellcallerwarlock_malevolence',
     maxRanks: 1,
     entryIds: [117439],
-    definitionIds: [{ id: 122451, specId: 267 }],
+    definitionIds: [{ id: 122451, specId: 267 }, { id: 122451, specId: 265 }],
   },
   MANIFESTED_AVARICE_TALENT: {
     id: 1268884,
@@ -1148,7 +1148,7 @@ const talents = {
     icon: 'ability_priest_shadowyapparition',
     maxRanks: 1,
     entryIds: [136098],
-    definitionIds: [{ id: 140853, specId: 266 }],
+    definitionIds: [{ id: 140853, specId: 266 }, { id: 140853, specId: 265 }],
   },
   MARK_OF_FHARG_TALENT: {
     id: 455450,
@@ -1164,7 +1164,7 @@ const talents = {
     icon: '70_inscription_vantus_rune_tomb',
     maxRanks: 1,
     entryIds: [117441],
-    definitionIds: [{ id: 122453, specId: 267 }],
+    definitionIds: [{ id: 122453, specId: 267 }, { id: 122453, specId: 265 }],
   },
   MARK_OF_SHATUG_TALENT: {
     id: 455449,
@@ -1180,7 +1180,7 @@ const talents = {
     icon: 'warlock_curse_shadow_aura',
     maxRanks: 1,
     entryIds: [117431],
-    definitionIds: [{ id: 122443, specId: 267 }],
+    definitionIds: [{ id: 122443, specId: 267 }, { id: 122443, specId: 265 }],
   },
   MASTER_SUMMONER_TALENT: {
     id: 1240189,
@@ -1204,7 +1204,7 @@ const talents = {
     icon: 'spell_holy_healingfocus',
     maxRanks: 1,
     entryIds: [136090],
-    definitionIds: [{ id: 140845, specId: 267 }],
+    definitionIds: [{ id: 140845, specId: 267 }, { id: 140845, specId: 266 }],
   },
   MORTAL_COIL_TALENT: {
     id: 6789,
@@ -1221,7 +1221,7 @@ const talents = {
     icon: 'spell_necro_deathall',
     maxRanks: 1,
     entryIds: [117422],
-    definitionIds: [{ id: 122434, specId: 266 }],
+    definitionIds: [{ id: 122434, specId: 266 }, { id: 122434, specId: 265 }],
   },
   NETHER_PLATING_TALENT: {
     id: 1280733,
@@ -1365,7 +1365,7 @@ const talents = {
     icon: 'spell_necro_conclave',
     maxRanks: 1,
     entryIds: [117443],
-    definitionIds: [{ id: 122455, specId: 266 }],
+    definitionIds: [{ id: 122455, specId: 266 }, { id: 122455, specId: 265 }],
   },
   RAGING_DEMONFIRE_TALENT: {
     id: 387166,
@@ -1439,7 +1439,7 @@ const talents = {
     icon: 'ability_bossmannoroth_empoweredmannorothsgaze',
     maxRanks: 1,
     entryIds: [117427],
-    definitionIds: [{ id: 122439, specId: 267 }],
+    definitionIds: [{ id: 122439, specId: 267 }, { id: 122439, specId: 266 }],
   },
   RUIN_TALENT: {
     id: 387103,
@@ -1479,7 +1479,7 @@ const talents = {
     icon: 'spell_necro_deathlyecho',
     maxRanks: 1,
     entryIds: [117435],
-    definitionIds: [{ id: 122447, specId: 266 }],
+    definitionIds: [{ id: 122447, specId: 266 }, { id: 122447, specId: 265 }],
   },
   SCALDING_FLAMES_TALENT: {
     id: 388832,
@@ -1495,7 +1495,7 @@ const talents = {
     icon: 'achievement_boss_argus_shivan',
     maxRanks: 1,
     entryIds: [117423],
-    definitionIds: [{ id: 122435, specId: 267 }],
+    definitionIds: [{ id: 122435, specId: 267 }, { id: 122435, specId: 266 }],
   },
   SEEDS_OF_DESTRUCTION_TALENT: {
     id: 1259838,
@@ -1511,7 +1511,7 @@ const talents = {
     icon: 'ability_warlock_moltencoregreen',
     maxRanks: 1,
     entryIds: [117426],
-    definitionIds: [{ id: 122438, specId: 267 }],
+    definitionIds: [{ id: 122438, specId: 267 }, { id: 122438, specId: 265 }],
   },
   SEED_OF_CORRUPTION_TALENT: {
     id: 27243,
@@ -1546,7 +1546,7 @@ const talents = {
     icon: 'spell_arcane_prismaticcloak',
     maxRanks: 1,
     entryIds: [117454],
-    definitionIds: [{ id: 122466, specId: 266 }],
+    definitionIds: [{ id: 122466, specId: 266 }, { id: 122466, specId: 265 }],
   },
   SHADOW_OF_NATHREZA_1_AFFLICTION_TALENT: {
     id: 1261984,
@@ -1594,7 +1594,7 @@ const talents = {
     icon: 'ability_warlock_soullink',
     maxRanks: 1,
     entryIds: [117420],
-    definitionIds: [{ id: 122432, specId: 266 }],
+    definitionIds: [{ id: 122432, specId: 266 }, { id: 122432, specId: 265 }],
   },
   SHARED_VESSEL_TALENT: {
     id: 1268889,
@@ -1602,7 +1602,7 @@ const talents = {
     icon: 'inv_ability_priest_mindgames',
     maxRanks: 1,
     entryIds: [136097],
-    definitionIds: [{ id: 140852, specId: 266 }],
+    definitionIds: [{ id: 140852, specId: 266 }, { id: 140852, specId: 265 }],
   },
   SIPHON_LIFE_TALENT: {
     id: 452999,
@@ -1627,7 +1627,7 @@ const talents = {
     icon: 'spell_necro_inevitableend',
     maxRanks: 1,
     entryIds: [117444],
-    definitionIds: [{ id: 122456, specId: 266 }],
+    definitionIds: [{ id: 122456, specId: 266 }, { id: 122456, specId: 265 }],
   },
   SOUL_ETCHED_CIRCLES_TALENT: {
     id: 428911,
@@ -1635,7 +1635,7 @@ const talents = {
     icon: 'spell_shadow_demoniccircleteleport',
     maxRanks: 1,
     entryIds: [117433],
-    definitionIds: [{ id: 122445, specId: 267 }],
+    definitionIds: [{ id: 122445, specId: 267 }, { id: 122445, specId: 266 }],
   },
   SOUL_FIRE_TALENT: {
     id: 6353,
@@ -1708,7 +1708,7 @@ const talents = {
     icon: 'spell_shadow_unsummonbuilding',
     maxRanks: 1,
     entryIds: [91558, 91484],
-    definitionIds: [
+    definitionIds: [{ id: 96560, specId: 265 }, { id: 96486, specId: 267 }],
       { id: 96560, specId: 265 },
       { id: 96486, specId: 267 },
     ],
@@ -1742,7 +1742,7 @@ const talents = {
   },
   SUMMON_FELGUARD_TALENT: {
     id: 30146,
-    name: 'Summon Felguard',
+    name: 'Summon Felguard (desc=Summon)',
     icon: 'spell_shadow_summonfelguard',
     maxRanks: 1,
     entryIds: [135319],
@@ -1751,7 +1751,7 @@ const talents = {
   },
   SUMMON_INFERNAL_TALENT: {
     id: 1122,
-    name: 'Summon Infernal',
+    name: 'Summon Infernal (desc=Guardian)',
     icon: 'spell_shadow_summoninfernal',
     maxRanks: 1,
     entryIds: [91502],
@@ -1788,7 +1788,7 @@ const talents = {
     icon: 'spell_nature_thorns_nightmare',
     maxRanks: 1,
     entryIds: [136095],
-    definitionIds: [{ id: 140850, specId: 267 }],
+    definitionIds: [{ id: 140850, specId: 267 }, { id: 140850, specId: 265 }],
   },
   TOUCH_OF_RANCORA_TALENT: {
     id: 429893,
@@ -1796,7 +1796,7 @@ const talents = {
     icon: 'ability_bossfellord_felspike',
     maxRanks: 1,
     entryIds: [117453],
-    definitionIds: [{ id: 122465, specId: 267 }],
+    definitionIds: [{ id: 122465, specId: 267 }, { id: 122465, specId: 266 }],
   },
   TO_HELL_AND_BACK_TALENT: {
     id: 1281511,
@@ -1829,7 +1829,7 @@ const talents = {
     icon: 'inv_staff_2h_artifactdeadwind_d_05',
     maxRanks: 1,
     entryIds: [117418],
-    definitionIds: [{ id: 122430, specId: 266 }],
+    definitionIds: [{ id: 122430, specId: 266 }, { id: 122430, specId: 265 }],
   },
   WITHERING_BOLT_TALENT: {
     id: 386976,
@@ -1845,7 +1845,7 @@ const talents = {
     icon: 'inv_ability_hellcallerwarlock_wither',
     maxRanks: 1,
     entryIds: [117437],
-    definitionIds: [{ id: 122449, specId: 267 }],
+    definitionIds: [{ id: 122449, specId: 267 }, { id: 122449, specId: 265 }],
   },
   XALANS_CRUELTY_TALENT: {
     id: 440040,
@@ -1853,7 +1853,7 @@ const talents = {
     icon: 'spell_shadow_demonicempathy',
     maxRanks: 1,
     entryIds: [117442],
-    definitionIds: [{ id: 122454, specId: 267 }],
+    definitionIds: [{ id: 122454, specId: 267 }, { id: 122454, specId: 265 }],
   },
   XALANS_FEROCITY_TALENT: {
     id: 440044,
@@ -1861,7 +1861,7 @@ const talents = {
     icon: 'spell_fire_felfire',
     maxRanks: 1,
     entryIds: [117450],
-    definitionIds: [{ id: 122462, specId: 267 }],
+    definitionIds: [{ id: 122462, specId: 267 }, { id: 122462, specId: 265 }],
   },
   XAVIUS_GAMBIT_TALENT: {
     id: 416615,
@@ -1877,7 +1877,31 @@ const talents = {
     icon: 'ability_warrior_intensifyrage',
     maxRanks: 1,
     entryIds: [117432],
-    definitionIds: [{ id: 122444, specId: 267 }],
+    definitionIds: [{ id: 122444, specId: 267 }, { id: 122444, specId: 265 }],
+  },
+  TALENT_SOUL_LEECH: {
+    id: 1311653,
+    name: 'Soul Leech',
+    icon: 'inv_misc_questionmark',
+    maxRanks: 1,
+    entryIds: [91441],
+    definitionIds: [{ id: 96443, specId: 267 }],
+  },
+  TALENT_IMPETUOUS_WRATH: {
+    id: 1312998,
+    name: 'Impetuous Wrath',
+    icon: 'inv_misc_questionmark',
+    maxRanks: 1,
+    entryIds: [136111],
+    definitionIds: [{ id: 140866, specId: 265 }],
+  },
+  TALENT_HEDONIC_GORGING: {
+    id: 1311969,
+    name: 'Hedonic Gorging',
+    icon: 'inv_misc_questionmark',
+    maxRanks: 1,
+    entryIds: [136113],
+    definitionIds: [{ id: 140868, specId: 265 }],
   },
 } satisfies Record<string, Talent>;
 

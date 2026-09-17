@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "name": "Auto Shot",
     "id": 75,
@@ -3400,7 +3400,7 @@
     "castTime": 0
   },
   {
-    "name": "Incendiary Ammunition",
+    "name": "Accuracy By Volume",
     "id": 471428,
     "gcd": 0,
     "castTime": 0
@@ -3652,7 +3652,7 @@
     "castTime": 0
   },
   {
-    "name": "Shrapnel Shot",
+    "name": "Unstable Trigger",
     "id": 473520,
     "gcd": 0,
     "castTime": 0
@@ -4072,7 +4072,7 @@
     "castTime": 0
   },
   {
-    "name": "Shower of Blood",
+    "name": "Razor Edge",
     "id": 1253053,
     "gcd": 0,
     "castTime": 0
@@ -4614,7 +4614,7 @@
     "castTime": 0
   },
   {
-    "name": "Heart of the Pack",
+    "name": "Razor Sharp",
     "id": 1265052,
     "gcd": 0,
     "castTime": 0
@@ -4932,8 +4932,332 @@
     "castTime": 0
   },
   {
-    "name": "Heart of the Pack",
+    "name": "Scout's Vigil",
     "id": 1286400,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Harden Carapace (desc=Special Ability)",
+    "id": 90339,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Trick (desc=Bonus Ability)",
+    "id": 126259,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Surface Trot (desc=Exotic Ability)",
+    "id": 126311,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Rest (desc=Bonus Ability)",
+    "id": 126364,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Gruesome Bite (desc=Special Ability)",
+    "id": 160018,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Primal Agility (desc=Special Ability)",
+    "id": 160044,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stone Armor (desc=Special Ability)",
+    "id": 160048,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Stone Armor (desc=Special Ability)",
+    "id": 160049,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Solid Shell (desc=Special Ability)",
+    "id": 160063,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vigilance Perch",
+    "id": 241332,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vigilance Perch",
+    "id": 242066,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Petrifying Gaze (desc=Special Ability)",
+    "id": 263841,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gnaw (desc=Special Ability)",
+    "id": 263856,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Gore (desc=Special Ability)",
+    "id": 263861,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Acid Bite (desc=Special Ability)",
+    "id": 263863,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Scale Shield (desc=Special Ability)",
+    "id": 263865,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Defense Matrix (desc=Special Ability)",
+    "id": 263868,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Feather Flurry (desc=Special Ability)",
+    "id": 263916,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Niuzao's Fortitude (desc=Special Ability)",
+    "id": 264022,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Niuzao's Fortitude (desc=Special Ability)",
+    "id": 264023,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Eternal Guardian (desc=Exotic Ability)",
+    "id": 267922,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Calcified Carapace (desc=Exotic Passive)",
+    "id": 279254,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shimmering Shale (desc=Exotic Passive)",
+    "id": 279259,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Swarm of Flies (desc=Special Ability)",
+    "id": 279336,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Grievous Bite (desc=Special Ability)",
+    "id": 279362,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ancient Hide (desc=Special Ability)",
+    "id": 279399,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ancient Hide (desc=Special Ability)",
+    "id": 279400,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bulwark (desc=Special Ability)",
+    "id": 279410,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Bolt (desc=Special Ability)",
+    "id": 288962,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soothing Waters (desc=Special Ability)",
+    "id": 344346,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Oiled Feathers (desc=Special Ability)",
+    "id": 344350,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Nature's Grace (desc=Special Ability)",
+    "id": 344352,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Pact of the Soulstalkers",
+    "id": 364739,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pouch of Razor Fragments",
+    "id": 364740,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bag of Munitions",
+    "id": 364741,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fragments of the Elder Antlers",
+    "id": 364742,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Precision Detonation",
+    "id": 471369,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sticky Bomb",
+    "id": 1262391,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Misdirection",
+    "id": 1289896,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shrapnel Bomb",
+    "id": 1292687,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hunter Beast Mastery 12.1 Class Set 2pc",
+    "id": 1296631,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hunter Beast Mastery 12.1 Class Set 4pc",
+    "id": 1296632,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hunter Marksmanship 12.1 Class Set 2pc",
+    "id": 1296633,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hunter Marksmanship 12.1 Class Set 4pc",
+    "id": 1296634,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hunter Survival 12.1 Class Set 4pc",
+    "id": 1296635,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hunter Survival 12.1 Class Set 4pc",
+    "id": 1296636,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cobra Fang",
+    "id": 1299389,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cobra Cleave",
+    "id": 1299409,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lock and Load: Explosive Shot",
+    "id": 1300701,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spotter's Mark: Rapid Fire",
+    "id": 1301098,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tactical Reload",
+    "id": 1301406,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unstable Trigger",
+    "id": 1301778,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Bringer",
+    "id": 1302277,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bombardier",
+    "id": 1311963,
     "gcd": 0,
     "castTime": 0
   }

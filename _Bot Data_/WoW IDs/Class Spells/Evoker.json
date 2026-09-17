@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "name": "Chi Torpedo",
     "id": 115008,
@@ -3654,6 +3654,96 @@
   {
     "name": "Devastation Evoker",
     "id": 1286123,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blazing Shards",
+    "id": 409848,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mighty Inferno",
+    "id": 1291457,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chronal Dynamo",
+    "id": 1291522,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Temporal Barrier (desc=Bronze)",
+    "id": 1291636,
+    "gcd": 1.5,
+    "castTime": 1.5
+  },
+  {
+    "name": "Unbound Flame (desc=Red)",
+    "id": 1292321,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Unbound Flame (desc=Red)",
+    "id": 1292322,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unbound Flame",
+    "id": 1292323,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unbound Flame",
+    "id": 1292325,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Evoker Augmentation 12.1 Class Set 2pc",
+    "id": 1296637,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Evoker Augmentation 12.1 Class Set 4pc",
+    "id": 1296638,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Evoker Devastation 12.1 Class Set 2pc",
+    "id": 1296639,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Evoker Devastation 12.1 Class Set 4pc",
+    "id": 1296640,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Evoker Preservation 12.1 Class Set 2pc",
+    "id": 1296641,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Evoker Preservation 12.1 Class Set 4pc",
+    "id": 1296642,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Magnified Fate",
+    "id": 1297728,
     "gcd": 0,
     "castTime": 0
   }

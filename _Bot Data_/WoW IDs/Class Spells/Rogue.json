@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "name": "Backstab",
     "id": 53,
@@ -2852,9 +2852,9 @@
     "castTime": 0
   },
   {
-    "name": "Distract",
+    "name": "Cloud Cover",
     "id": 441587,
-    "gcd": 1,
+    "gcd": 0,
     "castTime": 0
   },
   {
@@ -4396,6 +4396,192 @@
   {
     "name": "Hemotoxin",
     "id": 1291471,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mutilated Flesh",
+    "id": 340431,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Toxic Onslaught",
+    "id": 354473,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Splintered Elements",
+    "id": 354648,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Obedience",
+    "id": 354703,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Deathspike",
+    "id": 354731,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Resounding Clarity",
+    "id": 354837,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unity",
+    "id": 364922,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Resounding Clarity",
+    "id": 364925,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Deathspike",
+    "id": 364926,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Obedience",
+    "id": 364927,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Toxic Onslaught",
+    "id": 364928,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mutilated Flesh",
+    "id": 381672,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mutilated Flesh",
+    "id": 394021,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Whirl of Blades",
+    "id": 1275176,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Negotiable Contract",
+    "id": 1292996,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sanguine Vial",
+    "id": 1293135,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sanguine Vial",
+    "id": 1293138,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crimson Vial",
+    "id": 1293149,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rogue Outlaw 12.1 Class Set 2pc",
+    "id": 1296588,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rogue Outlaw 12.1 Class Set 4pc",
+    "id": 1296589,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rogue Assassination 12.1 Class Set 2pc",
+    "id": 1296590,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rogue Assassination 12.1 Class Set 4pc",
+    "id": 1296591,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rogue Subtlety 12.1 Class Set 2pc",
+    "id": 1296592,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rogue Subtlety 12.1 Class Set 4pc",
+    "id": 1296593,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unstable Toxin",
+    "id": 1298812,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Thistle Tea",
+    "id": 1298826,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Implacable",
+    "id": 1298870,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fang Strike",
+    "id": 1301405,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Secret Technique",
+    "id": 1305994,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Goremaw's Bite",
+    "id": 1309274,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Goremaw's Bite",
+    "id": 1309309,
     "gcd": 0,
     "castTime": 0
   }

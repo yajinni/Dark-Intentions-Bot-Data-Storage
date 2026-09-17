@@ -32,7 +32,7 @@ const talents = {
     icon: 'ability_demonhunter_soulcleave2',
     maxRanks: 1,
     entryIds: [117511],
-    definitionIds: [{ id: 122523, specId: 581 }],
+    definitionIds: [{ id: 122523, specId: 581 }, { id: 122523, specId: 577 }],
   },
   ARMY_UNTO_ONESELF_TALENT: {
     id: 442714,
@@ -40,7 +40,7 @@ const talents = {
     icon: 'ability_warlock_avoidance',
     maxRanks: 1,
     entryIds: [117493],
-    definitionIds: [{ id: 122505, specId: 581 }],
+    definitionIds: [{ id: 122505, specId: 581 }, { id: 122505, specId: 577 }],
   },
   ART_OF_THE_GLAIVE_TALENT: {
     id: 442290,
@@ -48,7 +48,7 @@ const talents = {
     icon: 'inv_ability_aldrachireaverdemonhunter_reaversglaive',
     maxRanks: 1,
     entryIds: [117512],
-    definitionIds: [{ id: 122524, specId: 581 }],
+    definitionIds: [{ id: 122524, specId: 581 }, { id: 122524, specId: 577 }],
   },
   ASCENDING_FLAME_TALENT: {
     id: 428603,
@@ -80,7 +80,7 @@ const talents = {
     icon: 'ability_demonhunter_soulcleave3',
     maxRanks: 1,
     entryIds: [117503],
-    definitionIds: [{ id: 122515, specId: 581 }],
+    definitionIds: [{ id: 122515, specId: 581 }, { id: 122515, specId: 577 }],
   },
   BLAZING_PATH_TALENT: {
     id: 320416,
@@ -96,7 +96,7 @@ const talents = {
     icon: 'inv_belt_leather_raiddemonhunter_r_01',
     maxRanks: 1,
     entryIds: [136031, 136607],
-    definitionIds: [
+    definitionIds: [{ id: 140786, specId: 577 }, { id: 141380, specId: 1480 }, { id: 140786, specId: 1480 }, { id: 141380, specId: 577 }],
       { id: 140786, specId: 577 },
       { id: 141380, specId: 1480 },
     ],
@@ -123,7 +123,7 @@ const talents = {
     icon: 'ability_argus_soulbombdebufflarge',
     maxRanks: 1,
     entryIds: [136029],
-    definitionIds: [{ id: 140784, specId: 581 }],
+    definitionIds: [{ id: 140784, specId: 581 }, { id: 140784, specId: 577 }],
   },
   BURNING_ALIVE_TALENT: {
     id: 207739,
@@ -139,7 +139,7 @@ const talents = {
     icon: 'inv_glaive_1h_artifactazgalor_d_02dual',
     maxRanks: 1,
     entryIds: [117502, 136610],
-    definitionIds: [
+    definitionIds: [{ id: 122514, specId: 577 }, { id: 141383, specId: 1480 }, { id: 122514, specId: 1480 }, { id: 141383, specId: 577 }],
       { id: 122514, specId: 577 },
       { id: 141383, specId: 1480 },
     ],
@@ -230,7 +230,7 @@ const talents = {
     icon: 'spell_fire_felfirenova',
     maxRanks: 1,
     entryIds: [112911, 134282],
-    definitionIds: [
+    definitionIds: [{ id: 117916, specId: 577 }, { id: 139055, specId: 581 }],
       { id: 117916, specId: 577 },
       { id: 139055, specId: 581 },
     ],
@@ -257,8 +257,8 @@ const talents = {
     name: 'Chaotic Transformation',
     icon: 'ability_demonhunter_glide',
     maxRanks: 1,
-    entryIds: [117765],
-    definitionIds: [{ id: 122777, specId: 577 }],
+    entryIds: [117765, 112947],
+    definitionIds: [{ id: 122777, specId: 577 }, { id: 117952, specId: 577 }],
   },
   CHARRED_FLESH_TALENT: {
     id: 336639,
@@ -358,7 +358,7 @@ const talents = {
   },
   DASH_OF_CHAOS_TALENT: {
     id: 427794,
-    name: 'Dash of Chaos',
+    name: 'Never Say Die',
     icon: 'inv_boots_cloth_35v3',
     maxRanks: 1,
     entryIds: [115245],
@@ -386,7 +386,7 @@ const talents = {
     icon: 'spell_warlock_demonicempowerment',
     maxRanks: 1,
     entryIds: [117498, 136617],
-    definitionIds: [
+    definitionIds: [{ id: 122510, specId: 577 }, { id: 141390, specId: 1480 }, { id: 122510, specId: 1480 }, { id: 141390, specId: 577 }],
       { id: 122510, specId: 577 },
       { id: 141390, specId: 1480 },
     ],
@@ -412,8 +412,8 @@ const talents = {
     name: 'Demonsurge',
     icon: 'inv_ability_felscarreddemonhunter_demonsurge',
     maxRanks: 1,
-    entryIds: [117514],
-    definitionIds: [{ id: 122526, specId: 577 }],
+    entryIds: [117514, 136613],
+    definitionIds: [{ id: 122526, specId: 577 }, { id: 141386, specId: 1480 }, { id: 122526, specId: 1480 }, { id: 141386, specId: 577 }],
   },
   DEMON_HIDE_TALENT: {
     id: 428241,
@@ -501,7 +501,7 @@ const talents = {
     icon: 'spell_fire_felimmolation',
     maxRanks: 1,
     entryIds: [117513, 136615],
-    definitionIds: [
+    definitionIds: [{ id: 122525, specId: 577 }, { id: 141388, specId: 1480 }, { id: 122525, specId: 1480 }, { id: 141388, specId: 577 }],
       { id: 122525, specId: 577 },
       { id: 141388, specId: 1480 },
     ],
@@ -568,7 +568,7 @@ const talents = {
     icon: 'ability_demonhunter_vengefulretreat',
     maxRanks: 1,
     entryIds: [117508],
-    definitionIds: [{ id: 122520, specId: 581 }],
+    definitionIds: [{ id: 122520, specId: 581 }, { id: 122520, specId: 577 }],
   },
   EXERGY_TALENT: {
     id: 206476,
@@ -616,8 +616,8 @@ const talents = {
     name: 'Feed the Demon',
     icon: 'spell_warlock_demonicempowerment',
     maxRanks: 1,
-    entryIds: [112881],
-    definitionIds: [{ id: 117886, specId: 581 }],
+    entryIds: [112881, 112905],
+    definitionIds: [{ id: 117886, specId: 581 }, { id: 117910, specId: 581 }],
   },
   FELBLADE_TALENT: {
     id: 232893,
@@ -625,7 +625,7 @@ const talents = {
     icon: 'ability_demonhunter_felblade',
     maxRanks: 1,
     entryIds: [112928, 134271],
-    definitionIds: [
+    definitionIds: [{ id: 117933, specId: 577 }, { id: 139044, specId: 581 }],
       { id: 117933, specId: 577 },
       { id: 139044, specId: 581 },
     ],
@@ -636,7 +636,7 @@ const talents = {
     icon: 'ability_demonhunter_doublejump',
     maxRanks: 1,
     entryIds: [112923, 134281],
-    definitionIds: [
+    definitionIds: [{ id: 117928, specId: 577 }, { id: 139054, specId: 581 }],
       { id: 117928, specId: 577 },
       { id: 139054, specId: 581 },
     ],
@@ -728,7 +728,7 @@ const talents = {
     icon: 'spell_fire_felflamering',
     maxRanks: 1,
     entryIds: [124009, 136614],
-    definitionIds: [
+    definitionIds: [{ id: 128847, specId: 577 }, { id: 141387, specId: 1480 }, { id: 128847, specId: 1480 }, { id: 141387, specId: 577 }],
       { id: 128847, specId: 577 },
       { id: 141387, specId: 1480 },
     ],
@@ -747,7 +747,7 @@ const talents = {
     icon: 'ability_demonhunter_illidansgrasp',
     maxRanks: 1,
     entryIds: [117515, 136612],
-    definitionIds: [
+    definitionIds: [{ id: 122527, specId: 577 }, { id: 141385, specId: 1480 }, { id: 122527, specId: 1480 }, { id: 141385, specId: 577 }],
       { id: 122527, specId: 577 },
       { id: 141385, specId: 1480 },
     ],
@@ -806,7 +806,7 @@ const talents = {
     icon: 'spell_fire_felflamestrike',
     maxRanks: 1,
     entryIds: [117495],
-    definitionIds: [{ id: 122519, specId: 581 }],
+    definitionIds: [{ id: 122519, specId: 581 }, { id: 122519, specId: 577 }],
   },
   GIFT_OF_THE_VOID_TALENT: {
     id: 1272847,
@@ -918,7 +918,7 @@ const talents = {
     icon: 'ability_demonhunter_soulcleave2',
     maxRanks: 1,
     entryIds: [124010, 136618],
-    definitionIds: [
+    definitionIds: [{ id: 128848, specId: 577 }, { id: 141391, specId: 1480 }, { id: 128848, specId: 1480 }, { id: 141391, specId: 577 }],
       { id: 128848, specId: 577 },
       { id: 141391, specId: 1480 },
     ],
@@ -929,7 +929,7 @@ const talents = {
     icon: 'ability_dualwieldspecialization',
     maxRanks: 1,
     entryIds: [117492],
-    definitionIds: [{ id: 122504, specId: 581 }],
+    definitionIds: [{ id: 122504, specId: 581 }, { id: 122504, specId: 577 }],
   },
   INCORRUPTIBLE_SPIRIT_TALENT: {
     id: 442736,
@@ -937,7 +937,7 @@ const talents = {
     icon: 'spell_nzinsanity_chasedbyshadows',
     maxRanks: 1,
     entryIds: [123046],
-    definitionIds: [{ id: 127927, specId: 581 }],
+    definitionIds: [{ id: 127927, specId: 581 }, { id: 127927, specId: 577 }],
   },
   INERTIA_TALENT: {
     id: 427640,
@@ -968,8 +968,8 @@ const talents = {
     name: 'Inner Demon',
     icon: 'ability_demonhunter_glide',
     maxRanks: 1,
-    entryIds: [112947],
-    definitionIds: [{ id: 117952, specId: 577 }],
+    entryIds: [112947, 137827],
+    definitionIds: [{ id: 117952, specId: 577 }, { id: 142581, specId: 577 }],
   },
   INTERNAL_STRUGGLE_TALENT: {
     id: 393822,
@@ -993,7 +993,7 @@ const talents = {
     icon: 'inv_glaive_1h_tyrande_d_01',
     maxRanks: 1,
     entryIds: [136028],
-    definitionIds: [{ id: 140783, specId: 581 }],
+    definitionIds: [{ id: 140783, specId: 581 }, { id: 140783, specId: 577 }],
   },
   KEEN_ENGAGEMENT_TALENT: {
     id: 442497,
@@ -1001,7 +1001,7 @@ const talents = {
     icon: 'ability_warlock_shadowfurytga',
     maxRanks: 1,
     entryIds: [117507],
-    definitionIds: [{ id: 122507, specId: 581 }],
+    definitionIds: [{ id: 122507, specId: 581 }, { id: 122507, specId: 577 }],
   },
   KNOW_YOUR_ENEMY_TALENT: {
     id: 388118,
@@ -1113,7 +1113,7 @@ const talents = {
     icon: 'ability_warlock_demonicpower',
     maxRanks: 1,
     entryIds: [117506, 136608],
-    definitionIds: [
+    definitionIds: [{ id: 122518, specId: 577 }, { id: 141381, specId: 1480 }, { id: 122518, specId: 1480 }, { id: 141381, specId: 577 }],
       { id: 122518, specId: 577 },
       { id: 141381, specId: 1480 },
     ],
@@ -1188,7 +1188,7 @@ const talents = {
     icon: 'ability_rogue_focusedattacks',
     maxRanks: 1,
     entryIds: [122422],
-    definitionIds: [{ id: 127322, specId: 581 }],
+    definitionIds: [{ id: 127322, specId: 581 }, { id: 127322, specId: 577 }],
   },
   PURSUIT_OF_ANGRINESS_TALENT: {
     id: 452404,
@@ -1196,7 +1196,7 @@ const talents = {
     icon: 'ability_felarakkoa_focusedblast',
     maxRanks: 1,
     entryIds: [124011, 136619],
-    definitionIds: [
+    definitionIds: [{ id: 128849, specId: 577 }, { id: 141392, specId: 1480 }, { id: 128849, specId: 1480 }, { id: 141392, specId: 577 }],
       { id: 128849, specId: 577 },
       { id: 141392, specId: 1480 },
     ],
@@ -1231,7 +1231,7 @@ const talents = {
     icon: 'ability_hunter_harass',
     maxRanks: 1,
     entryIds: [117500],
-    definitionIds: [{ id: 122512, specId: 581 }],
+    definitionIds: [{ id: 122512, specId: 581 }, { id: 122512, specId: 577 }],
   },
   RELENTLESS_ONSLAUGHT_TALENT: {
     id: 389977,
@@ -1270,8 +1270,8 @@ const talents = {
     name: 'Roaring Fire',
     icon: 'spell_fire_felflamering',
     maxRanks: 1,
-    entryIds: [112905],
-    definitionIds: [{ id: 117910, specId: 581 }],
+    entryIds: [112905, 112867],
+    definitionIds: [{ id: 117910, specId: 581 }, { id: 117872, specId: 581 }],
   },
   ROLLING_TORMENT_TALENT: {
     id: 1244237,
@@ -1335,7 +1335,7 @@ const talents = {
     icon: 'ability_demonhunter_empowerwards',
     maxRanks: 1,
     entryIds: [117496, 136620],
-    definitionIds: [
+    definitionIds: [{ id: 122508, specId: 577 }, { id: 141393, specId: 1480 }, { id: 122508, specId: 1480 }, { id: 141393, specId: 577 }],
       { id: 122508, specId: 577 },
       { id: 141393, specId: 1480 },
     ],
@@ -1377,8 +1377,8 @@ const talents = {
     name: 'Sigil of Silence',
     icon: 'ability_demonhunter_sigilofsilence',
     maxRanks: 1,
-    entryIds: [112904],
-    definitionIds: [{ id: 117909, specId: 581 }],
+    entryIds: [112904, 112881],
+    definitionIds: [{ id: 117909, specId: 581 }, { id: 117886, specId: 581 }],
   },
   SIGIL_OF_SPITE_TALENT: {
     id: 390163,
@@ -1555,7 +1555,7 @@ const talents = {
     icon: 'achievement_dungeon_theatreofpain_kultharok',
     maxRanks: 1,
     entryIds: [117499, 136616],
-    definitionIds: [
+    definitionIds: [{ id: 122511, specId: 577 }, { id: 141389, specId: 1480 }, { id: 122511, specId: 1480 }, { id: 141389, specId: 577 }],
       { id: 122511, specId: 577 },
       { id: 141389, specId: 1480 },
     ],
@@ -1638,7 +1638,7 @@ const talents = {
     icon: 'spell_arcane_arcanetactics',
     maxRanks: 1,
     entryIds: [117516],
-    definitionIds: [{ id: 122528, specId: 581 }],
+    definitionIds: [{ id: 122528, specId: 581 }, { id: 122528, specId: 577 }],
   },
   TRAIL_OF_RUIN_TALENT: {
     id: 258881,
@@ -1670,7 +1670,7 @@ const talents = {
     icon: 'ability_warlock_burningembersgreen',
     maxRanks: 1,
     entryIds: [136032, 136609],
-    definitionIds: [
+    definitionIds: [{ id: 140787, specId: 577 }, { id: 141382, specId: 1480 }, { id: 140787, specId: 1480 }, { id: 141382, specId: 577 }],
       { id: 140787, specId: 577 },
       { id: 141382, specId: 1480 },
     ],
@@ -1681,7 +1681,7 @@ const talents = {
     icon: 'ability_ironmaidens_bladerush',
     maxRanks: 1,
     entryIds: [123047],
-    definitionIds: [{ id: 127928, specId: 581 }],
+    definitionIds: [{ id: 127928, specId: 581 }, { id: 127928, specId: 577 }],
   },
   UNRESTRAINED_FURY_TALENT: {
     id: 320770,
@@ -1697,7 +1697,7 @@ const talents = {
     icon: 'inv__felbarrage',
     maxRanks: 1,
     entryIds: [117501, 136606],
-    definitionIds: [
+    definitionIds: [{ id: 122513, specId: 577 }, { id: 141379, specId: 1480 }, { id: 122513, specId: 1480 }, { id: 141379, specId: 577 }],
       { id: 122513, specId: 577 },
       { id: 141379, specId: 1480 },
     ],
@@ -1756,7 +1756,7 @@ const talents = {
     icon: 'spell_shadow_demoniccirclesummon',
     maxRanks: 1,
     entryIds: [117509, 136622],
-    definitionIds: [
+    definitionIds: [{ id: 122521, specId: 577 }, { id: 141395, specId: 1480 }, { id: 122521, specId: 1480 }, { id: 141395, specId: 577 }],
       { id: 122521, specId: 577 },
       { id: 141395, specId: 1480 },
     ],
@@ -1809,14 +1809,7 @@ const talents = {
     entryIds: [136698],
     definitionIds: [{ id: 141470, specId: 1480 }],
   },
-  VOIDSURGE_TALENT: {
-    id: 452402,
-    name: 'Voidsurge',
-    icon: 'inv_ability_felscarreddemonhunter_demonsurge',
-    maxRanks: 1,
-    entryIds: [136613],
-    definitionIds: [{ id: 141386, specId: 1480 }],
-  },
+
   VOID_METAMORPHOSIS_TALENT: {
     id: 471306,
     name: 'Void Metamorphosis',
@@ -1864,7 +1857,7 @@ const talents = {
     icon: 'inv_nature_nova',
     maxRanks: 1,
     entryIds: [136030, 136611],
-    definitionIds: [
+    definitionIds: [{ id: 140785, specId: 577 }, { id: 141384, specId: 1480 }, { id: 140785, specId: 1480 }, { id: 141384, specId: 577 }],
       { id: 140785, specId: 577 },
       { id: 141384, specId: 1480 },
     ],
@@ -1883,7 +1876,7 @@ const talents = {
     icon: 'ability_warlock_soulsiphon',
     maxRanks: 1,
     entryIds: [136027],
-    definitionIds: [{ id: 140782, specId: 581 }],
+    definitionIds: [{ id: 140782, specId: 581 }, { id: 140782, specId: 577 }],
   },
   WASTE_NOT_TALENT: {
     id: 1223918,
@@ -1899,7 +1892,7 @@ const talents = {
     icon: 'spell_fire_felfirenova',
     maxRanks: 1,
     entryIds: [117510, 136621],
-    definitionIds: [
+    definitionIds: [{ id: 122522, specId: 577 }, { id: 141394, specId: 1480 }, { id: 122522, specId: 1480 }, { id: 141394, specId: 577 }],
       { id: 122522, specId: 577 },
       { id: 141394, specId: 1480 },
     ],
@@ -1934,7 +1927,7 @@ const talents = {
     icon: 'ability_rogue_venomouswounds',
     maxRanks: 1,
     entryIds: [117494],
-    definitionIds: [{ id: 122506, specId: 581 }],
+    definitionIds: [{ id: 122506, specId: 581 }, { id: 122506, specId: 577 }],
   },
 } satisfies Record<string, Talent>;
 

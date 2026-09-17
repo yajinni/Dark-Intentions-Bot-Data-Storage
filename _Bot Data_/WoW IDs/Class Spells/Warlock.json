@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "name": "Eye of Kilrogg",
     "id": 126,
@@ -4582,7 +4582,7 @@
     "castTime": 0
   },
   {
-    "name": "Spell Lock",
+    "name": "Devour Magic",
     "id": 1276610,
     "gcd": 0,
     "castTime": 0
@@ -4852,6 +4852,288 @@
   {
     "name": "Warlock - Midnight PrePatch - 11.2 Class Set 4pc",
     "id": 1283641,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dual Wield (desc=Passive)",
+    "id": 114355,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Void Shield (desc=Special Ability)",
+    "id": 115236,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Void Shield",
+    "id": 115240,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mesmerize (desc=Special Ability)",
+    "id": 115268,
+    "gcd": 0,
+    "castTime": 1.7
+  },
+  {
+    "name": "Sear Magic (desc=Special Ability)",
+    "id": 115276,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mortal Cleave (desc=Basic Attack)",
+    "id": 115625,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Felbolt (desc=Basic Attack)",
+    "id": 115746,
+    "gcd": 0.5,
+    "castTime": 1.75
+  },
+  {
+    "name": "Bladedance (desc=Basic Attack)",
+    "id": 115748,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Fellash (desc=Special Ability)",
+    "id": 115770,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tongue Lash (desc=Basic Attack)",
+    "id": 115778,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "Optical Blast (desc=Special Ability)",
+    "id": 115781,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wrathstorm (desc=Special Ability)",
+    "id": 115831,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wrathstorm",
+    "id": 115832,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cauterize Master (desc=Special Ability)",
+    "id": 119899,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Optical Blast (desc=Special Ability)",
+    "id": 119911,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Fellash (desc=Special Ability)",
+    "id": 119913,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wrathstorm (desc=Special Ability)",
+    "id": 119915,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Debilitate",
+    "id": 170996,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Burning Presence (desc=Special Ability)",
+    "id": 171012,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Meteor Strike",
+    "id": 171018,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blaze Magic (desc=Special Ability)",
+    "id": 171023,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Meteor Strike (desc=Special Ability)",
+    "id": 171154,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Firebolt (desc=Rank 2)",
+    "id": 231795,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "The Night's Dichotomy",
+    "id": 241334,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Starlight of Celumbra",
+    "id": 241835,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadow of Celumbra",
+    "id": 241836,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shard of Annihilation",
+    "id": 356344,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Decaying Soul Satchel",
+    "id": 356362,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Languishing Soul Detritus",
+    "id": 364937,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Contained Perpetual Explosion",
+    "id": 364938,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Tormented Crescendo",
+    "id": 387077,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Barrage",
+    "id": 1292384,
+    "gcd": 1.5,
+    "castTime": 2
+  },
+  {
+    "name": "Soul Barrage",
+    "id": 1292391,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Affliction 12.1 Class Set 2pc",
+    "id": 1296568,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Affliction 12.1 Class Set 4pc",
+    "id": 1296569,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Destruction 12.1 Class Set 2pc",
+    "id": 1296571,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Destruction 12.1 Class Set 4pc",
+    "id": 1296572,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Demonology 12.1 Class Set 2pc",
+    "id": 1296573,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warlock Demonology 12.1 Class Set 4pc",
+    "id": 1296574,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dark Titan's Mark",
+    "id": 1305711,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unstable Empowerment",
+    "id": 1305774,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Refund Soul Shard",
+    "id": 1305798,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Isolated Implosion",
+    "id": 1306077,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Isolated Implosion",
+    "id": 1309535,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soul Leech",
+    "id": 1311653,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hedonic Gorging",
+    "id": 1311969,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Impetuous Wrath",
+    "id": 1312998,
     "gcd": 0,
     "castTime": 0
   }

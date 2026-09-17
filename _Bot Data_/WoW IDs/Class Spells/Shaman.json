@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "name": "Purge",
     "id": 370,
@@ -818,7 +818,7 @@
   {
     "name": "Flame Shock",
     "id": 188389,
-    "gcd": 1.5,
+    "gcd": 0,
     "castTime": 0
   },
   {
@@ -2460,7 +2460,7 @@
     "castTime": 0
   },
   {
-    "name": "Raging Maelstrom",
+    "name": "Overflowing Maelstrom",
     "id": 410681,
     "gcd": 0,
     "castTime": 0
@@ -3366,7 +3366,7 @@
     "castTime": 0
   },
   {
-    "name": "Lesser Storm Elemental",
+    "name": "Lesser Primal Storm Elemental",
     "id": 462990,
     "gcd": 0,
     "castTime": 0
@@ -4268,6 +4268,126 @@
   {
     "name": "Shaman - Midnight PrePatch - 11.2 Class Set 4pc - Healing",
     "id": 1283658,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vigilance Perch",
+    "id": 241332,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vigilance Perch",
+    "id": 242066,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Raging Vesper Vortex",
+    "id": 364733,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Elemental Conduit",
+    "id": 364734,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Seeds of Rampant Growth",
+    "id": 364735,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Splintered Elements",
+    "id": 364736,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Elemental 12.1 Class Set 2pc",
+    "id": 1296625,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Elemental 12.1 Class Set 4pc",
+    "id": 1296626,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Enhancement 12.1 Class Set 2pc",
+    "id": 1296627,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Enhancement 12.1 Class Set 4pc",
+    "id": 1296628,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Restoration 12.1 Class Set 2pc",
+    "id": 1296629,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shaman Restoration 12.1 Class Set 4pc",
+    "id": 1296630,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Healing Rain",
+    "id": 1298679,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Burning Core",
+    "id": 1299975,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Short Circuit",
+    "id": 1299991,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Flowing Elements",
+    "id": 1300219,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Overcharge!",
+    "id": 1300222,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Condensation",
+    "id": 1300642,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Healing Rain",
+    "id": 1307888,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Swelling Tides",
+    "id": 1312843,
     "gcd": 0,
     "castTime": 0
   }

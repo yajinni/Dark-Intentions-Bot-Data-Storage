@@ -13,7 +13,7 @@ const Potions = {
   },
   REFRESHING_SERUM: {
     id: 1236590,
-    name: 'Refreshing Serum',
+    name: 'Basic Rejuvenation Potion',
     icon: 'inv_alchemy_80_potion01purple',
   },
   LIGHTS_POTENTIAL: {
@@ -50,6 +50,26 @@ const Potions = {
     id: 1263074,
     name: 'Amani Extract',
     icon: 'inv_alchemy_elixir_04',
+  },
+  SIMC_INVIGORATING_HEALING_POTION: {
+    id: 1238009,
+    name: 'Invigorating Healing Potion',
+    icon: 'inv_misc_questionmark',
+  },
+  SIMC_DRAUGHT_OF_POWER: {
+    id: 1243926,
+    name: 'Draught of Power',
+    icon: 'inv_misc_questionmark',
+  },
+  SIMC_CONCENTRATED_SILVERMOON_HEALTH_POTION: {
+    id: 1295247,
+    name: 'Concentrated Silvermoon Health Potion',
+    icon: 'inv_misc_questionmark',
+  },
+  SIMC_POTION_OF_LIQUID_UNDEATH: {
+    id: 1308590,
+    name: 'Potion of Liquid Undeath',
+    icon: 'inv_misc_questionmark',
   },
 } satisfies Record<string, Spell>;
 

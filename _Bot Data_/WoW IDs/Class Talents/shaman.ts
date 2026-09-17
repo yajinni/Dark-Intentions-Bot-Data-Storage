@@ -32,7 +32,7 @@ const talents = {
     icon: 'ability_evoker_essenceburststacks',
     maxRanks: 1,
     entryIds: [117471],
-    definitionIds: [{ id: 122483, specId: 264 }],
+    definitionIds: [{ id: 122483, specId: 264 }, { id: 122483, specId: 263 }],
   },
   ANCESTRAL_AWAKENING_TALENT: {
     id: 382309,
@@ -48,7 +48,7 @@ const talents = {
     icon: 'shaman_pvp_leaderclan',
     maxRanks: 1,
     entryIds: [135990],
-    definitionIds: [{ id: 140745, specId: 264 }],
+    definitionIds: [{ id: 140745, specId: 264 }, { id: 140745, specId: 262 }],
   },
   ANCESTRAL_REACH_TALENT: {
     id: 382732,
@@ -64,7 +64,7 @@ const talents = {
     icon: 'inv_ability_farseershaman_ancestralswiftness',
     maxRanks: 1,
     entryIds: [117491],
-    definitionIds: [{ id: 122503, specId: 264 }],
+    definitionIds: [{ id: 122503, specId: 264 }, { id: 122503, specId: 262 }],
   },
   ANCESTRAL_VIGOR_TALENT: {
     id: 207401,
@@ -88,7 +88,7 @@ const talents = {
     icon: 'spell_shaman_astralshift',
     maxRanks: 1,
     entryIds: [123632],
-    definitionIds: [{ id: 128470, specId: 264 }],
+    definitionIds: [{ id: 128470, specId: 264 }, { id: 128470, specId: 262 }],
   },
   ARCTIC_SNOWSTORM_TALENT: {
     id: 462764,
@@ -104,7 +104,7 @@ const talents = {
     icon: 'ability_thunderking_balllightning',
     maxRanks: 1,
     entryIds: [117482],
-    definitionIds: [{ id: 122494, specId: 263 }],
+    definitionIds: [{ id: 122494, specId: 263 }, { id: 122494, specId: 262 }],
   },
   ASCENDANCE_ELEMENTAL_TALENT: {
     id: 114050,
@@ -168,7 +168,7 @@ const talents = {
     icon: 'spell_nature_stormreach',
     maxRanks: 1,
     entryIds: [117464],
-    definitionIds: [{ id: 122476, specId: 263 }],
+    definitionIds: [{ id: 122476, specId: 263 }, { id: 122476, specId: 262 }],
   },
   BRIMMING_WITH_LIFE_TALENT: {
     id: 381689,
@@ -192,7 +192,7 @@ const talents = {
     icon: 'ability_racial_ancestralcall',
     maxRanks: 1,
     entryIds: [117485],
-    definitionIds: [{ id: 122497, specId: 264 }],
+    definitionIds: [{ id: 122497, specId: 264 }, { id: 122497, specId: 262 }],
   },
   CALM_WATERS_TALENT: {
     id: 1252841,
@@ -250,7 +250,7 @@ const talents = {
     icon: 'ability_shaman_cleansespirit',
     maxRanks: 1,
     entryIds: [127884],
-    definitionIds: [{ id: 132693, specId: 263 }],
+    definitionIds: [{ id: 132693, specId: 263 }, { id: 132693, specId: 262 }],
     manaCost: 25000,
   },
   COALESCING_WATER_TALENT: {
@@ -267,7 +267,7 @@ const talents = {
     icon: 'inv_rod_enchantedcobalt',
     maxRanks: 1,
     entryIds: [117465],
-    definitionIds: [{ id: 122477, specId: 263 }],
+    definitionIds: [{ id: 122477, specId: 263 }, { id: 122477, specId: 262 }],
   },
   CONVERGING_STORMS_TALENT: {
     id: 384363,
@@ -315,7 +315,7 @@ const talents = {
     icon: 'inv_misc_herb_liferoot_stem',
     maxRanks: 1,
     entryIds: [101816, 101937],
-    definitionIds: [
+    definitionIds: [{ id: 106894, specId: 263 }, { id: 106936, specId: 264 }],
       { id: 106894, specId: 263 },
       { id: 106936, specId: 264 },
     ],
@@ -334,7 +334,7 @@ const talents = {
     icon: 'spell_nature_wispheal',
     maxRanks: 1,
     entryIds: [135985],
-    definitionIds: [{ id: 140740, specId: 263 }],
+    definitionIds: [{ id: 140740, specId: 263 }, { id: 140740, specId: 262 }],
   },
   DOOM_WINDS_TALENT: {
     id: 384352,
@@ -374,7 +374,7 @@ const talents = {
     icon: 'spell_nature_skinofearth',
     maxRanks: 1,
     entryIds: [123631],
-    definitionIds: [{ id: 128469, specId: 264 }],
+    definitionIds: [{ id: 128469, specId: 264 }, { id: 128469, specId: 262 }],
   },
   EARTHEN_HARMONY_TALENT: {
     id: 382020,
@@ -440,7 +440,7 @@ const talents = {
     icon: 'inv_elementalearth2',
     maxRanks: 1,
     entryIds: [125822],
-    definitionIds: [{ id: 130653, specId: 264 }],
+    definitionIds: [{ id: 130653, specId: 264 }, { id: 130653, specId: 263 }],
   },
   EARTHWEAVER_TALENT: {
     id: 1254210,
@@ -490,7 +490,7 @@ const talents = {
     icon: 'ability_shaman_echooftheelements',
     maxRanks: 1,
     entryIds: [101850, 101942],
-    definitionIds: [
+    definitionIds: [{ id: 106837, specId: 262 }, { id: 106939, specId: 264 }],
       { id: 106837, specId: 262 },
       { id: 106939, specId: 264 },
     ],
@@ -501,7 +501,7 @@ const talents = {
     icon: 'ability_thunderking_overcharge',
     maxRanks: 1,
     entryIds: [128226],
-    definitionIds: [{ id: 133033, specId: 263 }],
+    definitionIds: [{ id: 133033, specId: 263 }, { id: 133033, specId: 262 }],
   },
   ELEMENTAL_ASSAULT_TALENT: {
     id: 210853,
@@ -517,7 +517,7 @@ const talents = {
     icon: 'inv_10_elementalcombinedfoozles_primordial',
     maxRanks: 1,
     entryIds: [135983],
-    definitionIds: [{ id: 140738, specId: 264 }],
+    definitionIds: [{ id: 140738, specId: 264 }, { id: 140738, specId: 263 }],
   },
   ELEMENTAL_BLAST_TALENT: {
     id: 117014,
@@ -566,7 +566,7 @@ const talents = {
     icon: 'ability_shaman_echooftheelements',
     maxRanks: 1,
     entryIds: [117466],
-    definitionIds: [{ id: 122478, specId: 264 }],
+    definitionIds: [{ id: 122478, specId: 264 }, { id: 122478, specId: 262 }],
   },
   ELEMENTAL_TEMPO_TALENT: {
     id: 1250364,
@@ -670,7 +670,7 @@ const talents = {
     icon: 'spell_shaman_ancestralawakening',
     maxRanks: 1,
     entryIds: [117472],
-    definitionIds: [{ id: 122484, specId: 264 }],
+    definitionIds: [{ id: 122484, specId: 264 }, { id: 122484, specId: 262 }],
   },
   FIRE_AND_ICE_TALENT: {
     id: 382886,
@@ -694,7 +694,7 @@ const talents = {
     icon: 'spell_shaman_astralshift',
     maxRanks: 1,
     entryIds: [127921, 101913],
-    definitionIds: [
+    definitionIds: [{ id: 132730, specId: 262 }, { id: 106933, specId: 264 }],
       { id: 132730, specId: 262 },
       { id: 106933, specId: 264 },
     ],
@@ -717,11 +717,11 @@ const talents = {
   },
   FLAMETONGUE_WEAPON_TALENT: {
     id: 318038,
-    name: 'Flametongue Weapon',
+    name: 'Flametongue Weapon (desc=Weapon Imbue)',
     icon: 'spell_fire_flametounge',
     maxRanks: 1,
     entryIds: [101879, 101805],
-    definitionIds: [
+    definitionIds: [{ id: 106829, specId: 262 }, { id: 106864, specId: 263 }],
       { id: 106829, specId: 262 },
       { id: 106864, specId: 263 },
     ],
@@ -847,7 +847,7 @@ const talents = {
     icon: 'spell_unused2',
     maxRanks: 1,
     entryIds: [117481],
-    definitionIds: [{ id: 122493, specId: 264 }],
+    definitionIds: [{ id: 122493, specId: 264 }, { id: 122493, specId: 262 }],
   },
   HERALD_OF_THE_STORMS_TALENT: {
     id: 468571,
@@ -859,7 +859,7 @@ const talents = {
   },
   HEX_TALENT: {
     id: 51514,
-    name: 'Hex',
+    name: 'Hex (desc=Frog)',
     icon: 'spell_shaman_hex',
     maxRanks: 1,
     entryIds: [127903],
@@ -879,7 +879,7 @@ const talents = {
     icon: 'spell_shaman_unleashweapon_wind',
     maxRanks: 1,
     entryIds: [117468],
-    definitionIds: [{ id: 122480, specId: 264 }],
+    definitionIds: [{ id: 122480, specId: 264 }, { id: 122480, specId: 263 }],
   },
   IMPROVED_EARTHLIVING_WEAPON_TALENT: {
     id: 382315,
@@ -935,7 +935,7 @@ const talents = {
     icon: 'spell_holy_spiritualguidence',
     maxRanks: 1,
     entryIds: [117459],
-    definitionIds: [{ id: 122471, specId: 264 }],
+    definitionIds: [{ id: 122471, specId: 264 }, { id: 122471, specId: 262 }],
   },
   LAVA_BURST_TALENT: {
     id: 51505,
@@ -943,7 +943,7 @@ const talents = {
     icon: 'spell_shaman_lavaburst',
     maxRanks: 1,
     entryIds: [127873],
-    definitionIds: [{ id: 132682, specId: 264 }],
+    definitionIds: [{ id: 132682, specId: 264 }, { id: 132682, specId: 262 }],
   },
   LAVA_FLOWS_TALENT: {
     id: 1273485,
@@ -975,7 +975,7 @@ const talents = {
     icon: 'spell_shaman_staticshock',
     maxRanks: 1,
     entryIds: [117460],
-    definitionIds: [{ id: 122472, specId: 263 }],
+    definitionIds: [{ id: 122472, specId: 263 }, { id: 122472, specId: 262 }],
   },
   LIGHTNING_ROD_TALENT: {
     id: 210689,
@@ -999,7 +999,7 @@ const talents = {
     icon: 'spell_fire_searingtotem',
     maxRanks: 1,
     entryIds: [117479],
-    definitionIds: [{ id: 122491, specId: 264 }],
+    definitionIds: [{ id: 122491, specId: 264 }, { id: 122491, specId: 263 }],
   },
   LIVING_STREAM_TALENT: {
     id: 382482,
@@ -1015,7 +1015,7 @@ const talents = {
     icon: 'spell_shadow_soulleech_2',
     maxRanks: 1,
     entryIds: [117480],
-    definitionIds: [{ id: 122492, specId: 264 }],
+    definitionIds: [{ id: 122492, specId: 264 }, { id: 122492, specId: 262 }],
   },
   MAELSTROM_WEAPON_TALENT: {
     id: 187880,
@@ -1071,7 +1071,7 @@ const talents = {
     icon: 'achievement_raidprimalist_council',
     maxRanks: 1,
     entryIds: [135988],
-    definitionIds: [{ id: 140743, specId: 264 }],
+    definitionIds: [{ id: 140743, specId: 264 }, { id: 140743, specId: 262 }],
   },
   NATURAL_GIFT_TALENT: {
     id: 1264691,
@@ -1079,7 +1079,7 @@ const talents = {
     icon: 'spell_shaman_maelstromweapon',
     maxRanks: 1,
     entryIds: [135986],
-    definitionIds: [{ id: 140741, specId: 263 }],
+    definitionIds: [{ id: 140741, specId: 263 }, { id: 140741, specId: 262 }],
   },
   NATURAL_HARMONY_TALENT: {
     id: 443442,
@@ -1087,7 +1087,7 @@ const talents = {
     icon: 'spell_nature_natureguardian',
     maxRanks: 1,
     entryIds: [117455],
-    definitionIds: [{ id: 122467, specId: 264 }],
+    definitionIds: [{ id: 122467, specId: 264 }, { id: 122467, specId: 262 }],
   },
   NATURES_FURY_TALENT: {
     id: 381655,
@@ -1111,7 +1111,7 @@ const talents = {
     icon: 'spell_nature_lightningshield',
     maxRanks: 1,
     entryIds: [117477],
-    definitionIds: [{ id: 122489, specId: 263 }],
+    definitionIds: [{ id: 122489, specId: 263 }, { id: 122489, specId: 262 }],
   },
   NATURES_SWIFTNESS_TALENT: {
     id: 378081,
@@ -1127,7 +1127,7 @@ const talents = {
     icon: 'spell_shaman_blessingoftheeternals',
     maxRanks: 1,
     entryIds: [117484],
-    definitionIds: [{ id: 122496, specId: 264 }],
+    definitionIds: [{ id: 122496, specId: 264 }, { id: 122496, specId: 262 }],
   },
   OVERCHARGE_TALENT: {
     id: 1251026,
@@ -1159,7 +1159,7 @@ const talents = {
     icon: 'ability_shaman_totemrelocation',
     maxRanks: 1,
     entryIds: [117456],
-    definitionIds: [{ id: 122468, specId: 264 }],
+    definitionIds: [{ id: 122468, specId: 264 }, { id: 122468, specId: 263 }],
   },
   OVERSURGE_TALENT: {
     id: 445030,
@@ -1167,7 +1167,7 @@ const talents = {
     icon: 'spell_fire_elementaldevastation',
     maxRanks: 1,
     entryIds: [125823],
-    definitionIds: [{ id: 130654, specId: 264 }],
+    definitionIds: [{ id: 130654, specId: 264 }, { id: 130654, specId: 263 }],
   },
   PATH_OF_THE_SEER_TALENT: {
     id: 1269364,
@@ -1207,7 +1207,7 @@ const talents = {
     icon: 'spell_shaman_improvedreincarnation',
     maxRanks: 1,
     entryIds: [128224, 135485],
-    definitionIds: [
+    definitionIds: [{ id: 133031, specId: 262 }, { id: 140242, specId: 264 }],
       { id: 133031, specId: 262 },
       { id: 140242, specId: 264 },
     ],
@@ -1218,7 +1218,7 @@ const talents = {
     icon: 'misc_legionfall_shaman',
     maxRanks: 1,
     entryIds: [135982],
-    definitionIds: [{ id: 140737, specId: 264 }],
+    definitionIds: [{ id: 140737, specId: 264 }, { id: 140737, specId: 263 }],
   },
   PRIMAL_ELEMENTALIST_TALENT: {
     id: 117013,
@@ -1250,7 +1250,7 @@ const talents = {
     icon: 'ability_monk_chiswirl',
     maxRanks: 1,
     entryIds: [117457],
-    definitionIds: [{ id: 122469, specId: 264 }],
+    definitionIds: [{ id: 122469, specId: 264 }, { id: 122469, specId: 262 }],
   },
   PRIMORDIAL_FURY_TALENT: {
     id: 378193,
@@ -1274,7 +1274,7 @@ const talents = {
     icon: 'spell_nature_elementalprecision_1',
     maxRanks: 1,
     entryIds: [117463],
-    definitionIds: [{ id: 122475, specId: 264 }],
+    definitionIds: [{ id: 122475, specId: 264 }, { id: 122475, specId: 263 }],
   },
   PURGE_TALENT: {
     id: 370,
@@ -1364,7 +1364,7 @@ const talents = {
     icon: 'spell_lightning_lightningbolt01',
     maxRanks: 1,
     entryIds: [117486],
-    definitionIds: [{ id: 122498, specId: 263 }],
+    definitionIds: [{ id: 122498, specId: 263 }, { id: 122498, specId: 262 }],
   },
   ROUTINE_COMMUNICATION_TALENT: {
     id: 443445,
@@ -1372,7 +1372,7 @@ const talents = {
     icon: 'spell_nature_undyingstrength',
     maxRanks: 1,
     entryIds: [123630],
-    definitionIds: [{ id: 128468, specId: 264 }],
+    definitionIds: [{ id: 128468, specId: 264 }, { id: 128468, specId: 262 }],
   },
   SEARING_FLAMES_TALENT: {
     id: 381782,
@@ -1421,7 +1421,7 @@ const talents = {
     icon: 'spell_shaman_spiritwalkersgrace',
     maxRanks: 1,
     entryIds: [117458],
-    definitionIds: [{ id: 122470, specId: 264 }],
+    definitionIds: [{ id: 122470, specId: 264 }, { id: 122470, specId: 262 }],
   },
   SPIRIT_LINK_TOTEM_TALENT: {
     id: 98008,
@@ -1454,7 +1454,7 @@ const talents = {
     icon: 'ability_rhyolith_lavapool',
     maxRanks: 1,
     entryIds: [117469],
-    definitionIds: [{ id: 122481, specId: 264 }],
+    definitionIds: [{ id: 122481, specId: 264 }, { id: 122481, specId: 263 }],
   },
   SPOUTING_SPIRITS_TALENT: {
     id: 462383,
@@ -1502,7 +1502,7 @@ const talents = {
     icon: 'ability_vehicle_electrocharge',
     maxRanks: 1,
     entryIds: [117490],
-    definitionIds: [{ id: 122502, specId: 263 }],
+    definitionIds: [{ id: 122502, specId: 263 }, { id: 122502, specId: 262 }],
   },
   STORMFLURRY_TALENT: {
     id: 344357,
@@ -1558,7 +1558,7 @@ const talents = {
     icon: 'inv_112_raidtrinkets_etherealenergystoragesphere_purple',
     maxRanks: 1,
     entryIds: [135987],
-    definitionIds: [{ id: 140742, specId: 263 }],
+    definitionIds: [{ id: 140742, specId: 263 }, { id: 140742, specId: 262 }],
   },
   STORM_FRENZY_TALENT: {
     id: 462695,
@@ -1582,7 +1582,7 @@ const talents = {
     icon: 'spell_nature_unrelentingstorm',
     maxRanks: 1,
     entryIds: [117470],
-    definitionIds: [{ id: 122482, specId: 263 }],
+    definitionIds: [{ id: 122482, specId: 263 }, { id: 122482, specId: 262 }],
   },
   STORM_UNLEASHED_1_ENHANCEMENT_TALENT: {
     id: 1262713,
@@ -1623,7 +1623,7 @@ const talents = {
     icon: 'inv_misc_stormlordsfavor',
     maxRanks: 1,
     entryIds: [128225],
-    definitionIds: [{ id: 133032, specId: 263 }],
+    definitionIds: [{ id: 133032, specId: 263 }, { id: 133032, specId: 262 }],
   },
   SUPPORTIVE_IMBUEMENTS_TALENT: {
     id: 445033,
@@ -1631,7 +1631,7 @@ const talents = {
     icon: 'ability_shaman_fortifyingwaters',
     maxRanks: 1,
     entryIds: [125824],
-    definitionIds: [{ id: 130655, specId: 264 }],
+    definitionIds: [{ id: 130655, specId: 264 }, { id: 130655, specId: 263 }],
   },
   SURGING_CURRENTS_TALENT: {
     id: 454372,
@@ -1639,7 +1639,7 @@ const talents = {
     icon: 'ability_thunderking_thunderstruck',
     maxRanks: 1,
     entryIds: [125617],
-    definitionIds: [{ id: 130449, specId: 263 }],
+    definitionIds: [{ id: 130449, specId: 263 }, { id: 130449, specId: 262 }],
   },
   SURGING_ELEMENTS_TALENT: {
     id: 382042,
@@ -1655,7 +1655,7 @@ const talents = {
     icon: 'inv_ability_totemicshaman_surgingtotem',
     maxRanks: 1,
     entryIds: [117474],
-    definitionIds: [{ id: 122486, specId: 264 }],
+    definitionIds: [{ id: 122486, specId: 264 }, { id: 122486, specId: 263 }],
   },
   SWELLING_MAELSTROM_TALENT: {
     id: 381707,
@@ -1671,7 +1671,7 @@ const talents = {
     icon: 'spell_nature_brilliance',
     maxRanks: 1,
     entryIds: [125825],
-    definitionIds: [{ id: 130656, specId: 264 }],
+    definitionIds: [{ id: 130656, specId: 264 }, { id: 130656, specId: 263 }],
   },
   TECTONIC_COLLAPSE_TALENT: {
     id: 1258899,
@@ -1687,7 +1687,7 @@ const talents = {
     icon: 'inv_ability_stormcallershaman_tempest',
     maxRanks: 1,
     entryIds: [117489],
-    definitionIds: [{ id: 122501, specId: 263 }],
+    definitionIds: [{ id: 122501, specId: 263 }, { id: 122501, specId: 262 }],
   },
   THERAZANES_RESILIENCE_TALENT: {
     id: 1217622,
@@ -1715,7 +1715,7 @@ const talents = {
   },
   THUNDERSTRIKE_WARD_TALENT: {
     id: 462757,
-    name: 'Thunderstrike Ward',
+    name: 'Thunderstrike Ward (desc=Shield Imbue)',
     icon: 'inv_armorkit_lightning_imbued',
     maxRanks: 1,
     entryIds: [135716],
@@ -1759,7 +1759,7 @@ const talents = {
     icon: 'ability_shaman_echooftheelements',
     maxRanks: 1,
     entryIds: [117478],
-    definitionIds: [{ id: 122490, specId: 264 }],
+    definitionIds: [{ id: 122490, specId: 264 }, { id: 122490, specId: 263 }],
   },
   TOTEMIC_FOCUS_TALENT: {
     id: 382201,
@@ -1775,7 +1775,7 @@ const talents = {
     icon: 'spell_frost_fireresistancetotem',
     maxRanks: 1,
     entryIds: [135984],
-    definitionIds: [{ id: 140739, specId: 264 }],
+    definitionIds: [{ id: 140739, specId: 264 }, { id: 140739, specId: 263 }],
   },
   TOTEMIC_PROJECTION_TALENT: {
     id: 108287,
@@ -1791,7 +1791,7 @@ const talents = {
     icon: 'ability_vehicle_electrocharge',
     maxRanks: 1,
     entryIds: [117487],
-    definitionIds: [{ id: 122499, specId: 264 }],
+    definitionIds: [{ id: 122499, specId: 264 }, { id: 122499, specId: 263 }],
   },
   TOTEMIC_SURGE_TALENT: {
     id: 381867,
@@ -1831,7 +1831,7 @@ const talents = {
     icon: 'spell_nature_purge',
     maxRanks: 1,
     entryIds: [117483],
-    definitionIds: [{ id: 122495, specId: 263 }],
+    definitionIds: [{ id: 122495, specId: 263 }, { id: 122495, specId: 262 }],
   },
   UNRULY_WINDS_TALENT: {
     id: 390288,
@@ -1847,7 +1847,7 @@ const talents = {
     icon: 'inv_10_dungeonjewelry_primalist_trinket_1ragingelement_fire',
     maxRanks: 1,
     entryIds: [101883, 101819],
-    definitionIds: [
+    definitionIds: [{ id: 106850, specId: 262 }, { id: 106869, specId: 263 }],
       { id: 106850, specId: 262 },
       { id: 106869, specId: 263 },
     ],
@@ -1858,7 +1858,7 @@ const talents = {
     icon: 'spell_nature_callstorm',
     maxRanks: 1,
     entryIds: [117467],
-    definitionIds: [{ id: 122479, specId: 263 }],
+    definitionIds: [{ id: 122479, specId: 263 }, { id: 122479, specId: 262 }],
   },
   VOODOO_MASTERY_TALENT: {
     id: 204268,
@@ -1898,7 +1898,7 @@ const talents = {
     icon: 'inv_10_enchanting2_elementalswirl_color1',
     maxRanks: 1,
     entryIds: [117476],
-    definitionIds: [{ id: 122488, specId: 264 }],
+    definitionIds: [{ id: 122488, specId: 264 }, { id: 122488, specId: 263 }],
   },
   WHITE_WATER_TALENT: {
     id: 462587,
@@ -1910,7 +1910,7 @@ const talents = {
   },
   WINDFURY_WEAPON_TALENT: {
     id: 33757,
-    name: 'Windfury Weapon',
+    name: 'Windfury Weapon (desc=Weapon Imbue)',
     icon: 'spell_shaman_unleashweapon_wind',
     maxRanks: 1,
     entryIds: [101823],
@@ -1922,7 +1922,7 @@ const talents = {
     icon: 'achievement_raidprimalist_windelemental',
     maxRanks: 1,
     entryIds: [135989],
-    definitionIds: [{ id: 140744, specId: 264 }],
+    definitionIds: [{ id: 140744, specId: 264 }, { id: 140744, specId: 262 }],
   },
   WINDS_OF_ALAKIR_TALENT: {
     id: 382215,
@@ -1946,7 +1946,7 @@ const talents = {
     icon: 'spell_nature_eyeofthestorm',
     maxRanks: 1,
     entryIds: [117488],
-    definitionIds: [{ id: 122500, specId: 264 }],
+    definitionIds: [{ id: 122500, specId: 264 }, { id: 122500, specId: 263 }],
   },
   WIND_RUSH_TOTEM_TALENT: {
     id: 192077,
@@ -1964,6 +1964,14 @@ const talents = {
     maxRanks: 1,
     entryIds: [127892],
     definitionIds: [{ id: 132701, specId: 264 }],
+  },
+  TALENT_SWELLING_TIDES: {
+    id: 1312843,
+    name: 'Swelling Tides',
+    icon: 'inv_misc_questionmark',
+    maxRanks: 1,
+    entryIds: [140663],
+    definitionIds: [{ id: 145345, specId: 264 }],
   },
 } satisfies Record<string, Talent>;
 

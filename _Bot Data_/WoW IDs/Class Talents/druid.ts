@@ -40,7 +40,7 @@ const talents = {
     icon: 'artifactability_guardiandruid_goryfur',
     maxRanks: 1,
     entryIds: [117216],
-    definitionIds: [{ id: 122228, specId: 104 }],
+    definitionIds: [{ id: 122228, specId: 104 }, { id: 122228, specId: 103 }],
   },
   APEX_PREDATORS_CRAVING_TALENT: {
     id: 391881,
@@ -56,7 +56,7 @@ const talents = {
     icon: 'spell_arcane_arcane01',
     maxRanks: 1,
     entryIds: [117178],
-    definitionIds: [{ id: 122190, specId: 104 }],
+    definitionIds: [{ id: 122190, specId: 104 }, { id: 122190, specId: 102 }],
   },
   ASCENDANT_ECLIPSES_1_BALANCE_TALENT: {
     id: 1261564,
@@ -95,8 +95,8 @@ const talents = {
     name: 'Astral Communion',
     icon: 'talentspec_druid_balance',
     maxRanks: 1,
-    entryIds: [109850],
-    definitionIds: [{ id: 114855, specId: 102 }],
+    entryIds: [109850, 117100],
+    definitionIds: [{ id: 114855, specId: 102 }, { id: 122112, specId: 102 }],
   },
   ASTRAL_INFLUENCE_TALENT: {
     id: 197524,
@@ -112,7 +112,7 @@ const talents = {
     icon: 'spell_druid_incarnation',
     maxRanks: 1,
     entryIds: [117772],
-    definitionIds: [{ id: 122784, specId: 104 }],
+    definitionIds: [{ id: 122784, specId: 104 }, { id: 122784, specId: 102 }],
   },
   ATMOSPHERIC_EXPOSURE_TALENT: {
     id: 429532,
@@ -120,7 +120,7 @@ const talents = {
     icon: 'inv_cosmicvoid_nova',
     maxRanks: 1,
     entryIds: [117204],
-    definitionIds: [{ id: 122216, specId: 104 }],
+    definitionIds: [{ id: 122216, specId: 104 }, { id: 122216, specId: 102 }],
   },
   BALANCE_OF_ALL_THINGS_TALENT: {
     id: 394048,
@@ -136,7 +136,7 @@ const talents = {
     icon: 'spell_holy_elunesgrace',
     maxRanks: 1,
     entryIds: [135976],
-    definitionIds: [{ id: 140731, specId: 104 }],
+    definitionIds: [{ id: 140731, specId: 104 }, { id: 140731, specId: 102 }],
   },
   BERSERK_FERAL_TALENT: {
     id: 343223,
@@ -168,7 +168,7 @@ const talents = {
     icon: 'spell_nature_spiritarmor',
     maxRanks: 1,
     entryIds: [117208],
-    definitionIds: [{ id: 122220, specId: 104 }],
+    definitionIds: [{ id: 122220, specId: 104 }, { id: 122220, specId: 103 }],
   },
   BLOOD_FRENZY_TALENT: {
     id: 203962,
@@ -192,7 +192,7 @@ const talents = {
     icon: 'spell_nature_thorns',
     maxRanks: 1,
     entryIds: [117196],
-    definitionIds: [{ id: 122208, specId: 105 }],
+    definitionIds: [{ id: 122208, specId: 105 }, { id: 122208, specId: 102 }],
   },
   BOND_WITH_NATURE_TALENT: {
     id: 439929,
@@ -200,7 +200,7 @@ const talents = {
     icon: 'inv_misc_marrigolds_01',
     maxRanks: 1,
     entryIds: [117225],
-    definitionIds: [{ id: 122237, specId: 105 }],
+    definitionIds: [{ id: 122237, specId: 105 }, { id: 122237, specId: 103 }],
   },
   BOUNDLESS_MOONLIGHT_TALENT: {
     id: 424058,
@@ -208,7 +208,7 @@ const talents = {
     icon: 'inv_ability_eluneschosendruid_boundlessmoonlight',
     maxRanks: 1,
     entryIds: [117205],
-    definitionIds: [{ id: 122217, specId: 104 }],
+    definitionIds: [{ id: 122217, specId: 104 }, { id: 122217, specId: 102 }],
   },
   BOUNTEOUS_BLOOM_TALENT: {
     id: 429215,
@@ -216,7 +216,7 @@ const talents = {
     icon: 'inv_herbalism_70_dreamleaf',
     maxRanks: 1,
     entryIds: [117184],
-    definitionIds: [{ id: 122196, specId: 105 }],
+    definitionIds: [{ id: 122196, specId: 105 }, { id: 122196, specId: 102 }],
   },
   BRAMBLES_TALENT: {
     id: 203953,
@@ -240,7 +240,7 @@ const talents = {
     icon: 'inv_collections_armor_flowerbracelet_b_01',
     maxRanks: 1,
     entryIds: [135974],
-    definitionIds: [{ id: 140729, specId: 105 }],
+    definitionIds: [{ id: 140729, specId: 105 }, { id: 140729, specId: 103 }],
   },
   CALL_OF_THE_ELDER_DRUID_TALENT: {
     id: 426784,
@@ -288,7 +288,7 @@ const talents = {
     icon: 'achievement_reputation_guardiansofcenarius',
     maxRanks: 1,
     entryIds: [117199],
-    definitionIds: [{ id: 122211, specId: 105 }],
+    definitionIds: [{ id: 122211, specId: 105 }, { id: 122211, specId: 102 }],
   },
   CHOMP_TALENT: {
     id: 1244258,
@@ -328,7 +328,7 @@ const talents = {
     icon: 'ability_xavius_tormentingswipe',
     maxRanks: 1,
     entryIds: [117211],
-    definitionIds: [{ id: 122223, specId: 104 }],
+    definitionIds: [{ id: 122223, specId: 104 }, { id: 122223, specId: 103 }],
   },
   COILED_TO_SPRING_TALENT: {
     id: 449537,
@@ -344,7 +344,7 @@ const talents = {
     icon: 'inv_cloth_outdooremeralddream_d_01_buckle',
     maxRanks: 1,
     entryIds: [117894],
-    definitionIds: [{ id: 122906, specId: 105 }],
+    definitionIds: [{ id: 122906, specId: 105 }, { id: 122906, specId: 102 }],
   },
   CONVOKE_THE_SPIRITS_TALENT: {
     id: 391528,
@@ -352,7 +352,7 @@ const talents = {
     icon: 'inv_ability_druid_convokethespirits',
     maxRanks: 1,
     entryIds: [109838, 103177, 103200, 103119],
-    definitionIds: [
+    definitionIds: [{ id: 114843, specId: 102 }, { id: 108182, specId: 103 }, { id: 108205, specId: 104 }, { id: 108124, specId: 105 }],
       { id: 114843, specId: 102 },
       { id: 108182, specId: 103 },
       { id: 108205, specId: 104 },
@@ -371,9 +371,9 @@ const talents = {
     id: 200390,
     name: 'Cultivation',
     icon: 'spell_nature_healingtouch',
-    maxRanks: 1,
-    entryIds: [103110],
-    definitionIds: [{ id: 108115, specId: 105 }],
+    maxRanks: 2,
+    entryIds: [103110, 137510],
+    definitionIds: [{ id: 108115, specId: 105 }, { id: 142270, specId: 105 }],
   },
   CYCLONE_TALENT: {
     id: 33786,
@@ -414,7 +414,7 @@ const talents = {
     icon: 'artifactability_feraldruid_openwounds',
     maxRanks: 1,
     entryIds: [117220],
-    definitionIds: [{ id: 122232, specId: 104 }],
+    definitionIds: [{ id: 122232, specId: 104 }, { id: 122232, specId: 103 }],
   },
   DREAM_GUIDE_TALENT: {
     id: 1278886,
@@ -446,7 +446,7 @@ const talents = {
     icon: 'inv_ability_keeperofthegrovedruid_dreamsurge_fiendly',
     maxRanks: 1,
     entryIds: [117195],
-    definitionIds: [{ id: 122207, specId: 105 }],
+    definitionIds: [{ id: 122207, specId: 105 }, { id: 122207, specId: 102 }],
   },
   DRYADS_DANCE_TALENT: {
     id: 1264776,
@@ -454,7 +454,7 @@ const talents = {
     icon: 'inv_stave_2h_druid_a_01',
     maxRanks: 1,
     entryIds: [135971],
-    definitionIds: [{ id: 140726, specId: 105 }],
+    definitionIds: [{ id: 140726, specId: 105 }, { id: 140726, specId: 102 }],
   },
   DURABILITY_OF_NATURE_TALENT: {
     id: 429227,
@@ -462,7 +462,7 @@ const talents = {
     icon: 'ability_druid_manatree',
     maxRanks: 1,
     entryIds: [117200],
-    definitionIds: [{ id: 122212, specId: 105 }],
+    definitionIds: [{ id: 122212, specId: 105 }, { id: 122212, specId: 102 }],
   },
   EARLY_SPRING_TALENT: {
     id: 428937,
@@ -470,7 +470,7 @@ const talents = {
     icon: 'inv_misc_trailofflowers',
     maxRanks: 1,
     entryIds: [117895],
-    definitionIds: [{ id: 122907, specId: 105 }],
+    definitionIds: [{ id: 122907, specId: 105 }, { id: 122907, specId: 102 }],
   },
   ECLIPSE_TALENT: {
     id: 1239669,
@@ -511,7 +511,7 @@ const talents = {
     icon: 'spell_druid_wildcharge',
     maxRanks: 1,
     entryIds: [123304],
-    definitionIds: [{ id: 128177, specId: 104 }],
+    definitionIds: [{ id: 128177, specId: 104 }, { id: 128177, specId: 102 }],
   },
   ELUNES_GUIDANCE_TALENT: {
     id: 393991,
@@ -535,7 +535,7 @@ const talents = {
     icon: 'spell_druid_primaltenacity',
     maxRanks: 1,
     entryIds: [117210],
-    definitionIds: [{ id: 122222, specId: 104 }],
+    definitionIds: [{ id: 122222, specId: 104 }, { id: 122222, specId: 103 }],
   },
   ENTANGLING_VORTEX_TALENT: {
     id: 439895,
@@ -543,7 +543,7 @@ const talents = {
     icon: 'spell_druid_ursolsvortex',
     maxRanks: 1,
     entryIds: [117222],
-    definitionIds: [{ id: 122234, specId: 105 }],
+    definitionIds: [{ id: 122234, specId: 105 }, { id: 122234, specId: 103 }],
   },
   EVERBLOOM_1_RESTORATION_TALENT: {
     id: 392167,
@@ -575,7 +575,7 @@ const talents = {
     icon: 'inv_artifact_bloodoftheassassinated',
     maxRanks: 1,
     entryIds: [117219],
-    definitionIds: [{ id: 122231, specId: 104 }],
+    definitionIds: [{ id: 122231, specId: 104 }, { id: 122231, specId: 103 }],
   },
   EXPANSIVENESS_TALENT: {
     id: 429399,
@@ -583,7 +583,7 @@ const talents = {
     icon: 'spell_nature_abolishmagic',
     maxRanks: 1,
     entryIds: [117197],
-    definitionIds: [{ id: 122209, specId: 105 }],
+    definitionIds: [{ id: 122209, specId: 105 }, { id: 122209, specId: 102 }],
   },
   FELINE_SWIFTNESS_TALENT: {
     id: 131768,
@@ -624,7 +624,7 @@ const talents = {
     icon: 'inv_misc_trailofflowers',
     maxRanks: 1,
     entryIds: [119855],
-    definitionIds: [{ id: 124755, specId: 105 }],
+    definitionIds: [{ id: 124755, specId: 105 }, { id: 124755, specId: 103 }],
   },
   FLUID_FORM_TALENT: {
     id: 449193,
@@ -644,7 +644,7 @@ const talents = {
   },
   FORCE_OF_NATURE_TALENT: {
     id: 205636,
-    name: 'Force of Nature',
+    name: 'Force of Nature (desc=Talent)',
     icon: 'ability_druid_forceofnature',
     maxRanks: 1,
     entryIds: [109844],
@@ -664,7 +664,7 @@ const talents = {
     icon: 'spell_nature_unyeildingstamina',
     maxRanks: 1,
     entryIds: [117218],
-    definitionIds: [{ id: 122230, specId: 104 }],
+    definitionIds: [{ id: 122230, specId: 104 }, { id: 122230, specId: 103 }],
   },
   FRANTIC_FRENZY_TALENT: {
     id: 1243807,
@@ -737,8 +737,8 @@ const talents = {
     name: 'Germination',
     icon: 'spell_druid_germination',
     maxRanks: 1,
-    entryIds: [103127],
-    definitionIds: [{ id: 108132, specId: 105 }],
+    entryIds: [103127, 103113],
+    definitionIds: [{ id: 108132, specId: 105 }, { id: 108118, specId: 105 }],
   },
   GIFT_OF_AN_ANCIENT_GUARDIAN_TALENT: {
     id: 1251876,
@@ -762,7 +762,7 @@ const talents = {
     icon: 'ability_druid_ironfur',
     maxRanks: 1,
     entryIds: [117769],
-    definitionIds: [{ id: 122781, specId: 104 }],
+    definitionIds: [{ id: 122781, specId: 104 }, { id: 122781, specId: 102 }],
   },
   GORE_TALENT: {
     id: 210706,
@@ -786,7 +786,7 @@ const talents = {
     icon: 'spell_lifegivingseed',
     maxRanks: 1,
     entryIds: [135975],
-    definitionIds: [{ id: 140730, specId: 105 }],
+    definitionIds: [{ id: 140730, specId: 105 }, { id: 140730, specId: 103 }],
   },
   GRIEVOUS_WOUNDS_TALENT: {
     id: 474526,
@@ -802,7 +802,7 @@ const talents = {
     icon: 'ability_druid_protectionofthegrove',
     maxRanks: 1,
     entryIds: [117189],
-    definitionIds: [{ id: 122201, specId: 105 }],
+    definitionIds: [{ id: 122201, specId: 105 }, { id: 122201, specId: 102 }],
   },
   GROVE_GUARDIANS_TALENT: {
     id: 1226140,
@@ -842,7 +842,7 @@ const talents = {
     icon: 'talentspec_druid_restoration',
     maxRanks: 1,
     entryIds: [119854],
-    definitionIds: [{ id: 124754, specId: 105 }],
+    definitionIds: [{ id: 124754, specId: 105 }, { id: 124754, specId: 103 }],
   },
   HARMONY_OF_THE_GROVE_TALENT: {
     id: 428731,
@@ -850,7 +850,7 @@ const talents = {
     icon: 'ability_druid_forceofnature',
     maxRanks: 1,
     entryIds: [117203],
-    definitionIds: [{ id: 122215, specId: 105 }],
+    definitionIds: [{ id: 122215, specId: 105 }, { id: 122215, specId: 102 }],
   },
   HARMONY_OF_THE_HEAVENS_TALENT: {
     id: 450558,
@@ -899,7 +899,7 @@ const talents = {
     icon: 'spell_druid_lunarinspiration',
     maxRanks: 1,
     entryIds: [117231],
-    definitionIds: [{ id: 122243, specId: 105 }],
+    definitionIds: [{ id: 122243, specId: 105 }, { id: 122243, specId: 103 }],
   },
   IMPLANT_TALENT: {
     id: 440118,
@@ -907,7 +907,7 @@ const talents = {
     icon: 'ability_creature_poison_03',
     maxRanks: 1,
     entryIds: [117229],
-    definitionIds: [{ id: 122241, specId: 105 }],
+    definitionIds: [{ id: 122241, specId: 105 }, { id: 122241, specId: 103 }],
   },
   IMPROVED_BARKSKIN_TALENT: {
     id: 327993,
@@ -983,7 +983,7 @@ const talents = {
   },
   INCARNATION_AVATAR_OF_ASHAMANE_TALENT: {
     id: 102543,
-    name: 'Incarnation: Avatar of Ashamane',
+    name: 'Incarnation: Avatar of Ashamane (desc=Shapeshift)',
     icon: 'spell_druid_incarnation',
     maxRanks: 1,
     entryIds: [103178],
@@ -999,7 +999,7 @@ const talents = {
   },
   INCARNATION_GUARDIAN_OF_URSOC_TALENT: {
     id: 102558,
-    name: 'Incarnation: Guardian of Ursoc',
+    name: 'Incarnation: Guardian of Ursoc (desc=Shapeshift)',
     icon: 'spell_druid_incarnation',
     maxRanks: 1,
     entryIds: [103201],
@@ -1007,7 +1007,7 @@ const talents = {
   },
   INCARNATION_TREE_OF_LIFE_TALENT: {
     id: 33891,
-    name: 'Incarnation: Tree of Life',
+    name: 'Incarnation: Tree of Life (desc=Talent, Shapeshift)',
     icon: 'ability_druid_improvedtreeform',
     maxRanks: 1,
     entryIds: [103120],
@@ -1116,7 +1116,7 @@ const talents = {
     icon: 'ability_druid_kingofthejungle',
     maxRanks: 1,
     entryIds: [136624],
-    definitionIds: [{ id: 141396, specId: 104 }],
+    definitionIds: [{ id: 141396, specId: 104 }, { id: 141396, specId: 103 }],
   },
   LACERATING_CLAWS_TALENT: {
     id: 1244632,
@@ -1132,7 +1132,7 @@ const talents = {
     icon: 'spell_nature_healingtouch',
     maxRanks: 1,
     entryIds: [117224],
-    definitionIds: [{ id: 122236, specId: 105 }],
+    definitionIds: [{ id: 122236, specId: 105 }, { id: 122236, specId: 103 }],
   },
   LIFEBLOOM_TALENT: {
     id: 33763,
@@ -1165,7 +1165,7 @@ const talents = {
     icon: 'artifactability_feraldruid_ashamanesbite',
     maxRanks: 1,
     entryIds: [135980],
-    definitionIds: [{ id: 140735, specId: 104 }],
+    definitionIds: [{ id: 140735, specId: 104 }, { id: 140735, specId: 103 }],
   },
   LINGERING_HEALING_TALENT: {
     id: 231040,
@@ -1205,7 +1205,7 @@ const talents = {
     icon: 'ability_druid_cresentburn',
     maxRanks: 1,
     entryIds: [117183],
-    definitionIds: [{ id: 122195, specId: 104 }],
+    definitionIds: [{ id: 122195, specId: 104 }, { id: 122195, specId: 102 }],
   },
   LUNAR_INSIGHT_TALENT: {
     id: 429530,
@@ -1213,7 +1213,7 @@ const talents = {
     icon: 'spell_nature_starfall',
     maxRanks: 1,
     entryIds: [117181],
-    definitionIds: [{ id: 122193, specId: 104 }],
+    definitionIds: [{ id: 122193, specId: 104 }, { id: 122193, specId: 102 }],
   },
   LUNAR_INSPIRATION_TALENT: {
     id: 155580,
@@ -1229,7 +1229,7 @@ const talents = {
     icon: 'spell_nature_moonglow',
     maxRanks: 1,
     entryIds: [117177],
-    definitionIds: [{ id: 122189, specId: 104 }],
+    definitionIds: [{ id: 122189, specId: 104 }, { id: 122189, specId: 102 }],
   },
   LYCARAS_INSPIRATION_TALENT: {
     id: 1232897,
@@ -1303,8 +1303,8 @@ const talents = {
     name: 'Merciless Claws',
     icon: 'inv_misc_monsterclaw_03',
     maxRanks: 1,
-    entryIds: [103159],
-    definitionIds: [{ id: 108164, specId: 103 }],
+    entryIds: [103159, 103164],
+    definitionIds: [{ id: 108164, specId: 103 }, { id: 108169, specId: 103 }],
   },
   METEORITES_TALENT: {
     id: 1240907,
@@ -1344,7 +1344,7 @@ const talents = {
     icon: 'inv_enchant_dust',
     maxRanks: 1,
     entryIds: [117192],
-    definitionIds: [{ id: 122204, specId: 104 }],
+    definitionIds: [{ id: 122204, specId: 104 }, { id: 122204, specId: 102 }],
   },
   MOONKIN_FORM_TALENT: {
     id: 24858,
@@ -1368,7 +1368,7 @@ const talents = {
     icon: 'spell_nature_moonglow',
     maxRanks: 1,
     entryIds: [117193],
-    definitionIds: [{ id: 122205, specId: 104 }],
+    definitionIds: [{ id: 122205, specId: 104 }, { id: 122205, specId: 102 }],
   },
   NATURAL_RECOVERY_TALENT: {
     id: 377796,
@@ -1496,15 +1496,15 @@ const talents = {
     icon: 'spell_druid_stampedingroar_cat',
     maxRanks: 1,
     entryIds: [117215],
-    definitionIds: [{ id: 122227, specId: 104 }],
+    definitionIds: [{ id: 122227, specId: 104 }, { id: 122227, specId: 103 }],
   },
   PANTHERS_GUILE_TALENT: {
     id: 1280316,
     name: "Panther's Guile",
     icon: 'ability_mount_blackpanther',
     maxRanks: 1,
-    entryIds: [103164],
-    definitionIds: [{ id: 108169, specId: 103 }],
+    entryIds: [103164, 103181],
+    definitionIds: [{ id: 108169, specId: 103 }, { id: 108186, specId: 103 }],
   },
   PASSING_SEASONS_TALENT: {
     id: 382550,
@@ -1520,7 +1520,7 @@ const talents = {
     icon: 'inv_helm_misc_rose_a_01_red',
     maxRanks: 1,
     entryIds: [117232],
-    definitionIds: [{ id: 122244, specId: 105 }],
+    definitionIds: [{ id: 122244, specId: 105 }, { id: 122244, specId: 103 }],
   },
   PENUMBRAL_SWELL_TALENT: {
     id: 1271261,
@@ -1528,7 +1528,7 @@ const talents = {
     icon: 'ability_druid_eclipse',
     maxRanks: 1,
     entryIds: [135977],
-    definitionIds: [{ id: 140732, specId: 104 }],
+    definitionIds: [{ id: 140732, specId: 104 }, { id: 140732, specId: 102 }],
   },
   PERFECTLY_HONED_INSTINCTS_TALENT: {
     id: 1213597,
@@ -1560,7 +1560,7 @@ const talents = {
     icon: 'ability_druid_serenefocus',
     maxRanks: 1,
     entryIds: [117188],
-    definitionIds: [{ id: 122200, specId: 105 }],
+    definitionIds: [{ id: 122200, specId: 105 }, { id: 122200, specId: 102 }],
   },
   POUNCING_STRIKES_TALENT: {
     id: 390772,
@@ -1584,7 +1584,7 @@ const talents = {
     icon: 'spell_nature_naturesblessing',
     maxRanks: 1,
     entryIds: [117201],
-    definitionIds: [{ id: 122213, specId: 105 }],
+    definitionIds: [{ id: 122213, specId: 105 }, { id: 122213, specId: 102 }],
   },
   POWER_OF_THE_ARCHDRUID_TALENT: {
     id: 392302,
@@ -1600,7 +1600,7 @@ const talents = {
     icon: 'ability_xavius_dreamsimulacrum',
     maxRanks: 1,
     entryIds: [117185],
-    definitionIds: [{ id: 122197, specId: 105 }],
+    definitionIds: [{ id: 122197, specId: 105 }, { id: 122197, specId: 102 }],
   },
   PREDATOR_TALENT: {
     id: 202021,
@@ -1633,8 +1633,8 @@ const talents = {
     name: 'Prosperity',
     icon: 'ability_druid_giftoftheearthmother',
     maxRanks: 1,
-    entryIds: [103136],
-    definitionIds: [{ id: 108141, specId: 105 }],
+    entryIds: [103136, 137507],
+    definitionIds: [{ id: 108141, specId: 105 }, { id: 142267, specId: 105 }],
   },
   PROTECTIVE_GROWTH_TALENT: {
     id: 433748,
@@ -1642,7 +1642,7 @@ const talents = {
     icon: 'spell_nature_resistnature',
     maxRanks: 1,
     entryIds: [117186],
-    definitionIds: [{ id: 122198, specId: 105 }],
+    definitionIds: [{ id: 122198, specId: 105 }, { id: 122198, specId: 102 }],
   },
   RADIANT_MOONLIGHT_TALENT: {
     id: 394121,
@@ -1675,15 +1675,15 @@ const talents = {
     icon: 'inv_misc_thornnecklace',
     maxRanks: 1,
     entryIds: [135973],
-    definitionIds: [{ id: 140728, specId: 105 }],
+    definitionIds: [{ id: 140728, specId: 105 }, { id: 140728, specId: 103 }],
   },
   RAMPANT_FEROCITY_TALENT: {
     id: 391709,
     name: 'Rampant Ferocity',
     icon: 'ability_druid_primaltenacity',
     maxRanks: 1,
-    entryIds: [103181],
-    definitionIds: [{ id: 108186, specId: 103 }],
+    entryIds: [103181, 103159],
+    definitionIds: [{ id: 108186, specId: 103 }, { id: 108164, specId: 103 }],
   },
   RAMPANT_GROWTH_TALENT: {
     id: 404521,
@@ -1707,7 +1707,7 @@ const talents = {
     icon: 'inv_ability_druidoftheclawdruid_ravage',
     maxRanks: 1,
     entryIds: [117206],
-    definitionIds: [{ id: 122218, specId: 104 }],
+    definitionIds: [{ id: 122218, specId: 104 }, { id: 122218, specId: 103 }],
   },
   RAZE_TALENT: {
     id: 400254,
@@ -1781,7 +1781,7 @@ const talents = {
     icon: 'spell_holy_removecurse',
     maxRanks: 1,
     entryIds: [103320],
-    definitionIds: [{ id: 108325, specId: 104 }],
+    definitionIds: [{ id: 108325, specId: 104 }, { id: 108325, specId: 102 }, { id: 108325, specId: 103 }],
     manaCost: 25000,
   },
   REND_AND_TEAR_TALENT: {
@@ -1806,7 +1806,7 @@ const talents = {
     icon: 'inv_misc_herb_16',
     maxRanks: 1,
     entryIds: [117234],
-    definitionIds: [{ id: 122246, specId: 105 }],
+    definitionIds: [{ id: 122246, specId: 105 }, { id: 122246, specId: 103 }],
   },
   RIP_AND_TEAR_TALENT: {
     id: 391347,
@@ -1832,7 +1832,7 @@ const talents = {
     icon: 'ability_creature_poison_04',
     maxRanks: 1,
     entryIds: [117233],
-    definitionIds: [{ id: 122245, specId: 105 }],
+    definitionIds: [{ id: 122245, specId: 105 }, { id: 122245, specId: 103 }],
   },
   RUTHLESS_AGGRESSION_TALENT: {
     id: 441814,
@@ -1840,7 +1840,7 @@ const talents = {
     icon: 'ability_druid_rake',
     maxRanks: 1,
     entryIds: [135981],
-    definitionIds: [{ id: 140736, specId: 104 }],
+    definitionIds: [{ id: 140736, specId: 104 }, { id: 140736, specId: 103 }],
   },
   SABERTOOTH_TALENT: {
     id: 202031,
@@ -1879,8 +1879,8 @@ const talents = {
     name: 'Sculpt the Stars',
     icon: 'ability_druid_eclipseorange',
     maxRanks: 1,
-    entryIds: [117100],
-    definitionIds: [{ id: 122112, specId: 102 }],
+    entryIds: [117100, 109850],
+    definitionIds: [{ id: 122112, specId: 102 }, { id: 114855, specId: 102 }],
   },
   SHOOTING_STARS_TALENT: {
     id: 202342,
@@ -1896,7 +1896,7 @@ const talents = {
     icon: 'inv_bone_skull_04',
     maxRanks: 1,
     entryIds: [103322],
-    definitionIds: [{ id: 108327, specId: 104 }],
+    definitionIds: [{ id: 108327, specId: 104 }, { id: 108327, specId: 103 }],
   },
   SOLAR_BEAM_TALENT: {
     id: 78675,
@@ -1962,7 +1962,7 @@ const talents = {
     icon: 'ability_druid_naturalperfection',
     maxRanks: 1,
     entryIds: [135970],
-    definitionIds: [{ id: 140725, specId: 105 }],
+    definitionIds: [{ id: 140725, specId: 105 }, { id: 140725, specId: 102 }],
   },
   STAMPEDING_ROAR_TALENT: {
     id: 106898,
@@ -1985,8 +1985,8 @@ const talents = {
     name: 'Starfire',
     icon: 'spell_arcane_starfire',
     maxRanks: 1,
-    entryIds: [112967],
-    definitionIds: [{ id: 117972, specId: 105 }],
+    entryIds: [112967, 112969],
+    definitionIds: [{ id: 117972, specId: 105 }, { id: 117972, specId: 103 }, { id: 117972, specId: 104 }, { id: 117974, specId: 103 }, { id: 117974, specId: 104 }],
   },
   STARLIGHT_CONDUIT_TALENT: {
     id: 451211,
@@ -2019,7 +2019,7 @@ const talents = {
     icon: 'spell_arcane_arcane03',
     maxRanks: 1,
     entryIds: [103278],
-    definitionIds: [{ id: 108283, specId: 105 }],
+    definitionIds: [{ id: 108283, specId: 105 }, { id: 108283, specId: 103 }, { id: 108283, specId: 104 }],
   },
   STARWEAVER_TALENT: {
     id: 393940,
@@ -2035,7 +2035,7 @@ const talents = {
     icon: 'spell_arcane_arcane03',
     maxRanks: 1,
     entryIds: [135978],
-    definitionIds: [{ id: 140733, specId: 104 }],
+    definitionIds: [{ id: 140733, specId: 104 }, { id: 140733, specId: 102 }],
   },
   STELLAR_AMPLIFICATION_TALENT: {
     id: 450212,
@@ -2051,7 +2051,7 @@ const talents = {
     icon: 'artifactability_balancedruid_moonandstars',
     maxRanks: 1,
     entryIds: [117190],
-    definitionIds: [{ id: 122202, specId: 104 }],
+    definitionIds: [{ id: 122202, specId: 104 }, { id: 122202, specId: 102 }],
   },
   STONEBARK_TALENT: {
     id: 197061,
@@ -2067,7 +2067,7 @@ const talents = {
     icon: 'ability_druid_supriseattack',
     maxRanks: 1,
     entryIds: [117223],
-    definitionIds: [{ id: 122235, specId: 105 }],
+    definitionIds: [{ id: 122235, specId: 105 }, { id: 122235, specId: 103 }],
   },
   STRIKE_FOR_THE_HEART_TALENT: {
     id: 441845,
@@ -2075,7 +2075,7 @@ const talents = {
     icon: 'ability_druid_primalagression',
     maxRanks: 1,
     entryIds: [117214],
-    definitionIds: [{ id: 122226, specId: 104 }],
+    definitionIds: [{ id: 122226, specId: 104 }, { id: 122226, specId: 103 }],
   },
   SUDDEN_AMBUSH_TALENT: {
     id: 384667,
@@ -2124,7 +2124,7 @@ const talents = {
     icon: 'ability_druid_tigersroar',
     maxRanks: 1,
     entryIds: [103180, 103193],
-    definitionIds: [
+    definitionIds: [{ id: 108185, specId: 103 }, { id: 108198, specId: 104 }],
       { id: 108185, specId: 103 },
       { id: 108198, specId: 104 },
     ],
@@ -2160,7 +2160,7 @@ const talents = {
     icon: 'ui_darkshore_warfront_alliance_dryad',
     maxRanks: 1,
     entryIds: [135972],
-    definitionIds: [{ id: 140727, specId: 105 }],
+    definitionIds: [{ id: 140727, specId: 105 }, { id: 140727, specId: 102 }],
   },
   SYMBIOTIC_RELATIONSHIP_TALENT: {
     id: 474750,
@@ -2185,7 +2185,7 @@ const talents = {
     icon: 'inv_1115_druid_jaguar',
     maxRanks: 1,
     entryIds: [117213],
-    definitionIds: [{ id: 122225, specId: 104 }],
+    definitionIds: [{ id: 122225, specId: 104 }, { id: 122225, specId: 103 }],
   },
   THE_ETERNAL_MOON_TALENT: {
     id: 424113,
@@ -2193,7 +2193,7 @@ const talents = {
     icon: 'artifactability_balancedruid_newmoon',
     maxRanks: 1,
     entryIds: [117179],
-    definitionIds: [{ id: 122191, specId: 104 }],
+    definitionIds: [{ id: 122191, specId: 104 }, { id: 122191, specId: 102 }],
   },
   THE_LIGHT_OF_ELUNE_TALENT: {
     id: 428655,
@@ -2201,7 +2201,7 @@ const talents = {
     icon: 'ability_druid_dreamstate',
     maxRanks: 1,
     entryIds: [117176],
-    definitionIds: [{ id: 122188, specId: 104 }],
+    definitionIds: [{ id: 122188, specId: 104 }, { id: 122188, specId: 102 }],
   },
   THICK_HIDE_TALENT: {
     id: 16931,
@@ -2217,7 +2217,7 @@ const talents = {
     icon: 'inv_ability_wildstalkerdruid_thrivinggrowth',
     maxRanks: 1,
     entryIds: [117226],
-    definitionIds: [{ id: 122238, specId: 105 }],
+    definitionIds: [{ id: 122238, specId: 105 }, { id: 122238, specId: 103 }],
   },
   THRIVING_VEGETATION_TALENT: {
     id: 447131,
@@ -2298,7 +2298,7 @@ const talents = {
     icon: 'spell_nature_starfall',
     maxRanks: 1,
     entryIds: [117194],
-    definitionIds: [{ id: 122206, specId: 105 }],
+    definitionIds: [{ id: 122206, specId: 105 }, { id: 122206, specId: 102 }],
   },
   TWIN_CLAW_TALENT: {
     id: 1271635,
@@ -2306,7 +2306,7 @@ const talents = {
     icon: 'ability_druid_swipe',
     maxRanks: 1,
     entryIds: [135979],
-    definitionIds: [{ id: 140734, specId: 104 }],
+    definitionIds: [{ id: 140734, specId: 104 }, { id: 140734, specId: 103 }],
   },
   TWIN_MOONFIRE_TALENT: {
     id: 372567,
@@ -2330,7 +2330,7 @@ const talents = {
     icon: 'inv_misc_herb_evergreenmoss',
     maxRanks: 1,
     entryIds: [117230],
-    definitionIds: [{ id: 122242, specId: 105 }],
+    definitionIds: [{ id: 122242, specId: 105 }, { id: 122242, specId: 103 }],
   },
   TYPHOON_TALENT: {
     id: 132469,
@@ -2465,8 +2465,8 @@ const talents = {
     name: 'Verdancy',
     icon: 'inv_10_herb_seed_magiccolor5',
     maxRanks: 1,
-    entryIds: [103113],
-    definitionIds: [{ id: 108118, specId: 105 }],
+    entryIds: [103113, 103127],
+    definitionIds: [{ id: 108118, specId: 105 }, { id: 108132, specId: 105 }],
   },
   VERDANT_HEART_TALENT: {
     id: 301768,
@@ -2481,8 +2481,8 @@ const talents = {
     name: 'Verdant Infusion',
     icon: 'inv_relics_totemoflife',
     maxRanks: 1,
-    entryIds: [103137],
-    definitionIds: [{ id: 108142, specId: 105 }],
+    entryIds: [103137, 137508],
+    definitionIds: [{ id: 108142, specId: 105 }, { id: 142268, specId: 105 }],
   },
   VIGOROUS_CREEPERS_TALENT: {
     id: 440119,
@@ -2490,7 +2490,7 @@ const talents = {
     icon: 'spell_druid_massentanglement',
     maxRanks: 1,
     entryIds: [117227],
-    definitionIds: [{ id: 122239, specId: 105 }],
+    definitionIds: [{ id: 122239, specId: 105 }, { id: 122239, specId: 103 }],
   },
   VULNERABLE_FLESH_TALENT: {
     id: 372618,
@@ -2546,7 +2546,7 @@ const talents = {
     icon: 'ability_druid_ravage',
     maxRanks: 1,
     entryIds: [117209],
-    definitionIds: [{ id: 122221, specId: 104 }],
+    definitionIds: [{ id: 122221, specId: 104 }, { id: 122221, specId: 103 }],
   },
   WILDSHAPE_MASTERY_TALENT: {
     id: 441678,
@@ -2554,7 +2554,7 @@ const talents = {
     icon: 'ability_druid_mastershapeshifter',
     maxRanks: 1,
     entryIds: [117207],
-    definitionIds: [{ id: 122219, specId: 104 }],
+    definitionIds: [{ id: 122219, specId: 104 }, { id: 122219, specId: 103 }],
   },
   WILDSTALKERS_POWER_TALENT: {
     id: 439926,
@@ -2562,7 +2562,7 @@ const talents = {
     icon: 'ability_druid_skinteeth',
     maxRanks: 1,
     entryIds: [117221],
-    definitionIds: [{ id: 122233, specId: 105 }],
+    definitionIds: [{ id: 122233, specId: 105 }, { id: 122233, specId: 103 }],
   },
   WILD_CHARGE_TALENT: {
     id: 102401,
@@ -2644,6 +2644,30 @@ const talents = {
     maxRanks: 1,
     entryIds: [103099],
     definitionIds: [{ id: 108104, specId: 105 }],
+  },
+  TALENT_MOONKIN_FORM: {
+    id: 197625,
+    name: 'Moonkin Form',
+    icon: 'inv_misc_questionmark',
+    maxRanks: 1,
+    entryIds: [112970],
+    definitionIds: [{ id: 117975, specId: 103 }, { id: 117975, specId: 104 }],
+  },
+  TALENT_OVERGROWTH: {
+    id: 203651,
+    name: 'Overgrowth',
+    icon: 'inv_misc_questionmark',
+    maxRanks: 1,
+    entryIds: [103103],
+    definitionIds: [{ id: 108108, specId: 105 }],
+  },
+  TALENT_FLASH_OF_CLARITY: {
+    id: 392220,
+    name: 'Flash of Clarity',
+    icon: 'inv_misc_questionmark',
+    maxRanks: 1,
+    entryIds: [103110],
+    definitionIds: [{ id: 108115, specId: 105 }],
   },
 } satisfies Record<string, Talent>;
 

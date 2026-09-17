@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "name": "Vanguard",
     "id": 71,
@@ -3760,6 +3760,288 @@
   {
     "name": "Phalanx",
     "id": 1292071,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Mortal Strike (desc=PvP Talent)",
+    "id": 198819,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Timeless Strategem",
+    "id": 208091,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rethu's Incessant Courage",
+    "id": 241330,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rethu's Incessant Courage",
+    "id": 242597,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rethu's Incessant Courage",
+    "id": 242599,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Improved Raging Blow",
+    "id": 280270,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spear of Bastion (desc=Kyrian)",
+    "id": 307871,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spear of Bastion (desc=Kyrian)",
+    "id": 307954,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Signet of Tormented Kings",
+    "id": 347829,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Nature's Fury",
+    "id": 354163,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Focus in Chaos",
+    "id": 383486,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood and Thunder",
+    "id": 384277,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shield Specialization",
+    "id": 386011,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Violent Outburst",
+    "id": 386477,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Violent Outburst",
+    "id": 386478,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Seeing Red",
+    "id": 386486,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Scent of Blood",
+    "id": 1265355,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ragedrinker",
+    "id": 1265356,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rampaging Ruin",
+    "id": 1265357,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Surge of Adrenaline",
+    "id": 1265359,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Kill or Be Killed",
+    "id": 1265361,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Scent of Blood",
+    "id": 1265399,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ragedrinker",
+    "id": 1265403,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Surge of Adrenaline",
+    "id": 1265560,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Executioner's Wrath",
+    "id": 1265570,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Executioner's Wrath",
+    "id": 1265575,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Kill or Be Killed",
+    "id": 1265598,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Kill or Be Killed",
+    "id": 1265600,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Kill or Be Killed",
+    "id": 1265641,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Kill or Be Killed",
+    "id": 1265645,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Kill or Be Killed",
+    "id": 1265646,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Wrecking Throw Highlight",
+    "id": 1293603,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shattering Throw Highlight",
+    "id": 1293610,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Arms 12.1 Class Set 2pc",
+    "id": 1296643,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Arms 12.1 Class Set 4pc",
+    "id": 1296644,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Fury 12.1 Class Set 2pc",
+    "id": 1296645,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Fury 12.1 Class Set 4pc",
+    "id": 1296646,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Protection 12.1 Class Set 2pc",
+    "id": 1296647,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Warrior Protection 12.1 Class Set 4pc",
+    "id": 1296648,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Storm of Blood",
+    "id": 1299025,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ravaged",
+    "id": 1299405,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rampaging Ruin",
+    "id": 1299944,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Carving Blades",
+    "id": 1300463,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Concussive Slam",
+    "id": 1300660,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Winding Up",
+    "id": 1300670,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vengeful Shield",
+    "id": 1300681,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bloody Rebuke",
+    "id": 1300690,
     "gcd": 0,
     "castTime": 0
   }

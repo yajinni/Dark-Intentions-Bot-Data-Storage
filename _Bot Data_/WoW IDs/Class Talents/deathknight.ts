@@ -40,7 +40,7 @@ const talents = {
     icon: 'inv_ability_rideroftheapocalypsedeathknight_apocalypsenow',
     maxRanks: 1,
     entryIds: [117638],
-    definitionIds: [{ id: 122650, specId: 252 }],
+    definitionIds: [{ id: 122650, specId: 252 }, { id: 122650, specId: 251 }],
   },
   ARCTIC_ASSAULT_TALENT: {
     id: 456230,
@@ -90,7 +90,7 @@ const talents = {
     icon: 'inv_misc_supersoulash',
     maxRanks: 1,
     entryIds: [123411],
-    definitionIds: [{ id: 128249, specId: 252 }],
+    definitionIds: [{ id: 128249, specId: 252 }, { id: 128249, specId: 251 }],
   },
   BIND_IN_DARKNESS_TALENT: {
     id: 440031,
@@ -98,7 +98,7 @@ const talents = {
     icon: 'ability_argus_soulbombdebuffsmall',
     maxRanks: 1,
     entryIds: [117640],
-    definitionIds: [{ id: 122652, specId: 251 }],
+    definitionIds: [{ id: 122652, specId: 251 }, { id: 122652, specId: 250 }],
   },
   BITING_COLD_TALENT: {
     id: 377056,
@@ -162,7 +162,7 @@ const talents = {
     icon: 'ability_warrior_intensifyrage',
     maxRanks: 1,
     entryIds: [117891],
-    definitionIds: [{ id: 122903, specId: 252 }],
+    definitionIds: [{ id: 122903, specId: 252 }, { id: 122903, specId: 250 }],
   },
   BLOODY_REFLECTION_TALENT: {
     id: 1279633,
@@ -226,7 +226,7 @@ const talents = {
     icon: 'ability_ironmaidens_corruptedblood',
     maxRanks: 1,
     entryIds: [117645],
-    definitionIds: [{ id: 122657, specId: 252 }],
+    definitionIds: [{ id: 122657, specId: 252 }, { id: 122657, specId: 250 }],
   },
   BOILING_POINT_TALENT: {
     id: 1265790,
@@ -421,7 +421,7 @@ const talents = {
     icon: 'inv_shoulder_93',
     maxRanks: 1,
     entryIds: [117654],
-    definitionIds: [{ id: 122666, specId: 251 }],
+    definitionIds: [{ id: 122666, specId: 251 }, { id: 122666, specId: 250 }],
   },
   DARK_TRANSFORMATION_TALENT: {
     id: 1233448,
@@ -445,7 +445,7 @@ const talents = {
     icon: 'inv_sword_1h_mawraid_d_02',
     maxRanks: 1,
     entryIds: [135992],
-    definitionIds: [{ id: 140747, specId: 251 }],
+    definitionIds: [{ id: 140747, specId: 251 }, { id: 140747, specId: 250 }],
   },
   DEATHS_ECHO_TALENT: {
     id: 356367,
@@ -461,7 +461,7 @@ const talents = {
     icon: 'ability_argus_deathfog',
     maxRanks: 1,
     entryIds: [117646],
-    definitionIds: [{ id: 122658, specId: 251 }],
+    definitionIds: [{ id: 122658, specId: 251 }, { id: 122658, specId: 250 }],
   },
   DEATHS_REACH_TALENT: {
     id: 276079,
@@ -477,7 +477,7 @@ const talents = {
     icon: 'ability_mount_steelwarhorse',
     maxRanks: 1,
     entryIds: [123412],
-    definitionIds: [{ id: 128250, specId: 252 }],
+    definitionIds: [{ id: 128250, specId: 252 }, { id: 128250, specId: 251 }],
   },
   DEATH_DEFIANCE_TALENT: {
     id: 1266818,
@@ -518,7 +518,7 @@ const talents = {
     icon: 'sha_ability_rogue_bloodyeye_nightmare',
     maxRanks: 1,
     entryIds: [136836],
-    definitionIds: [{ id: 141599, specId: 252 }],
+    definitionIds: [{ id: 141599, specId: 252 }, { id: 141599, specId: 250 }],
   },
   DOOMED_BIDDING_TALENT: {
     id: 455386,
@@ -542,7 +542,7 @@ const talents = {
     icon: 'spell_fire_blueflamebreath',
     maxRanks: 1,
     entryIds: [135991],
-    definitionIds: [{ id: 140746, specId: 251 }],
+    definitionIds: [{ id: 140746, specId: 251 }, { id: 140746, specId: 250 }],
   },
   EMPOWER_RUNE_WEAPON_TALENT: {
     id: 47568,
@@ -590,7 +590,7 @@ const talents = {
     icon: 'spell_shadow_antimagicshell',
     maxRanks: 1,
     entryIds: [128234],
-    definitionIds: [{ id: 133041, specId: 251 }],
+    definitionIds: [{ id: 133041, specId: 251 }, { id: 133041, specId: 250 }],
   },
   EXTERMINATE_TALENT: {
     id: 441378,
@@ -598,7 +598,7 @@ const talents = {
     icon: 'inv_polearm_2h_titanargus_d_01',
     maxRanks: 1,
     entryIds: [117665],
-    definitionIds: [{ id: 122677, specId: 251 }],
+    definitionIds: [{ id: 122677, specId: 251 }, { id: 122677, specId: 250 }],
   },
   FESTERING_SCYTHE_TALENT: {
     id: 455397,
@@ -654,7 +654,7 @@ const talents = {
     icon: 'inv_sulfurelemental_blood',
     maxRanks: 1,
     entryIds: [117662],
-    definitionIds: [{ id: 122674, specId: 252 }],
+    definitionIds: [{ id: 122674, specId: 252 }, { id: 122674, specId: 250 }],
   },
   FRIGID_EXECUTIONER_TALENT: {
     id: 377073,
@@ -670,7 +670,7 @@ const talents = {
     icon: 'spell_deathknight_icetouch',
     maxRanks: 1,
     entryIds: [135993],
-    definitionIds: [{ id: 140748, specId: 251 }],
+    definitionIds: [{ id: 140748, specId: 251 }, { id: 140748, specId: 250 }],
   },
   FROSTBANE_TALENT: {
     id: 455993,
@@ -736,7 +736,7 @@ const talents = {
     icon: 'inv_plate_raiddeathknightmythic_o_01helm',
     maxRanks: 1,
     entryIds: [117639],
-    definitionIds: [{ id: 122651, specId: 252 }],
+    definitionIds: [{ id: 122651, specId: 252 }, { id: 122651, specId: 251 }],
   },
   GATHERING_STORM_TALENT: {
     id: 194912,
@@ -760,7 +760,7 @@ const talents = {
     icon: 'spell_deathknight_bloodtap',
     maxRanks: 1,
     entryIds: [117650],
-    definitionIds: [{ id: 122662, specId: 252 }],
+    definitionIds: [{ id: 122662, specId: 252 }, { id: 122662, specId: 250 }],
   },
   GLOOM_WARD_TALENT: {
     id: 391571,
@@ -792,7 +792,7 @@ const talents = {
     icon: 'spell_misc_zandalari_council_soulswap',
     maxRanks: 1,
     entryIds: [117631],
-    definitionIds: [{ id: 122643, specId: 251 }],
+    definitionIds: [{ id: 122643, specId: 251 }, { id: 122643, specId: 250 }],
   },
   GRIP_OF_THE_DEAD_TALENT: {
     id: 273952,
@@ -842,7 +842,7 @@ const talents = {
     icon: 'achievement_dungeon_nexusraid_10man',
     maxRanks: 1,
     entryIds: [117634],
-    definitionIds: [{ id: 122646, specId: 252 }],
+    definitionIds: [{ id: 122646, specId: 252 }, { id: 122646, specId: 251 }],
   },
   HOWLING_BLADES_TALENT: {
     id: 1230223,
@@ -868,7 +868,7 @@ const talents = {
     icon: 'spell_shadow_fumble',
     maxRanks: 1,
     entryIds: [117641],
-    definitionIds: [{ id: 122653, specId: 252 }],
+    definitionIds: [{ id: 122653, specId: 252 }, { id: 122653, specId: 251 }],
   },
   HYPERPYREXIA_TALENT: {
     id: 456238,
@@ -964,7 +964,7 @@ const talents = {
     icon: 'ability_warlock_improveddemonictactics',
     maxRanks: 1,
     entryIds: [117637],
-    definitionIds: [{ id: 122649, specId: 252 }],
+    definitionIds: [{ id: 122649, specId: 252 }, { id: 122649, specId: 250 }],
   },
   INEVITABLE_TALENT: {
     id: 1280658,
@@ -972,7 +972,7 @@ const talents = {
     icon: 'spell_warlock_demonsoul',
     maxRanks: 1,
     entryIds: [117642],
-    definitionIds: [{ id: 122654, specId: 252 }],
+    definitionIds: [{ id: 122654, specId: 252 }, { id: 122654, specId: 250 }],
   },
   INEXORABLE_ASSAULT_TALENT: {
     id: 253593,
@@ -996,7 +996,7 @@ const talents = {
     icon: 'ability_warrior_bloodbath',
     maxRanks: 1,
     entryIds: [117630],
-    definitionIds: [{ id: 122642, specId: 252 }],
+    definitionIds: [{ id: 122642, specId: 252 }, { id: 122642, specId: 250 }],
   },
   INSATIABLE_BLADE_TALENT: {
     id: 377637,
@@ -1052,7 +1052,7 @@ const talents = {
     icon: 'spell_deathknight_plaguestrike',
     maxRanks: 1,
     entryIds: [135998],
-    definitionIds: [{ id: 140753, specId: 252 }],
+    definitionIds: [{ id: 140753, specId: 252 }, { id: 140753, specId: 251 }],
   },
   LIFEBLOOD_TALENT: {
     id: 1264296,
@@ -1094,7 +1094,7 @@ const talents = {
     icon: 'inv_mawguardpet_black',
     maxRanks: 1,
     entryIds: [117651],
-    definitionIds: [{ id: 122663, specId: 252 }],
+    definitionIds: [{ id: 122663, specId: 252 }, { id: 122663, specId: 251 }],
   },
   MENACING_MAGUS_TALENT: {
     id: 455135,
@@ -1118,7 +1118,7 @@ const talents = {
     icon: 'ability_warlock_improvedsoulleech',
     maxRanks: 1,
     entryIds: [117664],
-    definitionIds: [{ id: 122676, specId: 252 }],
+    definitionIds: [{ id: 122676, specId: 252 }, { id: 122676, specId: 251 }],
   },
   MORBIDITY_TALENT: {
     id: 377592,
@@ -1142,7 +1142,7 @@ const talents = {
     icon: 'ability_maldraxxus_warriorplantbanner',
     maxRanks: 1,
     entryIds: [117656],
-    definitionIds: [{ id: 122668, specId: 252 }],
+    definitionIds: [{ id: 122668, specId: 252 }, { id: 122668, specId: 251 }],
   },
   NECROMANCERS_CUNNING_TALENT: {
     id: 288848,
@@ -1158,7 +1158,7 @@ const talents = {
     icon: 'ability_deathknight_hemorrhagicfever',
     maxRanks: 1,
     entryIds: [117661],
-    definitionIds: [{ id: 122673, specId: 252 }],
+    definitionIds: [{ id: 122673, specId: 252 }, { id: 122673, specId: 250 }],
   },
   NORTHWINDS_TALENT: {
     id: 1230284,
@@ -1199,7 +1199,7 @@ const talents = {
     icon: 'inv_skeletalwarhorse_01_purple',
     maxRanks: 1,
     entryIds: [117657],
-    definitionIds: [{ id: 122669, specId: 252 }],
+    definitionIds: [{ id: 122669, specId: 252 }, { id: 122669, specId: 251 }],
   },
   OSMOSIS_TALENT: {
     id: 454835,
@@ -1241,7 +1241,7 @@ const talents = {
     icon: 'achievement_dungeon_nexus80_25man',
     maxRanks: 1,
     entryIds: [123410],
-    definitionIds: [{ id: 128248, specId: 252 }],
+    definitionIds: [{ id: 128248, specId: 252 }, { id: 128248, specId: 251 }],
   },
   PACT_OF_THE_DEATHBRINGER_TALENT: {
     id: 440476,
@@ -1249,7 +1249,7 @@ const talents = {
     icon: 'ability_revendreth_deathknight',
     maxRanks: 1,
     entryIds: [117632],
-    definitionIds: [{ id: 122644, specId: 251 }],
+    definitionIds: [{ id: 122644, specId: 251 }, { id: 122644, specId: 250 }],
   },
   PACT_OF_THE_SANLAYN_TALENT: {
     id: 434261,
@@ -1257,7 +1257,7 @@ const talents = {
     icon: 'ability_warrior_bloodnova',
     maxRanks: 1,
     entryIds: [117652],
-    definitionIds: [{ id: 122664, specId: 252 }],
+    definitionIds: [{ id: 122664, specId: 252 }, { id: 122664, specId: 250 }],
   },
   PERMAFROST_TALENT: {
     id: 207200,
@@ -1367,7 +1367,7 @@ const talents = {
   },
   REANIMATION_TALENT: {
     id: 1256813,
-    name: 'Reanimation',
+    name: 'Lord of the Dead',
     icon: 'achievement_dungeon_thenecroticwake_amarth',
     maxRanks: 1,
     entryIds: [135676],
@@ -1379,7 +1379,7 @@ const talents = {
     icon: 'inv_ability_deathbringerdeathknight_reapersmark',
     maxRanks: 1,
     entryIds: [117659],
-    definitionIds: [{ id: 122671, specId: 251 }],
+    definitionIds: [{ id: 122671, specId: 251 }, { id: 122671, specId: 250 }],
     runesCost: 2,
   },
   REAPERS_ONSLAUGHT_TALENT: {
@@ -1388,7 +1388,7 @@ const talents = {
     icon: 'ability_demonhunter_soulcleave2',
     maxRanks: 1,
     entryIds: [128266],
-    definitionIds: [{ id: 133073, specId: 251 }],
+    definitionIds: [{ id: 133073, specId: 251 }, { id: 133073, specId: 250 }],
   },
   REAPING_TALENT: {
     id: 377514,
@@ -1420,7 +1420,7 @@ const talents = {
     icon: 'achievement_zone_icecrown_01',
     maxRanks: 1,
     entryIds: [117663],
-    definitionIds: [{ id: 122675, specId: 252 }],
+    definitionIds: [{ id: 122675, specId: 252 }, { id: 122675, specId: 251 }],
   },
   RIDE_OR_DIE_TALENT: {
     id: 1265959,
@@ -1428,7 +1428,7 @@ const talents = {
     icon: 'achievement_boss_fourhorsemen',
     maxRanks: 1,
     entryIds: [135999],
-    definitionIds: [{ id: 140754, specId: 252 }],
+    definitionIds: [{ id: 140754, specId: 252 }, { id: 140754, specId: 251 }],
   },
   RUNE_CARVED_PLATES_TALENT: {
     id: 440282,
@@ -1436,7 +1436,7 @@ const talents = {
     icon: 'spell_deathknight_runetap',
     maxRanks: 1,
     entryIds: [123420],
-    definitionIds: [{ id: 128258, specId: 251 }],
+    definitionIds: [{ id: 128258, specId: 251 }, { id: 128258, specId: 250 }],
   },
   RUNE_MASTERY_TALENT: {
     id: 374574,
@@ -1500,7 +1500,7 @@ const talents = {
     icon: 'ability_deathknight_roilingblood',
     maxRanks: 1,
     entryIds: [117893],
-    definitionIds: [{ id: 122905, specId: 252 }],
+    definitionIds: [{ id: 122905, specId: 252 }, { id: 122905, specId: 250 }],
   },
   SCOURGE_STRIKE_TALENT: {
     id: 55090,
@@ -1552,7 +1552,7 @@ const talents = {
     icon: 'warlock_siphonlife',
     maxRanks: 1,
     entryIds: [117658],
-    definitionIds: [{ id: 122670, specId: 251 }],
+    definitionIds: [{ id: 122670, specId: 251 }, { id: 122670, specId: 250 }],
   },
   SUBDUING_GRASP_TALENT: {
     id: 454822,
@@ -1600,7 +1600,7 @@ const talents = {
     icon: 'ability_domination_rune02',
     maxRanks: 1,
     entryIds: [117629],
-    definitionIds: [{ id: 122641, specId: 251 }],
+    definitionIds: [{ id: 122641, specId: 251 }, { id: 122641, specId: 250 }],
   },
   THE_BLOOD_IS_LIFE_TALENT: {
     id: 434260,
@@ -1608,7 +1608,7 @@ const talents = {
     icon: 'achievement_nazmir_boss_bloodofghuun',
     maxRanks: 1,
     entryIds: [117643],
-    definitionIds: [{ id: 122655, specId: 252 }],
+    definitionIds: [{ id: 122655, specId: 252 }, { id: 122655, specId: 250 }],
   },
   THE_LONG_WINTER_TALENT: {
     id: 456240,
@@ -1624,7 +1624,7 @@ const talents = {
     icon: 'spell_nzinsanity_bloodthirst',
     maxRanks: 1,
     entryIds: [135995],
-    definitionIds: [{ id: 140750, specId: 252 }],
+    definitionIds: [{ id: 140750, specId: 252 }, { id: 140750, specId: 250 }],
   },
   TRANSFUSION_TALENT: {
     id: 1265574,
@@ -1632,7 +1632,7 @@ const talents = {
     icon: 'inv_artifact_bloodoftheassassinated',
     maxRanks: 1,
     entryIds: [135994],
-    definitionIds: [{ id: 140749, specId: 252 }],
+    definitionIds: [{ id: 140749, specId: 252 }, { id: 140749, specId: 250 }],
   },
   TROLLBANES_ICY_FURY_TALENT: {
     id: 444097,
@@ -1640,7 +1640,7 @@ const talents = {
     icon: 'ability_warrior_shatteringthrow',
     maxRanks: 1,
     entryIds: [117660],
-    definitionIds: [{ id: 122672, specId: 252 }],
+    definitionIds: [{ id: 122672, specId: 252 }, { id: 122672, specId: 251 }],
   },
   UMBILICUS_ETERNUS_TALENT: {
     id: 391517,
@@ -1656,7 +1656,7 @@ const talents = {
     icon: 'ability_deathknight_necroticstrike',
     maxRanks: 1,
     entryIds: [135997],
-    definitionIds: [{ id: 140752, specId: 252 }],
+    definitionIds: [{ id: 140752, specId: 252 }, { id: 140752, specId: 251 }],
   },
   UNHOLY_AURA_TALENT: {
     id: 377440,
@@ -1712,7 +1712,7 @@ const talents = {
     icon: 'ability_rogue_vendetta',
     maxRanks: 1,
     entryIds: [117653],
-    definitionIds: [{ id: 122665, specId: 252 }],
+    definitionIds: [{ id: 122665, specId: 252 }, { id: 122665, specId: 250 }],
   },
   VAMPIRIC_BLOOD_TALENT: {
     id: 55233,
@@ -1728,7 +1728,7 @@ const talents = {
     icon: 'inv_boots_cloth_34v2',
     maxRanks: 1,
     entryIds: [117892],
-    definitionIds: [{ id: 122904, specId: 252 }],
+    definitionIds: [{ id: 122904, specId: 252 }, { id: 122904, specId: 250 }],
   },
   VAMPIRIC_STRIKE_TALENT: {
     id: 433901,
@@ -1736,7 +1736,7 @@ const talents = {
     icon: 'inv_ability_sanlayndeathknight_vampiricstrike',
     maxRanks: 1,
     entryIds: [117648],
-    definitionIds: [{ id: 122660, specId: 252 }],
+    definitionIds: [{ id: 122660, specId: 252 }, { id: 122660, specId: 250 }],
   },
   VESTIGIAL_SHELL_TALENT: {
     id: 454851,
@@ -1760,7 +1760,7 @@ const talents = {
     icon: 'inv_ragnaros_heart',
     maxRanks: 1,
     entryIds: [135996],
-    definitionIds: [{ id: 140751, specId: 252 }],
+    definitionIds: [{ id: 140751, specId: 252 }, { id: 140751, specId: 250 }],
   },
   VORACIOUS_TALENT: {
     id: 273953,
@@ -1776,7 +1776,7 @@ const talents = {
     icon: 'spell_animamaw_wave',
     maxRanks: 1,
     entryIds: [117633],
-    definitionIds: [{ id: 122645, specId: 251 }],
+    definitionIds: [{ id: 122645, specId: 251 }, { id: 122645, specId: 250 }],
   },
   WHITEMANES_FAMINE_TALENT: {
     id: 444033,
@@ -1784,7 +1784,7 @@ const talents = {
     icon: 'spell_deathknight_necroticplague',
     maxRanks: 1,
     entryIds: [117644],
-    definitionIds: [{ id: 122656, specId: 252 }],
+    definitionIds: [{ id: 122656, specId: 252 }, { id: 122656, specId: 251 }],
   },
   WILL_OF_THE_NECROPOLIS_TALENT: {
     id: 206967,
@@ -1800,7 +1800,7 @@ const talents = {
     icon: 'sha_spell_warlock_demonsoul',
     maxRanks: 1,
     entryIds: [117655],
-    definitionIds: [{ id: 122667, specId: 251 }],
+    definitionIds: [{ id: 122667, specId: 251 }, { id: 122667, specId: 250 }],
   },
   WRAITH_WALK_TALENT: {
     id: 212552,
@@ -1809,6 +1809,14 @@ const talents = {
     maxRanks: 1,
     entryIds: [133518],
     definitionIds: [{ id: 138304, specId: 252 }],
+  },
+  TALENT_ABOMINATION_LIMB: {
+    id: 1263569,
+    name: 'Abomination Limb',
+    icon: 'inv_misc_questionmark',
+    maxRanks: 1,
+    entryIds: [136213],
+    definitionIds: [{ id: 140986, specId: 250 }],
   },
 } satisfies Record<string, Talent>;
 

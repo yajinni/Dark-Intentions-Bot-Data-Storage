@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "name": "Power Word: Shield",
     "id": 17,
@@ -408,9 +408,9 @@
     "castTime": 0
   },
   {
-    "name": "Corrupted Apparitions",
+    "name": "Shadeburst",
     "id": 73510,
-    "gcd": 1.5,
+    "gcd": 0,
     "castTime": 0
   },
   {
@@ -3330,7 +3330,7 @@
     "castTime": 0
   },
   {
-    "name": "Corrupted Apparition",
+    "name": "Shadeburst",
     "id": 1231479,
     "gcd": 0,
     "castTime": 0
@@ -3636,7 +3636,7 @@
     "castTime": 0
   },
   {
-    "name": "Strength of Soul",
+    "name": "Strength of Resolve",
     "id": 1250820,
     "gcd": 0,
     "castTime": 0
@@ -3974,6 +3974,132 @@
   {
     "name": "Shadowy Insight",
     "id": 1287613,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Hallucinations",
+    "id": 199579,
+    "gcd": 1,
+    "castTime": 0
+  },
+  {
+    "name": "The Night's Dichotomy",
+    "id": 241334,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Starlight of Celumbra",
+    "id": 241835,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadow of Celumbra",
+    "id": 241836,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Spheres' Harmony",
+    "id": 364913,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Shadow Word: Manipulation",
+    "id": 364914,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bwonsamdi's Pact",
+    "id": 364915,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Pallid Command",
+    "id": 364916,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Void Volley",
+    "id": 1242171,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Priest Holy 12.1 Class Set 2pc",
+    "id": 1296575,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Priest Holy 12.1 Class Set 4pc",
+    "id": 1296576,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Priest Discipline 12.1 Class Set 2pc",
+    "id": 1296577,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Priest Discipline 12.1 Class Set 4pc",
+    "id": 1296578,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Priest Shadow 12.1 Class Set 2pc",
+    "id": 1296579,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Priest Shadow 12.1 Class Set 4pc",
+    "id": 1296580,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Grim Deliverance",
+    "id": 1298779,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Power Word: Shield (Unfolding Vision)",
+    "id": 1300008,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Void Shield (Unfolding Vision)",
+    "id": 1300009,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Ancient Madness",
+    "id": 1304485,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Renewed Vigor",
+    "id": 1306118,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Dark Transference",
+    "id": 1307795,
     "gcd": 0,
     "castTime": 0
   }

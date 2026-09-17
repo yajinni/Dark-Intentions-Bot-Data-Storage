@@ -33,7 +33,7 @@ const talents = {
     icon: 'inv_10_specialreagentfoozles_tuskclaw_ice',
     maxRanks: 1,
     entryIds: [117567],
-    definitionIds: [{ id: 122579, specId: 255 }],
+    definitionIds: [{ id: 122579, specId: 255 }, { id: 122579, specId: 254 }],
   },
   ASPECT_OF_THE_BEAST_TALENT: {
     id: 191384,
@@ -65,7 +65,7 @@ const talents = {
     icon: 'achievement_leader_sylvanas',
     maxRanks: 1,
     entryIds: [117554],
-    definitionIds: [{ id: 122566, specId: 254 }],
+    definitionIds: [{ id: 122566, specId: 254 }, { id: 122566, specId: 253 }],
   },
   BARBED_SCALES_TALENT: {
     id: 469880,
@@ -105,7 +105,7 @@ const talents = {
     icon: 'ability_hunter_pathfinding2',
     maxRanks: 1,
     entryIds: [117559],
-    definitionIds: [{ id: 122571, specId: 255 }],
+    definitionIds: [{ id: 122571, specId: 255 }, { id: 122571, specId: 253 }],
   },
   BINDING_SHOT_TALENT: {
     id: 109248,
@@ -146,7 +146,7 @@ const talents = {
     icon: 'inv_quiver_1h_mawraid_d_01',
     maxRanks: 1,
     entryIds: [117558],
-    definitionIds: [{ id: 122570, specId: 254 }],
+    definitionIds: [{ id: 122570, specId: 254 }, { id: 122570, specId: 253 }],
   },
   BLEAK_POWDER_TALENT: {
     id: 467911,
@@ -154,7 +154,7 @@ const talents = {
     icon: 'inv_misc_powder_tin',
     maxRanks: 1,
     entryIds: [117571],
-    definitionIds: [{ id: 122583, specId: 254 }],
+    definitionIds: [{ id: 122583, specId: 254 }, { id: 122583, specId: 253 }],
   },
   BLIGHTED_QUIVER_TALENT: {
     id: 1264291,
@@ -162,7 +162,7 @@ const talents = {
     icon: 'inv_quiver_1h_sylvanas_d_01',
     maxRanks: 1,
     entryIds: [128238],
-    definitionIds: [{ id: 133045, specId: 254 }],
+    definitionIds: [{ id: 133045, specId: 254 }, { id: 133045, specId: 253 }],
   },
   BLOODSEEKER_TALENT: {
     id: 260248,
@@ -267,7 +267,7 @@ const talents = {
     icon: 'ability_hunter_aimedshot',
     maxRanks: 1,
     entryIds: [117587],
-    definitionIds: [{ id: 122599, specId: 255 }],
+    definitionIds: [{ id: 122599, specId: 255 }, { id: 122599, specId: 254 }],
   },
   CATLIKE_REFLEXES_TALENT: {
     id: 1258404,
@@ -324,7 +324,7 @@ const talents = {
     icon: 'ability_racial_runningwild',
     maxRanks: 1,
     entryIds: [117577],
-    definitionIds: [{ id: 122589, specId: 255 }],
+    definitionIds: [{ id: 122589, specId: 255 }, { id: 122589, specId: 254 }],
   },
   CORPSECALLER_TALENT: {
     id: 1264289,
@@ -332,7 +332,7 @@ const talents = {
     icon: 'ability_fiegndead',
     maxRanks: 1,
     entryIds: [136059],
-    definitionIds: [{ id: 140814, specId: 254 }],
+    definitionIds: [{ id: 140814, specId: 254 }, { id: 140814, specId: 253 }],
   },
   COUNTER_SHOT_TALENT: {
     id: 147362,
@@ -340,7 +340,7 @@ const talents = {
     icon: 'inv_ammo_arrow_03',
     maxRanks: 1,
     entryIds: [126352, 126466],
-    definitionIds: [
+    definitionIds: [{ id: 131178, specId: 253 }, { id: 131292, specId: 254 }],
       { id: 131178, specId: 253 },
       { id: 131292, specId: 254 },
     ],
@@ -367,7 +367,7 @@ const talents = {
     icon: 'inv_belt_44c',
     maxRanks: 1,
     entryIds: [117557],
-    definitionIds: [{ id: 122569, specId: 254 }],
+    definitionIds: [{ id: 122569, specId: 254 }, { id: 122569, specId: 253 }],
   },
   DEADEYE_TALENT: {
     id: 321460,
@@ -431,7 +431,7 @@ const talents = {
     icon: 'inv_misc_horn_01',
     maxRanks: 1,
     entryIds: [117589],
-    definitionIds: [{ id: 122601, specId: 255 }],
+    definitionIds: [{ id: 122601, specId: 255 }, { id: 122601, specId: 253 }],
   },
   DISRUPTIVE_ROUNDS_TALENT: {
     id: 343244,
@@ -447,7 +447,7 @@ const talents = {
     icon: 'ability_racial_forceshield',
     maxRanks: 1,
     entryIds: [117586],
-    definitionIds: [{ id: 122598, specId: 255 }],
+    definitionIds: [{ id: 122598, specId: 255 }, { id: 122598, specId: 254 }],
   },
   DOUBLE_TAP_TALENT: {
     id: 473370,
@@ -461,9 +461,9 @@ const talents = {
     id: 473369,
     name: "Eagle's Accuracy",
     icon: 'ability_hunter_silenthunter',
-    maxRanks: 2,
-    entryIds: [128395],
-    definitionIds: [{ id: 133201, specId: 254 }],
+    maxRanks: 1,
+    entryIds: [128395, 137506],
+    definitionIds: [{ id: 133201, specId: 254 }, { id: 142266, specId: 254 }],
   },
   EBON_BOWSTRING_TALENT: {
     id: 467897,
@@ -471,7 +471,7 @@ const talents = {
     icon: 'inv_10_tailoring_craftingoptionalreagent_enhancedspellthread_color4',
     maxRanks: 1,
     entryIds: [117583],
-    definitionIds: [{ id: 122595, specId: 254 }],
+    definitionIds: [{ id: 122595, specId: 254 }, { id: 122595, specId: 253 }],
   },
   EMERGENCY_SALVE_TALENT: {
     id: 459517,
@@ -569,7 +569,7 @@ const talents = {
     icon: 'spell_druid_feralchargecat',
     maxRanks: 1,
     entryIds: [117581],
-    definitionIds: [{ id: 122593, specId: 255 }],
+    definitionIds: [{ id: 122593, specId: 255 }, { id: 122593, specId: 253 }],
   },
   GO_FOR_THE_THROAT_TALENT: {
     id: 459550,
@@ -621,7 +621,7 @@ const talents = {
   },
   HEART_OF_THE_PACK_TALENT: {
     id: 1265052,
-    name: 'Heart of the Pack',
+    name: 'Razor Sharp',
     icon: 'ability_druid_berserk',
     maxRanks: 1,
     entryIds: [126422],
@@ -633,7 +633,7 @@ const talents = {
     icon: 'inv_misc_boarshead',
     maxRanks: 1,
     entryIds: [117585],
-    definitionIds: [{ id: 122597, specId: 255 }],
+    definitionIds: [{ id: 122597, specId: 255 }, { id: 122597, specId: 253 }],
   },
   HOOF_AND_BLADE_TALENT: {
     id: 1264797,
@@ -641,7 +641,7 @@ const talents = {
     icon: 'ability_hunter_beastwithin',
     maxRanks: 1,
     entryIds: [136062],
-    definitionIds: [{ id: 140817, specId: 255 }],
+    definitionIds: [{ id: 140817, specId: 255 }, { id: 140817, specId: 253 }],
   },
   HORSEHAIR_TETHER_TALENT: {
     id: 472729,
@@ -657,7 +657,7 @@ const talents = {
     icon: 'inv_ability_packleaderhunter_vicioushunt',
     maxRanks: 1,
     entryIds: [117588],
-    definitionIds: [{ id: 122600, specId: 255 }],
+    definitionIds: [{ id: 122600, specId: 255 }, { id: 122600, specId: 253 }],
   },
   HUNTERS_AVOIDANCE_TALENT: {
     id: 384799,
@@ -725,7 +725,7 @@ const talents = {
   },
   INCENDIARY_AMMUNITION_TALENT: {
     id: 471428,
-    name: 'Incendiary Ammunition',
+    name: 'Accuracy By Volume',
     icon: 'inv12_ability_hunter_fierymunitions',
     maxRanks: 1,
     entryIds: [132195],
@@ -745,7 +745,7 @@ const talents = {
     icon: 'ability_devour',
     maxRanks: 1,
     entryIds: [126461, 128412],
-    definitionIds: [
+    definitionIds: [{ id: 131287, specId: 253 }, { id: 133218, specId: 255 }],
       { id: 131287, specId: 253 },
       { id: 133218, specId: 255 },
     ],
@@ -756,7 +756,7 @@ const talents = {
     icon: 'ability_mage_netherwindpresence',
     maxRanks: 1,
     entryIds: [117568],
-    definitionIds: [{ id: 122580, specId: 255 }],
+    definitionIds: [{ id: 122580, specId: 255 }, { id: 122580, specId: 254 }],
   },
   JAGGED_WOUNDS_TALENT: {
     id: 1265044,
@@ -862,7 +862,7 @@ const talents = {
     icon: 'ability_hunter_criticalshot',
     maxRanks: 1,
     entryIds: [136061],
-    definitionIds: [{ id: 140816, specId: 255 }],
+    definitionIds: [{ id: 140816, specId: 255 }, { id: 140816, specId: 253 }],
   },
   LETHAL_CALIBRATION_TALENT: {
     id: 1262409,
@@ -902,7 +902,7 @@ const talents = {
     icon: 'ability_hunter_sentinelowl',
     maxRanks: 1,
     entryIds: [117562],
-    definitionIds: [{ id: 122574, specId: 255 }],
+    definitionIds: [{ id: 122574, specId: 255 }, { id: 122574, specId: 254 }],
   },
   LUNAR_STORM_TALENT: {
     id: 1253732,
@@ -910,7 +910,7 @@ const talents = {
     icon: 'artifactability_balancedruid_moonandstars',
     maxRanks: 1,
     entryIds: [117575],
-    definitionIds: [{ id: 122587, specId: 255 }],
+    definitionIds: [{ id: 122587, specId: 255 }, { id: 122587, specId: 254 }],
   },
   LUNGE_TALENT: {
     id: 378934,
@@ -926,7 +926,7 @@ const talents = {
     icon: 'ability_hunter_masterscall',
     maxRanks: 1,
     entryIds: [123781],
-    definitionIds: [{ id: 128619, specId: 255 }],
+    definitionIds: [{ id: 128619, specId: 255 }, { id: 128619, specId: 253 }],
   },
   MASTER_HANDLER_TALENT: {
     id: 424558,
@@ -982,7 +982,7 @@ const talents = {
     icon: 'inv_ability_hunter_deathchakram',
     maxRanks: 1,
     entryIds: [136065],
-    definitionIds: [{ id: 140820, specId: 255 }],
+    definitionIds: [{ id: 140820, specId: 255 }, { id: 140820, specId: 254 }],
   },
   MOONS_BLESSING_TALENT: {
     id: 1253825,
@@ -990,7 +990,7 @@ const talents = {
     icon: 'spell_druid_lunarinspiration',
     maxRanks: 1,
     entryIds: [117570],
-    definitionIds: [{ id: 122582, specId: 255 }],
+    definitionIds: [{ id: 122582, specId: 255 }, { id: 122582, specId: 254 }],
   },
   MUZZLE_TALENT: {
     id: 187707,
@@ -1046,7 +1046,7 @@ const talents = {
     icon: 'ability_hunter_goforthethroat',
     maxRanks: 1,
     entryIds: [117566],
-    definitionIds: [{ id: 122578, specId: 255 }],
+    definitionIds: [{ id: 122578, specId: 255 }, { id: 122578, specId: 253 }],
   },
   NO_SCOPE_TALENT: {
     id: 473385,
@@ -1078,7 +1078,7 @@ const talents = {
     icon: 'spell_fire_flare',
     maxRanks: 1,
     entryIds: [135589],
-    definitionIds: [{ id: 140345, specId: 255 }],
+    definitionIds: [{ id: 140345, specId: 255 }, { id: 140345, specId: 254 }],
   },
   OUTLAND_VENOM_TALENT: {
     id: 459939,
@@ -1094,7 +1094,7 @@ const talents = {
     icon: 'spell_hunter_lonewolf',
     maxRanks: 1,
     entryIds: [117582],
-    definitionIds: [{ id: 122594, specId: 255 }],
+    definitionIds: [{ id: 122594, specId: 255 }, { id: 122594, specId: 253 }],
   },
   PACK_TACTICS_TALENT: {
     id: 321014,
@@ -1110,7 +1110,7 @@ const talents = {
     icon: 'ability_creature_cursed_03',
     maxRanks: 1,
     entryIds: [136057],
-    definitionIds: [{ id: 140812, specId: 254 }],
+    definitionIds: [{ id: 140812, specId: 254 }, { id: 140812, specId: 253 }],
   },
   PADDED_ARMOR_TALENT: {
     id: 459450,
@@ -1206,7 +1206,7 @@ const talents = {
     icon: 'inv_misc_nightelfglaive',
     maxRanks: 1,
     entryIds: [136063],
-    definitionIds: [{ id: 140818, specId: 255 }],
+    definitionIds: [{ id: 140818, specId: 255 }, { id: 140818, specId: 254 }],
   },
   RAPID_FIRE_TALENT: {
     id: 257044,
@@ -1279,7 +1279,7 @@ const talents = {
     icon: 'inv_polearm_2h_arakkoa_c_01',
     maxRanks: 1,
     entryIds: [117578],
-    definitionIds: [{ id: 122590, specId: 255 }],
+    definitionIds: [{ id: 122590, specId: 255 }, { id: 122590, specId: 254 }],
   },
   SAVAGERY_BEAST_MASTERY_TALENT: {
     id: 424557,
@@ -1328,7 +1328,7 @@ const talents = {
     icon: 'sha_ability_rogue_bloodyeye',
     maxRanks: 1,
     entryIds: [123870],
-    definitionIds: [{ id: 128708, specId: 255 }],
+    definitionIds: [{ id: 128708, specId: 255 }, { id: 128708, specId: 254 }],
   },
   SENTINEL_TALENT: {
     id: 1253599,
@@ -1336,7 +1336,7 @@ const talents = {
     icon: 'inv_ability_sentinelhunter_lunarstorm',
     maxRanks: 1,
     entryIds: [117573],
-    definitionIds: [{ id: 122585, specId: 255 }],
+    definitionIds: [{ id: 122585, specId: 255 }, { id: 122585, specId: 254 }],
   },
   SERPENTINE_STRIKES_TALENT: {
     id: 468701,
@@ -1360,7 +1360,7 @@ const talents = {
     icon: 'ability_throw',
     maxRanks: 1,
     entryIds: [128219],
-    definitionIds: [{ id: 133026, specId: 254 }],
+    definitionIds: [{ id: 133026, specId: 254 }, { id: 133026, specId: 253 }],
   },
   SHARPENED_CLAWS_TALENT: {
     id: 472524,
@@ -1368,7 +1368,7 @@ const talents = {
     icon: 'ability_druid_swipe',
     maxRanks: 1,
     entryIds: [128358],
-    definitionIds: [{ id: 133164, specId: 255 }],
+    definitionIds: [{ id: 133164, specId: 255 }, { id: 133164, specId: 253 }],
   },
   SHARPENED_FANGS_TALENT: {
     id: 1264775,
@@ -1376,7 +1376,7 @@ const talents = {
     icon: 'inv_misc_monsterfang_02',
     maxRanks: 1,
     entryIds: [136060],
-    definitionIds: [{ id: 140815, specId: 255 }],
+    definitionIds: [{ id: 140815, specId: 255 }, { id: 140815, specId: 253 }],
   },
   SHELLSHOCK_TALENT: {
     id: 1252931,
@@ -1392,7 +1392,7 @@ const talents = {
     icon: 'inv_babyturtle2',
     maxRanks: 1,
     entryIds: [117564],
-    definitionIds: [{ id: 122576, specId: 255 }],
+    definitionIds: [{ id: 122576, specId: 255 }, { id: 122576, specId: 253 }],
   },
   SHELL_WALL_TALENT: {
     id: 1267218,
@@ -1404,7 +1404,7 @@ const talents = {
   },
   SHOWER_OF_BLOOD_TALENT: {
     id: 1253053,
-    name: 'Shower of Blood',
+    name: 'Razor Edge',
     icon: 'spell_druid_bloodythrash',
     maxRanks: 2,
     entryIds: [135495],
@@ -1420,11 +1420,11 @@ const talents = {
   },
   SHRAPNEL_SHOT_TALENT: {
     id: 473520,
-    name: 'Shrapnel Shot',
+    name: 'Unstable Trigger',
     icon: 'spell_sandexplosion',
     maxRanks: 1,
-    entryIds: [137376],
-    definitionIds: [{ id: 142136, specId: 254 }],
+    entryIds: [137376, 137635],
+    definitionIds: [{ id: 142136, specId: 254 }, { id: 142392, specId: 254 }],
   },
   SIC_EM_TALENT: {
     id: 1253137,
@@ -1440,13 +1440,13 @@ const talents = {
     icon: 'ability_heroicleap',
     maxRanks: 1,
     entryIds: [117576],
-    definitionIds: [{ id: 122588, specId: 255 }],
+    definitionIds: [{ id: 122588, specId: 255 }, { id: 122588, specId: 253 }],
   },
   SMALL_GAME_HUNTER_TALENT: {
     id: 459802,
     name: 'Small Game Hunter',
     icon: 'inv_rabbit2_darkmoon',
-    maxRanks: 1,
+    maxRanks: 2,
     entryIds: [128400],
     definitionIds: [{ id: 133206, specId: 254 }],
   },
@@ -1456,7 +1456,7 @@ const talents = {
     icon: 'spell_warlock_demonsoul',
     maxRanks: 1,
     entryIds: [123779],
-    definitionIds: [{ id: 128617, specId: 254 }],
+    definitionIds: [{ id: 128617, specId: 254 }, { id: 128617, specId: 253 }],
   },
   SNAKESKIN_QUIVER_TALENT: {
     id: 468695,
@@ -1480,7 +1480,7 @@ const talents = {
     icon: 'ability_warlock_soulsiphon',
     maxRanks: 1,
     entryIds: [117565],
-    definitionIds: [{ id: 122577, specId: 254 }],
+    definitionIds: [{ id: 122577, specId: 254 }, { id: 122577, specId: 253 }],
   },
   SPECIALIZED_ARSENAL_TALENT: {
     id: 459542,
@@ -1496,7 +1496,7 @@ const talents = {
     icon: 'ability_ambush',
     maxRanks: 1,
     entryIds: [136521],
-    definitionIds: [{ id: 141294, specId: 255 }],
+    definitionIds: [{ id: 141294, specId: 255 }, { id: 141294, specId: 254 }],
   },
   STAMPEDE_TALENT: {
     id: 472741,
@@ -1504,7 +1504,7 @@ const talents = {
     icon: 'ability_hunter_bestialdiscipline',
     maxRanks: 1,
     entryIds: [117563],
-    definitionIds: [{ id: 122575, specId: 255 }],
+    definitionIds: [{ id: 122575, specId: 255 }, { id: 122575, specId: 253 }],
   },
   STARGAZER_TALENT: {
     id: 1253751,
@@ -1512,7 +1512,7 @@ const talents = {
     icon: 'icon_7fx_nightborn_astromancer_blue',
     maxRanks: 1,
     entryIds: [117555],
-    definitionIds: [{ id: 122567, specId: 255 }],
+    definitionIds: [{ id: 122567, specId: 255 }, { id: 122567, specId: 254 }],
   },
   STOMP_TALENT: {
     id: 199530,
@@ -1640,7 +1640,7 @@ const talents = {
     icon: 'spell_shadow_animatedead',
     maxRanks: 1,
     entryIds: [136231],
-    definitionIds: [{ id: 141004, specId: 254 }],
+    definitionIds: [{ id: 141004, specId: 254 }, { id: 141004, specId: 253 }],
   },
   THRILL_OF_THE_HUNT_TALENT: {
     id: 1265051,
@@ -1656,7 +1656,7 @@ const talents = {
     icon: 'ability_cheapshot',
     maxRanks: 1,
     entryIds: [136742],
-    definitionIds: [{ id: 141514, specId: 254 }],
+    definitionIds: [{ id: 141514, specId: 254 }, { id: 141514, specId: 253 }],
   },
   THUNDERING_HOOVES_TALENT: {
     id: 459693,
@@ -1736,7 +1736,7 @@ const talents = {
     icon: 'spell_nature_moonglow',
     maxRanks: 1,
     entryIds: [136522],
-    definitionIds: [{ id: 141295, specId: 255 }],
+    definitionIds: [{ id: 141295, specId: 255 }, { id: 141295, specId: 254 }],
   },
   TWIN_FANGS_TALENT: {
     id: 1272139,
@@ -1760,7 +1760,7 @@ const talents = {
     icon: 'spell_deathknight_strangulate',
     maxRanks: 1,
     entryIds: [132888],
-    definitionIds: [{ id: 137674, specId: 254 }],
+    definitionIds: [{ id: 137674, specId: 254 }, { id: 137674, specId: 253 }],
   },
   UNBREAKABLE_BOND_TALENT: {
     id: 1223323,
@@ -1808,7 +1808,7 @@ const talents = {
     icon: 'spell_druid_bearhug',
     maxRanks: 1,
     entryIds: [117569],
-    definitionIds: [{ id: 122581, specId: 255 }],
+    definitionIds: [{ id: 122581, specId: 255 }, { id: 122581, specId: 253 }],
   },
   VOLLEY_TALENT: {
     id: 260243,
@@ -1832,7 +1832,7 @@ const talents = {
     icon: 'ability_deathknight_summongargoyle',
     maxRanks: 1,
     entryIds: [136058],
-    definitionIds: [{ id: 140813, specId: 254 }],
+    definitionIds: [{ id: 140813, specId: 254 }, { id: 140813, specId: 253 }],
   },
   WALLOP_TALENT: {
     id: 1252738,
@@ -1930,7 +1930,7 @@ const talents = {
     icon: 'spell_shadow_painspike',
     maxRanks: 1,
     entryIds: [117590],
-    definitionIds: [{ id: 122602, specId: 254 }],
+    definitionIds: [{ id: 122602, specId: 254 }, { id: 122602, specId: 253 }],
   },
   WYVERNS_GAZE_TALENT: {
     id: 1264792,
@@ -1938,7 +1938,23 @@ const talents = {
     icon: 'ability_deathwing_assualtaspects',
     maxRanks: 1,
     entryIds: [136236],
-    definitionIds: [{ id: 141009, specId: 255 }],
+    definitionIds: [{ id: 141009, specId: 255 }, { id: 141009, specId: 253 }],
+  },
+  TALENT_BOMBARDIER: {
+    id: 1311963,
+    name: 'Bombardier',
+    icon: 'inv_misc_questionmark',
+    maxRanks: 1,
+    entryIds: [126311],
+    definitionIds: [{ id: 131137, specId: 255 }],
+  },
+  TALENT_TACTICAL_RELOAD: {
+    id: 1301406,
+    name: 'Tactical Reload',
+    icon: 'inv_misc_questionmark',
+    maxRanks: 1,
+    entryIds: [137376],
+    definitionIds: [{ id: 142136, specId: 254 }],
   },
 } satisfies Record<string, Talent>;
 

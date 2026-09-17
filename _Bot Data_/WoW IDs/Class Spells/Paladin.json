@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "name": "Devotion Aura",
     "id": 465,
@@ -3002,7 +3002,7 @@
     "castTime": 0
   },
   {
-    "name": "Dash of Chaos",
+    "name": "Never Say Die",
     "id": 427794,
     "gcd": 0,
     "castTime": 0
@@ -4858,6 +4858,234 @@
   {
     "name": "Paladin - Midnight PrePatch - 11.2 Class Set 4pc - Healing",
     "id": 1283663,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Guardian of the Forgotten Queen",
+    "id": 228048,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Maraad's Dying Breath",
+    "id": 234862,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rethu's Incessant Courage",
+    "id": 241330,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rethu's Incessant Courage",
+    "id": 242597,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rethu's Incessant Courage",
+    "id": 242599,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Sanctified Wrath",
+    "id": 326731,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Resonance",
+    "id": 367662,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Radiant Embers",
+    "id": 367663,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Duty-Bound Gavel",
+    "id": 367664,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Seasons of Plenty",
+    "id": 367665,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Steed",
+    "id": 1289616,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Steed",
+    "id": 1289617,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Holy Armaments",
+    "id": 1289728,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Holy Armaments",
+    "id": 1289890,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Holy Armaments",
+    "id": 1289892,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Holy Armament Override",
+    "id": 1289922,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Holy Armament Override",
+    "id": 1289943,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Shield (desc=PvP Talent)",
+    "id": 1293918,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Holy 12.1 Class Set 2pc",
+    "id": 1296656,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Holy 12.1 Class Set 4pc",
+    "id": 1296657,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Protection 12.1 Class Set 2pc",
+    "id": 1296658,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Protection 12.1 Class Set 4pc",
+    "id": 1296659,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Retribution 12.1 Class Set 2pc",
+    "id": 1296660,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Paladin Retribution 12.1 Class Set 4pc",
+    "id": 1296661,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Unrelenting Edict",
+    "id": 1300662,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blessed Word",
+    "id": 1301732,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blessed Word",
+    "id": 1301739,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Seal of Reprisal",
+    "id": 1302139,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Protection Paladin",
+    "id": 1305063,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Power",
+    "id": 1305230,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Power: Storm",
+    "id": 1306159,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Arbiter",
+    "id": 1306161,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Arbiter",
+    "id": 1306162,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Arbiter",
+    "id": 1306923,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Crusading Strikes",
+    "id": 1307499,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Guidance",
+    "id": 1310389,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Divine Arbiter",
+    "id": 1310461,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Ardent Defender",
+    "id": 1310686,
     "gcd": 0,
     "castTime": 0
   }

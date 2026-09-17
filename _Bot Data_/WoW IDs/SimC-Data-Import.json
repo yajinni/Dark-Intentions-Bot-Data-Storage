@@ -1,0 +1,13 @@
+{
+  "source": "https://github.com/simulationcraft/simc",
+  "branch": "midnight",
+  "commit": "1d3897ef4adefc8e47a43989eed81b6618ce7bef",
+  "build": "SimulationCraft 1210-01 for World of Warcraft 12.1.0.69814 Live (hotfix 2026-09-16/69814)",
+  "importedAt": "2026-09-17T20:38:46.907Z",
+  "logIdContracts": {
+    "spellAndAura": "event.abilityGameID / buffs[].guid -> spell id",
+    "talentSelection": "combatantInfo.talentTree[].id -> talent entryIds[]",
+    "gem": "gear[].gems[].id -> gem id",
+    "enchant": "gear[].permanentEnchant / temporaryEnchant -> enchants.effectId"
+  }
+}

@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "name": "Chaos Brand",
     "id": 1490,
@@ -4688,6 +4688,132 @@
   {
     "name": "Eye Beam",
     "id": 1287949,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Agony Gaze",
+    "id": 355886,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blazing Slaughter",
+    "id": 355890,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blind Faith",
+    "id": 355893,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Oath",
+    "id": 355996,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blazing Slaughter",
+    "id": 364825,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demonic Oath",
+    "id": 364826,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Agony Gaze",
+    "id": 364827,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blind Faith",
+    "id": 364828,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demon Hunter Vengeance Class Set 2pc",
+    "id": 393630,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Seething Fury",
+    "id": 408737,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Seething Potential",
+    "id": 408754,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Seething Fury",
+    "id": 408757,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Devour",
+    "id": 1288123,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demon Hunter Havoc 12.1 Class Set 2pc",
+    "id": 1296611,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demon Hunter Havoc 12.1 Class Set 4pc",
+    "id": 1296612,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demon Hunter Vengeance 12.1 Class Set 2pc",
+    "id": 1296613,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demon Hunter Vengeance 12.1 Class Set 4pc",
+    "id": 1296614,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demon Hunter Devourer 12.1 Class Set 2pc",
+    "id": 1296615,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Demon Hunter Devourer 12.1 Class Set 4pc",
+    "id": 1296616,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soulburst",
+    "id": 1297432,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Soulburst",
+    "id": 1297433,
     "gcd": 0,
     "castTime": 0
   }

@@ -32,8 +32,8 @@ const talents = {
     name: 'Amplification',
     icon: 'spell_arcane_invocation',
     maxRanks: 1,
-    entryIds: [126543],
-    definitionIds: [{ id: 131369, specId: 62 }],
+    entryIds: [126543, 137841],
+    definitionIds: [{ id: 131369, specId: 62 }, { id: 142595, specId: 62 }],
   },
   ARCANE_ECHO_TALENT: {
     id: 342231,
@@ -125,7 +125,7 @@ const talents = {
     icon: 'spell_arcane_arcane03',
     maxRanks: 1,
     entryIds: [117261],
-    definitionIds: [{ id: 122273, specId: 64 }],
+    definitionIds: [{ id: 122273, specId: 64 }, { id: 122273, specId: 62 }],
   },
   ARCING_CLEAVE_TALENT: {
     id: 231564,
@@ -141,7 +141,7 @@ const talents = {
     icon: 'inv_misc_powder_copper',
     maxRanks: 1,
     entryIds: [117246],
-    definitionIds: [{ id: 122258, specId: 63 }],
+    definitionIds: [{ id: 122258, specId: 63 }, { id: 122258, specId: 62 }],
   },
   ATTUNED_FAMILIAR_TALENT: {
     id: 1261106,
@@ -149,7 +149,7 @@ const talents = {
     icon: 'ability_socererking_arcanemines',
     maxRanks: 1,
     entryIds: [135920],
-    definitionIds: [{ id: 140675, specId: 64 }],
+    definitionIds: [{ id: 140675, specId: 64 }, { id: 140675, specId: 62 }],
   },
   AUGURY_ABOUNDS_TALENT: {
     id: 1280165,
@@ -157,7 +157,7 @@ const talents = {
     icon: 'spell_arcane_arcanepotency',
     maxRanks: 1,
     entryIds: [117265],
-    definitionIds: [{ id: 122277, specId: 64 }],
+    definitionIds: [{ id: 122277, specId: 64 }, { id: 122277, specId: 62 }],
   },
   BARRIER_DIFFUSION_TALENT: {
     id: 455428,
@@ -173,7 +173,7 @@ const talents = {
     icon: 'spell_frostresistancetotem_01',
     maxRanks: 1,
     entryIds: [117240],
-    definitionIds: [{ id: 122252, specId: 64 }],
+    definitionIds: [{ id: 122252, specId: 64 }, { id: 122252, specId: 63 }],
   },
   BLAST_ZONE_TALENT: {
     id: 416719,
@@ -232,7 +232,7 @@ const talents = {
     icon: 'inv_ragnaros_heart',
     maxRanks: 1,
     entryIds: [117247],
-    definitionIds: [{ id: 122259, specId: 63 }],
+    definitionIds: [{ id: 122259, specId: 63 }, { id: 122259, specId: 62 }],
   },
   BURNOUT_TALENT: {
     id: 1271177,
@@ -312,7 +312,7 @@ const talents = {
     icon: 'inv_10_inscription2_book3_color1',
     maxRanks: 1,
     entryIds: [117248],
-    definitionIds: [{ id: 122260, specId: 63 }],
+    definitionIds: [{ id: 122260, specId: 63 }, { id: 122260, specId: 62 }],
   },
   COLD_SNAP_TALENT: {
     id: 235219,
@@ -385,7 +385,7 @@ const talents = {
     icon: 'spell_frost_ice_shards',
     maxRanks: 1,
     entryIds: [117259],
-    definitionIds: [{ id: 122271, specId: 64 }],
+    definitionIds: [{ id: 122271, specId: 64 }, { id: 122271, specId: 62 }],
   },
   CRITICAL_MASS_TALENT: {
     id: 117216,
@@ -434,7 +434,7 @@ const talents = {
     icon: 'ability_dualwieldspecialization',
     maxRanks: 1,
     entryIds: [117237],
-    definitionIds: [{ id: 122249, specId: 64 }],
+    definitionIds: [{ id: 122249, specId: 64 }, { id: 122249, specId: 63 }],
   },
   DUALITY_TALENT: {
     id: 1262843,
@@ -442,7 +442,7 @@ const talents = {
     icon: 'ability_mage_frostfirebolt',
     maxRanks: 1,
     entryIds: [135923],
-    definitionIds: [{ id: 140678, specId: 64 }],
+    definitionIds: [{ id: 140678, specId: 64 }, { id: 140678, specId: 63 }],
   },
   ELEMENTAL_AFFINITY_TALENT: {
     id: 431067,
@@ -450,7 +450,7 @@ const talents = {
     icon: 'inv_10_dungeonjewelry_dragon_trinket_5_red',
     maxRanks: 1,
     entryIds: [117236],
-    definitionIds: [{ id: 122248, specId: 64 }],
+    definitionIds: [{ id: 122248, specId: 64 }, { id: 122248, specId: 63 }],
   },
   ELEMENTAL_CONDUIT_TALENT: {
     id: 1262845,
@@ -458,7 +458,7 @@ const talents = {
     icon: 'inv_ability_shaman_primordialwave',
     maxRanks: 1,
     entryIds: [135921],
-    definitionIds: [{ id: 140676, specId: 64 }],
+    definitionIds: [{ id: 140676, specId: 64 }, { id: 140676, specId: 63 }],
   },
   ENERGIZED_BARRIERS_TALENT: {
     id: 386828,
@@ -522,7 +522,7 @@ const talents = {
     icon: '6bf_explosive_shard',
     maxRanks: 1,
     entryIds: [134249],
-    definitionIds: [{ id: 139025, specId: 63 }],
+    definitionIds: [{ id: 139025, specId: 63 }, { id: 139025, specId: 62 }],
   },
   FEEL_THE_BURN_TALENT: {
     id: 383391,
@@ -645,7 +645,7 @@ const talents = {
     icon: 'spell_firefrost_orb',
     maxRanks: 1,
     entryIds: [117775],
-    definitionIds: [{ id: 122787, specId: 64 }],
+    definitionIds: [{ id: 122787, specId: 64 }, { id: 122787, specId: 63 }],
   },
   FLAME_ON_TALENT: {
     id: 205029,
@@ -661,7 +661,7 @@ const talents = {
     icon: 'spell_fire_elementaldevastation',
     maxRanks: 1,
     entryIds: [117235],
-    definitionIds: [{ id: 122247, specId: 64 }],
+    definitionIds: [{ id: 122247, specId: 64 }, { id: 122247, specId: 63 }],
   },
   FLASH_FREEZE_TALENT: {
     id: 379993,
@@ -702,7 +702,7 @@ const talents = {
     icon: 'spell_mage_overpowered',
     maxRanks: 1,
     entryIds: [117266],
-    definitionIds: [{ id: 122278, specId: 64 }],
+    definitionIds: [{ id: 122278, specId: 64 }, { id: 122278, specId: 62 }],
   },
   FRACTURED_FROST_TALENT: {
     id: 378448,
@@ -766,7 +766,7 @@ const talents = {
     icon: 'inv_ability_frostfiremage_frostfirebolt',
     maxRanks: 1,
     entryIds: [136441, 117239],
-    definitionIds: [
+    definitionIds: [{ id: 141214, specId: 63 }, { id: 122251, specId: 64 }],
       { id: 141214, specId: 63 },
       { id: 122251, specId: 64 },
     ],
@@ -778,7 +778,7 @@ const talents = {
     icon: 'spell_frostfire_orb',
     maxRanks: 1,
     entryIds: [117244],
-    definitionIds: [{ id: 122256, specId: 64 }],
+    definitionIds: [{ id: 122256, specId: 64 }, { id: 122256, specId: 63 }],
   },
   FROSTFIRE_INFUSION_TALENT: {
     id: 431166,
@@ -786,7 +786,7 @@ const talents = {
     icon: 'inv_10_blacksmithing_craftedbar_frostfirealloy',
     maxRanks: 1,
     entryIds: [117242],
-    definitionIds: [{ id: 122254, specId: 64 }],
+    definitionIds: [{ id: 122254, specId: 64 }, { id: 122254, specId: 63 }],
   },
   FROST_CONDITIONING_TALENT: {
     id: 1250315,
@@ -875,7 +875,7 @@ const talents = {
     icon: 'spell_burningsoul',
     maxRanks: 1,
     entryIds: [135926],
-    definitionIds: [{ id: 140681, specId: 63 }],
+    definitionIds: [{ id: 140681, specId: 63 }, { id: 140681, specId: 62 }],
   },
   GREATER_INVISIBILITY_TALENT: {
     id: 110959,
@@ -939,7 +939,7 @@ const talents = {
     icon: 'spell_fire_masterofelements',
     maxRanks: 1,
     entryIds: [117241],
-    definitionIds: [{ id: 122253, specId: 64 }],
+    definitionIds: [{ id: 122253, specId: 64 }, { id: 122253, specId: 63 }],
   },
   HIGH_VOLTAGE_TALENT: {
     id: 461248,
@@ -1029,7 +1029,7 @@ const talents = {
     icon: 'inv_10_jewelcrafting_gem3primal_fire_cut_blue',
     maxRanks: 1,
     entryIds: [117245],
-    definitionIds: [{ id: 122257, specId: 64 }],
+    definitionIds: [{ id: 122257, specId: 64 }, { id: 122257, specId: 63 }],
   },
   IMPETUS_TALENT: {
     id: 383676,
@@ -1157,7 +1157,7 @@ const talents = {
     icon: 'spell_mage_focusingcrystal',
     maxRanks: 1,
     entryIds: [135919],
-    definitionIds: [{ id: 140674, specId: 64 }],
+    definitionIds: [{ id: 140674, specId: 64 }, { id: 140674, specId: 62 }],
   },
   INSPIRED_INTELLECT_TALENT: {
     id: 458437,
@@ -1189,7 +1189,7 @@ const talents = {
     icon: 'inv_misc_phoenixegg',
     maxRanks: 1,
     entryIds: [117255],
-    definitionIds: [{ id: 122267, specId: 63 }],
+    definitionIds: [{ id: 122267, specId: 63 }, { id: 122267, specId: 62 }],
   },
   ISOTHERMIC_CORE_TALENT: {
     id: 431095,
@@ -1197,7 +1197,7 @@ const talents = {
     icon: 'inv12_ability_mage_isothermiccore',
     maxRanks: 1,
     entryIds: [117238],
-    definitionIds: [{ id: 122250, specId: 64 }],
+    definitionIds: [{ id: 122250, specId: 64 }, { id: 122250, specId: 63 }],
   },
   KINDLING_TALENT: {
     id: 1254194,
@@ -1213,7 +1213,7 @@ const talents = {
     icon: 'ability_paladin_handoflight',
     maxRanks: 1,
     entryIds: [117254],
-    definitionIds: [{ id: 122266, specId: 63 }],
+    definitionIds: [{ id: 122266, specId: 63 }, { id: 122266, specId: 62 }],
   },
   LONELY_WINTER_TALENT: {
     id: 205024,
@@ -1229,7 +1229,7 @@ const talents = {
     icon: 'achievement_bg_tophealer_av',
     maxRanks: 1,
     entryIds: [123418],
-    definitionIds: [{ id: 128256, specId: 64 }],
+    definitionIds: [{ id: 128256, specId: 64 }, { id: 128256, specId: 62 }],
   },
   MANA_ADEPT_TALENT: {
     id: 321526,
@@ -1253,7 +1253,7 @@ const talents = {
     icon: 'spell_frost_manarecharge',
     maxRanks: 1,
     entryIds: [117256],
-    definitionIds: [{ id: 122268, specId: 63 }],
+    definitionIds: [{ id: 122268, specId: 63 }, { id: 122268, specId: 62 }],
   },
   MANA_CONFLUENCE_TALENT: {
     id: 1270845,
@@ -1283,7 +1283,7 @@ const talents = {
   },
   MASTER_OF_ESCAPE_TALENT: {
     id: 210476,
-    name: 'Master of Escape',
+    name: 'Master of Escape (desc=PvP Talent)',
     icon: 'ability_mage_invisibility',
     maxRanks: 1,
     entryIds: [134189],
@@ -1311,7 +1311,7 @@ const talents = {
     icon: 'spell_frost_arcticwinds',
     maxRanks: 1,
     entryIds: [117776],
-    definitionIds: [{ id: 122788, specId: 64 }],
+    definitionIds: [{ id: 122788, specId: 64 }, { id: 122788, specId: 63 }],
   },
   MEMORY_OF_ALAR_TALENT: {
     id: 449619,
@@ -1319,7 +1319,7 @@ const talents = {
     icon: 'inv_ability_sunfurymage_spellfirespheres',
     maxRanks: 1,
     entryIds: [117249],
-    definitionIds: [{ id: 122261, specId: 63 }],
+    definitionIds: [{ id: 122261, specId: 63 }, { id: 122261, specId: 62 }],
   },
   MERELY_A_SETBACK_TALENT: {
     id: 449330,
@@ -1327,7 +1327,7 @@ const talents = {
     icon: 'inv_helm_robe_raidmage_i_01',
     maxRanks: 1,
     entryIds: [117252],
-    definitionIds: [{ id: 122264, specId: 63 }],
+    definitionIds: [{ id: 122264, specId: 63 }, { id: 122264, specId: 62 }],
   },
   METEOR_TALENT: {
     id: 153561,
@@ -1353,7 +1353,7 @@ const talents = {
     icon: 'spell_fire_incinerate',
     maxRanks: 1,
     entryIds: [135922],
-    definitionIds: [{ id: 140677, specId: 64 }],
+    definitionIds: [{ id: 140677, specId: 64 }, { id: 140677, specId: 63 }],
   },
   MOLTEN_FURY_TALENT: {
     id: 457803,
@@ -1433,7 +1433,7 @@ const talents = {
     icon: 'spell_arcane_prismaticcloak',
     maxRanks: 1,
     entryIds: [123417],
-    definitionIds: [{ id: 128255, specId: 64 }],
+    definitionIds: [{ id: 128255, specId: 64 }, { id: 128255, specId: 62 }],
   },
   PIERCING_COLD_TALENT: {
     id: 378919,
@@ -1449,7 +1449,7 @@ const talents = {
     icon: 'inv_misc_orb_blue',
     maxRanks: 1,
     entryIds: [135918],
-    definitionIds: [{ id: 140673, specId: 64 }],
+    definitionIds: [{ id: 140673, specId: 64 }, { id: 140673, specId: 62 }],
   },
   PRESENCE_OF_MIND_TALENT: {
     id: 205025,
@@ -1499,7 +1499,7 @@ const talents = {
     icon: 'spell_fire_meteorstorm',
     maxRanks: 1,
     entryIds: [135925],
-    definitionIds: [{ id: 140680, specId: 63 }],
+    definitionIds: [{ id: 140680, specId: 63 }, { id: 140680, specId: 62 }],
   },
   PYROMANIAC_TALENT: {
     id: 451466,
@@ -1532,7 +1532,7 @@ const talents = {
     icon: 'ability_racial_forceshield',
     maxRanks: 1,
     entryIds: [117263],
-    definitionIds: [{ id: 122275, specId: 64 }],
+    definitionIds: [{ id: 122275, specId: 64 }, { id: 122275, specId: 62 }],
   },
   REFLECTION_TALENT: {
     id: 1270829,
@@ -1590,7 +1590,7 @@ const talents = {
     icon: 'spell_arcane_focusedpower',
     maxRanks: 1,
     entryIds: [117251],
-    definitionIds: [{ id: 122263, specId: 63 }],
+    definitionIds: [{ id: 122263, specId: 63 }, { id: 122263, specId: 62 }],
   },
   SAVOR_THE_MOMENT_TALENT: {
     id: 449412,
@@ -1598,7 +1598,7 @@ const talents = {
     icon: 'spell_fire_masterofelements',
     maxRanks: 1,
     entryIds: [117253],
-    definitionIds: [{ id: 122265, specId: 63 }],
+    definitionIds: [{ id: 122265, specId: 63 }, { id: 122265, specId: 62 }],
   },
   SCALD_TALENT: {
     id: 450746,
@@ -1623,7 +1623,7 @@ const talents = {
     icon: 'inv_magemount_fire',
     maxRanks: 1,
     entryIds: [134441],
-    definitionIds: [{ id: 139212, specId: 64 }],
+    definitionIds: [{ id: 139212, specId: 64 }, { id: 139212, specId: 63 }],
   },
   SHIFTING_SHARDS_TALENT: {
     id: 444675,
@@ -1631,7 +1631,7 @@ const talents = {
     icon: 'ability_mage_freeze',
     maxRanks: 1,
     entryIds: [135946],
-    definitionIds: [{ id: 140701, specId: 64 }],
+    definitionIds: [{ id: 140701, specId: 64 }, { id: 140701, specId: 62 }],
   },
   SHIMMER_TALENT: {
     id: 212653,
@@ -1648,7 +1648,7 @@ const talents = {
     icon: 'inv_enchanting_815_drustwand',
     maxRanks: 1,
     entryIds: [128267],
-    definitionIds: [{ id: 133074, specId: 64 }],
+    definitionIds: [{ id: 133074, specId: 64 }, { id: 133074, specId: 62 }],
   },
   SLIPPERY_SLINGING_TALENT: {
     id: 444752,
@@ -1656,7 +1656,7 @@ const talents = {
     icon: 'ability_mage_icyfeet',
     maxRanks: 1,
     entryIds: [117262],
-    definitionIds: [{ id: 122274, specId: 64 }],
+    definitionIds: [{ id: 122274, specId: 64 }, { id: 122274, specId: 62 }],
   },
   SLIPSTREAM_TALENT: {
     id: 236457,
@@ -1688,7 +1688,7 @@ const talents = {
     icon: 'shaman_talent_elementalblast',
     maxRanks: 1,
     entryIds: [135924],
-    definitionIds: [{ id: 140679, specId: 63 }],
+    definitionIds: [{ id: 140679, specId: 63 }, { id: 140679, specId: 62 }],
   },
   SPELLFIRE_SPHERES_TALENT: {
     id: 448601,
@@ -1696,7 +1696,7 @@ const talents = {
     icon: 'inv_1115_mage_spellfirespheresgeneration',
     maxRanks: 1,
     entryIds: [117250],
-    definitionIds: [{ id: 122262, specId: 63 }],
+    definitionIds: [{ id: 122262, specId: 63 }, { id: 122262, specId: 62 }],
   },
   SPELLFROST_TEACHINGS_TALENT: {
     id: 444986,
@@ -1704,7 +1704,7 @@ const talents = {
     icon: '70_inscription_vantus_rune_azure',
     maxRanks: 1,
     entryIds: [117258],
-    definitionIds: [{ id: 122270, specId: 64 }],
+    definitionIds: [{ id: 122270, specId: 64 }, { id: 122270, specId: 62 }],
   },
   SPELLSTEAL_TALENT: {
     id: 30449,
@@ -1721,7 +1721,7 @@ const talents = {
     icon: 'item_azereansphere',
     maxRanks: 1,
     entryIds: [117264],
-    definitionIds: [{ id: 122276, specId: 64 }],
+    definitionIds: [{ id: 122276, specId: 64 }, { id: 122276, specId: 62 }],
   },
   SPLINTERING_RAY_TALENT: {
     id: 418733,
@@ -1737,7 +1737,7 @@ const talents = {
     icon: 'achievement_dungeon_arcanevaults',
     maxRanks: 1,
     entryIds: [117267],
-    definitionIds: [{ id: 122279, specId: 64 }],
+    definitionIds: [{ id: 122279, specId: 64 }, { id: 122279, specId: 62 }],
   },
   SPLINTERSTORM_TALENT: {
     id: 443783,
@@ -1745,7 +1745,7 @@ const talents = {
     icon: 'ability_mage_burstofcold',
     maxRanks: 1,
     entryIds: [117257],
-    definitionIds: [{ id: 122269, specId: 64 }],
+    definitionIds: [{ id: 122269, specId: 64 }, { id: 122269, specId: 62 }],
   },
   SPLITTING_ICE_TALENT: {
     id: 56377,
@@ -1778,7 +1778,7 @@ const talents = {
     icon: 'spell_shadow_shadowandflame',
     maxRanks: 1,
     entryIds: [123867],
-    definitionIds: [{ id: 128705, specId: 63 }],
+    definitionIds: [{ id: 128705, specId: 63 }, { id: 128705, specId: 62 }],
   },
   SUPERNOVA_TALENT: {
     id: 157980,
@@ -1802,7 +1802,7 @@ const talents = {
     icon: 'spell_fireresistancetotem_01',
     maxRanks: 1,
     entryIds: [117243],
-    definitionIds: [{ id: 122255, specId: 64 }],
+    definitionIds: [{ id: 122255, specId: 64 }, { id: 122255, specId: 63 }],
   },
   THERMAL_VOID_TALENT: {
     id: 1247729,
@@ -1826,7 +1826,7 @@ const talents = {
     icon: 'spell_holy_borrowedtime',
     maxRanks: 1,
     entryIds: [135598],
-    definitionIds: [{ id: 140354, specId: 63 }],
+    definitionIds: [{ id: 140354, specId: 63 }, { id: 140354, specId: 62 }],
   },
   TIME_WALK_TALENT: {
     id: 1244087,
@@ -1924,6 +1924,46 @@ const talents = {
     maxRanks: 1,
     entryIds: [80237],
     definitionIds: [{ id: 85240, specId: 64 }],
+  },
+  TALENT_IMPROVED_WARDING: {
+    id: 1297073,
+    name: 'Improved Warding',
+    icon: 'inv_misc_questionmark',
+    maxRanks: 1,
+    entryIds: [137410],
+    definitionIds: [{ id: 142170, specId: 64 }],
+  },
+  TALENT_PRISMATIC_BOLT: {
+    id: 1295923,
+    name: 'Prismatic Bolt',
+    icon: 'inv_misc_questionmark',
+    maxRanks: 1,
+    entryIds: [137028],
+    definitionIds: [{ id: 141791, specId: 62 }],
+  },
+  TALENT_PRISMATIC_BOLT_2: {
+    id: 1295944,
+    name: 'Prismatic Bolt',
+    icon: 'inv_misc_questionmark',
+    maxRanks: 2,
+    entryIds: [137027],
+    definitionIds: [{ id: 141790, specId: 62 }],
+  },
+  TALENT_PRISMATIC_BOLT_3: {
+    id: 1295946,
+    name: 'Prismatic Bolt',
+    icon: 'inv_misc_questionmark',
+    maxRanks: 1,
+    entryIds: [137026],
+    definitionIds: [{ id: 141789, specId: 62 }],
+  },
+  TALENT_REFRACTIVE_IMAGES: {
+    id: 1309497,
+    name: 'Refractive Images',
+    icon: 'inv_misc_questionmark',
+    maxRanks: 1,
+    entryIds: [137842],
+    definitionIds: [{ id: 142596, specId: 62 }],
   },
 } satisfies Record<string, Talent>;
 

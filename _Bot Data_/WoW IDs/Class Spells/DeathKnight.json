@@ -4254,7 +4254,7 @@
   {
     "name": "Dark Transformation",
     "id": 1233448,
-    "gcd": 0,
+    "gcd": 1.5,
     "castTime": 0
   },
   {
@@ -4702,7 +4702,7 @@
     "castTime": 0
   },
   {
-    "name": "Reanimation",
+    "name": "Lord of the Dead",
     "id": 1256813,
     "gcd": 0,
     "castTime": 0
@@ -4926,7 +4926,7 @@
   {
     "name": "Frostwyrm's Fury",
     "id": 1265384,
-    "gcd": 1.5,
+    "gcd": 0,
     "castTime": 0
   },
   {
@@ -5124,25 +5124,25 @@
     "castTime": 0
   },
   {
-    "name": "Pestilence",
+    "name": "Blightfall",
     "id": 1271967,
     "gcd": 1.5,
     "castTime": 0
   },
   {
-    "name": "Pestilence",
+    "name": "Blightfall",
     "id": 1271974,
     "gcd": 0,
     "castTime": 0
   },
   {
-    "name": "Pestilence",
+    "name": "Blightfall",
     "id": 1271975,
     "gcd": 0,
     "castTime": 0
   },
   {
-    "name": "Pestilence",
+    "name": "Blightfall",
     "id": 1272116,
     "gcd": 0,
     "castTime": 0
@@ -5240,14 +5240,254 @@
     "castTime": 0
   },
   {
-    "name": "Riders of the Apocalypse",
-    "id": 445513,
+    "name": "Rot and Wither (desc=PvP Talent)",
+    "id": 202727,
     "gcd": 0,
     "castTime": 0
   },
   {
-    "name": "Riders of the Apocalypse",
-    "id": 444005,
+    "name": "Blood for Blood (desc=PvP Talent)",
+    "id": 202846,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Northrend Winds (desc=PvP Talent)",
+    "id": 204088,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rethu's Incessant Courage",
+    "id": 241330,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rethu's Incessant Courage",
+    "id": 242597,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rethu's Incessant Courage",
+    "id": 242599,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Necromancer's Cunning",
+    "id": 288848,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood for Blood (desc=PvP Talent)",
+    "id": 356456,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Final Sentence",
+    "id": 364748,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Insatiable Hunger",
+    "id": 364752,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Abomination's Frenzy",
+    "id": 364754,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Rampant Transference",
+    "id": 364755,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Frost Class Set 2pc",
+    "id": 393623,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Vampiric Strength",
+    "id": 408356,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Dealer",
+    "id": 408376,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Doom Dealer",
+    "id": 408377,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Chilling Rage",
+    "id": 424165,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Amplify Damage",
+    "id": 424949,
+    "gcd": 1.5,
+    "castTime": 0
+  },
+  {
+    "name": "Essence of the Blood Queen",
+    "id": 433925,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Howling Blades",
+    "id": 1231082,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Cycle of Death",
+    "id": 1290864,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lord of the Dead",
+    "id": 1292072,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Frostbolt",
+    "id": 1292107,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Lesser Ghoul",
+    "id": 1294026,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Lesser Ghoul",
+    "id": 1294180,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Order",
+    "id": 1294264,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Blood 12.1 Class Set 2pc",
+    "id": 1296650,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Blood 12.1 Class Set 4pc",
+    "id": 1296651,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Frost 12.1 Class Set 2pc",
+    "id": 1296652,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Frost 12.1 Class Set 4pc",
+    "id": 1296653,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Unholy 12.1 Class Set 2pc",
+    "id": 1296654,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Death Knight Unholy 12.1 Class Set 4pc",
+    "id": 1296655,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Necrotic Bolt",
+    "id": 1297055,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Death Knight Unholy 12.1 Class Set 2pc",
+    "id": 1297063,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Necrotic Bolt",
+    "id": 1297086,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Death Knight Unholy 12.1 Class Set 2pc",
+    "id": 1297087,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Withering Grasp",
+    "id": 1297091,
+    "gcd": 0,
+    "castTime": 2
+  },
+  {
+    "name": "Freezing Tempest",
+    "id": 1297365,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Epidemic Order",
+    "id": 1300330,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Relentless Rider's Strength",
+    "id": 1300369,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Blood Debt",
+    "id": 1310372,
+    "gcd": 0,
+    "castTime": 0
+  },
+  {
+    "name": "Bloody Demise",
+    "id": 1310571,
     "gcd": 0,
     "castTime": 0
   }
