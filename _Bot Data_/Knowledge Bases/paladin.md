@@ -52,6 +52,7 @@ The Icy Veins 12.1 recommendations below supersede the former gearing and rotati
 #### Consumables (Patch 12.1, parser table)
 | Category | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
+| unique gem | Indecipherable Eversong Diamond | See current guide and sim |
 | flask | Flask of the Magisters | Flask of the Blood Knights, Flask of the Shattered Sun |
 | potion | Lightfused Mana Potion | Potion of Recklessness |
 | food | Hearty Royal Roast | Royal Roast, Silvermoon Parade |
@@ -152,6 +153,8 @@ The Icy Veins 12.1 recommendations below supersede the former gearing and rotati
 #### Consumables (Patch 12.1, parser table)
 | Category | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
+| unique gem | Indecipherable Eversong Diamond | See current guide and sim |
+| gems | Flawless Masterful Peridot | Masterful Peridot |
 | flask | Flask of the Shattered Sun | See current guide and sim |
 | potion | Light's Potential | See current guide and sim |
 | food | Champion's Bento | See current guide and sim |
@@ -253,6 +256,8 @@ The Icy Veins 12.1 recommendations below supersede the former gearing and rotati
 #### Consumables (Patch 12.1, parser table)
 | Category | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
+| unique gem | Indecipherable Eversong Diamond | See current guide and sim |
+| gems | Masterful Peridot | See current guide and sim |
 | flask | Flask of the Magisters | See current guide and sim |
 | potion | Potion of Recklessness | Light's Potential |
 | weapon oil | Thalassian Phoenix Oil | See current guide and sim |

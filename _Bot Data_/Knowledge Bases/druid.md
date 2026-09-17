@@ -53,6 +53,8 @@ The Icy Veins 12.1 recommendations below supersede the former gearing and rotati
 #### Consumables (Patch 12.1, parser table)
 | Category | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
+| unique gem | Indecipherable Eversong Diamond | See current guide and sim |
+| gems | Masterful Lapis | Quick Amethyst |
 | flask | Flask of the Blood Knights | Flask of the Magisters |
 | potion | Potion of Recklessness | See current guide and sim |
 | weapon oil | Thalassian Phoenix Oil | See current guide and sim |
@@ -172,6 +174,8 @@ The Icy Veins 12.1 recommendations below supersede the former gearing and rotati
 #### Consumables (Patch 12.1, parser table)
 | Category | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
+| unique gem | Indecipherable Eversong Diamond | Powerful Eversong Diamond |
+| gems | Flawless Quick Amethyst | Quick Amethyst |
 | flask | Flask of the Magisters | Flask of the Blood Knights |
 | potion | Potion of Recklessness | See current guide and sim |
 | weapon oil | Thalassian Phoenix Oil | See current guide and sim |
@@ -291,6 +295,8 @@ The Icy Veins 12.1 recommendations below supersede the former gearing and rotati
 #### Consumables (Patch 12.1, parser table)
 | Category | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
+| unique gem | Indecipherable Eversong Diamond | See current guide and sim |
+| gems | Flawless Versatile Peridot | See current guide and sim |
 | flask | Flask of the Blood Knights | See current guide and sim |
 | potion | Light's Potential | See current guide and sim |
 | food | Royal Roast | See current guide and sim |
@@ -394,6 +400,8 @@ The Icy Veins 12.1 recommendations below supersede the former gearing and rotati
 #### Consumables (Patch 12.1, parser table)
 | Category | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
+| unique gem | Indecipherable Eversong Diamond | See current guide and sim |
+| gems | Flawless Masterful Peridot | Masterful Peridot |
 | flask | Flask of the Blood Knights | Flask of the Magisters |
 | potion | Potion of Recklessness | See current guide and sim |
 | weapon oil | Thalassian Phoenix Oil | See current guide and sim |

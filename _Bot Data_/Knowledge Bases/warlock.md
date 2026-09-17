@@ -53,6 +53,8 @@ The Icy Veins 12.1 recommendations below supersede the former gearing and rotati
 #### Consumables (Patch 12.1, parser table)
 | Category | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
+| unique gem | Indecipherable Eversong Diamond | Powerful Eversong Diamond |
+| gems | Flawless Deadly Amethyst | Deadly Amethyst |
 | flask | Flask of the Blood Knights | See current guide and sim |
 | potion | Potion of Recklessness | Light's Potential, Liquid Luster |
 | food | Royal Roast | See current guide and sim |
@@ -166,6 +168,8 @@ The Icy Veins 12.1 recommendations below supersede the former gearing and rotati
 #### Consumables (Patch 12.1, parser table)
 | Category | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
+| unique gem | Powerful Eversong Diamond | See current guide and sim |
+| gems | Flawless Quick Garnet | Quick Garnet |
 | flask | Flask of the Shattered Sun | See current guide and sim |
 | potion | Potion of Recklessness | Light's Potential |
 | weapon oil | Thalassian Phoenix Oil | See current guide and sim |
@@ -274,6 +278,8 @@ The Icy Veins 12.1 recommendations below supersede the former gearing and rotati
 #### Consumables (Patch 12.1, parser table)
 | Category | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
+| unique gem | Powerful Eversong Diamond | See current guide and sim |
+| gems | Flawless Deadly Amethyst | Deadly Amethyst |
 | flask | Flask of the Shattered Sun | Flask of the Magisters |
 | potion | Potion of Recklessness | Light's Potential |
 | weapon oil | Thalassian Phoenix Oil | See current guide and sim |

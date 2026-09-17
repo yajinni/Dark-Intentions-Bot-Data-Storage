@@ -53,6 +53,8 @@ The Icy Veins 12.1 recommendations below supersede the former gearing and rotati
 #### Consumables (Patch 12.1, parser table)
 | Category | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
+| unique gem | Powerful Eversong Diamond | See current guide and sim |
+| gems | Quick Garnet | Deadly Peridot |
 | flask | Flask of the Blood Knights | Flask of the Shattered Sun |
 | potion | Potion of Recklessness | Light's Potential |
 | food | Royal Roast | See current guide and sim |
@@ -179,6 +181,7 @@ The Icy Veins 12.1 recommendations below supersede the former gearing and rotati
 #### Consumables (Patch 12.1, parser table)
 | Category | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
+| gems | Quick Garnet | Masterful Peridot |
 | flask | Flask of the Magisters | Flask of the Blood Knights |
 | potion | Potion of Recklessness | Light's Potential |
 | food | Royal Roast | See current guide and sim |
@@ -305,6 +308,8 @@ The Icy Veins 12.1 recommendations below supersede the former gearing and rotati
 #### Consumables (Patch 12.1, parser table)
 | Category | Primary recommendation | Alternatives / notes |
 | :--- | :--- | :--- |
+| unique gem | Indecipherable Eversong Diamond | See current guide and sim |
+| gems | Flawless Deadly Peridot | Deadly Peridot |
 | flask | Flask of the Shattered Sun | Flask of the Blood Knights |
 | potion | Light's Potential | See current guide and sim |
 | food | Champion's Bento | See current guide and sim |
