@@ -2,6 +2,8 @@
 
 Source verification completed against the Icy Veins World of Warcraft class guides on 2026-09-17. The knowledge-base snapshots now target Patch 12.1; bot-specific spell classifications and audit schemas remain preserved below each spec.
 
+Hero talent and keystone IDs are authoritative from `_Bot Data_/Knowledge Bases/hero-talent-ids.json`; Icy Veins is used only for current Patch 12.1 recommendations and rotation guidance.
+
 ## [x] Completed (Gold Standard)
 - [x] **Holy Priest** (Archon/Oracle Splits, Granular Gear)
 - [x] **Blood Death Knight** (Deathbringer/San'layn Splits, Granular Gear)
