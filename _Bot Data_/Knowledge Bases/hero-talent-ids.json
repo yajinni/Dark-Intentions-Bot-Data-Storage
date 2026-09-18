@@ -1,4 +1,5 @@
 {
+    "_comment": "Hero tree IDs and keystone entry IDs are validated against SimulationCraft's generated Midnight trait data. Source: https://github.com/simulationcraft/simc/blob/midnight/engine/dbc/generated/trait_data.inc (id_sub_tree and id_trait_node_entry fields; WoW build 12.1.0.69814).",
     "Priest": {
         "Holy": [
             {
@@ -243,36 +244,36 @@
         "Mistweaver": [
             {
                 "name": "Conduit of the Celestials",
-                "id": 47,
+                "id": 64,
                 "keystoneID": 136562
             },
             {
                 "name": "Master of Harmony",
-                "id": 46,
+                "id": 66,
                 "keystoneID": 125033
             }
         ],
         "Brewmaster": [
             {
                 "name": "Master of Harmony",
-                "id": 46,
+                "id": 66,
                 "keystoneID": 125033
             },
             {
                 "name": "Shado-Pan",
-                "id": 45,
+                "id": 65,
                 "keystoneID": 125069
             }
         ],
         "Windwalker": [
             {
                 "name": "Conduit of the Celestials",
-                "id": 47,
+                "id": 64,
                 "keystoneID": 136562
             },
             {
                 "name": "Shado-Pan",
-                "id": 45,
+                "id": 65,
                 "keystoneID": 125069
             }
         ]
@@ -439,7 +440,7 @@
             {
                 "name": "Flameshaper",
                 "id": 37,
-                "keystoneID": 117515
+                "keystoneID": 117547
             }
         ],
         "Devastation": [
@@ -451,7 +452,7 @@
             {
                 "name": "Flameshaper",
                 "id": 37,
-                "keystoneID": 117515
+                "keystoneID": 117547
             }
         ],
         "Augmentation": [
@@ -489,14 +490,14 @@
             {
                 "name": "Annihilator",
                 "id": 124,
-                "keystoneID": 117512
+                "keystoneID": 135667
             }
         ],
         "Devourer": [
             {
                 "name": "Annihilator",
                 "id": 124,
-                "keystoneID": 117512
+                "keystoneID": 135667
             },
             {
                 "name": "Fel-Scarred",
