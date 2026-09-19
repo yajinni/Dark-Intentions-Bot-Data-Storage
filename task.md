@@ -4,6 +4,8 @@ Source verification completed against the Icy Veins World of Warcraft class guid
 
 Hero talent and keystone IDs are authoritative from `_Bot Data_/Knowledge Bases/hero-talent-ids.json`; Icy Veins is used only for current Patch 12.1 recommendations and rotation guidance.
 
+Specialization knowledge bases are stored in `_Bot Data_/Knowledge Bases/Specs/` as one file per normalized bot spec key, such as `demonhunter_vengeance.md` or `warrior_arms.md`. Keep spec-specific rotation, cooldown, utility, defensive, gear, and audit rules in that spec's file; do not add new combined class KB files.
+
 ## [x] Completed (Gold Standard)
 - [x] **Holy Priest** (Archon/Oracle Splits, Granular Gear)
 - [x] **Blood Death Knight** (Deathbringer/San'layn Splits, Granular Gear)

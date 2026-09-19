@@ -19,6 +19,8 @@ When a message is sent in Discord, the bot first determines if it's an actionabl
 ## 🗺️ Phase 2: Raid Discovery (The Menu System)
 **File:** `create-drop-downs.js`
 
+Knowledge-base content is loaded from `_Bot Data_/Knowledge Bases/Specs/<class>_<spec>.md`, with one authoritative file per specialization. The analysis service uses the normalized `specKey` directly so a spec cannot accidentally receive another specialization's rotation or audit rules.
+
 Once a valid report is found, the bot needs to know which encounter and player to audit.
 
 1.  **Encounter Selection**:
