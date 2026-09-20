@@ -1,5 +1,5 @@
 {
-    "_comment": "Hero tree IDs and keystone entry IDs are validated against SimulationCraft's generated Midnight trait data. Source: https://github.com/simulationcraft/simc/blob/midnight/engine/dbc/generated/trait_data.inc (id_sub_tree and id_trait_node_entry fields; WoW build 12.1.0.69814).",
+    "_comment": "Hero tree IDs and keystone entry IDs are validated against SimulationCraft's generated Midnight trait data. Source: https://github.com/simulationcraft/simc/blob/midnight/engine/dbc/generated/trait_data.inc (id_sub_tree and id_trait_node_entry fields; WoW build 12.1.0.69814). Devourer's Void-Scarred tree keeps WCL ranking ID 34 (the shared Scarred tree) but uses the Devourer-specific entry ID 136613; do not use Havoc's 117514 Demonsurge entry.",
     "Priest": {
         "Holy": [
             {
@@ -500,9 +500,9 @@
                 "keystoneID": 135667
             },
             {
-                "name": "Fel-Scarred",
+                "name": "Void-Scarred",
                 "id": 34,
-                "keystoneID": 117514
+                "keystoneID": 136613
             }
         ]
     }
