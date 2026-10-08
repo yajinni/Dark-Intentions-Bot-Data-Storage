@@ -1,0 +1,90 @@
+# Tattoomoon - Holy - 2026-10-08 18:50 - US/Moon Guard
+# SimC Addon 12.1.0-03
+# WoW 12.1.0.69933, TOC 120100
+# Requires SimulationCraft 1000-01 or newer
+
+priest="Tattoomoon"
+level=90
+race=dracthyr
+region=us
+server=moon_guard
+role=attack
+professions=herbalism=92/inscription=100
+spec=holy
+# loot_spec=holy
+
+talents=CEQAR03Gt7xPmcDNOjs2Zlb3yCDAAAAAAYBmZWGzMmZMMDzsMzYGAAAAzYWmBzMzwMMDgZqBwMbYIMmlBYMwiZmZBQzYMGDzMAzMzAD
+
+# Saved Loadout: S2 Oracle Raid
+# talents=CEQAR03Gt7xPmcDNOjs2Zlb3yCDAAAAAAYBmZWGzMmZMMDzsMzYGAAAAzYWmBzMzwMMDgZYAMzGGgxsMAjBWMzMLAMjxYMMzAMzMDMA
+# Saved Loadout: S2 Oracle M+
+# talents=CEQAR03Gt7xPmcDNOjs2Zlb3yyYAAAAAAAMzMmlxMjZGDzALzMzMAAAAGzsMDmZmxmxMD2wMAwMbYAGzyAMGYxYmFAmxMjxgZAmZGwA
+# Saved Loadout: Icy Veins M+
+# talents=CEQAR03Gt7xPmcDNOjs2Zlb3yCDAAAAAAgZmxsMmZMzYYGYZmZmBAAAwYmlZwMzM2MmZMgZAgZWwAMmtBYMwiZmZBgZMzYMYGgZmBMA
+
+omnium_talents=136814:1/136818:1/136817:1/136819:1/136822:1
+
+# Cosmic Penitent's Truesight (321)
+head=,id=271555,enchant_id=7961,bonus_id=13334/13692/40/13696/13698/12846,content_tuning=1040
+# Sentinel's Vitriolic Chain (321)
+neck=,id=268250,gem_id=240983,bonus_id=42/13668/13334/12846
+# Cosmic Penitent's Echoing Screams (334)
+shoulder=,id=271553,enchant_id=8031,bonus_id=6652/13440/13694/13697/12854,redirected_base_stats=251227
+# Amani Summoning Shawl (334)
+back=,id=268248,bonus_id=6652/13662/13334/12854
+# Cosmic Penitent's Eclipsing Robes (334)
+chest=,id=271558,enchant_id=7987,bonus_id=13690/13440/6652/13698/12854
+# Lucky Shirt (1)
+shirt=,id=138385,content_tuning=378
+# Radiant Recruit's Tabard (1)
+tabard=,id=233288,content_tuning=2832
+# Martyr's Bindings (331)
+wrist=,id=239648,bonus_id=12214/12497/13751/14001/8960/12384/8794/13836/13696,content_tuning=3615,crafted_stats=32/36,crafting_quality=5
+# Cosmic Penitent's Celestial Grips (321)
+hands=,id=271556,bonus_id=6652/13440/13691/13697/12846,redirected_base_stats=251129
+# Martyr's Waistwrap (331)
+waist=,id=239649,bonus_id=12214/12497/13751/14001/8960/12384/8794/13836/13696,content_tuning=3615,crafted_stats=40/36,crafting_quality=5
+# Enveloping Legwraps of the Cosmic Penitent (334)
+legs=,id=271554,enchant_id=7937,bonus_id=6652/13440/13693/13698/12854,redirected_base_stats=273786
+# Nek'zali's Spiritwalkers (328)
+feet=,id=268218,enchant_id=7993,bonus_id=6652/13662/13335/12852
+# Ritual Binder's Ring (311)
+finger1=,id=159459,enchant_id=7967,gem_id=240910,bonus_id=12843/13440/6652/13668/12699,content_tuning=1279
+# Apex Brute's Claw Ring (311)
+finger2=,id=268252,enchant_id=7967,gem_id=240910,bonus_id=6652/13668/13334/12843
+# Soulcoiler Ritual Vessel (334)
+trinket1=,id=270162,bonus_id=6652/13335/12854
+# Freightrunner's Flask (321)
+trinket2=,id=250215,bonus_id=13440/6652/12699/12846,content_tuning=1279
+# Venomancer's Winged Channeler (334)
+main_hand=,id=268205,enchant_id=8039,bonus_id=6652/13334/12854
+
+### Gear from Bags
+#
+# Synthebrew Goggles (5)
+# head=,id=46735
+#
+# Pilfered Precious Band (311)
+# finger1=,id=251148,bonus_id=12843/13440/6652/13668/12699,content_tuning=1279
+#
+# Bubbliest Brightbrew Charm (266)
+# trinket1=,id=117391,bonus_id=12817,content_tuning=298
+#
+# Jan'thrazet, the Soul Fang (321)
+# main_hand=,id=271092,bonus_id=6652/13334/12846,content_tuning=7359
+
+### Additional Character Info
+#
+# catalyst_currencies=2813:8/3269:8/3116:8/3378:8/3465:3
+#
+# upgrade_currencies=c:1792:300/c:2122:22/c:1931:2841/c:3442:573/c:3445:70/c:3443:437/c:1813:483/c:3444:315/c:3446:4/i:274476:6/i:231756:4/i:232875:7/i:231769:1
+#
+# slot_high_watermarks=0:321:321/1:321:321/2:334:334/3:334:334/4:331:331/5:334:334/6:328:328/7:331:331/8:321:321/9:311:311/10:334:334/11:334:334/12:334:334/13:321:321/14:256:256/15:0:1/16:311:311
+#
+# upgrade_achievements=19326/19397/19398/19577/19578/19579/40107/40115/40118/40942/40943/40944/40945/41886/41887/41888/41892/42767/42768/42769/42770/61809/62410/62411/62412
+#
+# bonus_roll_currencies=3418:1/3511:0
+#
+# bonus_roll_items=3418:278285:6:1:270162:257
+
+# Checksum: 6757abd
